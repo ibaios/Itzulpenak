@@ -1,0 +1,211 @@
+
+<p>Kopanito trebetasunean oinarrituriko jokoa da. Honek esan nahi du jokoaren mekanika ikasi beharko duzula denboran zehar (bizitza errealeko futbolean bezala). Zehaztasuna eta erreflexuak landu beharko dituzu jokalari hobea izateko. Zorteak tarte txikia dauka Kopaniton. Jokalari onenak irabazten du, eta ez dago futbolarien estatistikarik zuri laguntzeko. Zeureak dira estatistikak.</p>
+
+
+<figure>
+    <img src="file://{{ 'help/dribbling.png'|file }}">
+</figure>
+<p>Erabili <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> zure jokalaria mugitzeko (azpian biribil bat daukana).</p>
+<p>
+    {{ 'pass'|action }} Pasea arrasean<br>
+    {{ 'togglePlayer'|action }} Aldatu jokalariz<br>
+    {{ 'shoot'|action }} Jaurtiketa (mantendu zehaztasunez jaurtitzeko)<br>
+    {{ 'header'|action }} Aireko jaurtiketa (mantendu baloipean)<br>
+    {{ 'slide'|action }} Sarrera<br>
+    {{ 'lob'|action }} Pasea goitik (mantendu gogorrago jotzeko)<br>
+</p>
+
+
+<h2>Pasea</h2>
+<p>Bi modu daude jokalarien artean baloia pasatzeko: arrasean edo goitik.</p>
+
+<h3>Pasea arrasean</h3>
+<figure>
+    <img src="file://{{ 'help/ground_pass.png'|file }}">
+    <figcaption>
+        <p>Sakatu {{ 'pass'|action }}</p>
+    </figcaption>
+</figure>
+<p>Pasea arrasean egiteko, sakatu {{ 'pass'|action }} eta erabili <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> pasearen norabidea zehazteko. Baloia jasoko duen jokalaria automatikoki hautatuko da.</p>
+
+<h3>Pasea goitik</h3>
+<figure>
+    <img src="file://{{ 'help/lob_pass.png'|file }}">
+    <figcaption>
+        <p>Mantendu {{ 'lob'|action }}</p>
+    </figcaption>
+</figure>
+<p>Pasea goitik egiteko, mantendu {{ 'lob'|action }} eta erabili <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> pasearen norabidea zehazteko. Zenbat eta luzaroago mantendu, urrunago iritsiko da baloia.</p>
+
+<h3>Lagundutako pasea vs eskuzkoa</h3>
+<p>Lagundutako pasean adimen artifizialak kontrolatutako erabiltzaileak jasoko du baloia (ahal dela). Hau da jokoko pase mota lehenetsia.</p>
+<p>Lagundutako paseekin ekintzak ilaran egin ditzakezu, adb. baloia urrunago pasatuz edo hartzaileak baloia jaso baino lehenago atera jaurtiz. Proba ezazu jokoko Entrenamendu moduan.</p>
+<p>Eskuzko paseak, aldiz, baloia zehaztasunez botatzea ahalbidetzen dizu nahi duzun norabiderantz, eta pasea jasoko duen jokalaria kontrolatzea baloia atzeman aurretik. Aireko jokoa eskuzko paseekin ere erabil daiteke.</p>
+<p>Eskuzko pase bat burutzeko, baloiari jotzean mantendu sakatuta pasea txandakatzeko {{ 'passModifier'|action }} botoia.</p>
+<p>Oharra: Burukada jo edo bizikleta bat egitea ezinezkoa da lagundutako paseetan, aldi gehienetan; eskuzko goiko pase bat beharko duzu hau lortzeko.</p>
+<p>Oharra 2: adimen artifizialaren Profesionala edo Mitoa mailak garaitzeko ez da ideia ona lagundutako paseak soilik erabiltzea, abisatua zaude.</p>
+
+
+<h2>Jaurtiketa</h2>
+<p>Jaurtitzeko erabili {{ 'shoot'|action }}. Hainbat jaurtiketa mota daude, jarraian azaltzen ditugularik.</p>
+
+<h3>Jaurtiketa zuzena</h3>
+<figure>
+    <img src="file://{{ 'help/direct_shot.png'|file }}">
+    <figcaption>
+        <p>Sakatu bizkor {{ 'shoot'|action }}</p>
+    </figcaption>
+</figure>
+<p>{{ 'shoot'|action }} bizkor sakatuz, zure jokalariak jaurtiketa automatiko bat burutuko du beretzako egokiena den norabidean. Jaurtiketa ez da indartsua izango, mota honetako erremateak egokiak dira atezaina atetik irtetea lortzen duzunean.</p>
+
+<h3>Lehen ukituko jaurtiketa</h3>
+<figure>
+    <img src="file://{{ 'help/chip_shot.png'|file }}">
+    <figcaption>
+        <p>Mantendu {{ 'shoot'|action }} baloirantz korrika egitean</p>
+    </figcaption>
+</figure>
+<p>Jaurtiketa mota hau jaurtiketa zuzena baino askoz indartsuagoa da, eta norabideak automatikoa izaten jarraitzen du. Baloiak jaberik ez duenean erabil daiteke.</p>
+
+<h3>Jaurtiketa zehatza</h3>
+<figure>
+    <img src="file://{{ 'help/precise_shot.png'|file }}">
+    <figcaption>
+        <p>Mantendu {{ 'shoot'|action }}</p>
+    </figcaption>
+</figure>
+<p>Jaurtitzeko botoia sakatuta mantenduz jaurtiketa zehatzaren moduan sartuko zara, non norabidea doitzeko aukera duzun <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> erabiliz eta baloiari efektua eman diezaiokezun. Zenbat eta luzaroago mantendu botoia sakatuta, orduan eta indartsuagoa izango da jaurtiketa.</p>
+<figure>
+    <img src="file://{{ 'help/swerve.png'|file }}">
+    <figcaption>
+        <p>Mantendu {{ 'swerveUp'|action }} edo {{ 'swerveDown'|action }}</p>
+    </figcaption>
+</figure>
+<p>Helburua markatzen duen lerro etena kurbatu dezakezu {{ 'swerveUp'|action }} edo {{ 'swerveDown'|action }} mantenduz eta baloiari efektua emanez. Honako hau aurkariaren atezaina nahasteko bide ona da, edo oso angelu estuetatik jaurti ahal izateko.</p>
+<p>Oharra: jaurtiketa indartsu batek beste jokalariak eraits ditzake, baita atezaina ere.</p>
+
+
+<h2>Sarrera</h2>
+<figure>
+    <img src="file://{{ 'help/slide_tackle.png'|file }}">
+    <figcaption>
+        <p>Sakatu {{ 'slide'|action }}</p>
+    </figcaption>
+</figure>
+<p>Sakatu {{ 'slide'|action }} mugitzen zabiltzan norabiderantz sarrera bat egiteko. Defentsarako maniobra oso indartsua da, baina zehaztasun handia behar du, bereziki mugimenduan dagoen aurkari bat kolpatu nahi denean. Bai, helburutzat baloia hartu beharrean aurkariak hartzea oso taktika zitala eta ezustekoa da. Adibidez, saiatu aurkariak baloia noiz pasako duen aurresaten, eta eraitsi pasea jasoko duena baloia beregana heldu aurretik.</p>
+<p>Sarrerak bizkorrago "korrika" egiteko ere erabil daitezke (baloi gabe), edo atezaina zeharkatuz golak sartzeko, edo jaurtiketa zehatzak eragozteko.</p>
+
+
+<h2>Aireko jokoa</h2>
+<figure>
+    <img src="file://{{ 'help/header.png'|file }}">
+    <figcaption>
+        <p>Mantendu {{ 'header'|action }} baloipean zaudela</p>
+    </figcaption>
+</figure>
+<p>Burukada jo edo bizikleta indartsu bat egin dezakezu baloia airean denean, harengandik gertu egonez {{ 'header'|action }} mantentzea lortzen baduzu. Jaurtiketaren norantza automatikoa da, jaurtiketa zuzenetan bezala.</p>
+<p>Gogoratu hau defendatzerakoan ere erabil dezakezula, adb. aurkariak pase gurutzatu bat egiten duenean zure penalti-arearantz.</p>
+
+
+<h2>Supermugimenduak</h2>
+<p>Pantailaren goialdean bi trebetasun-barra azaltzen dira, jokoan zehar beteko direnak. Barra bat zure taldearena da, eta bestea aurkariarena. Betetzean, ausazko supermugimendu bat emango zaizu eta ikono distiratsu agertuko da.</p>
+<p>Supermugimendu bat aktibatzeko, sakatu {{ 'powerup'|action }}. Batzuetan botoia sakatuta mantendu beharra dago, supermugimenduaren arabera.</p>
+<p>Zenbait supermugimendu aurkariaren supermugimenduei aurka egiteko erabil daitezke.</p>
+
+<h3>Baloi-imana</h3>
+<figure>
+    <img src="file://{{ 'help/magnet.png'|file }}">
+    <figcaption>
+        <p>Sakatu {{ 'powerup'|action }}</p>
+    </figcaption>
+</figure>
+<p>Erabil ezazu baloia unean kontrolatzen duzun jokalariarengana erakartzeko. Oso baliagarria ezustekoak emateko, erasoan edo defendatzean erabil daiteke.</p>
+
+<h3>Telegarraioa</h3>
+<figure>
+    <img src="file://{{ 'help/teleport.png'|file }}">
+    <figcaption>
+        <p>Mantendu {{ 'powerup'|action }} helburua aukeratzeko eta askatu telegarraiatzeko</p>
+    </figcaption>
+</figure>
+<p>Mantendu {{ 'powerup'|action }} eta gurutze bat azalduko da helburua aukeratzeko. Botoia askatuz unean kontrolatzen duzun jokalaria puntu honetara telegarraiatuko da. Baloia duzula aurkariaren atera telegarraia zaitezke, edo baloidun aurkariaren albora. Aurkariaren jaurtiketak blokeatzeko ere erabil daiteke. Oharra: aurkariak baloia lapur diezazuke helburua aukeratzen zabiltzanean.</p>
+
+<h3>Superjaurtiketa</h3>
+<figure>
+    <img src="file://{{ 'help/supershot.png'|file }}">
+    <figcaption>
+        <p>Sakatu {{ 'powerup'|action }} jaurtitzeko eta erabili <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> baloia kontrolatzeko</p>
+    </figcaption>
+</figure>
+<p>Honakoa oso jaurtiketa indartsua da, gainera jaurti ondoren baloia kontrolatzea ahalbidetzen dizuna <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> erabiliz. Baina saihestu jokalariak, edo baloia motelduko dute. Zelaiaren zure aldetik jaurtita ere gola sar dezakezu.</p>
+
+<h3>Haizegilea</h3>
+<figure>
+    <img src="file://{{ 'help/windmaker.png'|file }}">
+    <figcaption>
+        <p>Sakatu {{ 'powerup'|action }} aktibatzeko</p>
+    </figcaption>
+</figure>
+<p>Haizegileak baloia atetik kanpora botako du haize ufadaka. Erabil ezazu aurkariaren jaurtiketengandik babesteko. Segundo batzuk soilik irauten ditu. Superjaurtiketa ere geldi dezake une egokian erabiliz gero.</p>
+
+<h3>Izoztu</h3>
+<figure>
+    <img src="file://{{ 'help/freeze.png'|file }}">
+    <figcaption>
+        <p>Mantendu {{ 'powerup'|action }} kargatzeko eta askatu inguruko jokalariak izozteko</p>
+    </figcaption>
+</figure>
+<p>Izoztu supermugimenduak inguruko jokalariak geldiaraziko ditu (baita taldekideak ere!) denbora baterako. Baloia ere geldituko da izozte-erradioaren barnean badago, hau erabilgarria delarik aurkariaren jaurtiketak eragozteko.</p>
+<p>Taldekideak desizozteko sarrera bat egin diezaiekezu.</p>
+
+
+<h3>Teslakopteroa</h3>
+<figure>
+    <img src="file://{{ 'help/tesla.png'|file }}">
+    <figcaption>
+        <p>Sakatu {{ 'powerup'|action }} aktibatzeko eta sakatu berriz elektrokutatzeko</p>
+    </figcaption>
+</figure>
+<p>Teslakopteroak baloidun jokalariari jarraitzen dio eta erradio barruan dauden jokalariak elektrokutatzea baimentzen dio. 4 karga ditu, azkena agortzean teslakopteroak alde egingo du.</p>
+<p>Garrantzitsua: baloia galtzeak teslakopteroaren kontrola galtzea ere badakar!</p>
+
+
+<h2>Atezaina</h2>
+<figure>
+    <img src="file://{{ 'help/goalkeeper_slide.png'|file }}">
+    <figcaption>
+        <p>Sakatu {{ 'goalkeeperSlide'|action }}</p>
+    </figcaption>
+</figure>
+<p>Atezainak AA (adimen artifizial) bidez soilik kontrolaturik daude. Baloia atzematen saiatuko dira, edo paseak mozten taldekiderik gertukoena direnean. Atezainarekin sarrera bat egin dezakezu {{ 'goalkeeperSlide'|action }} sakatuz, baina erabili hau tentuz. Atezainak sarrera egitean beti egiten du baloiaren norabiderantz, eta baloia bizkor mugitzen ari bada ia beti huts egingo du.</p>
+<p>Zure atezainak baloia daukanean pase arrunta edo goiko pasea burutu dezakezu dagokion botoia sakatuz, ({{ 'pass'|action }} edo {{ 'lob'|action }}). Kontuan izan denbora-muga bat izango duzula honetarako: 3 segundo. Ez baduzu tarte horretan pasea burutzen, AAk hartuko du atezainaren kontrola.</p>
+<p>Atezainari ezin zaio sarrerarik egin, baina ezin da baloiarekin mugitu ere.</p>
+
+
+<h2>Teknika aurreratuak</h2>
+<h3>Korrika egitea</h3>
+<p>Mantendu {{ 'sprint'|action }} korrika egiteko. Honek baloirik gabeko jokalariekin soilik funtzionatzen du. Jokalariek ez dute staminarik eta ez dira inoiz nekatzen, beraz etengabe korrika egin dezakete.</p>
+
+<h3>Aurrerantz bultzatzea</h3>
+<figure>
+    <img src="file://{{ 'help/push_forward.png'|file }}">
+</figure>
+<p>Baloia aurrerantz bultza dezakezu {{ 'pass'|action }} bizkor sakatuz. Honek funtzionatzeko zure jokalariaren aurrean ez da taldekiderik egon behar. Gero baloia atzeman dezakezu korrika eginez.</p>
+
+<h3>Jokalariz aldatzea</h3>
+<figure>
+    <img src="file://{{ 'help/change_player.png'|file }}">
+</figure>
+<p>{{ 'togglePlayer'|action }} erabilita jokalariz aldatzean, garrantzitsua da begira zabiltzan jokalariagandik baloira dagoen norabidea adieraztea <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> erabiliz. Ezkerreko palanka erdiratua baduzu edo gezi-teklarik sakatu ez baduzu, jokoak baloitik gertuen dagoen jokalaria hautatuko du.</p>
+
+<h3>Baloia loratzea</h3>
+<figure>
+    <img src="file://{{ 'help/lob_score.png'|file }}">
+</figure>
+<p>Atezainaren gainetik baloia loratzeko, sakatu {{ 'lob'|action }} laburki. Hau taktika ona da aurkariaren atezaina atetik irteten denean.</p>
+
+<h3>Beste aholku batzuk</h3>
+<figure>
+    <img src="file://{{ 'help/dribbling.png'|file }}">
+</figure>
+<p>Baloidun jokalaria motelago doa eta ezin du korrika egin. Aurkariak baloirantz korrika egiten badu driblatzen ari zarenean, lapurtu egingo dizu. Noski, baloidun jokalaria sarrera zehatz batekin eraits daiteke, hortaz, bizkorra eta zehatza izatea garrantzitsua da baloiaren jabetza mantentzeko. Driblatzeak arazoak ematen badizkizu, egin pase gehiago, baloia mugimenduan beste edozein aurkari baino bizkorragoa izan ohi baita.</p>

@@ -1,0 +1,1839 @@
+{
+  "languageName": {
+    "message": "Euskara",
+    "description": "Name of the current language written in this language, e.g. 'Polski', 'Deutsch'"
+  },
+  "copyrights": {
+    "message": "Copyright © MERIXSTUDIO. Eskubide guztiak gordeta."
+  },
+  "time": {
+    "message": "{MINUTES} min",
+    "description": "Duration in minutes."
+  },
+  "distance": {
+    "message": "{METERS}m",
+    "description": "Distance covered in meters."
+  },
+  "matches": {
+    "message": "{MATCHES, plural, one {Partida #} other {# partida}}",
+    "description": "Number of matches, may require plural syntax, depending on language"
+  },
+  "ai.level0": {
+    "message": "Hasiberria",
+    "description": "First difficulty level name"
+  },
+  "ai.level0.instrumental": {
+    "message": "Hasiberria",
+    "description": "First difficulty level name, instrumental case"
+  },
+  "ai.level1": {
+    "message": "Amateurra",
+    "description": "Second difficulty level name"
+  },
+  "ai.level1.instrumental": {
+    "message": "Amateurra",
+    "description": "Second difficulty level name, instrumental case"
+  },
+  "ai.level2": {
+    "message": "Profesionala",
+    "description": "Third difficulty level name"
+  },
+  "ai.level2.instrumental": {
+    "message": "Profesionala",
+    "description": "Third difficulty level name, instrumental case"
+  },
+  "ai.level3": {
+    "message": "Mitoa",
+    "description": "Fourth difficulty level name"
+  },
+  "ai.level3.instrumental": {
+    "message": "Mitoa",
+    "description": "Fourth difficulty level name, instrumental case"
+  },
+  "unlock": {
+    "message": "Irabazi<br><i>{MODE}</i><br><i class=\"{AI_LEVEL, select, 0{bronze} 1{silver} 2{gold} 3{platinum} other{}}\">{AI_LEVEL_NAME}</i> zailtasunarekin",
+    "description": "Example without variables: 'Win (Asia Cup) on the (Beginner) difficulty'"
+  },
+  "unlock.continentalLeague": {
+    "message": "Irabazi<br><i>kopa kontinental guztiak</i><br><i class=\"bronze\">Hasiberria</i> zailtasunarekin"
+  },
+  "legendUnlock": {
+    "message": "Irabazi<br><i>Kopa Kontinentalak</i> eta <i>Munduko Kopa</i> <i class=\"gold\">Profesionala</i> zailtasunarekin"
+  },
+  "legendUnlocked": {
+    "message": "Zorionak!<br>Zailtasun maila berria desblokeatu duzu: <i class=\"platinum\">Mitoa</i>"
+  },
+  "hintPrefix": {
+    "message": "Aholkua:",
+    "description": ""
+  },
+  "hint.0": {
+    "message": "Pasea arrasean egiteko sakatu <span class=\"key auto-wide auto-update\" data-action=\"pass\"></span>, pasea goitik egiteko sakatu <span class=\"key auto-wide auto-update\" data-action=\"lob\"></span>.",
+    "description": ""
+  },
+  "hint.1": {
+    "message": "Jokalariz aldatzeko sakatu <span class=\"key auto-wide auto-update\" data-action=\"togglePlayer\"></span>.",
+    "description": ""
+  },
+  "hint.2": {
+    "message": "Zenbat eta luzaroago sakatu goitiko pasea <span class=\"key auto-wide auto-update\" data-action=\"lob\"></span>, orduan eta urrunago doa.",
+    "description": ""
+  },
+  "hint.3": {
+    "message": "Berreskuratu baloia aurkariaren oinetatik sarrera bat eginez <span class=\"key auto-wide auto-update\" data-action=\"slide\"></span> sakatuta.",
+    "description": ""
+  },
+  "hint.4": {
+    "message": "Mantendu <span class=\"key auto-wide auto-update\" data-action=\"sprint\"></span> sakatuta bizkorrago korrika egiteko - baloirik ez duzunean soilik.",
+    "description": ""
+  },
+  "hint.5": {
+    "message": "Erabili <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> jaurtiketa zuzen baterako, aurreneko ukituan, zehaztasunez edo aireko baloiarekin.",
+    "description": ""
+  },
+  "hint.6": {
+    "message": "Egin korrika baloiruntz <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> botoia sakatuta mantenduz, aurreneko ukituan baloia jaurtitzeko.",
+    "description": ""
+  },
+  "hint.7": {
+    "message": "Aireko jaurtiketa baterako, egin korrika airean dagoen baloiperantz, bitartean <span class=\"key auto-wide auto-update\" data-action=\"header\"></span> sakatuta mantenduz.",
+    "description": ""
+  },
+  "hint.8": {
+    "message": "Mantendu <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> sakatuta zehaztasunez jaurtitzeko - apuntatu eta eman efektua baloiari.",
+    "description": ""
+  },
+  "hint.9": {
+    "message": "Jaurtiketa zehatzetan baloiari efektua emateko mantendu <span class=\"key auto-wide auto-update\" data-action=\"swerveUp\"></span> edo <span class=\"key auto-wide auto-update\" data-action=\"swerveDown\"></span> sakatuta.",
+    "description": ""
+  },
+  "hint.10": {
+    "message": "Supermugimenduak taldeari noizbehinka emandako bonusak dira. Sakatu <span class=\"key auto-wide auto-update\" data-action=\"powerup\"></span> erabiltzeko.",
+    "description": ""
+  },
+  "hint.11": {
+    "message": "<img src=\"images/powerups/magnet/icon.png\" width=\"32\" height=\"32\"> Imana supermugimenduak baloia zure jolariarengana erakartzen du.",
+    "description": ""
+  },
+  "hint.12": {
+    "message": "<img src=\"images/powerups/teleport/icon.png\" width=\"32\" height=\"32\"> Telegarraioa supermugimenduak zure jokalaria (baloi eta guzti) zelaian markaturiko lekura eramaten du.",
+    "description": ""
+  },
+  "hint.13": {
+    "message": "<img src=\"images/powerups/supershot/icon.png\" width=\"32\" height=\"32\"> Superjaurtiketa supermugimenduak baloia kontrolatzen uzten dizu, aurkariaren jokalariak saihestuz.",
+    "description": ""
+  },
+  "hint.14": {
+    "message": "<img src=\"images/powerups/windmaker/icon.png\" width=\"32\" height=\"32\"> Haizegilea supermugimenduak zure atera egindako jaurtiketengandik babesten zaitu (ez bada beranduegi aktibatzen).",
+    "description": ""
+  },
+  "hint.15": {
+    "message": "<img src=\"images/powerups/freeze/icon.png\" width=\"32\" height=\"32\"> Izoztu supermugimenduak zure inguruko jokalariak izozten ditu (baita zure taldekideak ere) une batez.",
+    "description": ""
+  },
+  "hint.16": {
+    "message": "<img src=\"images/powerups/tesla/icon.png\" width=\"32\" height=\"32\"> Teslakopteroa supermugimenduak baloidun jokalaria jarraitzen du, ingurukoak elektrokutatuz <span class=\"key auto-wide auto-update\" data-action=\"powerup\"></span> sakatzean.",
+    "description": ""
+  },
+  "hint.17": {
+    "message": "Zenbat eta hobe jokatu, orduan eta supermugimendu gehiago lortuko dituzu partidan.",
+    "description": ""
+  },
+  "hint.18": {
+    "message": "Zenbait supermugimendu aurkariaren supermugimenduak neutralizatzeko erabil daitezke.",
+    "description": ""
+  },
+  "hint.19": {
+    "message": "Egin sarrera bat atezainarekin <span class=\"key auto-wide auto-update\" data-action=\"goalkeeperSlide\"></span> sakatuz.",
+    "description": ""
+  },
+  "hint.20": {
+    "message": "Jokalari aktiboz aldatzeko sakatu <span class=\"key auto-wide auto-update\" data-action=\"togglePlayer\"></span> eta mantendu palanka edo gezi-teklak taldekide baten norabiderantz bera hautatzeko.",
+    "description": ""
+  },
+  "hint.21": {
+    "message": "Atezainari ez diote sarrerek eragiten, baina ezin da baloiarekin mugitu.",
+    "description": ""
+  },
+  "hint.22": {
+    "message": "Baloia duzunean bizkorrago mugitzeko, bultzatu baloia aurrera <span class=\"key auto-wide auto-update\" data-action=\"pass\"></span> sakatuz eta egin korrika beragana <span class=\"key auto-wide auto-update\" data-action=\"sprint\"></span> mantenduz.",
+    "description": ""
+  },
+  "hint.23": {
+    "message": "Jokatutako partida bakoitzak <i class=\"pink\">ospe-puntuak</i> emango dizkizu, sailkapenetan aurrera egin dezazun.",
+    "description": ""
+  },
+  "hint.24": {
+    "message": "Txapelketetan lagunek zure talde berean ere joka dezakete.",
+    "description": ""
+  },
+  "hint.25": {
+    "message": "Txapelketako partidaren erronka burutzeak <i class=\"pink\">ospe-puntuak</i> emango dizkizu.",
+    "description": ""
+  },
+  "hint.26": {
+    "message": "Praktikarekin lortzen da perfekzioa.",
+    "description": ""
+  },
+  "table.points": {
+    "message": "T",
+    "description": "Short form of the word 'Points'"
+  },
+  "table.wins": {
+    "message": "G",
+    "description": "Short form of the word 'Wins'"
+  },
+  "table.draws": {
+    "message": "B",
+    "description": "Short form of the word 'Draws'"
+  },
+  "table.loses": {
+    "message": "P",
+    "description": "Short form of the word 'Loses'"
+  },
+  "table.goalsFor": {
+    "message": "S",
+    "description": "Short form of the words 'Goals For'"
+  },
+  "table.goalsAgainst": {
+    "message": "J",
+    "description": "Short form of the words 'Goals Against'"
+  },
+  "menu.enabled": {
+    "message": "Gaituta",
+    "description": "Button label."
+  },
+  "menu.yes": {
+    "message": "Bai",
+    "description": ""
+  },
+  "menu.no": {
+    "message": "Ez",
+    "description": ""
+  },
+  "menu.on": {
+    "message": "Gaituta",
+    "description": "When something is enabled"
+  },
+  "menu.off": {
+    "message": "Desgaituta",
+    "description": "When something is disabled"
+  },
+  "menu.back": {
+    "message": "Atzera",
+    "description": "Button label for returning to the previous screen"
+  },
+  "menu.next": {
+    "message": "Hurrengoa",
+    "description": "Button label for going to the next screen"
+  },
+  "menu.reset": {
+    "message": "Berrezarri balio lehenetsiak",
+    "description": "Button label"
+  },
+  "menu.resetMessage": {
+    "message": "Ziur balio lehenetsiak berrezarri nahi dituzula?"
+  },
+  "menu.saveMessage": {
+    "message": "Ziur ezarpena hauek gorde nahi dituzula?"
+  },
+  "menu.quitMessage": {
+    "message": "Ziur irten nahi duzula?"
+  },
+  "menu.quit": {
+    "message": "Irten",
+    "description": "Button label for abandoning current game"
+  },
+  "menu.ok": {
+    "message": "Ados",
+    "description": "Button label for accepting changes"
+  },
+  "menu.cancel": {
+    "message": "Utzi",
+    "description": "Button label for cancelling changes"
+  },
+  "menu.save": {
+    "message": "Gorde",
+    "description": "Button label for saving some options."
+  },
+  "menu.selectBall": {
+    "message": "Hautatu baloia"
+  },
+  "menu.selectStadium": {
+    "message": "Hautatu zelaia"
+  },
+  "menu.selectTeam": {
+    "message": "Hautatu taldea"
+  },
+  "menu.randomBall": {
+    "message": "Ausazko baloia"
+  },
+  "menu.randomStadium": {
+    "message": "Ausazko zelaia"
+  },
+  "menu.randomTeam": {
+    "message": "Ausazko taldea"
+  },
+  "menu.teamStadium": {
+    "message": "Taldearen zelaia"
+  },
+  "menu.comingSoon": {
+    "message": "Laster erabilgarri"
+  },
+  "menu.loading": {
+    "message": "Kargatzen"
+  },
+  "menu.pressKey": {
+    "message": "Sakatu edozein tekla"
+  },
+  "menu.keys.move": {
+    "message": "Nabigatu"
+  },
+  "menu.keys.accept": {
+    "message": "Onartu"
+  },
+  "menu.keys.back": {
+    "message": "Atzera"
+  },
+  "menu.keys.selectMatch": {
+    "message": "Hautatu partida"
+  },
+  "main.title": {
+    "message": "Menu nagusia",
+    "description": "Main menu title"
+  },
+  "main.playOnline": {
+    "message": "Jokatu online",
+    "description": "Button label."
+  },
+  "main.playOffline": {
+    "message": "Jokatu offline",
+    "description": "Button label."
+  },
+  "play.title": {
+    "message": "Hautatu txapelketa"
+  },
+  "play.practice": {
+    "message": "Entrenamendua"
+  },
+  "play.friendly": {
+    "message": "Lagunartekoa"
+  },
+  "play.online": {
+    "message": "Online - Jokalari anitz"
+  },
+  "play.oceaniaCup": {
+    "message": "Ozeania Kopa"
+  },
+  "play.oceaniaCup.accusative": {
+    "message": "Ozeania Kopa",
+    "description": "Accusative case"
+  },
+  "play.pacificLeague": {
+    "message": "Pazifikoko Liga"
+  },
+  "play.pacificLeague.accusative": {
+    "message": "Pazifikoko Liga",
+    "description": "Accusative case"
+  },
+  "play.microstatesCup": {
+    "message": "Mikroestatuen Kopa"
+  },
+  "play.microstatesCup.accusative": {
+    "message": "Mikroestatuen Kopa",
+    "description": "Accusative case"
+  },
+  "play.northAmericaCup": {
+    "message": "Ipar Amerikako Kopa"
+  },
+  "play.northAmericaCup.accusative": {
+    "message": "Ipar Amerikako Kopa",
+    "description": "Accusative case"
+  },
+  "play.centralAmericanAndCaribbeanLeague": {
+    "message": "Ertamerika eta Karibeko Liga"
+  },
+  "play.centralAmericanAndCaribbeanLeague.accusative": {
+    "message": "Ertamerika eta Karibeko Liga",
+    "description": "Accusative case"
+  },
+  "play.asiaCup": {
+    "message": "Asiako Kopa"
+  },
+  "play.asiaCup.accusative": {
+    "message": "Asiako Kopa",
+    "description": "Accusative case"
+  },
+  "play.panArabLeague": {
+    "message": "Liga Panarabiarra"
+  },
+  "play.panArabLeague.accusative": {
+    "message": "Liga Panarabiarra",
+    "description": "Accusative case"
+  },
+  "play.africaCup": {
+    "message": "Afrikako Kopa"
+  },
+  "play.africaCup.accusative": {
+    "message": "Afrikako Kopa",
+    "description": "Accusative case"
+  },
+  "play.commonwealthCup": {
+    "message": "Commonwealth Kopa"
+  },
+  "play.commonwealthCup.accusative": {
+    "message": "Commonwealth Kopa",
+    "description": "Accusative case"
+  },
+  "play.southAmericaCup": {
+    "message": "Hego Amerikako Kopa"
+  },
+  "play.southAmericaCup.accusative": {
+    "message": "Hego Amerikako Kopa",
+    "description": "Accusative case"
+  },
+  "play.panAmericanLeague": {
+    "message": "Liga Panamerikarra"
+  },
+  "play.panAmericanLeague.accusative": {
+    "message": "Liga Panamerikarra",
+    "description": "Accusative case"
+  },
+  "play.europeCup": {
+    "message": "Europako Kopa"
+  },
+  "play.europeCup.accusative": {
+    "message": "Europako Kopa",
+    "description": "Accusative case"
+  },
+  "play.mediterraneanLeague": {
+    "message": "Mediterraneoko Liga"
+  },
+  "play.mediterraneanLeague.accusative": {
+    "message": "Mediterraneoko Liga",
+    "description": "Accusative case"
+  },
+  "play.worldCup": {
+    "message": "Munduko Kopa"
+  },
+  "play.worldCup.accusative": {
+    "message": "Munduko Kopa",
+    "description": "Accusative case"
+  },
+  "play.continentalLeague": {
+    "message": "Liga Kontinentala"
+  },
+  "play.continentalLeague.accusative": {
+    "message": "Liga Kontinentala",
+    "description": "Accusative case"
+  },
+  "play.worldLeague": {
+    "message": "Munduko Liga"
+  },
+  "play.worldLeague.accusative": {
+    "message": "Munduko Liga",
+    "description": "Accusative case"
+  },
+  "play.customTournament": {
+    "message": "Txapelketa pertsonalizatua"
+  },
+  "play.customTournament.accusative": {
+    "message": "Txapelketa pertsonalizatua",
+    "description": "Accusative case"
+  },
+  "play.indoorCup": {
+    "message": "Barneko Kopa"
+  },
+  "play.indoorCup.accusative": {
+    "message": "Barneko Kopa",
+    "description": "Accusative case"
+  },
+  "practice.title1": {
+    "message": "Defendatzen",
+    "description": "Information about current practice mode."
+  },
+  "practice.title2": {
+    "message": "Erasoan",
+    "description": "Information about current practice mode."
+  },
+  "practice.title3": {
+    "message": "Jaurtiketa zehatza",
+    "description": "Information about current practice mode."
+  },
+  "practice.aiming": {
+    "message": "Apuntatzen",
+    "description": ""
+  },
+  "practice.swerving": {
+    "message": "Efektua ematen",
+    "description": ""
+  },
+  "trophies.title": {
+    "message": "Garaikurrak",
+    "description": "Button label."
+  },
+  "leaderboards.title": {
+    "message": "Sailkapena",
+    "description": "Button label."
+  },
+  "leaderboards.global": {
+    "message": "Orokorra",
+    "description": "Button label."
+  },
+  "leaderboards.friends": {
+    "message": "Lagunak",
+    "description": "Button label."
+  },
+  "friendly.title": {
+    "message": "Lagunartekoa"
+  },
+  "friendly.matchTime": {
+    "message": "Partidaren iraupena",
+    "description": "Match time widget title."
+  },
+  "friendly.ai": {
+    "message": "AAren trebetasuna",
+    "description": "AI skill widget title."
+  },
+  "friendly.draws": {
+    "message": "Berdinketak",
+    "description": "Draws widget title."
+  },
+  "friendly.drawsOn": {
+    "message": "Berdinketa onartuta",
+    "description": "When a draw is allowed in a match."
+  },
+  "friendly.drawsOff": {
+    "message": "Urrezko gola",
+    "description": "When a draw is not allowed in a match."
+  },
+  "friendly.startMatch": {
+    "message": "Jokatu",
+    "description": "Button label."
+  },
+  "help.title": {
+    "message": "Gida"
+  },
+  "help.content": {
+    "message": "<file src=\"help.html\">",
+    "description": "Reference to an external file, please copy source string"
+  },
+  "options.title": {
+    "message": "Aukerak",
+    "description": "Options menu title."
+  },
+  "options.video": {
+    "message": "Bideoa",
+    "description": "Button label."
+  },
+  "options.audio": {
+    "message": "Audioa",
+    "description": "Button label."
+  },
+  "options.controls": {
+    "message": "Kontrolak",
+    "description": "Button label."
+  },
+  "options.language": {
+    "message": "Hizkuntza",
+    "description": "Button label."
+  },
+  "video.title": {
+    "message": "Bideoa",
+    "description": "Video options menu title."
+  },
+  "video.fullscreen": {
+    "message": "Pantaila osoan"
+  },
+  "video.brightness": {
+    "message": "Distira"
+  },
+  "video.contrast": {
+    "message": "Kontrastea"
+  },
+  "video.resolution": {
+    "message": "Bereizmena"
+  },
+  "video.depthOfField": {
+    "message": "Zelaiaren sakonera",
+    "description": "Visual effect."
+  },
+  "video.overlay": {
+    "message": "Kolore-gainjartzea",
+    "description": "Visual effect."
+  },
+  "video.particles": {
+    "message": "Partikulak",
+    "description": "Visual effect."
+  },
+  "video.dirt": {
+    "message": "Zelaiaren higadura",
+    "description": "Visual effect."
+  },
+  "video.shadows": {
+    "message": "Itzalak",
+    "description": "Visual effect."
+  },
+  "audio.title": {
+    "message": "Audioa",
+    "description": "Audio options menu title."
+  },
+  "audio.audio": {
+    "message": "Audioa"
+  },
+  "audio.effectsVolume": {
+    "message": "Efektuen bolumena"
+  },
+  "audio.musicVolume": {
+    "message": "Musikaren bolumena"
+  },
+  "gameplay.title": {
+    "message": "Jokoa",
+    "description": "Gameplay options menu title."
+  },
+  "gameplay.replays": {
+    "message": "Errepikapenak",
+    "description": "Option to automatically show replays during match after scoring a goal."
+  },
+  "gameplay.celebration": {
+    "message": "Ospakizunak",
+    "description": "Option to automatically show celebration after scoring a goal."
+  },
+  "gameplay.aiIndicators": {
+    "message": "AA adierazleak",
+    "description": "Option to show AI indicators (circles beneath players)."
+  },
+  "gameplay.showUsernames": {
+    "message": "Erakutsi izenak",
+    "description": "Option to show usernames above players."
+  },
+  "controls.title": {
+    "message": "Kontrolak",
+    "description": "Controls menu title."
+  },
+  "controls.keyboard": {
+    "message": "<b class=\"user-icon user-0 connected online\"></b> Teklatua",
+    "description": "Button label."
+  },
+  "controls.gamepad1": {
+    "message": "<b class=\"user-icon user-1 connected online\"></b> 1. agintea",
+    "description": "Button label."
+  },
+  "controls.gamepad2": {
+    "message": "<b class=\"user-icon user-2 connected online\"></b> 2. agintea",
+    "description": "Button label."
+  },
+  "controls.gamepad3": {
+    "message": "<b class=\"user-icon user-3 connected online\"></b> 3. agintea",
+    "description": "Button label."
+  },
+  "controls.gamepad4": {
+    "message": "<b class=\"user-icon user-4 connected online\"></b> 4. agintea",
+    "description": "Button label."
+  },
+  "controls.passing": {
+    "message": "Pasea",
+    "description": "Button label."
+  },
+  "controls.passingAssistedOnly": {
+    "message": "Lagundutakoa soilik",
+    "description": ""
+  },
+  "controls.passingAssistedPreferred": {
+    "message": "Lagundutakoa lehenetsita",
+    "description": ""
+  },
+  "controls.passingManualPreferred": {
+    "message": "Eskuzkoa lehenetsita",
+    "description": ""
+  },
+  "controls.passingManualOnly": {
+    "message": "Eskuzkoa soilik",
+    "description": ""
+  },
+  "controls.change": {
+    "message": "Aldatu",
+    "description": "Button label."
+  },
+  "controls.pressKey": {
+    "message": "Sakatu tekla bat",
+    "description": "Button label."
+  },
+  "controls.duplicated": {
+    "message": "Badirudi zenbait tekla ekintza bat baino gehiagori esleitu zaizkiola, gorde aurretik hau zuzendu behar duzu."
+  },
+  "controls.reset": {
+    "message": "Jokoan aldaketak egin direnez, teklatu eta aginteko konfigurazioa berrezarri behar da. Kontrolak pertsonalizatu badituzu, hau berriro egin beharko duzu. Barkatu!"
+  },
+  "controls.movementTitle": {
+    "message": "Mugimendua"
+  },
+  "controls.passingTitle": {
+    "message": "Pasea"
+  },
+  "controls.shootingTitle": {
+    "message": "Jaurtiketa"
+  },
+  "controls.otherTitle": {
+    "message": "Besteak"
+  },
+  "controls.menuTitle": {
+    "message": "Menua"
+  },
+  "actions.up": {
+    "message": "Gora",
+    "description": "Name of action for moving in-game character up."
+  },
+  "actions.down": {
+    "message": "Behera",
+    "description": "Name of action for moving in-game character down."
+  },
+  "actions.left": {
+    "message": "Ezkerrera",
+    "description": "Name of action for moving in-game character left."
+  },
+  "actions.right": {
+    "message": "Eskumara",
+    "description": "Name of action for moving in-game character right."
+  },
+  "actions.up2": {
+    "message": "Gora (alt.)",
+    "description": "Name of action for moving in-game character up."
+  },
+  "actions.down2": {
+    "message": "Behera (alt.)",
+    "description": "Name of action for moving in-game character down."
+  },
+  "actions.left2": {
+    "message": "Ezkerrera (alt.)",
+    "description": "Name of action for moving in-game character left."
+  },
+  "actions.right2": {
+    "message": "Eskumara (alt.)",
+    "description": "Name of action for moving in-game character right."
+  },
+  "actions.passModifier": {
+    "message": "Txandakatu pasea: eskuz/lagunduta (mantendu)",
+    "description": "Name of action for changing between pass modes."
+  },
+  "actions.sprint": {
+    "message": "Korrika egin (mantendu)",
+    "description": "Name of action for running faster."
+  },
+  "actions.walk": {
+    "message": "Ibili (mantendu)",
+    "description": "Name of action for walking."
+  },
+  "actions.slide": {
+    "message": "Sarrera",
+    "description": "Name of action for performing slide tackle."
+  },
+  "actions.goalkeeperSlide": {
+    "message": "Atezainaren sarrera",
+    "description": "Name of action for performing goalkeeper slide tackle."
+  },
+  "actions.togglePlayer": {
+    "message": "Aldatu jokalariz",
+    "description": "Name of action for changing in-game characters."
+  },
+  "actions.toggleTeam": {
+    "message": "Aldatu kontrolatzailez",
+    "description": "Name of action for enabling or disabling a controller (keyboard, gamepad)."
+  },
+  "actions.pass": {
+    "message": "Pasea arrasean",
+    "description": "Name of action for passing the ball to another player."
+  },
+  "actions.lob": {
+    "message": "Pasea goitik (mantendu)",
+    "description": "Name of action for passing the ball to another player by kicking in the ball in the air."
+  },
+  "actions.shoot": {
+    "message": "Jaurti (mantenduta zehaztasunez)",
+    "description": "Name of action for shooting at the goal."
+  },
+  "actions.header": {
+    "message": "Aireko jaurtiketa (mantendu baloipean)",
+    "description": "Name of action headers and bicycle kicks."
+  },
+  "actions.swerveUp": {
+    "message": "Efektua ezkerrera (mantendu)",
+    "description": "Name of action for swerving the ball in one direction."
+  },
+  "actions.swerveDown": {
+    "message": "Efektua eskumara (mantendu)",
+    "description": "Name of action for swerving the ball in another direction."
+  },
+  "actions.supermove": {
+    "message": "Supermugimendua",
+    "description": "Name of action for activating a super-move (special action in game)."
+  },
+  "actions.pause": {
+    "message": "Pausatu",
+    "description": "Name of action for pausing the game."
+  },
+  "actions.menuAltLeft": {
+    "message": "Menu alt. ezkerrera",
+    "description": "Name of action for alternative scrolling."
+  },
+  "actions.menuAltRight": {
+    "message": "Menu alt. eskumara",
+    "description": "Name of action for alternative scrolling."
+  },
+  "actions.menuClearAssigment": {
+    "message": "Garbitu esleipena",
+    "description": "Name of action for clearing key assigments."
+  },
+  "actions.menuBack": {
+    "message": "Menua atzera",
+    "description": "Name of action for canceling menu choice."
+  },
+  "actions.menuAccept": {
+    "message": "Menua onartu",
+    "description": "Name of action for accepting menu choice."
+  },
+  "pause.title": {
+    "message": "Pausatu",
+    "description": "Pause menu title."
+  },
+  "pause.resume": {
+    "message": "Jarraitu",
+    "description": "Button label."
+  },
+  "pause.back": {
+    "message": "Irten",
+    "description": "Button label for abandoning match and returning to menu."
+  },
+  "pause.forfeit": {
+    "message": "Galdutzat eman",
+    "description": "Button label for forfeiting a multiplayer match."
+  },
+  "pause.showChallenge": {
+    "message": "Erakutsi erronka",
+    "description": "Button label for showing challenge description."
+  },
+  "tournament.difficultyTitle": {
+    "message": "Hautatu zailtasuna",
+    "description": "Difficulty selection menu title."
+  },
+  "tournament.teamTitle": {
+    "message": "Hautatu taldea",
+    "description": "Team selection menu title."
+  },
+  "tournament.startGame": {
+    "message": "Hasi partida",
+    "description": "Button label."
+  },
+  "tournament.end": {
+    "message": "Amaitu txapelketa",
+    "description": "Button label."
+  },
+  "tournament.continue": {
+    "message": "Jarraitu",
+    "description": "Button label."
+  },
+  "tournament.restart": {
+    "message": "Berriz hasi",
+    "description": "Button label."
+  },
+  "tournament.playMatch": {
+    "message": "Jokatu",
+    "description": "Button label."
+  },
+  "tournament.groupStage": {
+    "message": "Taldeen fasea",
+    "description": "Tournament screen heading."
+  },
+  "tournament.groupName": {
+    "message": "{LETTER} taldea",
+    "description": "Tournament screen heading."
+  },
+  "tournament.mainEvent": {
+    "message": "Proba nagusia",
+    "description": "League screen heading."
+  },
+  "tournament.fixture": {
+    "message": "{NUMBER}. norgehiagoka",
+    "description": "League screen heading."
+  },
+  "tournament.roundOf16": {
+    "message": "16ko txanda",
+    "description": "Tournament screen heading."
+  },
+  "tournament.quarterfinals": {
+    "message": "Final-laurdenak",
+    "description": "Tournament screen heading."
+  },
+  "tournament.semifinals": {
+    "message": "Final-erdiak",
+    "description": "Tournament screen heading."
+  },
+  "tournament.thirdPlace": {
+    "message": "Hirugarren postua",
+    "description": "Tournament screen heading."
+  },
+  "tournament.final": {
+    "message": "Finala",
+    "description": "Tournament screen heading."
+  },
+  "tournament.lose": {
+    "message": "Txapelketa galdu duzu!<br>Zorte hobea hurrengoan.<br><i class=\"pink\">{FAME}</i> ospe-puntu irabazi dituzu.",
+    "description": "Tournament lose message."
+  },
+  "tournament.playoff": {
+    "message": "#{NUMBER}. playoffa",
+    "description": "Tournament screen heading."
+  },
+  "tournament.standingsButton": {
+    "message": "Sailkapena",
+    "description": "Tournament button label."
+  },
+  "tournament.fixturesButton": {
+    "message": "Norgehiagokak",
+    "description": "Tournament button label."
+  },
+  "tournament.custom.title": {
+    "message": "Txapelketa pertsonalizatua",
+    "description": "Custom tournament screen heading."
+  },
+  "tournament.custom.type": {
+    "message": "Mota",
+    "description": "Button label."
+  },
+  "tournament.custom.teams": {
+    "message": "Talde kopurua",
+    "description": "Button label."
+  },
+  "tournament.custom.humans": {
+    "message": "Gizakien taldeak",
+    "description": "Button label."
+  },
+  "tournament.custom.teams.title": {
+    "message": "Pertsonalizatu taldeak",
+    "description": "Screen heading."
+  },
+  "tournament.custom.teams.start": {
+    "message": "Hasi",
+    "description": "Button label."
+  },
+  "tournament.custom.teams.randomize": {
+    "message": "Ausazkotu taldeak",
+    "description": "Button label."
+  },
+  "tournament.custom.league.title": {
+    "message": "Liga",
+    "description": "Custom tournament league type screen heading."
+  },
+  "tournament.custom.eliminations.title": {
+    "message": "Kanporaketak",
+    "description": "Custom tournament eliminations type screen heading."
+  },
+  "tournament.custom.eliminationsWithGroups.title": {
+    "message": "Kanporaketak taldeekin",
+    "description": "Custom tournament eliminations with group stage type screen heading."
+  },
+  "tournament.tableLegend": {
+    "message": "T = <i>Tantoak</i>   G = <i>Garaipenak</i>   B = <i>Berdinketak</i>   P = <i>Porrotak</i>   S = <i>Sartutako golak</i>   J = <i>Jasotako golak</i>",
+    "description": ""
+  },
+  "multiplayer.title": {
+    "message": "Online - Jokalari anitz",
+    "description": "Section title"
+  },
+  "multiplayer.lobbyCount": {
+    "message": "Jokalariak lobbyetan:"
+  },
+  "multiplayer.onlineCount": {
+    "message": "Jokalariak linean:"
+  },
+  "multiplayer.duel": {
+    "message": "Duelua"
+  },
+  "multiplayer.duel.info": {
+    "message": "1 vs 1"
+  },
+  "multiplayer.doubles": {
+    "message": "Binakakoa"
+  },
+  "multiplayer.doubles.info": {
+    "message": "2 vs 2"
+  },
+  "multiplayer.chaos": {
+    "message": "Kaosa"
+  },
+  "multiplayer.chaos.info": {
+    "message": "3 vs 3"
+  },
+  "multiplayer.complete": {
+    "message": "Osokoa"
+  },
+  "multiplayer.complete.info": {
+    "message": "5 vs 5"
+  },
+  "multiplayer.lobby": {
+    "message": "Lobbya",
+    "description": "Section title"
+  },
+  "multiplayer.open": {
+    "message": "Zabalik",
+    "description": "Button label"
+  },
+  "multiplayer.closed": {
+    "message": "Itxita",
+    "description": "Button label"
+  },
+  "multiplayer.join": {
+    "message": "Nabigatu partidak",
+    "description": "Button label"
+  },
+  "multiplayer.join.info": {
+    "message": "Aurkitu partida bat bertara batzeko",
+    "description": "Button label"
+  },
+  "multiplayer.search": {
+    "message": "Bilatu",
+    "description": "Button label"
+  },
+  "multiplayer.quickMatch": {
+    "message": "Partida bizkorra",
+    "description": "Button label"
+  },
+  "multiplayer.quickMatch.info": {
+    "message": "Jokatu partida bizkorra munduan zeharko jokalarien aurka"
+  },
+  "multiplayer.host": {
+    "message": "Sortu jokaldia",
+    "description": "Button label"
+  },
+  "multiplayer.host.info": {
+    "message": "Pertsonalizatu jokoa eta gonbidatu beste jokalariak"
+  },
+  "multiplayer.hostDisconnected": {
+    "message": "Jokaldiaren ostalariarekin konexioa galdu da."
+  },
+  "multiplayer.gameList": {
+    "message": "Jokaldi eskuragarriak",
+    "description": "Section title"
+  },
+  "multiplayer.gameList.join": {
+    "message": "Batu",
+    "description": "Button label"
+  },
+  "multiplayer.gameList.join.error": {
+    "message": "Errore bat gertatu da, saiatu beste jokaldi batekin.",
+    "description": "Error message"
+  },
+  "multiplayer.gameList.refresh": {
+    "message": "Berritu",
+    "description": "Button label"
+  },
+  "multiplayer.gameList.hostName": {
+    "message": "Ostalari-izena",
+    "description": "Table header"
+  },
+  "multiplayer.gameList.mode": {
+    "message": "Modua",
+    "description": "Table header"
+  },
+  "multiplayer.gameList.players": {
+    "message": "Jokalariak",
+    "description": "Table header"
+  },
+  "multiplayer.gameList.teams": {
+    "message": "Taldeak",
+    "description": "Table header"
+  },
+  "multiplayer.gameList.stadium": {
+    "message": "Zelaia",
+    "description": "Table header"
+  },
+  "multiplayer.gameList.progress": {
+    "message": "Denbora",
+    "description": "Table header"
+  },
+  "multiplayer.gameList.noLobbies": {
+    "message": "Ez da lobbyrik aurkitu",
+    "description": "Error message"
+  },
+  "multiplayer.settings": {
+    "message": "Ezarpenak",
+    "description": "Section title"
+  },
+  "multiplayer.players": {
+    "message": "Jokalariak",
+    "description": "Section title"
+  },
+  "multiplayer.invite": {
+    "message": "Gonbidatu",
+    "description": "Button label"
+  },
+  "multiplayer.invite.alert.message": {
+    "message": "{USERNAME} erabiltzaileak Kopaniton jokatzera gonbidatu zaitu",
+    "description": "Alert text"
+  },
+  "multiplayer.invite.confirm.message": {
+    "message": "{USERNAME} erabiltzaileak Kopaniton jokatzera gonbidatu zaitu.<br>Onartuz gero, uneko partidatik irtengo zara eta bertako aurrerapen guztia galduko da.",
+    "description": "Alert text"
+  },
+  "multiplayer.invite.confirm.confirm": {
+    "message": "Batu",
+    "description": "Button label"
+  },
+  "multiplayer.invite.confirm.decline": {
+    "message": "Ezikusi",
+    "description": "Button label"
+  },
+  "multiplayer.coop.title": {
+    "message": "Joko modua",
+    "description": "Section title"
+  },
+  "multiplayer.coop": {
+    "message": "Kooperatiboa",
+    "description": "Button label"
+  },
+  "multiplayer.versus": {
+    "message": "Bata bestearen aurka",
+    "description": "Button label"
+  },
+  "multiplayer.public.title": {
+    "message": "Lobbyaren ikusgarritasuna",
+    "description": "Button label"
+  },
+  "multiplayer.public.friends": {
+    "message": "Lagunak",
+    "description": "Button label"
+  },
+  "multiplayer.public.public": {
+    "message": "Publikoa",
+    "description": "Button label"
+  },
+  "multiplayer.friendStatus.offline": {
+    "message": "Offline",
+    "description": "Section title"
+  },
+  "multiplayer.friendStatus.online": {
+    "message": "Online",
+    "description": "Section title"
+  },
+  "multiplayer.friendStatus.away": {
+    "message": "Kanpoan",
+    "description": "Section title"
+  },
+  "multiplayer.lobby.kickAlert": {
+    "message": "Lobbytik kanporatu zaituzte",
+    "description": "Alert message"
+  },
+  "multiplayer.lobby.playerOptions": {
+    "message": "Jokalari-tokiaren aukerak",
+    "description": "Section title"
+  },
+  "multiplayer.lobby.playerOptions.kick": {
+    "message": "Kaleratu",
+    "description": "Button label"
+  },
+  "multiplayer.lobby.playerOptions.close": {
+    "message": "Itxi tokia",
+    "description": "Button label"
+  },
+  "multiplayer.lobby.closedSlotOptions": {
+    "message": "Itxitako tokiaren aukerak",
+    "description": "Section title"
+  },
+  "multiplayer.lobby.closedSlotOptions.open": {
+    "message": "Ireki tokia",
+    "description": "Button label"
+  },
+  "multiplayer.lobby.openSlotOptions": {
+    "message": "Irekitako tokiaren aukerak",
+    "description": "Section title"
+  },
+  "multiplayer.matchmaking.connecting": {
+    "message": "Zerbitzarietara konektatzen..."
+  },
+  "multiplayer.matchmaking.searchingForGame": {
+    "message": "Aurkari bat bilatzen..."
+  },
+  "multiplayer.matchmaking.waitingForGame": {
+    "message": "Aurkariari itxaroten..."
+  },
+  "multiplayer.matchmaking.foundGame": {
+    "message": "Partida aurkitua, batzen..."
+  },
+  "multiplayer.matchmaking.assetError": {
+    "message": "Ez duzu joko hau jokatzeko beharrezko talde, zelai edo baloirik."
+  },
+  "multiplayer.lobbyStatus0": {
+    "message": "Gertu"
+  },
+  "multiplayer.lobbyStatus1": {
+    "message": "Jokoan"
+  },
+  "multiplayer.lobbyStatus2": {
+    "message": "Laburpenean"
+  },
+  "multiplayer.slowConnection": {
+    "message": "konexio motela"
+  },
+  "match.selectTeam.playerPlay": {
+    "message": "{KEY} Batu"
+  },
+  "match.selectTeam.playerLeave": {
+    "message": "{KEY} Utzi"
+  },
+  "match.selectTeams": {
+    "message": "HAUTATU TALDEAK"
+  },
+  "match.goal": {
+    "message": "GOOOOL!"
+  },
+  "match.goldenGoal": {
+    "message": "URREZKO GOOLAAA!"
+  },
+  "match.throwIn": {
+    "message": "ALBOKO SAKEA!"
+  },
+  "match.cornerKick": {
+    "message": "KORNERRA!"
+  },
+  "match.goalKick": {
+    "message": "ATEKO SAKEA!"
+  },
+  "match.halfTime": {
+    "message": "ATSEDENALDIA!"
+  },
+  "match.replay": {
+    "message": "ERREPIKAPENA"
+  },
+  "summary.title": {
+    "message": "{RED_SCORE} : {BLUE_SCORE}"
+  },
+  "summary.player": {
+    "message": "Jokalaria"
+  },
+  "summary.fame": {
+    "message": "Ospea"
+  },
+  "summary.goals": {
+    "message": "Golak"
+  },
+  "summary.shots": {
+    "message": "Jaurtiketak"
+  },
+  "summary.blockedShots": {
+    "message": "Geldiketak"
+  },
+  "summary.slides": {
+    "message": "Sarrerak"
+  },
+  "summary.interceptions": {
+    "message": "Mozketak"
+  },
+  "summary.possession": {
+    "message": "Jabetza"
+  },
+  "summary.status": {
+    "message": "Maila"
+  },
+  "summary.challenge": {
+    "message": "Erronka"
+  },
+  "summary.exit": {
+    "message": "Irten",
+    "description": "Button label."
+  },
+  "summary.continue": {
+    "message": "Jarraitu",
+    "description": "Button label."
+  },
+  "challenges.title": {
+    "message": "Partidako erronka"
+  },
+  "challenges.completed": {
+    "message": "Erronka burutua"
+  },
+  "challenges.failed": {
+    "message": "Erronka hutsegina"
+  },
+  "challenges.progress.count": {
+    "message": "{VALUE}/{MIN}"
+  },
+  "challenges.progress.percent": {
+    "message": "%{VALUE}/{MIN}"
+  },
+  "challenges.progress.seconds": {
+    "message": "{VALUE}/{MIN}s"
+  },
+  "challenges.progress.meters": {
+    "message": "{VALUE}/{MIN}m"
+  },
+  "challenges.slideAccuracyName": {
+    "message": "Belatz begia",
+    "description": "Match challenge name."
+  },
+  "challenges.slideAccuracy": {
+    "message": "Lortu %{MIN_ACCURACY}(e)ko zehaztasuna sarreretan"
+  },
+  "challenges.ballPossessionName": {
+    "message": "Itsasgarria",
+    "description": "Match challenge name."
+  },
+  "challenges.ballPossession": {
+    "message": "Lortu %{MIN_POSSESSION}(e)ko baloiaren jabetza"
+  },
+  "challenges.goalDifferenceName": {
+    "message": "Menderatzailea",
+    "description": "Match challenge name."
+  },
+  "challenges.goalDifference": {
+    "message": "Irabazi aurkariak baino {MIN_DIFFERENCE} gol gehiago sartuz"
+  },
+  "challenges.interceptionsName": {
+    "message": "Moztailea",
+    "description": "Match challenge name."
+  },
+  "challenges.interceptions": {
+    "message": "Moztu {MIN_INTERCEPTIONS} pase partida batean"
+  },
+  "challenges.cleanSheetName": {
+    "message": "Orri zuria",
+    "description": "Match challenge name."
+  },
+  "challenges.cleanSheet": {
+    "message": "Ez jaso gol bakar bat ere partida batean"
+  },
+  "challenges.dribbleTimeName": {
+    "message": "Driblin labirintikoa",
+    "description": "Match challenge name."
+  },
+  "challenges.dribbleTime": {
+    "message": "Driblatu baloia galdu gabe {MIN_DRIBBLE_TIME} segundoz partida batean"
+  },
+  "challenges.dribbleDistanceName": {
+    "message": "Sigi-saga",
+    "description": "Match challenge name."
+  },
+  "challenges.dribbleDistance": {
+    "message": "Driblatu baloia galdu gabe {MIN_DRIBBLE_DISTANCE} metroz partida batean"
+  },
+  "challenges.noSlideTackleName": {
+    "message": "Joko garbia",
+    "description": "Match challenge name."
+  },
+  "challenges.noSlideTackle": {
+    "message": "Irabazi sarrerarik egin gabe (atezainarekin ere ez)"
+  },
+  "challenges.noPreciseShotName": {
+    "message": "Frankotiratzaile modua itzalita",
+    "description": "Match challenge name."
+  },
+  "challenges.noPreciseShot": {
+    "message": "Irabazi jaurtiketa zehatzik egin gabe"
+  },
+  "challenges.noSupermovesName": {
+    "message": "Botereak itzalita",
+    "description": "Match challenge name."
+  },
+  "challenges.noSupermoves": {
+    "message": "Irabazi supermugimendurik erabili gabe"
+  },
+  "challenges.scoringDefenderName": {
+    "message": "Defentsarik onena eraso on bat da",
+    "description": "Match challenge name."
+  },
+  "challenges.scoringDefender": {
+    "message": "Sartu gol bat atzelari batekin"
+  },
+  "challenges.everyoneScoresName": {
+    "message": "Talde-lana",
+    "description": "Match challenge name."
+  },
+  "challenges.everyoneScores": {
+    "message": "Sartu gol bana zelaiko jokalari bakoitzarekin partida berean"
+  },
+  "challenges.hatTrickName": {
+    "message": "'Hat trick'a",
+    "description": "Match challenge name."
+  },
+  "challenges.hatTrick": {
+    "message": "Egin 'hat trick' bat"
+  },
+  "challenges.golzagolName": {
+    "message": "Begia begi truk",
+    "description": "Match challenge name."
+  },
+  "challenges.golzagol": {
+    "message": "Gol bat jaso eta {MIN_TIME} segundo baino gutxiagora sartu gola"
+  },
+  "challenges.fastTripleName": {
+    "message": "Blitzkrieg",
+    "description": "Match challenge name."
+  },
+  "challenges.fastTriple": {
+    "message": "Sartu 3 gol {MIN_TIME} segundo baino lehen"
+  },
+  "challenges.consecutiveSlidesName": {
+    "message": "Segidan",
+    "description": "Match challenge name."
+  },
+  "challenges.consecutiveSlides": {
+    "message": "Egin {MIN_SLIDES} sarrera jarraian behar bezala"
+  },
+  "challenges.slideTrapName": {
+    "message": "Sarrera garbiak",
+    "description": "Match challenge name."
+  },
+  "challenges.slideTrap": {
+    "message": "Egin {MIN_SLIDES} sarrera garbi partida batean"
+  },
+  "challenges.doubleSlideHitName": {
+    "message": "Txori bi",
+    "description": "Match challenge name."
+  },
+  "challenges.doubleSlideHit": {
+    "message": "Eman 2 aurkariri sarrera bakarrarekin"
+  },
+  "challenges.goalkeeperSlideTrapName": {
+    "message": "Atezainaren desfilea",
+    "description": "Match challenge name."
+  },
+  "challenges.goalkeeperSlideTrap": {
+    "message": "Egin {MIN_SLIDES} sarrera atezainarekin behar bezala partida batean"
+  },
+  "challenges.slideInterceptName": {
+    "message": "Sarrerarekin moztu",
+    "description": "Match challenge name."
+  },
+  "challenges.slideIntercept": {
+    "message": "Moztu {MIN_INTERCEPTIONS} pase sarrera bat eginez partida batean"
+  },
+  "challenges.trapName": {
+    "message": "Atzemaile maisua",
+    "description": "Match challenge name."
+  },
+  "challenges.trap": {
+    "message": "Atzeman baloia {MIN_TRAPS} aldiz sarrerarik egin gabe partida batean"
+  },
+  "challenges.slideScoreName": {
+    "message": "Sarreradun gola",
+    "description": "Match challenge name."
+  },
+  "challenges.slideScore": {
+    "message": "Sartu gola gol-lerroan zehar sarrera eginez"
+  },
+  "challenges.roundingTheKeeperName": {
+    "message": "Zaindaria inguratu",
+    "description": "Match challenge name."
+  },
+  "challenges.roundingTheKeeper": {
+    "message": "Sartu gola gol-lerrotik aurrera driblatuz baloiarekin"
+  },
+  "challenges.maxBallSwerveName": {
+    "message": "Bumerana",
+    "description": "Match challenge name."
+  },
+  "challenges.maxBallSwerve": {
+    "message": "Sartu {MIN_GOALS} gol efektu handidun jaurtiketak erabiliz partida batean"
+  },
+  "challenges.teleportScoreName": {
+    "message": "Telegarraioaren maisua",
+    "description": "Match challenge name."
+  },
+  "challenges.teleportScore": {
+    "message": "Sartu gol bat telegarraio supermugimendua erabiliz"
+  },
+  "challenges.magnetOnSupershotName": {
+    "message": "Supermagnetismoa",
+    "description": "Match challenge name."
+  },
+  "challenges.magnetOnSupershot": {
+    "message": "Geldiarazi superjaurtiketa bat baloi-imana erabiliz"
+  },
+  "challenges.magnetOnShotName": {
+    "message": "Magnetismoa",
+    "description": "Match challenge name."
+  },
+  "challenges.magnetOnShot": {
+    "message": "Geldiarazi jaurtiketa bat baloi-imana erabiliz"
+  },
+  "challenges.touchWoodworkName": {
+    "message": "Zura ukitu",
+    "description": "Match challenge name."
+  },
+  "challenges.touchWoodwork": {
+    "message": "Sartu {MIN_GOALS} gol aurrena zutoinak edo langa joaz partida batean"
+  },
+  "challenges.penaltyAreaScoreName": {
+    "message": "Gertuko norgehiagoka",
+    "description": "Match challenge name."
+  },
+  "challenges.penaltyAreaScore": {
+    "message": "Sartu {MIN_GOALS} gol aurkariaren penalti-areatik partida batean"
+  },
+  "challenges.pitchAreaScoreName": {
+    "message": "Jaurtiketa luzea",
+    "description": "Match challenge name."
+  },
+  "challenges.pitchAreaScore": {
+    "message": "Sartu {MIN_GOALS} gol aurkariaren penalti-area kanpotik partida batean"
+  },
+  "challenges.cornerScoreName": {
+    "message": "Korner gola",
+    "description": "Match challenge name."
+  },
+  "challenges.cornerScore": {
+    "message": "Sartu {MIN_GOALS} gol kornerretik sakatzean partida batean"
+  },
+  "challenges.goalkeeperLobName": {
+    "message": "Aireko erasoa",
+    "description": "Match challenge name."
+  },
+  "challenges.goalkeeperLob": {
+    "message": "Sartu gola baloia atezainaren gainetik pasaz"
+  },
+  "challenges.supershotHitAndScoreName": {
+    "message": "Superjaurtiketa konboa",
+    "description": "Match challenge name."
+  },
+  "challenges.supershotHitAndScore": {
+    "message": "Eman 2 aurkariri superjaurtiketa batekin eta sartu gola"
+  },
+  "challenges.teleportKnockDownName": {
+    "message": "Telegarraio zartada",
+    "description": "Match challenge name."
+  },
+  "challenges.teleportKnockDown": {
+    "message": "Eraitsi aurkari bat telegarraioa erabiliz"
+  },
+  "challenges.cornerDefenseName": {
+    "message": "Setiatua",
+    "description": "Match challenge name."
+  },
+  "challenges.cornerDefense": {
+    "message": "Ez utzi aurkariari gola sartzen kornerretik sakatzean partida batean"
+  },
+  "challenges.untouchableGoalName": {
+    "message": "Ukiezina",
+    "description": "Match challenge name."
+  },
+  "challenges.untouchableGoal": {
+    "message": "Sartu gola baloia galdu gabe (atezainarekin edo hasierako sakearekin hasita)"
+  },
+  "challenges.windmakerSaveName": {
+    "message": "Aldaketa-haizea",
+    "description": "Match challenge name."
+  },
+  "challenges.windmakerSave": {
+    "message": "Eragotzi gola azken unean haizegilea aktibatuz"
+  },
+  "challenges.reverseShotName": {
+    "message": "Orpo-jaurtiketa",
+    "description": "Match challenge name."
+  },
+  "challenges.reverseShot": {
+    "message": "Sartu gola jaurtiketa zehatz bidez aurkariaren atearen kontrako norantzara korrika zabiltzala"
+  },
+  "challenges.cleanPassesName": {
+    "message": "Tiki-Taka",
+    "description": "Match challenge name."
+  },
+  "challenges.cleanPasses": {
+    "message": "Egin {MIN_PASSES} pase jarraian baloiaren jabetza galdu gabe partida batean"
+  },
+  "challenges.cleanLobsName": {
+    "message": "Aireko Tiki-Taka",
+    "description": "Match challenge name."
+  },
+  "challenges.cleanLobs": {
+    "message": "Egin {MIN_PASSES} pase goitik jarraian baloiaren jabetza galdu gabe partida batean"
+  },
+  "challenges.cleanGroundPassesName": {
+    "message": "Arraseko Tiki-Taka",
+    "description": "Match challenge name."
+  },
+  "challenges.cleanGroundPasses": {
+    "message": "Egin {MIN_PASSES} arraseko pase jarraian baloiaren jabetza galdu gabe partida batean"
+  },
+  "challenges.supershotFromPenaltyAreaName": {
+    "message": "Artilleria",
+    "description": "Match challenge name."
+  },
+  "challenges.supershotFromPenaltyArea": {
+    "message": "Sartu gola zure penalti-areatik superjaurtiketa eginez"
+  },
+  "challenges.slideHitName": {
+    "message": "Bola-jokoa",
+    "description": "Match challenge name."
+  },
+  "challenges.slideHit": {
+    "message": "Eraitsi {MIN_HITS} aurkari partida batean"
+  },
+  "challenges.avoidGoalkeeperName": {
+    "message": "Akrobata",
+    "description": "Match challenge name."
+  },
+  "challenges.avoidGoalkeeper": {
+    "message": "Saihestu atezainaren 2 sarrera jarraian"
+  },
+  "challenges.noBallSlideTackleName": {
+    "message": "Bortxakeria",
+    "description": "Match challenge name."
+  },
+  "challenges.noBallSlideTackle": {
+    "message": "Egin {OPPONENTS} sarrera baloia ez duen aurkariari partida batean"
+  },
+  "achievements.unlockedTitle": {
+    "message": "Lorpena desblokeatuta!"
+  },
+  "achievements.guideName": {
+    "message": "Liburukatilua",
+    "description": "Achievement name."
+  },
+  "achievements.guide": {
+    "message": "Irakurri eskuragarri den jokoaren gida osoa"
+  },
+  "achievements.goldenGoalName": {
+    "message": "Urrezko gola",
+    "description": "Achievement name."
+  },
+  "achievements.goldenGoal": {
+    "message": "Irabazi partida bat urrezko golarekin"
+  },
+  "achievements.friendlyFireName": {
+    "message": "Lagun-sua",
+    "description": "Achievement name."
+  },
+  "achievements.friendlyFire": {
+    "message": "Jo edo egin sarrera zure taldekide bati"
+  },
+  "achievements.localMultiName": {
+    "message": "Etxeko jaia",
+    "description": "Achievement name."
+  },
+  "achievements.localMulti": {
+    "message": "Jokatu partida bat 3 lagun edo gehiagorekin"
+  },
+  "achievements.localMultiCupName": {
+    "message": "Kopanito taldea",
+    "description": "Achievement name."
+  },
+  "achievements.localMultiCup": {
+    "message": "Jokatu txapelketako partida bat lagun batekin"
+  },
+  "achievements.slideTackleName": {
+    "message": "Zapaltzailea",
+    "description": "Achievement name."
+  },
+  "achievements.slideTackle": {
+    "message": "Eman {MIN_HITS} aurkariri sarrera eginez"
+  },
+  "achievements.firstSecondsGoalName": {
+    "message": "Kolpe bizkorra",
+    "description": "Achievement name."
+  },
+  "achievements.firstSecondsGoal": {
+    "message": "Sartu gola partidaren aurreneko segundoetan"
+  },
+  "achievements.lastSecondsGoalName": {
+    "message": "Azken segundoetako gola",
+    "description": "Achievement name."
+  },
+  "achievements.lastSecondsGoal": {
+    "message": "Sartu gola partidako azken segundoetan"
+  },
+  "achievements.cleanEventName": {
+    "message": "Defentsa perfektua",
+    "description": "Achievement name."
+  },
+  "achievements.cleanEvent": {
+    "message": "Ez utzi gol bakarra ere sartzen kopa edo liga batean"
+  },
+  "achievements.famousName": {
+    "message": "Ospetsua",
+    "description": "Achievement name."
+  },
+  "achievements.famous": {
+    "message": "Lortu <i class=\"pink\">{MIN_FAME}</i> ospe-puntu"
+  },
+  "achievements.allTeamsName": {
+    "message": "Bildumagilea",
+    "description": "Achievement name."
+  },
+  "achievements.allTeams": {
+    "message": "Desblokeatu talde guztiak"
+  },
+  "achievements.silverLeagueName": {
+    "message": "Zilarrezko Liga",
+    "description": "Achievement name."
+  },
+  "achievements.silverLeague": {
+    "message": "Heldu <i class=\"silver\">Zilarrezko Liga</i>ra / Lortu <i class=\"pink\">{FAME}</i> ospe-puntu"
+  },
+  "achievements.goldLeagueName": {
+    "message": "Urrezko Liga",
+    "description": "Achievement name."
+  },
+  "achievements.goldLeague": {
+    "message": "Heldu <i class=\"gold\">Urrezko Liga</i>ra / Lortu <i class=\"pink\">{FAME}</i> ospe-puntu"
+  },
+  "achievements.platinumLeagueName": {
+    "message": "Platinozko Liga",
+    "description": "Achievement name."
+  },
+  "achievements.platinumLeague": {
+    "message": "Heldu <i class=\"platinum\">Platinozko Liga</i>ra / Lortu <i class=\"pink\">{FAME}</i> ospe-puntu"
+  },
+  "achievements.thiefName": {
+    "message": "Lapurra",
+    "description": "Achievement name."
+  },
+  "achievements.thief": {
+    "message": "Lapurtu baloia {MIN_STEALS} aldiz"
+  },
+  "achievements.magnetName": {
+    "message": "Superimana",
+    "description": "Achievement name."
+  },
+  "achievements.magnet": {
+    "message": "Lapurtu baloia {MIN_STEALS} aldiz baloi-imana erabiliz"
+  },
+  "achievements.freezerName": {
+    "message": "Izotzezko irudiak",
+    "description": "Achievement name."
+  },
+  "achievements.freezer": {
+    "message": "Izoztu 3 jokalari aldi berean"
+  },
+  "achievements.supershotName": {
+    "message": "Superjaurtiketa",
+    "description": "Achievement name."
+  },
+  "achievements.supershot": {
+    "message": "Sartu {MIN_GOALS, plural, one {gol #} other {# gol}} superjaurtiketa erabiliz"
+  },
+  "achievements.supermovesMasterName": {
+    "message": "Aztia",
+    "description": "Achievement name."
+  },
+  "achievements.supermovesMaster": {
+    "message": "Erabili 4 supermugimedu desberdin partida batean"
+  },
+  "achievements.topScorerName": {
+    "message": "Golegile gorena",
+    "description": "Achievement name."
+  },
+  "achievements.topScorer": {
+    "message": "Sartu {MIN_GOALS, plural, one {gol #} other {# gol}}"
+  },
+  "achievements.completeEventName": {
+    "message": "{EVENT_NAME}"
+  },
+  "achievements.completeEvent": {
+    "message": "Irabazi {EVENT_NAME_ACCUSATIVE}"
+  },
+  "achievements.completeMainEventsName": {
+    "message": "Ibiltaria",
+    "description": "Achievement name."
+  },
+  "achievements.completeMainEvents": {
+    "message": "Burutu proba nagusi guztiak (kontinentalak + munduko kopa) edozein zailtasun mailatan"
+  },
+  "achievements.completeOptionalEventsName": {
+    "message": "Bidaiaria",
+    "description": "Achievement name."
+  },
+  "achievements.completeOptionalEvents": {
+    "message": "Burutu hautazko proba guztiak (kopa txikiak eta ligak) edozein zailtasun mailatan"
+  },
+  "achievements.legendMasteredName": {
+    "message": "Mitoa",
+    "description": "Achievement name."
+  },
+  "achievements.legendMastered": {
+    "message": "Burutu proba guztiak Mitoa zailtasun mailan"
+  },
+  "achievements.legendMasteredSuccess": {
+    "message": "Zorionak!<br>Txapelketa eskuragarri guztiak burutu dituzu zailtasun maila gorenean!"
+  },
+  "leagues.platinum": {
+    "message": "Platinozko Liga"
+  },
+  "leagues.platinum.genitive": {
+    "message": "Platinozko Liga",
+    "description": "League name in genitive case"
+  },
+  "leagues.gold": {
+    "message": "Urrezko Liga"
+  },
+  "leagues.gold.genitive": {
+    "message": "Urrezko Liga",
+    "description": "League name in genitive case"
+  },
+  "leagues.silver": {
+    "message": "Zilarrezko Liga"
+  },
+  "leagues.silver.genitive": {
+    "message": "Zilarrezko Liga",
+    "description": "League name in genitive case"
+  },
+  "leagues.bronze": {
+    "message": "Brontzezko Liga"
+  },
+  "leagues.bronze.genitive": {
+    "message": "Brontzezko Liga",
+    "description": "League name in genitive case"
+  },
+  "leagues.beginner": {
+    "message": "Sailkatzekoak"
+  },
+  "leagues.beginner.genitive": {
+    "message": "Sailkatzekoak",
+    "description": "League name in genitive case"
+  },
+  "leagues.fameNeeded": {
+    "message": "Beharrezko ospea:"
+  },
+  "leagues.userLimit": {
+    "message": "Jokalari-muga:"
+  },
+  "leagues.promotion": {
+    "message": "Zorionak!<br>Mailaz igo zara <i class=\"{LEAGUE}\">{LEAGUE_NAME}</i> ligara!"
+  },
+  "leagues.relegation": {
+    "message": "Sentitzen dugu!<br>Mailaz jaitsi zara <i class=\"{LEAGUE}\">{LEAGUE_NAME}</i> ligara."
+  },
+  "leagues.intro": {
+    "message": "<p><i class=\"pink\">{FAME}</i> ospe-puntu dituzu!</p><p>Irabazi lagunarteko partidak, txapelketak eta burutu erronkak puntu gehiago eskuratzeko. AAren zailtasun handiagoak puntu gehiago ematen ditu.</p><p>Gutxienez <i class=\"pink\">{MIN_FAME}</i> ospe-puntu behar dituzu <i class=\"bronze no-wrap\">Brontzezko Liga</i>ra igotzeko.</p>"
+  },
+  "leagues.table.league": {
+    "message": "L",
+    "description": "Initial from the word `League` used in the leaderboard tables."
+  },
+  "leagues.table.name": {
+    "message": "Jokalaria"
+  },
+  "leagues.table.fame": {
+    "message": "Ospea"
+  },
+  "replay.show": {
+    "message": "Erakutsi errepikapena",
+    "description": "Button label."
+  },
+  "replay.generateGif": {
+    "message": "Sortu GIFa",
+    "description": "Button label."
+  },
+  "gif.description": {
+    "message": "GIFa sortzen ari da. Minutu gutxi batzuk iraun ditzake honek."
+  },
+  "gif.successMessage": {
+    "message": "GIFa sortu da.<br>Jokoaren `Replays` karpetan gorde da: <i class=\"yellow\">{PATH}</i>"
+  },
+  "gif.showFolder": {
+    "message": "Erakutsi karpetan",
+    "description": "Button label."
+  },
+  "users.name": {
+    "message": "{id}. jokalaria",
+    "description": "Generic username shown in-game"
+  }
+}

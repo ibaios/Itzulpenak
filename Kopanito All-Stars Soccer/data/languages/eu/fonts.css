@@ -1,0 +1,17 @@
+/*
+
+@font-face {
+    font-family: 'Family Name';
+    src: url('filename.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'kopanito_match_messages_LANG_CODE';
+    src: url('filename.ttf') format('truetype');
+}
+
+html.en,
+html.en .grid>*,
+html.en .key {font-family: 'Family Name'}
+
+*/
