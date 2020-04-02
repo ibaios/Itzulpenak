@@ -1376,7 +1376,7 @@
     "description": "Match challenge name."
   },
   "challenges.consecutiveSlides": {
-    "message": "Egin {MIN_SLIDES} sarrera jarraian behar bezala"
+    "message": "Egin {MIN_SLIDES} sarrera jarraian"
   },
   "challenges.slideTrapName": {
     "message": "Sarrera garbiak",
@@ -1397,7 +1397,7 @@
     "description": "Match challenge name."
   },
   "challenges.goalkeeperSlideTrap": {
-    "message": "Egin {MIN_SLIDES} sarrera atezainarekin behar bezala partida batean"
+    "message": "Egin {MIN_SLIDES} sarrera atezainarekin partida batean"
   },
   "challenges.slideInterceptName": {
     "message": "Sarrerarekin moztu",
