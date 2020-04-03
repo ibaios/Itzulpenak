@@ -425,7 +425,7 @@ ERA!"
 "news:LOSING_GUARDS","Still Safe With Smaller Detail?","Seguru jarraitzen dugu zerbitzu murritzagoa izan arren?"
 "news:RUNNER_AFTER_TRANQ","Grestin Incident Highlights Security Risks","Grestingoak segurtasun arriskuak azaleratu ditu"
 "news:RUNNER_AFTER_TRANQ","Further Breaches Predicted","Huts egite gehiago aurreikusten dira"
-"news:BIKE_ATTACK","Daring Bike Attack At Grestin Checkpoint!","Bizikletarekin erasoa Grestingo kontrolgunean!"
+"news:BIKE_ATTACK","Daring Bike Attack At Grestin Checkpoint!","Motoarekin erasoa Grestingo kontrolgunean!"
 "news:BIKE_ATTACK","Extremists Growing Bolder - Grestin Like Magnet","Muturreko ekintzaileak ausartago - Grestin, erakargarria"
 "news:BORDER_TARGETED","Can The Wall Hold?","Eutsiko al du hesiak?"
 "news:BORDER_TARGETED","Border Safety Continually Questioned","Mugako segurtasuna etengabe auzitan"
@@ -741,7 +741,7 @@ Glory to Arstotzka.","Arstotzka
 Onarpen Ministerioa
 Buletin ofiziala
 
-Ikuskatzaile jaun/andrea,
+Ikuskatzaile jaun/andrea:
 
 $content
 
