@@ -3,4 +3,4 @@ Itzulpenak
 
 Euskarara itzulitako softwarea, jokoak eta beste.
 
-Info gehiago: https://oihanguren.com/
+Info gehiago: https://ibaios.eus/
