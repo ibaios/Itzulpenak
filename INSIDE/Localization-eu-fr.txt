@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <string value="ACTIVE PROFILE SIGNED OUT. RETURNING TO START SCREEN.">
+    <en_us>ACTIVE PROFILE SIGNED OUT. RETURNING TO START SCREEN.</en_us>
+    <de_de>DAS AKTIVE PROFIL WURDE ABGEMELDET. DU WIRST ZUM STARTBILDSCHIRM ZURÜCKGEBRACHT.</de_de>
+    <es_es>EL USUARIO ACTIVO HA CERRADO LA SESIÓN. VOLVIENDO A LA PANTALLA DE INICIO.</es_es>
+    <fr_fr>ERABILTZAILE AKTIBOAK SAIOA ITXI DU. HASIERAKO PANTAILARA ITZULTZEN.</fr_fr>
+    <it_it>PROFILO ATTIVO NON CONNESSO. TORNA ALLA SCHERMATA D'ACCESSO.</it_it>
+    <ja_jp>アクティブなプロフィールがサインアウトしました。スタート画面に戻ります。</ja_jp>
+    <ko_kr>프로필이 로그아웃되었습니다. 시작 화면으로 돌아갑니다.</ko_kr>
+    <pl_pl>WYLOGOWANO Z AKTYWNEGO PROFILU. NASTĄPI POWRÓT DO EKRANU STARTOWEGO.</pl_pl>
+    <pt_pt>O PERFIL ATIVO TERMINOU A SESSÃO. A REGRESSAR AO ECRÃ INICIAL.</pt_pt>
+    <ru_ru>ВЫ ВЫШЛИ ИЗ АКТИВНОГО ПРОФИЛЯ. ВОЗВРАЩАЕМ ВАС НА ГЛАВНЫЙ ЭКРАН.</ru_ru>
+    <tr_tr>AKTİF PROFİL ÇIKTI. BAŞLANGIÇ EKRANINA DÖNÜYOR</tr_tr>
+    <zh_cn>活动档案已注销。正在返回开始屏幕。</zh_cn>
+    <zh_tw>遊戲檔案已登出。正在返回開始螢幕。</zh_tw>
+  </string>
+  <string value="AN ERROR HAS OCCURRED WHILE LOADING. CONTINUING WILL OVERWRITE THE EXISTING SAVEGAME.">
+    <en_us>AN ERROR HAS OCCURRED WHILE LOADING. CONTINUING WILL OVERWRITE THE EXISTING SAVEGAME.</en_us>
+    <de_de>BEIM LADEN IST EIN FEHLER AUFGETRETEN. WENN DU FORTFÄHRST, WIRD DER EXISTIERENDE SPEICHERSTAND ÜBERSCHRIEBEN.</de_de>
+    <es_es>HA OCURRIDO UN ERROR AL CARGAR. SI CONTINÚAS, SE SOBRESCRIBIRÁ LA PARTIDA GUARDADA.</es_es>
+    <fr_fr>ERRORE BAT GERTATU DA KARGATZEAN. JARRAITUZ GERO GORDETAKO PARTIDA GAINIDATZIKO DA.</fr_fr>
+    <it_it>SI È VERIFICATO UN ERRORE DURANTE IL CARICAMENTO. SE CONTINUI, IL SALVATAGGIO ESISTENTE SARÀ SOVRASCRITTO.</it_it>
+    <ja_jp>ロード中にエラーが発生しました。このまま続けると、既存のセーブデータに上書きします。</ja_jp>
+    <ko_kr>로드 중에 오류가 발생했습니다. 계속할 경우 기존에 저장된 게임을 덮어쓰게 됩니다.</ko_kr>
+    <pl_pl>PODCZAS WCZYTYWANIA WYSTĄPIŁ BŁĄD. | JEŚLI WYBIERZESZ KONTYNUUJ, ISTNIEJĄCY ZAPIS POSTĘPU ZOSTANIE ZASTĄPIONY NOWYM.</pl_pl>
+    <pt_pt>OCORREU UM ERRO AO CARREGAR. SE CONTINUARES, IRÁS SUBSTITUIR OS DADOS DE JOGO GUARDADOS.</pt_pt>
+    <ru_ru>ОШИБКА ПРИ ЗАГРУЗКЕ. ПРИ ПРОДОЛЖЕНИИ СУЩЕСТВУЮЩЕЕ СОХРАНЕНИЕ БУДЕТ ПЕРЕЗАПИСАНО.</ru_ru>
+    <tr_tr>YÜKLERKEN BİR HATA OLUŞTU. DEVAM EDİLİRSE, MEVCUT KAYITLI OYUNUN ÜZERİNE YAZILACAK.</tr_tr>
+    <zh_cn>加载时发生错误。继续将会覆盖当前保存的游戏。</zh_cn>
+    <zh_tw>載入時發生錯誤。繼續將會覆蓋當前儲存的遊戲。</zh_tw>
+  </string>
+  <string value="AN ERROR HAS OCCURRED WHILE SAVING. IF YOU CONTINUE, YOUR PROGESS WILL NOT BE SAVED.">
+    <en_us>AN ERROR HAS OCCURRED WHILE SAVING. IF YOU CONTINUE, YOUR PROGESS WILL NOT BE SAVED.</en_us>
+    <de_de>BEIM SPEICHERN IST EIN FEHLER AUFGETRETEN. DEIN FORTSCHRITT WIRD NICHT GESPEICHERT.</de_de>
+    <es_es>HA OCURRIDO UN ERROR AL GUARDAR. SI CONTINÚAS, NO SE GUARDARÁ EL PROGRESO.</es_es>
+    <fr_fr>ERRORE BAT GERTATU DA GORDETZEAN. JARRAITZEN BADUZU, AURRERAPENA EZ DA GORDEKO.</fr_fr>
+    <it_it>SI È VERIFICATO UN ERRORE DURANTE IL SALVATAGGIO. SE CONTINUI, I TUOI PROGRESSI NON SARANNO SALVATI.</it_it>
+    <ja_jp>セーブ中にエラーが発生しました。このまま続けると、ゲームの進捗はセーブされません。</ja_jp>
+    <ko_kr>저장하는 중에 오류가 발생했습니다. 계속할 경우 진행상황이 저장되지 않습니다.</ko_kr>
+    <pl_pl>PODCZAS ZAPISYWANIA WYSTĄPIŁ BŁĄD. | JEŚLI WYBIERZESZ KONTYNUUJ, DOTYCHCZASOWY POSTĘP NIE ZOSTANIE ZAPISANY.</pl_pl>
+    <pt_pt>OCORREU UM ERRO AO GUARDAR. SE CONTINUARES, O TEU PROGRESSO NÃO SERÁ GUARDADO.</pt_pt>
+    <ru_ru>ОШИБКА ПРИ СОХРАНЕНИИ. ПРИ ПРОДОЛЖЕНИИ ВАШЕ ПРОХОЖДЕНИЕ НЕ БУДЕТ СОХРАНЕНО.</ru_ru>
+    <tr_tr>KAYDEDERKEN BİR HATA OLUŞTU. İLERLEMEN KAYDEDİLMEYECEK.</tr_tr>
+    <zh_cn>保存时发生错误。如果继续，将无法保存您的进度。</zh_cn>
+    <zh_tw>儲存時發生錯誤。如果繼續，將無法儲存您的進度。</zh_tw>
+  </string>
+  <string value="ARE YOU SURE YOU WANT TO QUIT?">
+    <en_us>ARE YOU SURE YOU WANT TO QUIT?</en_us>
+    <de_de>BIST DU DIR SICHER, DASS DU AUFHÖREN WILLST?</de_de>
+    <es_es>¿SEGURO QUE QUIERES ABANDONAR?</es_es>
+    <fr_fr>ZIUR IRTEN NAHI DUZULA?</fr_fr>
+    <it_it>SEI SICURO DI VOLER ABBANDONARE?</it_it>
+    <ja_jp>終了してよろしいですか？</ja_jp>
+    <ko_kr>정말 종료하시겠습니까?</ko_kr>
+    <pl_pl>CZY NA PEWNO CHCESZ ZAKOŃCZYĆ?</pl_pl>
+    <pt_pt>TENS A CERTEZA DE QUE QUERES SAIR?</pt_pt>
+    <ru_ru>ВЫ ТОЧНО ХОТИТЕ ВЫЙТИ?</ru_ru>
+    <tr_tr>ÇIKMAK İSTEDİĞİNE EMİN MİSİN?</tr_tr>
+    <zh_cn>确定要退出吗？</zh_cn>
+    <zh_tw>確定要退出嗎？</zh_tw>
+  </string>
+  <string value="ARE YOU SURE YOU WANT TO RESET TO DEFAULT CONTROLS?">
+    <en_us>ARE YOU SURE YOU WANT TO RESET TO DEFAULT CONTROLS?</en_us>
+    <de_de>BIST DU DIR SICHER, DASS DU AUF DIE STANDARDSTEUERUNG ZURÜCKSETZEN WILLST?</de_de>
+    <es_es>¿SEGURO QUE QUIERES RESTAURAR LOS CONTROLES PREDETERMINADOS?</es_es>
+    <fr_fr>ZIUR KONTROL LEHENETSIAK BERREZARRI NAHI DITUZULA?</fr_fr>
+    <it_it>SEI SICURO DI VOLER RIPRISTINARE I COMANDI PREDEFINITI?</it_it>
+    <ja_jp>デフォルトの操作設定に戻してよろしいですか？</ja_jp>
+    <ko_kr>기본 컨트롤 설정으로 초기화하시겠습니까?</ko_kr>
+    <pl_pl>CZY NA PEWNO CHCESZ PRZYWRÓCIĆ DOMYŚLNE USTAWIENIA STEROWANIA?</pl_pl>
+    <pt_pt>TENS A CERTEZA DE QUE QUERES REPOR OS COMANDOS PREDEFINIDOS?</pt_pt>
+    <ru_ru>ВЫ ТОЧНО ХОТИТЕ СБРОСИТЬ НАСТРОЙКИ УПРАВЛЕНИЯ НА НАСТРОЙКИ ПО УМОЛЧАНИЮ?</ru_ru>
+    <tr_tr>VARSAYILAN KONTROLLERE DÖNMEK İSTEDİĞİNE EMİN MİSİN?</tr_tr>
+    <zh_cn>确定要重置为默认控件吗？</zh_cn>
+    <zh_tw>確定要重設為預設控件嗎？</zh_tw>
+  </string>
+  <string value="ARE YOU SURE YOU WANT TO START A NEW GAME?">
+    <en_us>ARE YOU SURE YOU WANT TO START A NEW GAME?</en_us>
+    <de_de>BIST DU DIR SICHER, DASS DU EIN NEUES SPIEL STARTEN WILLST?</de_de>
+    <es_es>¿SEGURO QUE QUIERES EMPEZAR UNA PARTIDA NUEVA?</es_es>
+    <fr_fr>ZIUR PARTIDA BERRIA HASI NAHI DUZULA?</fr_fr>
+    <it_it>SEI SICURO DI VOLER INIZIARE UNA NUOVA PARTITA?</it_it>
+    <ja_jp>ゲームを初めからやり直してよろしいですか？</ja_jp>
+    <ko_kr>정말 새로운 게임을 시작하시겠습니까?</ko_kr>
+    <pl_pl>CZY NA PEWNO CHCESZ ROZPOCZĄĆ NOWĄ GRĘ?</pl_pl>
+    <pt_pt>TENS A CERTEZA DE QUE QUERES INICIAR UM NOVO JOGO?</pt_pt>
+    <ru_ru>ВЫ ТОЧНО ХОТИТЕ НАЧАТЬ НОВУЮ ИГРУ?</ru_ru>
+    <tr_tr>YENİ BİR OYUNA BAŞLAMAK İSTEDİĞİNE EMİN MİSİN?</tr_tr>
+    <zh_cn>确定要开始新游戏吗？</zh_cn>
+    <zh_tw>確定要開始新遊戲嗎？</zh_tw>
+  </string>
+  <string value="BACK">
+    <en_us>BACK</en_us>
+    <de_de>ZURÜCK</de_de>
+    <es_es>ATRÁS</es_es>
+    <fr_fr>ITZULI</fr_fr>
+    <it_it>INDIETRO</it_it>
+    <ja_jp>戻る</ja_jp>
+    <ko_kr>뒤로</ko_kr>
+    <pl_pl>WSTECZ</pl_pl>
+    <pt_pt>RETROCEDER</pt_pt>
+    <ru_ru>НАЗАД</ru_ru>
+    <tr_tr>GERİ</tr_tr>
+    <zh_cn>返回</zh_cn>
+    <zh_tw>返回</zh_tw>
+  </string>
+  <string value="BRIGHTNESS">
+    <en_us>BRIGHTNESS</en_us>
+    <de_de>HELLIGKEIT</de_de>
+    <es_es>BRILLO</es_es>
+    <fr_fr>ARGITASUNA</fr_fr>
+    <it_it>LUMINOSITÀ</it_it>
+    <ja_jp>明るさ</ja_jp>
+    <ko_kr>밝기</ko_kr>
+    <pl_pl>JASNOŚĆ</pl_pl>
+    <pt_pt>BRILHO</pt_pt>
+    <ru_ru>ЯРКОСТЬ</ru_ru>
+    <tr_tr>PARLAKLIK</tr_tr>
+    <zh_cn>亮度</zh_cn>
+    <zh_tw>亮度</zh_tw>
+  </string>
+  <string value="COMPLETE THE ADVENTURE">
+    <en_us>CONTINUE THE ADVENTURE</en_us>
+	<de_de>WEITER MIT DEM ABENTEUER</de_de>
+    <es_es>CONTINUAR LA AVENTURA</es_es>
+    <fr_fr>JARRAITU ABENTURA</fr_fr>
+    <it_it>CONTINUA L'AVVENTURA</it_it>
+    <ja_jp>冒険を続ける</ja_jp>
+    <ko_kr>모험 계속하기</ko_kr>
+    <pl_pl>KONTYNUUJ PRZYGODĘ</pl_pl>
+    <pt_pt>CONTINUAR A AVENTURA</pt_pt>
+    <ru_ru>ПРОДОЛЖИТЬ ПРИКЛЮЧЕНИЕ</ru_ru>
+    <tr_tr>MACERAYA DEVAM ET</tr_tr>
+    <zh_cn>继续冒险</zh_cn>
+    <zh_tw>繼續冒險</zh_tw>
+  </string>
+  <string value="CONTINUE">
+    <en_us>CONTINUE</en_us>
+    <de_de>WEITER</de_de>
+    <es_es>CONTINUAR</es_es>
+    <fr_fr>JARRAITU</fr_fr>
+    <it_it>CONTINUA</it_it>
+    <ja_jp>コンティニュー</ja_jp>
+    <ko_kr>계속하기</ko_kr>
+    <pl_pl>KONTYNUUJ</pl_pl>
+    <pt_pt>CONTINUAR</pt_pt>
+    <ru_ru>ПРОДОЛЖИТЬ</ru_ru>
+    <tr_tr>DEVAM ET</tr_tr>
+    <zh_cn>继续</zh_cn>
+    <zh_tw>繼續</zh_tw>
+  </string>
+  <string value="CONTINUE?">
+    <en_us>CONTINUE?</en_us>
+	<de_de>WEITERSPIELEN?</de_de>
+    <es_es>¿CONTINUAR?</es_es>
+    <fr_fr>JARRAITU?</fr_fr>
+    <it_it>CONTINUARE?</it_it>
+    <ja_jp>コンティニュー？</ja_jp>
+    <ko_kr>계속하시겠습니까?</ko_kr>
+    <pl_pl>KONTYNUOWAĆ?</pl_pl>
+    <pt_pt>CONTINUAR?</pt_pt>
+    <ru_ru>ПРОДОЛЖИТЬ?</ru_ru>
+    <tr_tr>DEVAM ET?</tr_tr>
+    <zh_cn>继续？</zh_cn>
+    <zh_tw>繼續？</zh_tw>
+  </string>
+  <string value="CONTROLLER">
+    <en_us>CONTROLLER</en_us>
+    <de_de>CONTROLLER</de_de>
+    <es_es>MANDO</es_es>
+    <fr_fr>AGINTEA</fr_fr>
+    <it_it>CONTROLLER</it_it>
+    <ja_jp>コントローラー</ja_jp>
+    <ko_kr>컨트롤러</ko_kr>
+    <pl_pl>KONTROLER</pl_pl>
+    <pt_pt>COMANDO</pt_pt>
+    <ru_ru>КОНТРОЛЛЕР</ru_ru>
+    <tr_tr>KUMANDA</tr_tr>
+    <zh_cn>手柄</zh_cn>
+    <zh_tw>控制器</zh_tw>
+  </string>
+  <string value="CONTROLS">
+    <en_us>CONTROLS</en_us>
+    <de_de>STEUERUNG</de_de>
+    <es_es>CONTROLES</es_es>
+    <fr_fr>KONTROLAK</fr_fr>
+    <it_it>COMANDI</it_it>
+    <ja_jp>操作</ja_jp>
+    <ko_kr>컨트롤</ko_kr>
+    <pl_pl>STEROWANIE</pl_pl>
+    <pt_pt>COMANDOS</pt_pt>
+    <ru_ru>УПРАВЛЕНИЕ</ru_ru>
+    <tr_tr>KONTROLLER</tr_tr>
+    <zh_cn>控件</zh_cn>
+    <zh_tw>控件</zh_tw>
+  </string>
+  <string value="DOWN">
+    <en_us>DOWN</en_us>
+    <de_de>RUNTER</de_de>
+    <es_es>ABAJO</es_es>
+    <fr_fr>BEHERA</fr_fr>
+    <it_it>GIÙ</it_it>
+    <ja_jp>下</ja_jp>
+    <ko_kr>아래</ko_kr>
+    <pl_pl>W DÓŁ</pl_pl>
+    <pt_pt>BAIXO</pt_pt>
+    <ru_ru>ВНИЗ</ru_ru>
+    <tr_tr>AŞAĞI</tr_tr>
+    <zh_cn>下</zh_cn>
+    <zh_tw>下</zh_tw>
+  </string>
+  <string value="FULLSCREEN">
+    <en_us>FULLSCREEN</en_us>
+    <de_de>VOLLBILD</de_de>
+    <es_es>PANTALLA COMPLETA</es_es>
+    <fr_fr>PANTAILA OSOAN</fr_fr>
+    <it_it>SCHERMO INTERO</it_it>
+    <ja_jp>フル画面</ja_jp>
+    <ko_kr>전체 화면</ko_kr>
+    <pl_pl>PEŁNY EKRAN</pl_pl>
+    <pt_pt>ECRÃ INTEIRO</pt_pt>
+    <ru_ru>ПОЛНЫЙ ЭКРАН</ru_ru>
+    <tr_tr>TAM EKRAN</tr_tr>
+    <zh_cn>全屏</zh_cn>
+    <zh_tw>全螢幕</zh_tw>
+  </string>
+  <string value="GAME PAUSED.">
+    <en_us>GAME PAUSED.</en_us>
+    <de_de>SPIEL PAUSIERT.</de_de>
+    <es_es>JUEGO EN PAUSA.</es_es>
+    <fr_fr>JOKOA PAUSATUTA.</fr_fr>
+    <it_it>IN PAUSA.</it_it>
+    <ja_jp>ポーズ中</ja_jp>
+    <ko_kr>게임 일시 정지됨.</ko_kr>
+    <pl_pl>PRZERWANO GRĘ</pl_pl>
+    <pt_pt>JOGO EM PAUSA.</pt_pt>
+    <ru_ru>ИГРА НА ПАУЗЕ.</ru_ru>
+    <tr_tr>OYUN DURAKLATILDI</tr_tr>
+    <zh_cn>游戏已暂停</zh_cn>
+    <zh_tw>遊戲已暫停</zh_tw>
+  </string>
+  <string value="grab">
+    <en_us>grab</en_us>
+    <de_de>greifen</de_de>
+    <es_es>coger</es_es>
+    <fr_fr>heldu</fr_fr>
+    <it_it>afferra</it_it>
+    <ja_jp>つかむ</ja_jp>
+    <ko_kr>잡기</ko_kr>
+    <pl_pl>chwyć</pl_pl>
+    <pt_pt>agarrar</pt_pt>
+    <ru_ru>схватить</ru_ru>
+    <tr_tr>tut</tr_tr>
+    <zh_cn>抓取</zh_cn>
+    <zh_tw>抓取</zh_tw>
+  </string>
+  <string value="GRAB">
+    <en_us>GRAB</en_us>
+    <de_de>GREIFEN</de_de>
+    <es_es>COGER</es_es>
+    <fr_fr>HELDU</fr_fr>
+    <it_it>AFFERRA</it_it>
+    <ja_jp>つかむ</ja_jp>
+    <ko_kr>잡기</ko_kr>
+    <pl_pl>CHWYĆ</pl_pl>
+    <pt_pt>AGARRAR</pt_pt>
+    <ru_ru>СХВАТИТЬ</ru_ru>
+    <tr_tr>TUT</tr_tr>
+    <zh_cn>抓取</zh_cn>
+    <zh_tw>抓取</zh_tw>
+  </string>
+  <string value="GRAPHICS">
+    <en_us>GRAPHICS</en_us>
+    <de_de>GRAFIK</de_de>
+    <es_es>GRÁFICOS</es_es>
+    <fr_fr>GRAFIKOAK</fr_fr>
+    <it_it>GRAFICA</it_it>
+    <ja_jp>グラフィック</ja_jp>
+    <ko_kr>그래픽</ko_kr>
+    <pl_pl>GRAFIKA</pl_pl>
+    <pt_pt>GRÁFICOS</pt_pt>
+    <ru_ru>ГРАФИКА</ru_ru>
+    <tr_tr>GRAFİKLER</tr_tr>
+    <zh_cn>图像</zh_cn>
+    <zh_tw>畫面</zh_tw>
+  </string>
+  <string value="jump">
+    <en_us>jump</en_us>
+    <de_de>springen</de_de>
+    <es_es>saltar</es_es>
+    <fr_fr>jauzi</fr_fr>
+    <it_it>salta</it_it>
+    <ja_jp>ジャンプ</ja_jp>
+    <ko_kr>점프</ko_kr>
+    <pl_pl>skok</pl_pl>
+    <pt_pt>saltar</pt_pt>
+    <ru_ru>прыжок</ru_ru>
+    <tr_tr>zıpla</tr_tr>
+    <zh_cn>跳跃</zh_cn>
+    <zh_tw>跳躍</zh_tw>
+  </string>
+  <string value="JUMP">
+    <en_us>JUMP</en_us>
+    <de_de>SPRINGEN</de_de>
+    <es_es>SALTAR</es_es>
+    <fr_fr>JAUZI EGIN</fr_fr>
+    <it_it>SALTA</it_it>
+    <ja_jp>ジャンプ</ja_jp>
+    <ko_kr>점프</ko_kr>
+    <pl_pl>SKOK</pl_pl>
+    <pt_pt>SALTAR</pt_pt>
+    <ru_ru>ПРЫЖОК</ru_ru>
+    <tr_tr>ZıPLA</tr_tr>
+    <zh_cn>跳跃</zh_cn>
+    <zh_tw>跳躍</zh_tw>
+  </string>
+  <string value="KEYBOARD">
+    <en_us>KEYBOARD</en_us>
+    <de_de>TASTATUR</de_de>
+    <es_es>TECLADO</es_es>
+    <fr_fr>TEKLATUA</fr_fr>
+    <it_it>TASTIERA</it_it>
+    <ja_jp>キーボード</ja_jp>
+    <ko_kr>키보드</ko_kr>
+    <pl_pl>KLAWIATURA</pl_pl>
+    <pt_pt>TECLADO</pt_pt>
+    <ru_ru>КЛАВИАТУРА</ru_ru>
+    <tr_tr>KLAVYE</tr_tr>
+    <zh_cn>键盘</zh_cn>
+    <zh_tw>鍵盤</zh_tw>
+  </string>
+  <string value="LEFT">
+    <en_us>LEFT</en_us>
+    <de_de>LINKS</de_de>
+    <es_es>IZQUIERDA</es_es>
+    <fr_fr>EZKERRERA</fr_fr>
+    <it_it>SINISTRA</it_it>
+    <ja_jp>左</ja_jp>
+    <ko_kr>좌</ko_kr>
+    <pl_pl>W LEWO</pl_pl>
+    <pt_pt>ESQUERDA</pt_pt>
+    <ru_ru>ВЛЕВО</ru_ru>
+    <tr_tr>SOL</tr_tr>
+    <zh_cn>左</zh_cn>
+    <zh_tw>左</zh_tw>
+  </string>
+  <string value="LET IT END HERE">
+    <en_us>LET IT END HERE</en_us>
+	<de_de>HIER SOLL ES ENDEN</de_de>
+    <es_es>DEJAR QUE SE ACABE AQUÍ</es_es>
+    <fr_fr>UTZI HEMEN BUKATZEN</fr_fr>
+    <it_it>FINISCI QUI</it_it>
+    <ja_jp>ここで終わりとしよう</ja_jp>
+    <ko_kr>그만하기</ko_kr>
+    <pl_pl>SKOŃCZ TUTAJ</pl_pl>
+    <pt_pt>FICAR POR AQUI</pt_pt>
+    <ru_ru>НЕТ, ДОСТАТОЧНО</ru_ru>
+    <tr_tr>BIRAK BURADA BİTSİN</tr_tr>
+    <zh_cn>就此结束</zh_cn>
+    <zh_tw>就此結束</zh_tw>
+  </string>
+  <string value="LOAD">
+    <en_us>LOAD</en_us>
+    <de_de>LADEN</de_de>
+    <es_es>CARGAR</es_es>
+    <fr_fr>KARGATU</fr_fr>
+    <it_it>CARICA</it_it>
+    <ja_jp>ロード</ja_jp>
+    <ko_kr>불러오기</ko_kr>
+    <pl_pl>WCZYTAJ</pl_pl>
+    <pt_pt>CARREGAR</pt_pt>
+    <ru_ru>ЗАГРУЗИТЬ</ru_ru>
+    <tr_tr>YÜKLE</tr_tr>
+    <zh_cn>载入</zh_cn>
+    <zh_tw>載入</zh_tw>
+  </string>
+  <string value="LOADING">
+    <en_us>LOADING</en_us>
+    <de_de>WIRD GELADEN</de_de>
+    <es_es>CARGANDO</es_es>
+    <fr_fr>KARGATZEN</fr_fr>
+    <it_it>CARICAMENTO</it_it>
+    <ja_jp>ロード中</ja_jp>
+    <ko_kr>로드 중</ko_kr>
+    <pl_pl>WCZYTYWANIE</pl_pl>
+    <pt_pt>A CARREGAR</pt_pt>
+    <ru_ru>ЗАГРУЗКА</ru_ru>
+    <tr_tr>YÜKLÜYOR</tr_tr>
+    <zh_cn>加载</zh_cn>
+    <zh_tw>載入</zh_tw>
+  </string>
+  <string value="move">
+    <en_us>move</en_us>
+    <de_de>bewegen</de_de>
+    <es_es>mover</es_es>
+    <fr_fr>mugitu</fr_fr>
+    <it_it>muovi</it_it>
+    <ja_jp>移動</ja_jp>
+    <ko_kr>이동</ko_kr>
+    <pl_pl>ruch</pl_pl>
+    <pt_pt>andar</pt_pt>
+    <ru_ru>движение</ru_ru>
+    <tr_tr>hareket et</tr_tr>
+    <zh_cn>移动</zh_cn>
+    <zh_tw>移動</zh_tw>
+  </string>
+  <string value="NO">
+    <en_us>NO</en_us>
+    <de_de>NEIN</de_de>
+    <es_es>NO</es_es>
+    <fr_fr>EZ</fr_fr>
+    <it_it>NO</it_it>
+    <ja_jp>いいえ</ja_jp>
+    <ko_kr>아니오</ko_kr>
+    <pl_pl>NIE</pl_pl>
+    <pt_pt>NÃO</pt_pt>
+    <ru_ru>НЕТ</ru_ru>
+    <tr_tr>HAYIR</tr_tr>
+    <zh_cn>否</zh_cn>
+    <zh_tw>否</zh_tw>
+  </string>
+  <string value="OFF">
+    <en_us>OFF</en_us>
+    <de_de>AUS</de_de>
+    <es_es>NO</es_es>
+    <fr_fr>EZ</fr_fr>
+    <it_it>NO</it_it>
+    <ja_jp>オフ</ja_jp>
+    <ko_kr>끄기</ko_kr>
+    <pl_pl>WYŁ.</pl_pl>
+    <pt_pt>DESLIGAR</pt_pt>
+    <ru_ru>ВЫКЛ</ru_ru>
+    <tr_tr>KAPALI</tr_tr>
+    <zh_cn>关</zh_cn>
+    <zh_tw>關</zh_tw>
+  </string>
+  <string value="OK">
+    <en_us>OK</en_us>
+    <de_de>OK</de_de>
+    <es_es>ACEPTAR</es_es>
+    <fr_fr>ADOS</fr_fr>
+    <it_it>OK</it_it>
+    <ja_jp>OK</ja_jp>
+    <ko_kr>확인</ko_kr>
+    <pl_pl>OK</pl_pl>
+    <pt_pt>OK</pt_pt>
+    <ru_ru>ОК</ru_ru>
+    <tr_tr>TAMAM</tr_tr>
+    <zh_cn>确定</zh_cn>
+    <zh_tw>確定</zh_tw>
+  </string>
+  <string value="ON">
+    <en_us>ON</en_us>
+    <de_de>EIN</de_de>
+    <es_es>SÍ</es_es>
+    <fr_fr>BAI</fr_fr>
+    <it_it>SÌ</it_it>
+    <ja_jp>オン</ja_jp>
+    <ko_kr>켜기</ko_kr>
+    <pl_pl>WŁ.</pl_pl>
+    <pt_pt>LIGAR</pt_pt>
+    <ru_ru>ВКЛ</ru_ru>
+    <tr_tr>AÇIK</tr_tr>
+    <zh_cn>开</zh_cn>
+    <zh_tw>開</zh_tw>
+  </string>
+  <string value="PRESS ANY BUTTON">
+    <en_us>PRESS ANY BUTTON</en_us>
+    <de_de>BELIEBIGE TASTE DRÜCKEN</de_de>
+    <es_es>PULSA CUALQUIER BOTÓN</es_es>
+    <fr_fr>SAKATU EDOZEIN BOTOI</fr_fr>
+    <it_it>PREMI UN PULSANTE</it_it>
+    <ja_jp>どれかボタンを押してください</ja_jp>
+    <ko_kr>아무 버튼이나 누르세요.</ko_kr>
+    <pl_pl>NACIŚNIJ DOWOLNY PRZYCISK</pl_pl>
+    <pt_pt>PRIME UM BOTÃO</pt_pt>
+    <ru_ru>НАЖМИТЕ ЛЮБУЮ КНОПКУ</ru_ru>
+    <tr_tr>HERHANGİ BİR DÜĞMEYE BASIN</tr_tr>
+    <zh_cn>按任意按钮</zh_cn>
+    <zh_tw>按任意按鈕</zh_tw>
+  </string>
+  <string value="QUIT">
+    <en_us>QUIT</en_us>
+    <de_de>ABBRECHEN</de_de>
+    <es_es>ABANDONAR</es_es>
+    <fr_fr>IRTEN</fr_fr>
+    <it_it>ESCI</it_it>
+    <ja_jp>終了</ja_jp>
+    <ko_kr>종료</ko_kr>
+    <pl_pl>ZAKOŃCZ</pl_pl>
+    <pt_pt>SAIR</pt_pt>
+    <ru_ru>ВЫХОД</ru_ru>
+    <tr_tr>ÇIK</tr_tr>
+    <zh_cn>退出</zh_cn>
+    <zh_tw>退出</zh_tw>
+  </string>
+  <string value="RESET TO DEFAULTS">
+    <en_us>RESET TO DEFAULTS</en_us>
+    <de_de>AUF STANDARDEINSTELLUNGEN ZURÜCKSETZEN</de_de>
+    <es_es>RESTAURAR PREDETERMINADOS</es_es>
+    <fr_fr>BERREZARRI LEHENETSIAK</fr_fr>
+    <it_it>RIPRISTINA PREDEFINITI</it_it>
+    <ja_jp>デフォルトにリセット</ja_jp>
+    <ko_kr>기본값으로 초기화</ko_kr>
+    <pl_pl>PRZYWRÓĆ DO DOMYŚLNYCH</pl_pl>
+    <pt_pt>REPOR PREDEFINIÇÕES</pt_pt>
+    <ru_ru>СБРОСИТЬ НА НАСТРОЙКИ ПО УМОЛЧАНИЮ</ru_ru>
+    <tr_tr>VARSAYILANLARA DÖN</tr_tr>
+    <zh_cn>重置为默认值</zh_cn>
+    <zh_tw>重設為預設值</zh_tw>
+  </string>
+  <string value="RESOLUTION">
+    <en_us>RESOLUTION</en_us>
+    <de_de>AUFLÖSUNG</de_de>
+    <es_es>RESOLUCIÓN</es_es>
+    <fr_fr>BEREIZMENA</fr_fr>
+    <it_it>RISOLUZIONE</it_it>
+    <ja_jp>解像度</ja_jp>
+    <ko_kr>해상도</ko_kr>
+    <pl_pl>ROZDZIELCZOŚĆ</pl_pl>
+    <pt_pt>RESOLUÇÃO</pt_pt>
+    <ru_ru>РАЗРЕШЕНИЕ</ru_ru>
+    <tr_tr>ÇÖZÜNÜRLÜK</tr_tr>
+    <zh_cn>分辨率</zh_cn>
+    <zh_tw>解析度</zh_tw>
+  </string>
+  <string value="RESUME">
+    <en_us>RESUME</en_us>
+    <de_de>WEITERSPIELEN</de_de>
+    <es_es>CONTINUAR</es_es>
+    <fr_fr>JARRAITU</fr_fr>
+    <it_it>RIPRENDI</it_it>
+    <ja_jp>再開</ja_jp>
+    <ko_kr>계속하기</ko_kr>
+    <pl_pl>WZNÓW</pl_pl>
+    <pt_pt>RETOMAR</pt_pt>
+    <ru_ru>ПРОДОЛЖИТЬ</ru_ru>
+    <tr_tr>DEVAM ET</tr_tr>
+    <zh_cn>继续</zh_cn>
+    <zh_tw>繼續</zh_tw>
+  </string>
+  <string value="RETRY">
+    <en_us>RETRY</en_us>
+    <de_de>ERNEUT VERSUCHEN</de_de>
+    <es_es>VOLVER A INTENTAR</es_es>
+    <fr_fr>SAIATU BERRIZ</fr_fr>
+    <it_it>RIPROVA</it_it>
+    <ja_jp>やり直し</ja_jp>
+    <ko_kr>재시도</ko_kr>
+    <pl_pl>PONÓW PRÓBĘ</pl_pl>
+    <pt_pt>TENTAR DE NOVO</pt_pt>
+    <ru_ru>ЕЩЕ РАЗ</ru_ru>
+    <tr_tr>YENİDEN DENE</tr_tr>
+    <zh_cn>重试</zh_cn>
+    <zh_tw>重試</zh_tw>
+  </string>
+  <string value="RIGHT">
+    <en_us>RIGHT</en_us>
+    <de_de>RECHTS</de_de>
+    <es_es>DERECHA</es_es>
+    <fr_fr>ESKUMARA</fr_fr>
+    <it_it>DESTRA</it_it>
+    <ja_jp>右</ja_jp>
+    <ko_kr>우</ko_kr>
+    <pl_pl>W PRAWO</pl_pl>
+    <pt_pt>DIREITA</pt_pt>
+    <ru_ru>ВПРАВО</ru_ru>
+    <tr_tr>SAĞ</tr_tr>
+    <zh_cn>右</zh_cn>
+    <zh_tw>右</zh_tw>
+  </string>
+  <string value="SAVEPOINTS">
+    <en_us>SAVEPOINTS</en_us>
+    <de_de>SPEICHERPUNKTE</de_de>
+    <es_es>PUNTOS DE GUARDADO</es_es>
+    <fr_fr>GORDETZE-PUNTUAK</fr_fr>
+    <it_it>PUNTI DI SALVATAGGIO</it_it>
+    <ja_jp>セーブポイント</ja_jp>
+    <ko_kr>세이브포인트</ko_kr>
+    <pl_pl>PUNKTY ZAPISU</pl_pl>
+    <pt_pt>PONTOS DE REPOSIÇÃO</pt_pt>
+    <ru_ru>ТОЧКИ СОХРАНЕНИЯ</ru_ru>
+    <tr_tr>KAYIT NOKTALARI</tr_tr>
+    <zh_cn>保存点</zh_cn>
+    <zh_tw>儲存點</zh_tw>
+  </string>
+  <string value="SETTINGS">
+    <en_us>SETTINGS</en_us>
+    <de_de>EINSTELLUNGEN</de_de>
+    <es_es>AJUSTES</es_es>
+    <fr_fr>EZARPENAK</fr_fr>
+    <it_it>IMPOSTAZIONI</it_it>
+    <ja_jp>設定</ja_jp>
+    <ko_kr>설정</ko_kr>
+    <pl_pl>USTAWIENIA</pl_pl>
+    <pt_pt>DEFINIÇÕES</pt_pt>
+    <ru_ru>НАСТРОЙКИ</ru_ru>
+    <tr_tr>AYARLAR</tr_tr>
+    <zh_cn>设置</zh_cn>
+    <zh_tw>設定</zh_tw>
+  </string>
+  <string value="SWITCH PROFILE">
+    <en_us>SWITCH PROFILE</en_us>
+    <de_de>PROFIL WECHSELN</de_de>
+    <es_es>CAMBIAR PERFIL</es_es>
+    <fr_fr>ALDATU PROFILEZ</fr_fr>
+    <it_it>CAMBIA PROFILO</it_it>
+    <ja_jp>プロフィール切替</ja_jp>
+    <ko_kr>프로필 전환</ko_kr>
+    <pl_pl>PRZEŁĄCZ PROFIL</pl_pl>
+    <pt_pt>MUDAR PERFIL</pt_pt>
+    <ru_ru>СМЕНИТЬ ПРОФИЛЬ</ru_ru>
+    <tr_tr>PROFİL DEĞİŞTİR</tr_tr>
+    <zh_cn>切换档案</zh_cn>
+    <zh_tw>切換檔案</zh_tw>
+  </string>
+  <string value="UNLOCK FULL GAME">
+    <en_us>UNLOCK FULL GAME</en_us>
+	<de_de>GANZES SPIEL FREISCHALTEN</de_de>
+    <es_es>DESBLOQUEAR EL JUEGO ENTERO</es_es>
+    <fr_fr>DESBLOKEATU JOKO OSOA</fr_fr>
+    <it_it>SBLOCCA IL GIOCO COMPLETO</it_it>
+    <ja_jp>完全版をアンロック</ja_jp>
+    <ko_kr>정식 게임 잠금 해제</ko_kr>
+    <pl_pl>ODBLOKUJ PEŁNĄ WERSJĘ GRY</pl_pl>
+    <pt_pt>DESBLOQUEAR A VERSÃO COMPLETA DO JOGO</pt_pt>
+    <ru_ru>ОТКРЫТЬ ПОЛНУЮ ВЕРСИЮ ИГРЫ</ru_ru>
+    <tr_tr>TAM SÜRÜMÜ AÇ</tr_tr>
+    <zh_cn>解锁完整版游戏</zh_cn>
+    <zh_tw>解鎖完整版遊戲</zh_tw>
+  </string>
+  <string value="UP">
+    <en_us>UP</en_us>
+    <de_de>HOCH</de_de>
+    <es_es>ARRIBA</es_es>
+    <fr_fr>GORA</fr_fr>
+    <it_it>SU</it_it>
+    <ja_jp>上</ja_jp>
+    <ko_kr>위</ko_kr>
+    <pl_pl>DO GÓRY</pl_pl>
+    <pt_pt>PARA CIMA</pt_pt>
+    <ru_ru>ВВЕРХ</ru_ru>
+    <tr_tr>YUKARI</tr_tr>
+    <zh_cn>上</zh_cn>
+    <zh_tw>上</zh_tw>
+  </string>
+  <string value="VIBRATION">
+    <en_us>VIBRATION</en_us>
+    <de_de>VIBRATION</de_de>
+    <es_es>VIBRACIÓN</es_es>
+    <fr_fr>DARDARA</fr_fr>
+    <it_it>VIBRAZIONE</it_it>
+    <ja_jp>振動</ja_jp>
+    <ko_kr>진동</ko_kr>
+    <pl_pl>WIBRACJE</pl_pl>
+    <pt_pt>VIBRAÇÃO</pt_pt>
+    <ru_ru>ВИБРАЦИЯ</ru_ru>
+    <tr_tr>TİTREŞİM</tr_tr>
+    <zh_cn>振动</zh_cn>
+    <zh_tw>震動</zh_tw>
+  </string>
+  <string value="VOLUME">
+    <en_us>VOLUME</en_us>
+    <de_de>LAUTSTÄRKE</de_de>
+    <es_es>VOLUMEN</es_es>
+    <fr_fr>BOLUMENA</fr_fr>
+    <it_it>VOLUME</it_it>
+    <ja_jp>音量</ja_jp>
+    <ko_kr>볼륨</ko_kr>
+    <pl_pl>GŁOŚNOŚĆ</pl_pl>
+    <pt_pt>VOLUME</pt_pt>
+    <ru_ru>ГРОМКОСТЬ</ru_ru>
+    <tr_tr>SES</tr_tr>
+    <zh_cn>音量</zh_cn>
+    <zh_tw>音量</zh_tw>
+  </string>
+  <string value="YES">
+    <en_us>YES</en_us>
+    <de_de>JA</de_de>
+    <es_es>SÍ</es_es>
+    <fr_fr>BAI</fr_fr>
+    <it_it>SÌ</it_it>
+    <ja_jp>はい</ja_jp>
+    <ko_kr>예</ko_kr>
+    <pl_pl>TAK</pl_pl>
+    <pt_pt>SIM</pt_pt>
+    <ru_ru>ДА</ru_ru>
+    <tr_tr>EVET</tr_tr>
+    <zh_cn>是</zh_cn>
+    <zh_tw>是</zh_tw>
+  </string>
+  <string value="YOU WILL LOSE ALL UNSAVED PROGRESS. DO YOU WANT TO SWITCH PROFILE?">
+    <en_us>YOU WILL LOSE ALL UNSAVED PROGRESS. DO YOU WANT TO SWITCH PROFILE?</en_us>
+    <de_de>DU VERLIERST FORTSCHRITT, DEN DU NICHT GESPEICHERT HAST. MÖCHTEST DU ZUM PROFIL WECHSELN?</de_de>
+    <es_es>PERDERÁS EL PROGRESO QUE NO HAYAS GUARDADO. ¿QUIERES CAMBIAR DE PERFIL?</es_es>
+    <fr_fr>GORDE GABEKO AURRERAPENA GALDUKO DUZU. PROFILEZ ALDATU NAHI DUZU?</fr_fr>
+    <it_it>PERDERAI TUTTI I PROGRESSI NON SALVATI. VUOI CAMBIARE PROFILO?</it_it>
+    <ja_jp>セーブしていない進捗データはすべて消えます。プロフィールを変更してよろしいですか？</ja_jp>
+    <ko_kr>저장되지 않은 진행상황은 모두 삭제됩니다. 프로필을 전환하시겠습니까?</ko_kr>
+    <pl_pl>UTRACISZ CAŁY NIEZAPISANY POSTĘP. CZY NA PEWNO CHCESZ PRZEŁĄCZYĆ PROFIL?</pl_pl>
+    <pt_pt>PERDERÁS TODO O PROGRESSO NÃO GUARDADO. QUERES MUDAR DE PERFIL?</pt_pt>
+    <ru_ru>ВЫ ПОТЕРЯЕТЕ ВСЁ НЕСОХРАНЕННОЕ ПРОХОЖДЕНИЕ. ВЫ ТОЧНО ХОТИТЕ СМЕНИТЬ ПРОФИЛЬ?</ru_ru>
+    <tr_tr>KAYDEDİLMEMİŞ TÜM İLERLEMEYİ KAYBEDECEKSİN. PROFİL DEĞİŞTİRMEK İSTER MİSİN?</tr_tr>
+    <zh_cn>您将丢失所有未保存的进度。是否要切换档案？</zh_cn>
+    <zh_tw>您將丟失所有未儲存的進度。是否要切換檔案？</zh_tw>
+  </string>
+  <string value="DISPLAY MONITOR">
+    <en_us>DISPLAY MONITOR</en_us>
+  </string>
+  <string value="PLEASE RECONNECT THE CONTROLLER.">
+    <en_us>PLEASE RECONNECT THE WIRELESS CONTROLLER.</en_us>
+    <de_de>BITTE STELLE DIE VERBINDUNG MIT DEM WIRELESS CONTROLER WIEDER HER.</de_de>
+    <es_es>VUELVE A CONECTAR EL MANDO INALÁMBRICO.</es_es>
+    <fr_fr>BIRKONEKTATU HARI GABEKO AGINTEA.</fr_fr>
+    <it_it>RICOLLEGA IL CONTROLLER WIRELESS.</it_it>
+    <ja_jp>ワイヤレスコントローラーを再接続してください。</ja_jp>
+    <ko_kr>무선컨트롤러를다시연결해주세요.</ko_kr>
+    <pl_pl>PONOWNIE PODŁĄCZ KONTROLER BEZPRZEWODOWY</pl_pl>
+    <pt_pt>VOLTA A LIGAR O COMANDO SEM FIOS.</pt_pt>
+    <ru_ru>ПЕРЕПОДКЛЮЧИТЕ БЕСПРОВОДНОЙ ГЕЙМПАД.</ru_ru>
+    <tr_tr>LÜTFEN KABLOSUZ KUMANDAYI YENİDEN BAĞLA</tr_tr>
+    <zh_cn>请重新连接无线控制器。</zh_cn>
+    <zh_tw>請重新連接無線控制器。</zh_tw>
+  </string>
+  <string value="RUN IN BACKGROUND">
+    <en_us>RUN IN BACKGROUND</en_us>
+  </string>
+  <string value="SCREEN RESOLUTION">
+    <en_us>SCREEN RESOLUTION</en_us>
+    <de_de>BILDSCHIRMAUFLÖSUNG</de_de>
+    <es_es>RESOLUCIÓN DE PANTALLA</es_es>
+    <fr_fr>PANTAILA-BEREIZMENA</fr_fr>
+    <it_it>RISOLUZIONE SCHERMO</it_it>
+    <ja_jp>画面解像度</ja_jp>
+    <ko_kr>화면 해상도</ko_kr>
+    <pl_pl>ROZDZIELCZOŚĆ EKRANU</pl_pl>
+    <pt_pt>RESOLUÇÃO DE ECRÃ</pt_pt>
+    <ru_ru>РАЗРЕШЕНИЕ ЭКРАНА</ru_ru>
+    <tr_tr>EKRAN ÇÖZÜNÜRLÜĞÜ</tr_tr>
+    <zh_cn>屏幕分辨率</zh_cn>
+    <zh_tw>螢幕解析度</zh_tw>
+  </string>
+  <string value="SCREEN MODE">
+    <en_us>SCREEN MODE</en_us>
+    <de_de>BILDSCHIRMMODUS</de_de>
+    <es_es>MODO DE PANTALLA</es_es>
+    <fr_fr>PANTAILA MODUA</fr_fr>
+    <it_it>MODALITÀ SCHERMO</it_it>
+    <ja_jp>スクリーンモード</ja_jp>
+    <ko_kr>화면 모드</ko_kr>
+    <pl_pl>TRYB EKRANU</pl_pl>
+    <pt_pt>MODO DE ECRÃ</pt_pt>
+    <ru_ru>РЕЖИМ ЭКРАНА</ru_ru>
+    <tr_tr>EKRAN MODU</tr_tr>
+    <zh_cn>屏幕模式</zh_cn>
+    <zh_tw>螢幕模式</zh_tw>
+  </string>
+  <string value="CUSTOMIZE CONTROLS">
+    <en_us>CUSTOMIZE CONTROLS</en_us>
+    <de_de>STEUERUNG INDIVIDUALISIEREN</de_de>
+    <es_es>PERSONALIZAR CONTROLES</es_es>
+    <fr_fr>PERTSONALIZATU KONTROLAK</fr_fr>
+    <it_it>PERSONALIZZA COMANDI</it_it>
+    <ja_jp>操作のカスタマイズ</ja_jp>
+    <ko_kr>컨트롤 변경</ko_kr>
+    <pl_pl>USTAW STEROWANIE</pl_pl>
+    <pt_pt>PERSONALIZAR COMANDOS</pt_pt>
+    <ru_ru>НАСТРОИТЬ УПРАВЛЕНИЕ</ru_ru>
+    <tr_tr>KONTROLLERİ ÖZELLEŞTİR</tr_tr>
+    <zh_cn>自定义控件</zh_cn>
+    <zh_tw>自訂控件</zh_tw>
+  </string>
+  <string value="PRESS ANY BUTTON TO START">
+    <en_us>PRESS ANY BUTTON TO START</en_us>
+    <de_de>DRÜCKE EINE BELIEBIGE TASTE ZUM STARTEN</de_de>
+    <es_es>¡PULSA CUALQUIER BOTÓN PARA EMPEZAR!</es_es>
+    <fr_fr>SAKATU EDOZEIN BOTOI HASTEKO</fr_fr>
+    <it_it>PREMI UN PULSANTE PER INIZIARE</it_it>
+    <ja_jp>どれかボタンを押してスタート</ja_jp>
+    <ko_kr>아무버튼이나눌러서시작하기</ko_kr>
+    <pl_pl>NACIŚNIJ DOWOLNY PRZYCISK, ABY ROZPOCZĄĆ.</pl_pl>
+    <pt_pt>PRIME UM BOTÃO PARA COMEÇAR.</pt_pt>
+    <ru_ru>НАЖМИТЕ ЛЮБУЮ КНОПКУ, ЧТОБЫ НАЧАТЬ</ru_ru>
+    <tr_tr>BAŞLAMAK İÇİN HERHANGİ BİR DÜĞMEYE BAS</tr_tr>
+    <zh_cn>按任意键开始</zh_cn>
+    <zh_tw>按任意鍵開始</zh_tw>
+  </string>
+</Root>
