@@ -1,4 +1,10 @@
-Papers, please jokoaren euskarazko itzulpena
-============================================
+Papers, please euskaraz
+=======================
 
-Info gehiago: https://ibaios.eus/itzulpenak/papersplease
+Hemen euskarazko itzulpenaren fitxategiak daude. Jokoa dagoeneko ofizialki dago euskaraz, beste ezer egin beharrik gabe.
+
+Jokoari buruzko informazioa: https://ibaios.eus/itzulpenak/papersplease
+
+---
+
+Euskarazo joko gehiago: https://ibaios.eus/
