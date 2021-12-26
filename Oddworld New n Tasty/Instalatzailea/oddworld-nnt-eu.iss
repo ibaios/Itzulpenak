@@ -1,6 +1,6 @@
 #define MyAppName "Oddworld: New 'n' Tasty euskaraz"
 #define MyAppFilesystemName "Oddworld New 'n' Tasty euskaraz"
-#define MyAppVersion "1.1"
+#define MyAppVersion "1.2"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppURL "https://ibaios.eus/"
 #define MyAppIcon "oddworld-nnt-eu.ico"
@@ -111,10 +111,16 @@ var
 begin
   
   if DirExists(ExpandConstant('{autopf}') + '\GOG Galaxy\Games\') then
-    GOGPaths[GetArrayLength(GOGPaths)] := ExpandConstant('{autopf}') + '\GOG Galaxy\Games\';
+  begin
+    SetArrayLength(GOGPaths, GetArrayLength(GOGPaths) + 1);
+    GOGPaths[GetArrayLength(GOGPaths) - 1] := ExpandConstant('{autopf}') + '\GOG Galaxy\Games\';
+  end;
 
   if DirExists(ExpandConstant('{autopf}') + '\GOG Games\') then
-    GOGPaths[GetArrayLength(GOGPaths)] := ExpandConstant('{autopf}') + '\GOG Games\';
+  begin
+    SetArrayLength(GOGPaths, GetArrayLength(GOGPaths) + 1);
+    GOGPaths[GetArrayLength(GOGPaths) - 1] := ExpandConstant('{autopf}') + '\GOG Games\';
+  end;
 
   Result := GOGPaths;
 end;

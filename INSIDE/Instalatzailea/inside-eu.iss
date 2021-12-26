@@ -1,6 +1,6 @@
 #define MyAppName "INSIDE euskaraz"
 #define MyAppFilesystemName "INSIDE euskaraz"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.1"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"
@@ -37,9 +37,9 @@ WizardStyle=modern
 Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 
 [Files]
-Source: "..\..\..\uabe\*"; DestDir: "{app}\uabe"
-Source: "inside-eu-es.emip"; DestDir: "{app}"
-Source: "inside-eu-fr.emip"; DestDir: "{app}"
+Source: "..\..\..\uabe\*"; DestDir: "{app}\uabe"; Flags: ignoreversion recursesubdirs
+Source: "inside-eu-es.emip"; DestDir: "{app}"; Flags: ignoreversion
+Source: "inside-eu-fr.emip"; DestDir: "{app}"; Flags: ignoreversion
 
 [Run]
 Filename: "{app}\uabe\AssetBundleExtractor.exe"; Parameters: "applyemip ""{app}\{code:GetSelectedEmip}"" ""{code:GetSelectedGameDataDir}"""
@@ -113,10 +113,16 @@ var
 begin
   
   if DirExists(ExpandConstant('{autopf}') + '\GOG Galaxy\Games\') then
-    GOGPaths[GetArrayLength(GOGPaths)] := ExpandConstant('{autopf}') + '\GOG Galaxy\Games\';
+  begin
+    SetArrayLength(GOGPaths, GetArrayLength(GOGPaths) + 1);
+    GOGPaths[GetArrayLength(GOGPaths) - 1] := ExpandConstant('{autopf}') + '\GOG Galaxy\Games\';
+  end;
 
   if DirExists(ExpandConstant('{autopf}') + '\GOG Games\') then
-    GOGPaths[GetArrayLength(GOGPaths)] := ExpandConstant('{autopf}') + '\GOG Games\';
+  begin
+    SetArrayLength(GOGPaths, GetArrayLength(GOGPaths) + 1);
+    GOGPaths[GetArrayLength(GOGPaths) - 1] := ExpandConstant('{autopf}') + '\GOG Games\';
+  end;
 
   Result := GOGPaths;
 end;

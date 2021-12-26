@@ -1,6 +1,6 @@
 #define MyAppName "Kopanito All-Stars Soccer euskaraz"
 #define MyAppFilesystemName "Kopanito All-Stars Soccer euskaraz"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.1"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"
@@ -37,7 +37,7 @@ WizardStyle=modern
 Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 
 [Files]
-Source: "..\data\*"; DestDir: "{code:GetSelectedGameDataDir}"
+Source: "..\data\*"; DestDir: "{code:GetSelectedGameDataDir}"; Flags: ignoreversion recursesubdirs
  
 [Code]
 var

@@ -1,6 +1,6 @@
 #define MyAppName "Return of the Obra Dinn euskaraz"
 #define MyAppFilesystemName "Return of the Obra Dinn euskaraz"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.1"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"
@@ -37,8 +37,8 @@ WizardStyle=modern
 Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 
 [Files]
-Source: "lang-es"; DestDir: "{code:GetSelectedGameDataDir}"; Check: OverwrittenLangIsEs
-Source: "lang-fr"; DestDir: "{code:GetSelectedGameDataDir}"; Check: OverwrittenLangIsFr
+Source: "lang-es"; DestDir: "{code:GetSelectedGameDataDir}"; Check: OverwrittenLangIsEs; Flags: ignoreversion
+Source: "lang-fr"; DestDir: "{code:GetSelectedGameDataDir}"; Check: OverwrittenLangIsFr; Flags: ignoreversion
  
 [Code]
 var
@@ -109,10 +109,16 @@ var
 begin
   
   if DirExists(ExpandConstant('{autopf}') + '\GOG Galaxy\Games\') then
-    GOGPaths[GetArrayLength(GOGPaths)] := ExpandConstant('{autopf}') + '\GOG Galaxy\Games\';
+  begin
+    SetArrayLength(GOGPaths, GetArrayLength(GOGPaths) + 1);
+    GOGPaths[GetArrayLength(GOGPaths) - 1] := ExpandConstant('{autopf}') + '\GOG Galaxy\Games\';
+  end;
 
   if DirExists(ExpandConstant('{autopf}') + '\GOG Games\') then
-    GOGPaths[GetArrayLength(GOGPaths)] := ExpandConstant('{autopf}') + '\GOG Games\';
+  begin
+    SetArrayLength(GOGPaths, GetArrayLength(GOGPaths) + 1);
+    GOGPaths[GetArrayLength(GOGPaths) - 1] := ExpandConstant('{autopf}') + '\GOG Games\';
+  end;
 
   Result := GOGPaths;
 end;

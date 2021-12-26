@@ -1,6 +1,6 @@
 #define MyAppName "Hyper Light Drifter euskaraz"
 #define MyAppFilesystemName "Hyper Light Drifter euskaraz"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.1"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"
@@ -37,10 +37,10 @@ WizardStyle=modern
 Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 
 [Files]
-Source: "..\menutext-eu-es.txt"; DestDir: "{code:GetSelectedGameDataDir}"; DestName: "menutext.txt"; Check: OverwrittenLangIsEs
-Source: "..\phrases-eu-es.txt"; DestDir: "{code:GetSelectedGameDataDir}"; DestName: "phrases.txt"; Check: OverwrittenLangIsEs
-Source: "..\menutext-eu-fr.txt"; DestDir: "{code:GetSelectedGameDataDir}"; DestName: "menutext.txt"; Check: OverwrittenLangIsFr
-Source: "..\phrases-eu-fr.txt"; DestDir: "{code:GetSelectedGameDataDir}"; DestName: "phrases.txt"; Check: OverwrittenLangIsFr
+Source: "..\menutext-eu-es.txt"; DestDir: "{code:GetSelectedGameDataDir}"; DestName: "menutext.txt"; Check: OverwrittenLangIsEs; Flags: ignoreversion
+Source: "..\phrases-eu-es.txt"; DestDir: "{code:GetSelectedGameDataDir}"; DestName: "phrases.txt"; Check: OverwrittenLangIsEs; Flags: ignoreversion
+Source: "..\menutext-eu-fr.txt"; DestDir: "{code:GetSelectedGameDataDir}"; DestName: "menutext.txt"; Check: OverwrittenLangIsFr; Flags: ignoreversion
+Source: "..\phrases-eu-fr.txt"; DestDir: "{code:GetSelectedGameDataDir}"; DestName: "phrases.txt"; Check: OverwrittenLangIsFr; Flags: ignoreversion
  
 [Code]
 var
@@ -111,10 +111,16 @@ var
 begin
   
   if DirExists(ExpandConstant('{autopf}') + '\GOG Galaxy\Games\') then
-    GOGPaths[GetArrayLength(GOGPaths)] := ExpandConstant('{autopf}') + '\GOG Galaxy\Games\';
+  begin
+    SetArrayLength(GOGPaths, GetArrayLength(GOGPaths) + 1);
+    GOGPaths[GetArrayLength(GOGPaths) - 1] := ExpandConstant('{autopf}') + '\GOG Galaxy\Games\';
+  end;
 
   if DirExists(ExpandConstant('{autopf}') + '\GOG Games\') then
-    GOGPaths[GetArrayLength(GOGPaths)] := ExpandConstant('{autopf}') + '\GOG Games\';
+  begin
+    SetArrayLength(GOGPaths, GetArrayLength(GOGPaths) + 1);
+    GOGPaths[GetArrayLength(GOGPaths) - 1] := ExpandConstant('{autopf}') + '\GOG Games\';
+  end;
 
   Result := GOGPaths;
 end;

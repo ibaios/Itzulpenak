@@ -1,6 +1,6 @@
 #define MyAppName "Owlboy euskaraz"
 #define MyAppFilesystemName "Owlboy euskaraz"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.1"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"
@@ -37,10 +37,10 @@ WizardStyle=modern
 Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 
 [Files]
-Source: "..\eu.csv"; DestDir: "{code:GetSelectedGameDataDir}\localizations"
-Source: "..\translations.csv"; DestDir: "{code:GetSelectedGameDataDir}\localizations"
-Source: "..\eu\*"; DestDir: "{code:GetSelectedGameDataDir}\localizations\eu"; Flags: recursesubdirs
-Source: "..\flags\eu.png"; DestDir: "{code:GetSelectedGameDataDir}\localizations\flags"
+Source: "..\eu.csv"; DestDir: "{code:GetSelectedGameDataDir}\localizations"; Flags: ignoreversion
+Source: "..\translations.csv"; DestDir: "{code:GetSelectedGameDataDir}\localizations"; Flags: ignoreversion
+Source: "..\eu\*"; DestDir: "{code:GetSelectedGameDataDir}\localizations\eu"; Flags: ignoreversion recursesubdirs
+Source: "..\flags\eu.png"; DestDir: "{code:GetSelectedGameDataDir}\localizations\flags"; Flags: ignoreversion
  
 [Code]
 var
