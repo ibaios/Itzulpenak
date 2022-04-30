@@ -1,6 +1,6 @@
 #define MyAppName "Owlboy euskaraz"
 #define MyAppFilesystemName "Owlboy euskaraz"
-#define MyAppVersion "1.1"
+#define MyAppVersion "1.2"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"
@@ -157,20 +157,20 @@ begin
   GamePath := '';
 
   // Steam
-  GamePath := FindGamePathInList(GetSteamLibraryPaths(), '\steamapps\common\' + 'Owlboy\content');  
+  GamePath := FindGamePathInList(GetSteamLibraryPaths(), '\steamapps\common\' + 'Owlboy\data');  
   
   if GamePath = '' then
   begin
     // GOG Galaxy
-    GamePath := FindGamePathInList(GetGOGPaths(), 'Owlboy\content');
+    GamePath := FindGamePathInList(GetGOGPaths(), 'Owlboy\data');
   
     if GamePath = '' then
     begin
       
       // Program Files
 
-      if DirExists(ExpandConstant('{autopf}') + 'Owlboy\content') then
-        GamePath := ExpandConstant('{autopf}') + 'Owlboy\content';
+      if DirExists(ExpandConstant('{autopf}') + 'Owlboy\data') then
+        GamePath := ExpandConstant('{autopf}') + 'Owlboy\data';
   
     end;
   end;
@@ -193,7 +193,7 @@ begin
     '',
     'Hautatu "Owlboy" jokoaren datuen karpeta non dagoen.'
     + #13#10#13#10 + 'Instalazioa automatikoki antzematen saiatuko da, baina ez badu lortzen, zuk bete beharko duzu.'
-    + #13#10#13#10 + 'Aurkitu jokoaren karpeta nagusia (''Owlboy''), eta aukeratu honen barruan dagoen ''content'' izeneko karpeta.',
+    + #13#10#13#10 + 'Aurkitu jokoaren karpeta nagusia (''Owlboy''), eta aukeratu honen barruan dagoen ''data'' izeneko karpeta.',
     False,'');
   
   GameDataDirPage.Add('Datuen &karpeta:');
