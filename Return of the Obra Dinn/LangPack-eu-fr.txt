@@ -3926,7 +3926,7 @@
    [977]
     0 StringEntry data
      1 string key = "dialog_office_delivery_package_ea"
-     1 string val = "Te gehiago nahi baduzu, hozkailuan dago."
+     1 string val = "Te gehiago nahi baduzu, sukaldean dago."
    [978]
     0 StringEntry data
      1 string key = "dialog_office_delivery_envelope_aa"
