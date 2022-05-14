@@ -1,6 +1,6 @@
 #define MyAppName "Return of the Obra Dinn euskaraz"
 #define MyAppFilesystemName "Return of the Obra Dinn euskaraz"
-#define MyAppVersion "1.1"
+#define MyAppVersion "1.2"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"
@@ -90,6 +90,10 @@ begin
   begin
     // Maybe it is in GNU/Linux with Wine
     SteamLibraryPathsConfig :=  'z:\home\' + ExpandConstant('{%username|DefaultValue}') + '\.steam\steam\config\libraryfolders.vdf';
+    if FileExists(SteamLibraryPathsConfig) then
+      SteamLibraryPaths := ParseSteamConfig(SteamLibraryPathsConfig);
+    // Maybe it is Steam Deck
+    SteamLibraryPathsConfig :=  'z:\home\deck\.steam\steam\config\libraryfolders.vdf';
     if FileExists(SteamLibraryPathsConfig) then
       SteamLibraryPaths := ParseSteamConfig(SteamLibraryPathsConfig)
   end;  
