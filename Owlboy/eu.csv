@@ -1620,7 +1620,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,Penguin2,Let's <20>roll!,Goazen ba!,Tropos/Penguins/Gathered,166
 ,Penguin1,Oof!,Ufa!,Tropos/Penguins/Gathered,207
 ,Penguin1,Hey!,Ei!,Tropos/Penguins/Gathered,213
-,Penguin1,"Wait up, guy!","Itxoin, laguna!",Tropos/Penguins/Gathered,218
+,Penguin1,"Wait up, guy!","Itxoin, lagunok!",Tropos/Penguins/Gathered,218
 ,Mechanic,"Woah! <30>Otus, did you just get teleported!?","Hara! <30>Otus, telegarraiatu egin zara!?",Tropos/BackInTroposFromD2,90
 ,Mechanic,I guess <30>now we all know how it feels.,Suposatzen dut <30>orain denok dakigula zer sentitzen den.,Tropos/BackInTroposFromD2,98
 ,Mechanic,Although...,Baina...,Tropos/BackInTroposFromD2,110
@@ -2728,10 +2728,10 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,Mechanic,Is the ground shaking?,Lurra dardarka ari da?,Dungeon2/guardianStart,184
 ,Mechanic,Let's get out of here before it's too late!,Goazen beranduegi izan baino lehen!,Dungeon2/guardianStart,184
 ,Mechanic,Oh man!,"O, motel!",Dungeon2/guardianStart,229
-,RudeGuy,"Urgh, I wish Twig would just quit the spider act<nl>and stay at home<20> like a normal stick bug.","Hara, ea noiz uzten dion Twigek armiarma plantak egiteari<20>eta itzultzen den etxera intsektu makila normalak bezala.",Mesos/TwigFamily/rudeGuyCheck,15
+,RudeGuy,"Urgh, I wish Twig would just quit the spider act<nl>and stay at home<20> like a normal stick bug.","Hara, ea noiz uzten dion Twigek armiarma plantak egiteari<20> eta<nl>itzultzen den etxera intsektu makila normalak bezala.",Mesos/TwigFamily/rudeGuyCheck,15
 ,RudeGuy,"How did you end up with Twig, anyway?","Nola ezagutu zenuen Twig, bada?",Mesos/TwigFamily/rudeGuyCheck,20
 ,RudeGuy,"Twig's always been a troublemaker,<nl>driving everyone nuts with worry.","Twig beti izan da bazter-nahaslea,<nl>guztiok erotzeraino kezkatzen gaitu.",Mesos/TwigFamily/rudeGuyCheck,20
-,RudeGuy,"Don't tell Twig I said that,<30> the truth hurts the sensitive.","Ez esan Twigi hau esan dudanik,<30>egiak min ematen dio.",Mesos/TwigFamily/rudeGuyCheck,26
+,RudeGuy,"Don't tell Twig I said that,<30> the truth hurts the sensitive.","Ez esan Twigi hau esan dudanik,<30> egiak min ematen dio.",Mesos/TwigFamily/rudeGuyCheck,26
 ,RudeGuy,"Oh, you can't speak at all?","O, ezin duzu hitz egin?",Mesos/TwigFamily/rudeGuyCheck,34
 ,RudeGuy,I guess that takes care of the problem!,"Tira, ba orduan ez dago arazorik!",Mesos/TwigFamily/rudeGuyCheck,34
 SadGuy is Twig without his costume,SadGuy,...What are you whispering about over there?,...Zer zabiltzate hor txutxumutxuan?,Mesos/TwigFamily/rudeGuyCheck,42
@@ -2873,7 +2873,7 @@ SadGuy is Twig without his costume,SadGuy,Tsch.,Tstx.,Mesos/TwigFamily/rudeGuyCh
 ,Alphonse,Indeed. <30>This doesn't bode well.,Benetan ere. <30>Honek ez du itxura onik.,Mesos/seePirates,97
 ,Alphonse,Perhaps Dirk acquired the final relic<nl>before the dungeon flooded?,Akaso Dirkek azken erlikia eskuratu du<nl>ziega labaz bete aurretik?,Mesos/seePirates,97
 ,Alphonse,It looks like there's no way in...,Badirudi ez dagoela sartzeko modurik...,Mesos/seePirates,121
-,Alphonse,"...And even if there was,<30><nl>we'd be discovered immediately.","...Eta, balego ere,<30>berehala<nl>atzemango gintuzkete.",Mesos/seePirates,121
+,Alphonse,"...And even if there was,<30><nl>we'd be discovered immediately.","...Eta, balego ere,<30> berehala<nl>atzemango gintuzkete.",Mesos/seePirates,121
 ,Alphonse,"We have to warn your family, Twig.","Zure familia jakinaren gainean jarri behar dugu, Twig.",Mesos/seePirates,141
 ,Alphonse,"If the pirate base is here,<30><nl>the occupation will only get worse.","Piraten basea hemen badago,<30><nl>okupazioa okerragotu baino ez da egingo.",Mesos/seePirates,141
 ,Spiderguy,I can't believe I was suckered into working for these guys<20>.<20>.<20>.,Ezin dut sinetsi tipo hauentzako lan egiteko engainatu nindutenik<20>.<20>.<20>.,Mesos/seePirates,151
