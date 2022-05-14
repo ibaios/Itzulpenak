@@ -1,6 +1,6 @@
 #define MyAppName "Oddworld: New 'n' Tasty euskaraz"
 #define MyAppFilesystemName "Oddworld New 'n' Tasty euskaraz"
-#define MyAppVersion "1.2"
+#define MyAppVersion "1.3"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppURL "https://ibaios.eus/"
 #define MyAppIcon "oddworld-nnt-eu.ico"
@@ -92,6 +92,10 @@ begin
   begin
     // Maybe it is in GNU/Linux with Wine
     SteamLibraryPathsConfig :=  'z:\home\' + ExpandConstant('{%username|DefaultValue}') + '\.steam\steam\config\libraryfolders.vdf';
+    if FileExists(SteamLibraryPathsConfig) then
+      SteamLibraryPaths := ParseSteamConfig(SteamLibraryPathsConfig);
+    // Maybe it is Steam Deck
+    SteamLibraryPathsConfig :=  'z:\home\deck\.steam\steam\config\libraryfolders.vdf';
     if FileExists(SteamLibraryPathsConfig) then
       SteamLibraryPaths := ParseSteamConfig(SteamLibraryPathsConfig)
   end;  
