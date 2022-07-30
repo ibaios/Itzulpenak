@@ -1,0 +1,16 @@
+<entries>
+    <entry name="PALACE_GROUNDS">Jauregiaren Hondarrak</entry>
+    <entry name="STAG_NEST">Arkanbeleen Habia</entry>
+    <entry name="KINGS_STATION">Erregeren Geltokia</entry>
+    <entry name="CROSSROADS">Bidegurutzeak</entry>
+    <entry name="GREENPATH">Xendra Berdea</entry>
+    <entry name="HIDDEN_STATION">Ezkutuko Geltokia</entry>
+    <entry name="FUNGAL_WASTES">Erreginaren Geltokia</entry>
+    <entry name="BONE_FOREST">Hezur-Basoa</entry>
+    <entry name="ROYAL_GARDENS">Erreginaren Lorategiak</entry>
+    <entry name="DEEPNEST">Urruneko Herrixka</entry>
+    <entry name="CITY_OF_TEARS_1">Hiriko Biltegiak</entry>
+    <entry name="DIRTMOUTH">Lur-Aho</entry>
+    <entry name="STATIONS">Geltokiak</entry>
+    <entry name="RESTING_GROUNDS">Atseden-Lurrak</entry>
+</entries>
