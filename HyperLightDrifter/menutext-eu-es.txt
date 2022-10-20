@@ -672,7 +672,7 @@ JAP|ネラウ
 GER|ZIELEN
 ITA|MIRA
 RUS|ПРИЦЕЛ
-SPA|DESTATU
+SPA|APUNTATU
 
 =|HealConfig|77
 ENG|HEAL
@@ -998,3 +998,453 @@ GER|Spieler zwei
 ITA|Giocatore due
 RUS|Игрок два
 SPA|2. jokalaria
+
+=|ACHIEVEVENTS|113
+ENG|Achievements
+FRN|Succès
+JAP|実績
+GER|Errungenschaften
+ITA|Obiettivi
+RUS|Достижения
+SPA|Lorpenak
+
+=|ACHIEVEMENTNAME_ONESHOT|114
+ENG|One Shot
+FRN|D'une traite
+JAP|ワンショット
+GER|Ein Schuss
+ITA|Colpo singolo
+RUS|Единственный шанс
+SPA|Jarraian
+
+=|ACHIEVEMENTDESC_ONESHOT|115
+ENG|Finish the game without dying
+FRN|Terminez le jeu sans mourir
+JAP|シナナイデ ゲームをクリアシヨウ
+GER|Schaffe das Spiel, ohne zu sterben
+ITA|Finisci la partita senza morire
+RUS|Пройдите игру, не умерев
+SPA|Amaitu jokoa inoiz hil gabe
+
+=|ACHIEVEMENTNAME_KILLGROUPBOMB|116
+ENG|Nice Shot!
+FRN|Joli coup !
+JAP|ナイスショット！
+GER|Guter Schuss!
+ITA|Bel colpo!
+RUS|В яблочко!
+SPA|Eman bostekoa!
+
+=|ACHIEVEMENTDESC_KILLGROUPBOMB|117
+ENG|Kill 5 enemies with a bomb
+FRN|Tuez 5 ennemis en une seule bombe
+JAP|バクダンデ 5ニンノテキをタオソウ
+GER|Erledige 5 Gegner mit einer Bombe
+ITA|Uccidi 5 nemici con una bomba
+RUS|Убейте 5 противников при помощи бомбы
+SPA|Hil 5 etsai bonba bakarrarekin
+
+=|ACHIEVEMENTNAME_DUMMY|118
+ENG|Dummy
+FRN|Pas très doué
+JAP|ダミー
+GER|Dummy
+ITA|Tonto
+RUS|Болван
+SPA|Ergela
+
+=|ACHIEVEMENTDESC_DUMMY|119
+ENG|Trick a Dirk to jump off a ledge
+FRN|Forcez un Dirk à sauter d'un rebord
+JAP|ダークをダマシテ ガケカラ トビオリヨウ
+GER|Bring einen Dirk dazu, von einer Klippe zu springen
+ITA|Inganna un Dirk facendolo cadere da una sporgenza
+RUS|Убедите Дирка спрыгнуть с карниза
+SPA|Engainatu Dirk bat ertzetik erori dadin
+
+=|ACHIEVEMENTNAME_DIE1000|120
+ENG|Don't Give Up
+FRN|N'abandonnez pas
+JAP|アキラメナイデ！
+GER|Nicht aufgeben
+ITA|Non arrenderti!
+RUS|Не сдаваться!
+SPA|Ez etsi!
+
+=|ACHIEVEMENTDESC_DIE1000|121
+ENG|You can do it!
+FRN|Vous pouvez y arriver !
+JAP|キミナラ デキル！
+GER|Du schaffst das!
+ITA|Puoi farcela!
+RUS|Вы сможете!
+SPA|Egin dezakezu!
+
+=|ACHIEVEMENTNAME_NATURE|122
+ENG|Natural Leader
+FRN|Naturellement charismatique
+JAP|ウマレナガラの リーダー
+GER|Geborener Anführer
+ITA|Leader naturale
+RUS|Прирожденный лидер
+SPA|Domatzailea
+
+=|ACHIEVEMENTDESC_NATURE|123
+ENG|Tame a certain wild creature...
+FRN|Domptez une certaine créature sauvage...
+JAP|ヤセイの イキモノを テナヅケヨウ…
+GER|Zähme ein bestimmtes wildes Wesen ...
+ITA|Domatore di fiere selvagge...
+RUS|Укротите определенное дикое создание...
+SPA|Bezatu izaki basati jakin bat...
+
+=|ACHIEVEMENTNAME_MEDITATION|124
+ENG|Meditation
+FRN|Méditation
+JAP|メイソウ
+GER|Meditation
+ITA|Meditazione
+RUS|Медитация
+SPA|Meditazioa
+
+=|ACHIEVEMENTDESC_MEDITATION|125
+ENG|Casey would know what to do
+FRN|Casey saurait quoi faire
+JAP|ケーシーナラ ドウスレバイイカ シッテルダロウ
+GER|Casey würde wissen, was zu tun ist
+ITA|Casey saprebbe cosa fare
+RUS|Кейси бы знал, что делать
+SPA|Caseyk jakingo luke zer egin
+
+=|ACHIEVEMENTNAME_DIEINTUTORIAL|126
+ENG|Nothing's Easy, Now is it?
+FRN|Rien n'est facile, finalement
+JAP|イマは ナニモカモ コンナンダ
+GER|Nicht ist wirklich leicht, oder?
+ITA|Ora è tutto più difficile, vero?
+RUS|Все не так легко
+SPA|Ez da ezer errezik, izan ere
+
+=|ACHIEVEMENTDESC_DIEINTUTORIAL|127
+ENG|Opening death
+FRN|Commencer par mourir
+JAP|ハジメの シ
+GER|Den Tod öffnen
+ITA|Morte iniziale
+RUS|Первая смерть
+SPA|Aurreneko heriotza
+
+=|ACHIEVEMENTNAME_CHAINDASH|128
+ENG|Chain Dash Champion
+FRN|Champion en dash
+JAP|チェーンダッシュの チャンピオン
+GER|Kettenschlag-Meister
+ITA|Campione di iperaccelerazione
+RUS|Чемпион рывков
+SPA|Bulkada maisua
+
+=|ACHIEVEMENTDESC_CHAINDASH|129
+ENG|How many can you get?
+FRN|Combien en enchaînerez-vous ?
+JAP|イクツ テニイレタ？
+GER|Wie viele schaffst du?
+ITA|Quanti ne riesci a prendere?
+RUS|Сколько сможете?
+SPA|Zenbat egin ditzakezu jarraian?
+
+=|ACHIEVEMENTNAME_ALLMODULES|130
+ENG|Diamonds Are Forever
+FRN|Les diamants sont éternels
+JAP|ダイヤモンドは エイエンに
+GER|Diamonds Are Forever
+ITA|Un diamante è per sempre 
+RUS|Алмазы не портятся
+SPA|Diamanteak betiko dira
+
+=|ACHIEVEMENTDESC_ALLMODULES|131
+ENG|Collect all modules
+FRN|Obtenez tous les modules
+JAP|ゼンブの モジュールを アツメヨウ
+GER|Sammle alle Module
+ITA|Raccogli tutti i moduli
+RUS|Соберите все модули
+SPA|Bildu modulu guztiak
+
+=|ACHIEVEMENTNAME_ALLGEARBITS|132
+ENG|Shine Bright
+FRN|Tout à fait brillant
+JAP|アカルク カガヤケ
+GER|Hell erstrahlen
+ITA|Splendido splendente
+RUS|Ярче солнца
+SPA|Itsutu arteko distira
+
+=|ACHIEVEMENTDESC_ALLGEARBITS|133
+ENG|Collect all Gearbits
+FRN|Obtenez toutes les pièces d'équipement
+JAP|ゼンブの ギアビットを アツメヨウ
+GER|Sammle alle Ausrüstungsteile
+ITA|Raccogli tutti i tecno-dispositivi
+RUS|Соберите все элементы снаряжения
+SPA|Bildu makina-pieza guztiak
+
+=|ACHIEVEMENTNAME_ALLCAPES|134
+ENG|Walk-In Closet
+FRN|Penderie ambulante
+JAP|ウォークインクローゼット
+GER|Begehbarer Kleiderschrank
+ITA|Cabina armadio
+RUS|Ходячий гардероб
+SPA|Armairu ibiltaria
+
+=|ACHIEVEMENTDESC_ALLCAPES|135
+ENG|Collect all outfits
+FRN|Obtenez toutes les tenues
+JAP|ゼンブの ソウビを アツメヨウ
+GER|Sammle alle Outfits
+ITA|Raccogli tutti gli equipaggiamenti
+RUS|Соберите все костюмы
+SPA|Bildu jantzi guztiak
+
+=|ACHIEVEMENTNAME_COLLECTALL|136
+ENG|Hoarder
+FRN|Collectionneur
+JAP|ホーダー
+GER|Hamster
+ITA|Accumulatore
+RUS|Скупердяй
+SPA|Metatzailea
+
+=|ACHIEVEMENTDESC_COLLECTALL|137
+ENG|Collect Everything
+FRN|Obtenez tous les objets
+JAP|ゼンブ アツメヨウ
+GER|Sammle alles
+ITA|Raccogli tutto
+RUS|Соберите все
+SPA|Bildu guztia
+
+=|ACHIEVEMENTNAME_800DASH|138
+ENG|The Dash Eternal
+FRN|Des dashes pour l'éternité
+JAP|ダッシュ エターナル
+GER|Ein Schlag für die Ewigkeit
+ITA|L'accelerazione eterna
+RUS|Бесконечный рывок
+SPA|Bulkada amaigabea
+
+=|ACHIEVEMENTDESC_800DASH|139
+ENG|Perform the ultimate chain dash
+FRN|Exécutez l'enchaînement de dashes ultime
+JAP|サイコウの チェーンダッシュを キメヨウ
+GER|Schaffe den ultimativen Kettenschlag
+ITA|Effettua la suprema iperaccelerazione
+RUS|Проведите превосходную череду рывков
+SPA|Burutu bulkada gorena
+
+=|ACHIEVEMENTNAME_SOCCERWIN|140
+ENG|Star Athlete
+FRN|Athlète stellaire
+JAP|スター センシュ
+GER|Starathlet
+ITA|Atleta stellare
+RUS|Звезда спорта
+SPA|Atleta izarra
+
+=|ACHIEVEMENTDESC_SOCCERWIN|141
+ENG|Win at the sport of Drifters
+FRN|Soyez victorieux au sport des errants
+JAP|ナガレモノトノ ショウブに カトウ
+GER|Gewinne einen Drifterwettkampf
+ITA|Vinci nello sport dei Drifter
+RUS|Обойдите Бродяг
+SPA|Irabazi alderraien kirolean
+
+=|ACHIEVEMENTNAME_ALLTABLETS|142
+ENG|Librarian
+FRN|Libraire
+JAP|トショカンイン
+GER|Bibliothekar
+ITA|Bibliotecario
+RUS|Библиотекарь
+SPA|Liburuzaina
+
+=|ACHIEVEMENTDESC_ALLTABLETS|143
+ENG|Collect all tablets
+FRN|Obtenez toutes les tablettes
+JAP|ゼンブの タブレットを アツメヨウ
+GER|Sammle alle Tafeln
+ITA|Raccogli tutti i monoliti
+RUS|Соберите все планшеты
+SPA|Bildu oroitarri guztiak
+
+=|ACHIEVEMENTNAME_BEATHOARDE|144
+ENG|Contender
+FRN|Prétendant
+JAP|キョウソウアイテ
+GER|Wettbewerber
+ITA|Contendente
+RUS|Соперник
+SPA|Leihakidea
+
+=|ACHIEVEMENTDESC_BEATHOARDE|145
+ENG|Beat Hoarde Mode
+FRN|Triomphez en Hoarde Mode
+JAP|ビート ホード モード
+GER|Den Hamstermodus schaffen
+ITA|Vinci in Modalità Accumulo
+RUS|Победите в режиме Жадность
+SPA|
+
+=|ACHIEVEMENTNAME_ALLBOSSESDEAD|146
+ENG|Bully
+FRN|Persécution
+JAP|ゴロツキ
+GER|Schlägertyp
+ITA|Bullo
+RUS|Агрессор
+SPA|Azpiratzailea
+
+=|ACHIEVEMENTDESC_ALLBOSSESDEAD|147
+ENG|Beat all bosses
+FRN|Triomphez de tous les bosses
+JAP|ゼンブの ボスを ヤッツケヨウ
+GER|Schlage alle Bosse
+ITA|Sconfiggi tutti i boss
+RUS|Победите всех боссов
+SPA|Garaitu nagusi guztiak
+
+=|ACHIEVEMENTNAME_BEATNGPLUS|148
+ENG|Masochist
+FRN|Masochiste
+JAP|マゾヒスト
+GER|Masochist
+ITA|Masochista
+RUS|Мазохист
+SPA|Masokista
+
+=|ACHIEVEMENTDESC_BEATNGPLUS|149
+ENG|Beat NG+
+FRN|Terminez le jeu en NP+
+JAP|NG+を ヤッツケヨウ
+GER|Schlage NG+
+ITA|Vinci in NG+
+RUS|Победите в НИ+
+SPA|Garaitu PB+ moduan
+
+=|ACHIEVEMENTNAME_RAILGUNLINE|150
+ENG|Line Em' Up
+FRN|Alignés
+JAP|ナラバセヨウ
+GER|In Reihe angetreten
+ITA|Mettili tutti in fila
+RUS|В линию!
+SPA|Ilaran
+
+=|ACHIEVEMENTDESC_RAILGUNLINE|151
+ENG|Hit 4 enemies with one railgun shot
+FRN|Touchez 4 ennemis en un coup de fusil railgun
+JAP|1カイの レールガンショットデ 4ニンのテキを タオソウ
+GER|Triff vier Gegner mit einem Schuss der Railgun
+ITA|Colpisci 4 nemici con un solo colpo di cannone a rotaia
+RUS|Попадите выстрелом из рельсовой пушки в 4 противников сразу
+SPA|Tirokatu 4 etsai aldi berean errail-fusilarekin
+
+=|ACHIEVEMENTNAME_ALLWEAPONS|152
+ENG|Armory
+FRN|L'armurerie
+JAP|ブキチョゾウコ
+GER|Waffenkammer
+ITA|Armeria
+RUS|Арсенал
+SPA|Armategia
+
+=|ACHIEVEMENTDESC_ALLWEAPONS|153
+ENG|Collect all Weapons
+FRN|Obtenez toutes les armes
+JAP|ゼンブの ブキを アツメヨウ
+GER|Sammle alle Waffen
+ITA|Raccogli tutte le armi
+RUS|Соберите все оружие
+SPA|Bildu arma guztiak
+
+=|ACHIEVEMENTNAME_BOSSRUSHLEVELONE|154
+ENG|Boss Rush Level 1
+FRN|Boss Rush Niveau 1
+JAP|Boss Rushレベル1
+GER|Boss Rush Stufe 1
+ITA|Boss Rush livello 1
+RUS|Boss Rush: уровень 1
+SPA|Boss Rush: 1. maila
+
+=|ACHIEVEMENTDESC_BOSSRUSHLEVELONE|155
+ENG|Complete Boss Rush with the Fully Loaded loadout
+FRN|Terminer un Boss Rush avec l'équipement Fully Loaded
+JAP|Fully LoadedロードアウトでBoss Rushを完了
+GER|Schließe Boss Rush mit der „Fully Loaded“-Bewaffnung ab
+ITA|Completa Boss Rush con la dotazione Fully Loaded
+RUS|Пройдите Boss Rush с выкладкой «Fully Loaded»
+SPA|Amaitu Boss Rush-a Fully Loaded ekipamenduarekin
+
+=|ACHIEVEMENTNAME_BOSSRUSHLEVELTWO|156
+ENG|Boss Rush Level 2
+FRN|Boss Rush Niveau 2
+JAP|Boss Rushレベル2
+GER|Boss Rush Stufe 2
+ITA|Boss Rush livello 2
+RUS|Boss Rush: уровень 2
+SPA|Boss Rush: 2. maila
+
+=|ACHIEVEMENTDESC_BOSSRUSHLEVELTWO|157
+ENG|Complete Boss Rush with the Mid-Range loadout
+FRN|Terminer un Boss Rush avec l'équipement Mid-Range
+JAP|Mid-RangeロードアウトでBoss Rushを完了
+GER|Schließe Boss Rush mit der „Mid-Range“-Bewaffnung ab
+ITA|Completa Boss Rush con la dotazione Mid-Range
+RUS|Пройдите Boss Rush с выкладкой «Mid-Range»
+SPA|Amaitu Boss Rush-a Mid-Range ekipamenduarekin
+
+=|ACHIEVEMENTNAME_BOSSRUSHLEVELTHREE|158
+ENG|Boss Rush Level 3
+FRN|Boss Rush Niveau 3
+JAP|Boss Rushレベル3
+GER|Boss Rush Stufe 3
+ITA|Boss Rush livello 3
+RUS|Boss Rush: уровень 3
+SPA|Boss Rush: 3. maila
+
+=|ACHIEVEMENTDESC_BOSSRUSHLEVELTHREE|159
+ENG|Complete Boss Rush with the Naked loadout
+FRN|Terminer un Boss Rush avec l'équipement Naked
+JAP|NakedロードアウトでBoss Rushを完了
+GER|Schließe Boss Rush mit der „Naked“-Bewaffnung ab.
+ITA|Completa Boss Rush con la dotazione Naked
+RUS|Пройдите Boss Rush с выкладкой «Naked»
+SPA|Amaitu Boss Rush-a Naked ekipamenduarekin
+
+=|ACHIEVEVENT_UNLOCKED|160
+ENG|Achievement unlocked!
+FRN|Réalisation débloquée !
+JAP|じっせき が かいじょされた！
+GER|Leistung freigeschaltet!
+ITA|Risultato sbloccato!
+RUS|Достижение разблокировано!
+SPA|Lorpena desblokeatua!
+
+=|FULL_CREDITS|161
+ENG|FULL CREDITS
+FRN|Crédits complets
+JAP|フルクレジット
+GER|Full Credits
+ITA|Crediti completi
+RUS|Полные кредиты
+SPA|KREDITUAK OSORIK
+
+=|LANGUAGE|162
+ENG|ENGLISH
+FRN|FRANÇAIS
+JAP|日本語
+GER|Deutsch
+ITA|ITALIANO
+RUS|РУССКИЙ
+SPA|EUSKARA

@@ -36,7 +36,7 @@ GER|[BUTTON_AIM] Zielen    [BUTTON_SHOOT] Schießen
 ITA|[BUTTON_AIM] Mira    [BUTTON_SHOOT] Spara
 JAP|[BUTTON_AIM] ネラウ    [BUTTON_SHOOT] ウツ
 RUS|[BUTTON_AIM] Прицел    [BUTTON_SHOOT] Огонь
-BAS|[BUTTON_AIM] Destatu    [BUTTON_SHOOT] Tirokatu
+BAS|[BUTTON_AIM] Apuntatu    [BUTTON_SHOOT] Tirokatu
 
 PHR|AMMO|4
 ENG|Slash enemies + objects to charge Guns

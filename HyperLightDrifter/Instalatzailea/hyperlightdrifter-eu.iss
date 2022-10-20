@@ -1,6 +1,6 @@
 #define MyAppName "Hyper Light Drifter euskaraz"
 #define MyAppFilesystemName "Hyper Light Drifter euskaraz"
-#define MyAppVersion "1.3"
+#define MyAppVersion "1.7"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"
@@ -37,10 +37,10 @@ WizardStyle=modern
 Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 
 [Files]
-Source: "..\menutext-eu-es.txt"; DestDir: "{code:GetSelectedGameDataDir}\assets"; DestName: "menutext.txt"; Check: OverwrittenLangIsEs; Flags: ignoreversion
-Source: "..\phrases-eu-es.txt"; DestDir: "{code:GetSelectedGameDataDir}\assets"; DestName: "phrases.txt"; Check: OverwrittenLangIsEs; Flags: ignoreversion
-Source: "..\menutext-eu-fr.txt"; DestDir: "{code:GetSelectedGameDataDir}\assets"; DestName: "menutext.txt"; Check: OverwrittenLangIsFr; Flags: ignoreversion
-Source: "..\phrases-eu-fr.txt"; DestDir: "{code:GetSelectedGameDataDir}\assets"; DestName: "phrases.txt"; Check: OverwrittenLangIsFr; Flags: ignoreversion
+Source: "..\menutext-eu-es.txt"; DestDir: "{code:GetSelectedGameDataDir}"; DestName: "menutext.txt"; Check: OverwrittenLangIsEs; Flags: ignoreversion
+Source: "..\phrases-eu-es.txt"; DestDir: "{code:GetSelectedGameDataDir}"; DestName: "phrases.txt"; Check: OverwrittenLangIsEs; Flags: ignoreversion
+Source: "..\menutext-eu-fr.txt"; DestDir: "{code:GetSelectedGameDataDir}"; DestName: "menutext.txt"; Check: OverwrittenLangIsFr; Flags: ignoreversion
+Source: "..\phrases-eu-fr.txt"; DestDir: "{code:GetSelectedGameDataDir}"; DestName: "phrases.txt"; Check: OverwrittenLangIsFr; Flags: ignoreversion
  
 [Code]
 var
