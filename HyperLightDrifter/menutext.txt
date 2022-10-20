@@ -1477,7 +1477,7 @@ JAP|NG+を ヤッツケヨウ
 GER|Schlage NG+
 ITA|Vinci in NG+
 RUS|Победите в НИ+
-BAS|Garaitu PB+ moduan
+BAS|Garaitu +PB moduan
 
 =|ACHIEVEMENTNAME_RAILGUNLINE|150
 ENG|Line Em' Up

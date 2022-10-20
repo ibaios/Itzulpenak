@@ -1,6 +1,6 @@
 #define MyAppName "Hyper Light Drifter euskaraz"
 #define MyAppFilesystemName "Hyper Light Drifter euskaraz"
-#define MyAppVersion "1.7"
+#define MyAppVersion "1.8"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"
