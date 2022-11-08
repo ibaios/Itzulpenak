@@ -1,0 +1,36 @@
+<entries>
+    <entry name="ABYSS">Bai, ikus ditzaket atzean utzi dituzun damuak. Ozta-ozta, baina... orban beltz bat, munduaren azpiko sakoneran, iluntasunez inguratua. Ia bere parte delarik...</entry>
+    <entry name="CITY">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, erresumaren hiriburuko bihotzean. Euriak ere garbitu ezin duena.</entry>
+    <entry name="CLIFFS">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, haize ulukariz inguraturik.</entry>
+    <entry name="COLOSSEUM">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, gudari eta burugabe artean.</entry>
+    <entry name="CROSSROADS">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, erresumako bidexka eta errepide kiribiltsuetan galdurik.</entry>
+    <entry name="DECLINE">Oh? Tira, ez baduzu zure damuekin bakerik egin nahi, ezin zaitut lagundu.</entry>
+    <entry name="DEEPNEST">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, ia ikusten ez dela, erresuma honen sakontasuneko habia baten tuneletan.</entry>
+    <entry name="DREAM">Zenbat denbora egin dut lo? Lur hau orain askoz ilunagoa da, damu-orbanez lepo dago.&lt;page&gt;Airea bera ere ilunagoa da. Berriro lokartzen banaiz, iluntasuna isilka honaino sartu eta osorik irentsiko al nau?</entry>
+    <entry name="FOG_CANYON">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, lur arrotzeko laino artean galdurik.</entry>
+    <entry name="GREEN_PATH">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, lurralde berde jori batean.</entry>
+    <entry name="GREET">Ah, kaixo berriro. Zer moduz zabiltza? Zure damuengatik zatoz nigana? Ea, utzidazu ikusten...</entry>
+    <entry name="HIVE">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, argi urrekaraz inguraturik, urrutiko erletxe batean.</entry>
+    <entry name="KINGS_PASS">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, gertu, erresuma honen sarreran bertan.</entry>
+    <entry name="LOST_SHADE">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, gure azpiko iluntasunean gorderik.</entry>
+    <entry name="MEET1">Ongi etorri, arrotz txikia. Denboraldi bat egin dut hemen lo seko...Denboraldi bat?&lt;page&gt;Ah. Bai. Bai. Tira, orain zu etorri eta iratzarri nauzu. Berdin dio, suposatzen dut. Agian lagundu ahalko dizut.</entry>
+    <entry name="MEET2">Jiji naiz, eta nire ganberarako bidea aurkitu baduzu, ziur laguntza bila zatozela.&lt;page&gt;Bai ba, batzuetan gure damuak atzean uzten ditugu, orban beltzak balira bezala.&lt;page&gt;Eta ez badugu damuokin bakerik egiten, itxaropena agortzen hasten zaigu.&lt;page&gt;Zuk ba al daukazu damurik, txikia? Ea, utzidazu ikusten...</entry>
+    <entry name="MINES">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, inguruko kristalen distira itsugarriak ia ezkutaturik.</entry>
+    <entry name="NO_EGGS">Hmm, baina ez daukazu jatekorik gainean. Ez behintzat nire interesekorik. Ezin dut lanik egin tripa hutsarekin, beraz, itzul zaitez jaki gozoren bat aurkitzen duzunean... jaki elikagarriren bat.</entry>
+    <entry name="NO_EGGS_REPEAT">Gustuko dudan jana... leuna da, biribila, eta ahoan lehertzen da era gozagarrian. Darion usaina... pentsatzen hutsak kitzikatzen nau. Munduan den gauzarik bikainena da, benetan diotsut. </entry>
+    <entry name="NOSHADE">Ah, ez dirudi atzean utzitako damurik daukazunik. Zorionekoa zu. Ez duzu ni lako baten zerbitzuen beharrik.</entry>
+    <entry name="NOSHADE_REPEAT">Damurik ez duzula dirudi. Ez duzu ni lako baten zerbitzuen beharrik. Hurren arte.</entry>
+    <entry name="OUTSKIRTS">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, urrunean, munduaren azken ertzean.</entry>
+    <entry name="QUEENS_STATION">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, bakarrik, Erreginaren Geltokian eserita.</entry>
+    <entry name="RESTING_GROUNDS">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, atseden hartzeko gune sakratu batean.</entry>
+    <entry name="RITUAL_BEGIN">Mmmm... Gozatu ona hartuko dut mokadutxo honekin. Orain, hitzeman bezala, errituari ekingo diogu.</entry>
+    <entry name="RITUAL_COMPLETED">Ah, badirudi zure damuekin bakeak egin dituzula, gainera modu berritzaile eta... bortitzean. Ikusgarria, benetan. Adio, oraingoz. Zugan izango dut gogoa askariaz gozatu bitartean.</entry>
+    <entry name="RITUAL_REPEAT">Adio. Zugan izango dut gogoa askariaz gozatu bitartean.</entry>
+    <entry name="ROYAL_GARDENS">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, lorategi baten edertasuna hondatzen duela.</entry>
+    <entry name="SHADE_CHARM">Ooohhhh. Nire maisuak zur eta lur egongo lirateke...&lt;page&gt;Bitxia da inork bere damuekin erabateko bakeak egitea, baina badirudi zuk lortu duzula.&lt;page&gt;Zein iluntasun jasan behar izan ote du batek halakorik lortzeko?</entry>
+    <entry name="SHADE_OFFER">Zure damuak hona ekar ditzaket, jaki goxoak nirekin partekatzen badituzu.</entry>
+    <entry name="SHADE_OFFER_INTRO">Zerbitzu gisa, zure damuak itzuli ahal dizkizut, haietaz ardura zaitezen. Hori nahi duzu, bai?&lt;page&gt;Ah, baina oso gose naiz. Agian janari pixkat eman nahiko didazu? Nik egin dudan beste lo egiten baduzu, apetitu ona sortuko zaizu.</entry>
+    <entry name="SHAMAN_TEMPLE">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, arbasoen tumulu batean... gurtza bitxien etxea.</entry>
+    <entry name="WASTES">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, onddo bitxi eta laku burbuilatsuen artean katigaturik.</entry>
+    <entry name="WATERWAYS">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, hoditeria eta hondakin-urez inguraturik. Baina ez da urez ezabatzen den zerbait...</entry>
+</entries>

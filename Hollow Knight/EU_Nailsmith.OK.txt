@@ -1,0 +1,30 @@
+<entries>
+    <entry name="NAILSMITH_NOT_ENOUGH_GEO">Ah, ez duzu behar beste geo? Itzul zaitez lortzen dituzunean.</entry>
+    <entry name="MODELLING">Erresumako Zaldunen sorta osoa eraikitzen ari gara. Bere garaian, ez nien ia arretarik jarri, baina Sheo haietako bakoitzaz xeheki oroitzen da.&lt;page&gt;Hain da bizigarria! Zerikusirik ez eztengintzaren jarduera latzarekin. Benetan maite dut xehetasun korapilatsu horiek lantzea.</entry>
+    <entry name="PAINTED">Tamalez ezin dut luzaro hitz egin. Gehiegi mugitzen banaiz, Sheoren maisulana hondatuko dut eta ez dut bera atsekabetzerik nahi.&lt;page&gt;Itxuraz beldurgarria dirudien arren, tipo sentibera da.</entry>
+    <entry name="NAILSMITH_DREAM_CLIFF">Nire bizitzako lana burutu dut dagoeneko... Zer gehiago gelditzen zait bizitza honetan...?</entry>
+    <entry name="NAILSMITH_ACCEPT">Ongi da. Lanari ekingo diot, beraz.</entry>
+    <entry name="NAILSMITH_GREET">Hmm? Oh, itzuli zara.</entry>
+    <entry name="ART_MEET">Hmm? Oh, kaixo, bidaiaria. Bitxia da berriro elkar ikustea hau moduko mundu zabalean.&lt;page&gt;Eskatu nizunean ni hil ez izana eskertu behar dizut. Hasieran haserretu egin nintzen, baina izan dut hausnartzeko astirik hemen goian, eta berehala ulertu nuen zentzuzko erabakia izan zela.&lt;page&gt;Mundua ez dago metal eta arma hutsez egina. Esploratzeari ekin nion, eta laster egin nuen honako bidea.&lt;page&gt;Sheo hainbat arteren maisua da, eta ahal bezain beste irakatsiko didala zin egin dit. Uste dut zoriontsu biziko naizela hemen.</entry>
+    <entry name="ART_DREAM">....Bizitza oso bat bakardadean lanean atsedenik hartu gabe... bizimodu hau atseginagoa da...</entry>
+    <entry name="NAILSMITH_MEET_1">Leuntzeko beste ezten bat dakarkidazu? Utz ezazu lurrean eta itzuli geroago, oraindik bizirik bazaude behintzat.</entry>
+    <entry name="NAILSMITH_MEET_2">Hmm?&lt;page&gt;Oh. Beste norbait zinela pentsatu dut.</entry>
+    <entry name="NAILSMITH_MEET_3">Ezten-arotz baten bila zabiltza? Ba aurkitu duzu bat. Ez naiz hizketa zalea, baina konpondu beharreko ezten bat badaukazu, zomorro egokiarengana zatoz.&lt;page&gt;Zure eztena bera nahikoa egoera tamalgarrian dago. Argi dago ez dela nire eztenetako bat. Halere, edozer findu daiteke, behar beste esfortzu eta abileziarekin, baita xafla apurtu hori ere.</entry>
+    <entry name="NAILSMITH_KILL_REPEAT">Ez zalantzarik egin. Erregutzen dizut. Erdibitu nazazu! Xafla horren ertz preziatua dastatu nahi dut.</entry>
+    <entry name="NAILSMITH_OFFER_ORE">Ikusten dut mea zurbila daukazula. Metal bitxia eta bikaina da hori. Emadazu mea eta geo batzuk nire eginahalen truke, eta zure eztena birforjatuko dut gogorrago bihur dadin.</entry>
+    <entry name="NAILSMITH_REGREET">Hmm? Hemen zaude oraindik. Beste ezer behar duzu?</entry>
+    <entry name="NAILSMITH_OFFER">Nahi baduzu, zure eztena birforja dezaket. Bere xafla hilgarriago bilakatuko da.</entry>
+    <entry name="NAILSMITH_KILL">Orain Ezten Purua forjatu dudala, nire bizitzako lana amaierara iritsi da. Desira bakarra daukat betetzeko: ezten horren sastakoa egiaz ikusi eta sentitu nahi dut!&lt;page&gt;Erregutzen dizut, erdibitu nazazu. Bizitzako azken une honetan, xaflaren ertz fina probatu nahi dut.&lt;page&gt;Hainbeste denboraren ostean, atsedenik gabeko lanaren ostean... ez al dut, ba, horrenbeste merezi?</entry>
+    <entry name="NAILSMITH_SIGN">Erabili gabe</entry>
+    <entry name="MODELLING_REPEAT">Zoragarria da. Ez nuen uste nire erpeok halako artelan fina lantzeko gai izango zirenik.</entry>
+    <entry name="NAILSMITH_DECLINE">Orduan, ez zaizu interesatzen? Nahi bezala.</entry>
+    <entry name="NAILSMITH_COMPLETE_1">Kitto. Amaitu dut birforjatzea.&lt;page&gt;Zure eztenaren ahoa leundu dut. Inoiz baino zorrotzagoa dela nabarituko duzu.&lt;page&gt;Zoaz kanpora, eta frogatu bere indarra arerioen kontra.</entry>
+    <entry name="NAILSMITH_COMPLETE_2">Kitto. Amaitu dut birforjatzea.&lt;page&gt;Eztena ildaskatu dut. Orain errazago ebakiko ditu arerioak. Lehen baino gogorragoa dela nabarituko duzu.&lt;page&gt;Zoaz kanpora, eta probatu bere xafla arerioen kontra.</entry>
+    <entry name="NAILSMITH_COMPLETE_3">Kitto. Amaitu dut birforjatzea.&lt;page&gt;Eztenari forma espirala eman diot. Lan zaila izan da oso. Inoiz baino sendoagoa dela nabariko duzu.&lt;page&gt;Zoaz orain. Ebaki zure bidea.</entry>
+    <entry name="NAILSMITH_COMPLETE_4">Kitto. Amaitu dut birforjatzea.&lt;page&gt;Zure eztena orain lehen baino askoz gogorragoa da. Izan daitekeen gogorrena.&lt;page&gt;Zure arman baino ez dut ikusi hainbeste gaitasun. Azkenean, Ezten Puru baten maisutasuna ikus dezaket nire aurrean.&lt;page&gt;Pentsatzea ere, une hau hain bizkor iritsi zaidala...&lt;page&gt;...Nik... Hemendik atera beharra daukat une batez...</entry>
+    <entry name="NAILSMITH_DREAM_INTERIOR">...Ezten perfektua forjatzea...</entry>
+    <entry name="PAINTED_REPEAT">Nork esango zidan halako arima inspiragarririk aurkituko nuela Sakrabiako iluntasunean.</entry>
+    <entry name="NAILSMITH_NEED_ORE1">Mea zurbil puska bat ekartzen badidazu, zure eztenean forjatuko dut, are gogorrago bihur dadin.</entry>
+    <entry name="NAILSMITH_NEED_ORE2">Bi mea zurbil puska ekartzen badizkidazu, zure eztenean forjatuko ditut, are gogorrago bihur dadin.</entry>
+    <entry name="NAILSMITH_NEED_ORE3">Hiru mea zurbil puska ekartzen badizkidazu, zure eztenean forjatuko ditut, are gogorrago bihur dadin.</entry>
+</entries>
