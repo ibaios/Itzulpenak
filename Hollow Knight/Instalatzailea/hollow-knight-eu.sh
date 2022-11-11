@@ -26,7 +26,7 @@ if [[  ! -d "$path" ]]; then
 	while read -r line; do
 		if [[ $line == \"path\"* ]]; then
 			base=$(echo $line | cut -d '"' -f 4)
-			path="$base/steamapps/common/Hollow\ Knight/hollow_knight_Data"
+			path="$base"/steamapps/common/Hollow\ Knight/hollow_knight_Data
 			if [[ -d "$path" ]]; then
 				break
 			fi
