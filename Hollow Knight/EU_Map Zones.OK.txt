@@ -16,7 +16,7 @@
     <entry name="MANTIS_VILLAGE">Marisorginen Herrixka</entry>
     <entry name="OUTSKIRTS">Erresumaren Ertza</entry>
     <entry name="BLUE_LAKE">Laku Urdina</entry>
-    <entry name="GLADE">Izpirituen Soilgunea</entry>
+    <entry name="GLADE">Espirituen Soilgunea</entry>
     <entry name="ISMAS_GROVE">Ismaren Zuhaiztia</entry>
     <entry name="TEST_AREA">Probagunea</entry>
     <entry name="DREAM_WORLD">Ametsa</entry>

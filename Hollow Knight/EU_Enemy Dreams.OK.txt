@@ -203,7 +203,7 @@
     <entry name="RADIANCE_2">...EZ NAUZU IKARATZEN...</entry>
     <entry name="RADIANCE_3">...UTZIDAZU ASKE IZATEN...</entry>
     <entry name="RADIANCE_4">...EZ NAUTE AHAZTUKO...</entry>
-    <entry name="RADIANCE_5">...EGUNSENTIA HAUTSIKO DA...</entry>
+    <entry name="RADIANCE_5">...IRITSIKO DA EGUNSENTIA...</entry>
     <entry name="RADIANCE_6">...ARGIA EZIN DA AGORTU...</entry>
     <entry name="ROYAL_GUARD_1">...Defendatu...</entry>
     <entry name="ROYAL_GUARD_2">...Hil...</entry>

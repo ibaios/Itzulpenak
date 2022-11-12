@@ -19,7 +19,7 @@
     <entry name="CHARM_DESC_8">Bizi-odol preziatua jariatzen duen muin biziduna dauka.&lt;br&gt;&lt;br&gt;Atseden hartzean, eramaileak bizi-odol geruza bat irabaziko du, kalte dexente hartzetik babestuko duena.</entry>
     <entry name="CHARM_DESC_9">Bizi-odol preziatua borborka darion muin biziduna dauka.&lt;br&gt;&lt;br&gt;Atseden hartzean, eramaileak bizi-odol geruza bat irabaziko du, kalte asko hartzetik babestuko duena.</entry>
     <entry name="CHARM_DESC_10">Sakrabiako erregeak bere zaldun leialenari oparitutako kutun bakar eta berezia. Urratua eta zikina, baina oraindik preziatua.&lt;br&gt;&lt;br&gt;Eramaileak usain heroikoa isuriko du.</entry>
-    <entry name="CHARM_DESC_11">Trematama baten erraietan jaiotako kutun biziduna.&lt;br&gt;&lt;br&gt;Izpiritu mendekariaren aztikeria moldatzen du tremakume oldarkorren horda batekin trukatuz.</entry>
+    <entry name="CHARM_DESC_11">Trematama baten erraietan jaiotako kutun biziduna.&lt;br&gt;&lt;br&gt;Espiritu mendekariaren aztikeria moldatzen du tremakume oldarkorren horda batekin trukatuz.</entry>
     <entry name="CHARM_DESC_12">Eramailearen mina antzematean, min hori kanporatzen du ingurukoak zigortuz.&lt;br&gt;&lt;br&gt;Kaltetzen zaituztenean, inguruko arerioak zartatuko dituzten adar arantzatsuak irtengo zaizkizu.</entry>
     <entry name="CHARM_DESC_13">Marisorginen tribuak eskuzabalki emana errespetatzen dituenei.&lt;br&gt;&lt;br&gt;Eramailearen eztenaren helmena izugarri handitzen du, arerioak urrunagotik sastatzea ahalbidetuz.</entry>
     <entry name="CHARM_DESC_14">Eramaileak, etsaiak eztenarekin kolpatzean, ez du atzera egingo.&lt;br&gt;&lt;br&gt;Lekuan geldi irmo mantenduz erasotzen jarraitzeko aukera ematen du.</entry>
@@ -180,7 +180,7 @@
     <entry name="INV_DESC_SOULORBS_2">Arima gordetzeko sorturiko edukitzaile zuri baten pusketa.&lt;br&gt;&lt;br&gt;Bildu beste pusketa bat edukitzailea osatzeko, aldean arima gehiago eramatea ahalbidetuz.</entry>
     <entry name="INV_DESC_SOULORBS_ALL">Edukitzaile oso bat, arima gordetzeko boterez bustia.</entry>
     <entry name="INV_DESC_SOULORBS_NONE"></entry>
-    <entry name="INV_DESC_SPELL_FIREBALL1">Konjuratu aurrerantz hegan egingo duen izpiritu bat, bidean aurkitzen dituen arerioak erreko dituena.&lt;br&gt;&lt;br&gt;Izpiritua konjuratzeko ARIMA behar da. Kolpatu etsaiak ARIMA biltzeko.</entry>
+    <entry name="INV_DESC_SPELL_FIREBALL1">Konjuratu aurrerantz hegan egingo duen espiritu bat, bidean aurkitzen dituen arerioak erreko dituena.&lt;br&gt;&lt;br&gt;Espiritua konjuratzeko ARIMA behar da. Kolpatu etsaiak ARIMA biltzeko.</entry>
     <entry name="INV_DESC_SPELL_FIREBALL2">Konjuratu aurrerantz hegan egingo duen itzal bat, bidean aurkitzen dituen arerioak erreko dituena.&lt;br&gt;&lt;br&gt;Itzala konjuratzeko ARIMA behar da. Kolpatu etsaiak ARIMA biltzeko.</entry>
     <entry name="INV_DESC_SPELL_FOCUS">Kontzentratu bildutako ARIMA zure oskola konpondu eta osasuna berreskuratzeko.&lt;br&gt;&lt;br&gt;Kolpatu etsaiak ARIMA biltzeko.</entry>
     <entry name="INV_DESC_SPELL_QUAKE1">Kolpatu lurra ARIMA kontzentratuko indarrarekin. Indar honek arerioak suntsitu eta egitura hauskorrak apur ditzake.&lt;br&gt;&lt;br&gt;Indarra konjuratzeko ARIMA behar da. Kolpatu etsaiak ARIMA biltzeko.</entry>
@@ -238,7 +238,7 @@
     <entry name="INV_NAME_SOULORBS_2">Edukitzaile pusketak</entry>
     <entry name="INV_NAME_SOULORBS_ALL">Arima-edukitzailea</entry>
     <entry name="INV_NAME_SOULORBS_NONE"></entry>
-    <entry name="INV_NAME_SPELL_FIREBALL1">Izpiritu mendekaria</entry>
+    <entry name="INV_NAME_SPELL_FIREBALL1">Espiritu mendekaria</entry>
     <entry name="INV_NAME_SPELL_FIREBALL2">Itzal-arima</entry>
     <entry name="INV_NAME_SPELL_FOCUS">Kontzentratu</entry>
     <entry name="INV_NAME_SPELL_QUAKE1">Murgiltze suntsitzailea</entry>

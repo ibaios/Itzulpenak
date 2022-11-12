@@ -47,8 +47,8 @@
     <entry name="GET_DREAMNAILUPGRADE_2">Amets-eztena eguneratu da. Orain gogorik babestuenaren barrura ere sar daiteke.</entry>
     <entry name="GET_DSLASH_1">energia eztenean batzeko.</entry>
     <entry name="GET_DSLASH_2">Bulkada burutu bitartean, askatu botoia bulkada-sastakoa emateko.</entry>
-    <entry name="GET_FIREBALL_1">izpiritua askatzeko.</entry>
-    <entry name="GET_FIREBALL2_1">izpiritu boteretsuago bat askatzeko.</entry>
+    <entry name="GET_FIREBALL_1">espiritua askatzeko.</entry>
+    <entry name="GET_FIREBALL2_1">espiritu boteretsuago bat askatzeko.</entry>
     <entry name="GET_FIREBALL2_2">Aztikeria honek ARIMA kopuru bera kontsumitzen du, eta indar gehiagorekin eraso.</entry>
     <entry name="GET_FIREBALL_2">Aztikeriek ARIMA husten dute.&lt;br&gt;Bete ARIMA berriro etsaiak kolpatuz.</entry>
     <entry name="GET_GSLASH_1">energia eztenean batzeko.</entry>
@@ -111,7 +111,7 @@
     <entry name="PROMPT_ATTACK">Eraso</entry>
     <entry name="PROMPT_DASH">Bulkada</entry>
     <entry name="PROMPT_DREAMNAIL">Amets-eztena</entry>
-    <entry name="PROMPT_FIREBALL">Izpiritu Mendekaria</entry>
+    <entry name="PROMPT_FIREBALL">Espiritu Mendekaria</entry>
     <entry name="PROMPT_FOCUS_EXPLAINER1A">Bildu ARIMA etsaiak kolpatuz.</entry>
     <entry name="PROMPT_FOCUS_EXPLAINER1B">Behar beste ARIMA bildu ondoren</entry>
     <entry name="PROMPT_FOCUS_EXPLAINER2">ARIMA kontzentratu eta SENDATZEKO.</entry>

@@ -323,7 +323,7 @@
     <entry name="GIRAFFE_SUPER"></entry>
     <entry name="GIRAFFE_MAIN">Willoh</entry>
     <entry name="GIRAFFE_SUB"></entry>
-    <entry name="GLADE_SUPER">Izpirituen</entry>
+    <entry name="GLADE_SUPER">Espirituen</entry>
     <entry name="GLADE_MAIN">Soilgunea</entry>
     <entry name="GLADE_SUB"></entry>
     <entry name="GODHOME_SUPER"></entry>
