@@ -6,7 +6,7 @@
     <entry name="BANKER_ACCT_DECLINE">Ulertzen dut. Zaila da kostata lortutako geoengandik banantzea. Hemen naukazu, iritziz aldatzen baduzu.</entry>
     <entry name="BANKER_ACCT_DECLINE_AGAIN">Ezezkoan oraindik? Zalantzatia zara benetan! Erabaki ausartak hartu behar dituzu eta hauek amaieraraino eraman, hori da geo gehiago lortzeko trikimailua. </entry>
     <entry name="BANKER_ACCT_NOTENOUGH">Oh, itxaron. Tamalez, ez daukazu kontu bat irekitzeko behar beste geo. 100 geo biltzen dituzunean, zatoz bueltan berehala kontua irekitzera.</entry>
-    <entry name="BANKER_ACCT_OPEN">Tipo argia zara. Munstro zantar batek atzematen zaituen hurrengo aldian, poztuko zaitu jakiteak dirua seguru dagoela nire apal- eeee...ganbera akorazatuan.&lt;page&gt;Orain, egin ditzagun banku-eragiketa batzuk.</entry>
+    <entry name="BANKER_ACCT_OPEN">Tipo argia zara. Munstro zantar batek atzematen zaituen hurrengo aldian, poztuko zaitu jakiteak dirua seguru dagoela nire apal- eeee...ganbera korazatuan.&lt;page&gt;Orain, egin ditzagun banku-eragiketa batzuk.</entry>
     <entry name="BANKER_CANCEL">Iritziz aldatu duzu? Tira, bueltatu nahi duzunean.</entry>
     <entry name="BANKER_WITHDRAW">Milesker geoak ateratzeagatik. Ez dezazula orain dena batera gastatu!</entry>
     <entry name="BANKER_DEPOSIT">Ongi egina, maitea! Nik zainduko ditut zure geoak. </entry>
