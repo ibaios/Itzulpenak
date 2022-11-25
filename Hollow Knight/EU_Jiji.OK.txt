@@ -13,7 +13,7 @@
     <entry name="HIVE">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, argi urrekaraz inguraturik, urrutiko erletxe batean.</entry>
     <entry name="KINGS_PASS">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, gertu, erresuma honen sarreran bertan.</entry>
     <entry name="LOST_SHADE">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, gure azpiko iluntasunean gorderik.</entry>
-    <entry name="MEET1">Ongi etorri, arrotz txikia. Denboraldi bat egin dut hemen lo seko...Denboraldi bat?&lt;page&gt;Ah. Bai. Bai. Tira, orain zu etorri eta iratzarri nauzu. Berdin dio, suposatzen dut. Agian lagundu ahalko dizut.</entry>
+    <entry name="MEET1">Ongi etorri, arrotz txikia. Denboraldi bat egin dut hemen lo seko... Denboraldi bat?&lt;page&gt;Ah. Bai. Bai. Tira, orain zu etorri eta iratzarri nauzu. Berdin dio, suposatzen dut. Agian lagundu ahalko dizut.</entry>
     <entry name="MEET2">Jiji naiz, eta nire ganberarako bidea aurkitu baduzu, ziur laguntza bila zatozela.&lt;page&gt;Bai ba, batzuetan gure damuak atzean uzten ditugu, orban beltzak balira bezala.&lt;page&gt;Eta ez badugu damuokin bakerik egiten, itxaropena agortzen hasten zaigu.&lt;page&gt;Zuk ba al daukazu damurik, txikia? Ea, utzidazu ikusten...</entry>
     <entry name="MINES">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, inguruko kristalen distira itsugarriak ia ezkutaturik.</entry>
     <entry name="NO_EGGS">Hmm, baina ez daukazu jatekorik gainean. Ez behintzat nire interesekorik. Ezin dut lanik egin tripa hutsarekin, beraz, itzul zaitez jaki gozoren bat aurkitzen duzunean... jaki elikagarriren bat.</entry>

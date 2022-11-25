@@ -91,7 +91,7 @@
     <entry name="GG_LOCKED_DESC_GHOST_MARMU">Lorategi batean natza, patxadaz ametsetan</entry>
     <entry name="GG_LOCKED_DESC_GHOST_NOEYES">Santutegi isil batean natza ametsetan</entry>
     <entry name="GG_LOCKED_DESC_GHOST_XERO">Hilobiz inguraturik natza ametsetan, leku baketsuan</entry>
-    <entry name="GG_LOCKED_DESC_GRIM">Suziaren argiaren esperoan nago</entry>
+    <entry name="GG_LOCKED_DESC_GRIM">Zuziaren argiaren esperoan nago</entry>
     <entry name="GG_LOCKED_DESC_GRUZ">Bide bihurgunetsuen artean nago lo</entry>
     <entry name="GG_LOCKED_DESC_HIVEKNIGHT">Erletxearen bihotza zaintzen dut Erreginaren izenean</entry>
     <entry name="GG_LOCKED_DESC_HK">Jainko huts hau Panteoiaren tontorrean dago</entry>
