@@ -46,7 +46,7 @@
     <entry name="GET_DREAMNAILUPGRADE_1">eztena kargatu eta sastakoa emateko.</entry>
     <entry name="GET_DREAMNAILUPGRADE_2">Amets-eztena eguneratu da. Orain gogorik babestuenaren barrura ere sar daiteke.</entry>
     <entry name="GET_DSLASH_1">energia eztenean batzeko.</entry>
-    <entry name="GET_DSLASH_2">Bulkada burutu bitartean, askatu botoia bulkada-sastakoa emateko.</entry>
+    <entry name="GET_DSLASH_2">Bulkada burutzean, askatu botoia bulkada-sastakoa emateko.</entry>
     <entry name="GET_FIREBALL_1">espiritua askatzeko.</entry>
     <entry name="GET_FIREBALL2_1">espiritu boteretsuago bat askatzeko.</entry>
     <entry name="GET_FIREBALL2_2">Aztikeria honek ARIMA kopuru bera kontsumitzen du, eta indar gehiagorekin eraso.</entry>
