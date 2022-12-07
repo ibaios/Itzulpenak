@@ -169,10 +169,8 @@
     <entry name="DESC_ZOTE_BALLOON">Obsesioak jotako gogo baten fantasia. Ez du ondo kudeatzen existitze hutsak sortutako presioa eta bizkor lehertzen da.</entry>
     <entry name="DESC_ZOTE_FLYER">Obsesioak jotako gogo baten fantasia. Gogo txarrez laguntzen du bere nagusia borrokan, arerioenganantz nagiki hegan eginez.</entry>
     <entry name="DESC_ZOTE_HOPPER">Obsesioak jotako gogo baten fantasia. Mehatxagarria ez den eran saltoka aritzen da batetik bestera.</entry>
-
     <entry name="KILL_COUNT_1">Garaitu</entry>
     <entry name="KILL_COUNT_2">gehiago ehiztariaren oharrak deszifratzeko.</entry>
-
     <entry name="NAME_ABYSS_CRAWLER">Itzal herrestaria</entry>
     <entry name="NAME_ABYSS_TENDRIL">Hutsezko garroak</entry>
     <entry name="NAME_ACID_FLYER">Duranda</entry>
@@ -343,22 +341,21 @@
     <entry name="NAME_ZOTE_FLYER">Hegodun zotekumea</entry>
     <entry name="NAME_ZOTE_HOPPER">Zotekume saltokaria</entry>
     <entry name="NAME_ZOTE">Zote</entry>
-
-<entry name="NOTE_ABYSS_CRAWLER">This little creeper is weak and poses no threat, but something about it still unsettles me. The way it moves and the noises it makes are... strange somehow.</entry>
-<entry name="NOTE_ABYSS_TENDRIL">The bugs of Hallownest sometimes wondered whether there were other, older, stranger Kingdoms deep below them. What strange fancies they had. That&#39;s probably why they were always so distracted and easy to kill.</entry>
-<entry name="NOTE_ACID_FLYER">Thinks itself fully protected and so is unconcerned by passers by. Attack its face, and teach it that nothing is ever safe.</entry>
-<entry name="NOTE_ACID_WALKER">One of the few creatures that can survive in the rivers of harsh acidic water that flow around us. Where does this water come from? It bubbles and spits with a seething hatred of the living...</entry>
-<entry name="NOTE_ANGRY_BUZZER">The infection that passes from creature to creature grants strength and courage, but it also seems to enslave the will. Would you make such a bargain?</entry>
+    <entry name="NOTE_ABYSS_CRAWLER">Herrestari txiki hau ahula da eta ez da arriskutsua, baina badu zerbait aztoratzen nauena. Bere ibilkera eta mugitzean egiten duen hotsa... zomorro bitxia da.</entry>
+    <entry name="NOTE_ABYSS_TENDRIL">Sakrabiako zomorroek noizbehinka galdetzen zieten haien buruei ea haien azpian bestelako erresuma zaharrago eta bitxiagorik ote zegoen. Eta zer desira berezi izango ote zituzten. Akaso horregatik zeuden beti oharkabe eta hain hiltzen errazak ziren.</entry>
+    <entry name="NOTE_ACID_FLYER">Erabateko babesa daukala uste du, eta hortaz, ez da ingurutik igarotzen direnengatik arduratzen. Kolpatu bere aurpegia eta irakats iezaiozu ezer ez dela segurua.</entry>
+    <entry name="NOTE_ACID_WALKER">Inguratzen gaituzten azido-ur erretzailezko ibaietan biziraun dezakeen izaki gutxietariko bat. Nondik dator ur hau? Bizidunekiko gorroto biziz bor-bor egiten du...</entry>
+    <entry name="NOTE_ANGRY_BUZZER">Izaki batetik bestera dabilen izurri horrek indarra eta ausardia ematen ditu, baina, horrez gain, borondatea gatibatzen duela dirudi. Onartuko zenuke halako traturik?</entry>
 <entry name="NOTE_BABY_CENTIPEDE">Springy and vicious, these hunters will try to overwhelm you with numbers in the dark, tight, twisting caverns they carve through the ground. Always be on your guard!</entry>
-<entry name="NOTE_BEE_HATCHLING">Weak, but hard-working and numerous. Their hairy little bodies are filled with a thick, sweet, golden liquid. Good to keep a few on you for long hunts.</entry>
-<entry name="NOTE_BEE">Savage and dedicated warriors. Be prepared to fight them to the death if you plan on invading their home.</entry>
-<entry name="NOTE_BIG_BEE">Like their smaller kin, their only instinct is to protect the Hive at any cost to themselves. Somewhat clumsy, they&#39;ll often damage the structure of the Hive when charging at intruders. Does this cause them shame? I do not know whether they have the capacity for such a thing.</entry>
+    <entry name="NOTE_BEE_HATCHLING">Ahula, baina langilea eta ugaria. Bere gorputz iletsu txikia urre koloreko likido sendo gozoz beterik dago. Ezin hobeak ehizaldi luzeak jasateko indarra lortzeko.</entry>
+    <entry name="NOTE_BEE">Gudari bortitzak eta emanak. Haien etxea inbaditzeko asmoa baduzu, presta zaitez hil arte borrokatzeko.</entry>
+    <entry name="NOTE_BIG_BEE">Bere ahaide txikienak bezala, senak Erletxea babestera daramatza, kosta ahala kosta. Baldar samarra da, eta maiz kaltetzen du ingurua sarkinei erasotzerakoan. Honek lotsarazten dituen? Ez dakit halako sentimendurik izateko gaitasunik ere ba ote duten.</entry>
 <entry name="NOTE_BIGBUZZER">A filthy creature that is happy to chew on any old thing it finds discarded on the cavern floor. When it notices a threat it will annoyingly scream and shriek, so kill it swiftly.</entry>
 <entry name="NOTE_BIG_CENTIPEDE">Monstrously strong, they shrug off any attacks you make on their thickly armoured bodies. Luckily, if you simply avoid their paths they&#39;ll leave you alone.</entry>
 <entry name="NOTE_BIG_FAT_FLYER">Too slow to escape you and too large to hide from you. This prey will not challenge you, but sometimes it is good to take things easy.</entry>
     <entry name="NOTE_BIGFLY">Bitxia bada ere, munstro honek ez du arrautzarik erruten, bere sabel lodiaren barnean eramaten ditu kumeak. Antza jokabide xelebre honek izakia erabat akitzen du eta erraz lo hartzen du, inguruko arriskuez ahaztuz. Aprobetxatu bere ahuldadeaz!</entry>
-<entry name="NOTE_BLACK_KNIGHT">When these silent warriors fall in battle, their bodies split open and strange bugs come flying out. I wonder, what will come flying out of me when I die? Will my hopes and fears drift away into the darkness?</entry>
-<entry name="NOTE_BLOBBLE">They have crafted a tiny mask for it! Is such an extravagance practical I wonder?</entry>
+    <entry name="NOTE_BLACK_KNIGHT">Gudari isil hauek borrokan erortzen direnean, haien gorpuak erdibitu eta barnetik zomorro bitxiak ateratzen dira hegan. Zer aterako ote zait hegan gorpu barrutik ni hiltzen naizenean? Nire esperantza eta beldurrek egingo ote dute ihes iluntasunerantz?</entry>
+    <entry name="NOTE_BLOBBLE">Maskara txiki bat landu dute beretzat! Praktikoa al da halako nabarmenkeria?</entry>
 <entry name="NOTE_BLOB_FLYER">Does it realise what a nuisance it is? Drifting around, spilling its noxious juices everywhere it goes? If you see any, make sure to kill them.</entry>
 <entry name="NOTE_BLOCKER">As they age, these creatures become too heavy and lumpy to roll around freely. Instead, they curl up and hide from the world. What do they think of in there, wrapped up inside of themselves? More carefree times perhaps.</entry>
     <entry name="NOTE_BOUNCER">Haien inguruan gertatzen denaz ozta-ozta konturatzen dira, harrapakin erraza bihurtuz hortzak zorrozteko. Zerk gidatzen ditu bere bidean? Balirudike hiltzeko modu baten bila dabiltzala.</entry>

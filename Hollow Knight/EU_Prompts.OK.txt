@@ -56,11 +56,11 @@
     <entry name="GET_HUNTERMARK_1">Benetako ehiztariei soilik dagokien ohorezko marka.</entry>
     <entry name="GET_HUNTERMARK_2">Marka ehiztariaren egunerokoan gordeko da.</entry>
     <entry name="GET_ITEM_INTRO1">Hartu duzu</entry>
-    <entry name="GET_ITEM_INTRO2">Kontsumitu duzu</entry>
+    <entry name="GET_ITEM_INTRO2">Hobekuntza kontsumitu duzu</entry>
     <entry name="GET_ITEM_INTRO3">Menderatu duzu</entry>
     <entry name="GET_ITEM_INTRO4">Jaso duzu</entry>
     <entry name="GET_ITEM_INTRO5">Bildu duzu</entry>
-    <entry name="GET_ITEM_INTRO6">Kontsumitu dituzu</entry>
+    <entry name="GET_ITEM_INTRO6">Kontsumitu duzu</entry>
     <entry name="GET_ITEM_INTRO7">Xurgatu duzu</entry>
     <entry name="GET_ITEM_INTRO8">Jaso duzu</entry>
     <entry name="GET_JOURNAL_1">menua irekitzeko, eta gero nabigatu &#39;Egunerokoa&#39; panelera.</entry>
