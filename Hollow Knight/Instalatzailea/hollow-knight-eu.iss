@@ -1,6 +1,6 @@
 #define MyAppName "Hollow Knight euskaraz"
 #define MyAppFilesystemName "Hollow Knight euskaraz"
-#define MyAppVersion "0.99"
+#define MyAppVersion "0.991"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppURL "https://ibaios.eus/"
 #define MyAppIcon "hollow-knight-eu.ico"
