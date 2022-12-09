@@ -13,8 +13,8 @@
  1 string spritesHash = "8c‌​a9‌​1e‌​5a‌​20‌​51‌​b3‌​7a‌​d6‌​13‌​94‌​54‌​94‌​f3‌​ce‌​1a"
  1 string buildDate = "2018-11-13T14:25:06"
  0 StringEntry strings
-  0 Array Array (983 items)
-   0 int size = 983
+  0 Array Array (985 items)
+   0 int size = 985
    [0]
     0 StringEntry data
      1 string key = "language_code"
@@ -1429,2521 +1429,2529 @@
      1 string val = "Itzulpena koreerara"
    [353]
     0 StringEntry data
+     1 string key = "credits_loc_ukrainian"
+     1 string val = "Itzulpena ukrainerara"
+   [354]
+    0 StringEntry data
+     1 string key = "credits_loc_arabic"
+     1 string val = "Itzulpena arabierara"
+   [355]
+    0 StringEntry data
      1 string key = "credits_voice"
      1 string val = "Bikoizketa"
-   [354]
+   [356]
     0 StringEntry data
      1 string key = "credits_voice_manage"
      1 string val = "Voices.com-eko castinga"
-   [355]
+   [357]
     0 StringEntry data
      1 string key = "credits_voice_add"
      1 string val = "Beste ahotsak"
-   [356]
+   [358]
     0 StringEntry data
      1 string key = "credits_voice_rower"
      1 string val = "Txalupa gidaria"
-   [357]
+   [359]
     0 StringEntry data
      1 string key = "credits_voice_house"
      1 string val = "Giltzaria"
-   [358]
+   [360]
     0 StringEntry data
      1 string key = "credits_voice_player"
      1 string val = "Ikuskatzailea"
-   [359]
+   [361]
     0 StringEntry data
      1 string key = "credits_models"
      1 string val = "Animalien modeloak"
-   [360]
+   [362]
     0 StringEntry data
      1 string key = "credits_models_farmanimals"
      1 string val = "Baserriko abereak"
-   [361]
+   [363]
     0 StringEntry data
      1 string key = "credits_models_monkey"
      1 string val = "Tximua"
-   [362]
+   [364]
     0 StringEntry data
      1 string key = "credits_models_cowskull"
      1 string val = "Behiaren burezurra"
-   [363]
+   [365]
     0 StringEntry data
      1 string key = "credits_testing"
      1 string val = "Probak"
-   [364]
+   [366]
     0 StringEntry data
      1 string key = "credits_thanks_extra"
      1 string val = "Eskerrik asko ere"
-   [365]
+   [367]
     0 StringEntry data
      1 string key = "credits_playing"
      1 string val = "Milesker jolasteagatik!"
-   [366]
+   [368]
     0 StringEntry data
      1 string key = "credits_copyright"
      1 string val = "© 2014-2018, 3909 LLC.\nEskubide guztiak gordeta."
-   [367]
+   [369]
     0 StringEntry data
      1 string key = "ach_ending_good"
      1 string val = "Obra Egina"
-   [368]
+   [370]
     0 StringEntry data
      1 string key = "ach_ending_good_desc"
      1 string val = "Liburu guztia osatu."
-   [369]
+   [371]
     0 StringEntry data
      1 string key = "ach_ending_bad"
      1 string val = "Ontzia abandonatu"
-   [370]
+   [372]
     0 StringEntry data
      1 string key = "ach_ending_bad_desc"
      1 string val = "Utzi ontzia kapitulu eskuragai guztiak osatu gabe."
-   [371]
+   [373]
     0 StringEntry data
      1 string key = "ach_solvedchapter_desc"
      1 string val = "Argitu $numeral. kapituluko patu guztiak."
-   [372]
+   [374]
     0 StringEntry data
      1 string key = "ach_killercaptain"
      1 string val = "Kapitaina izan zen"
-   [373]
+   [375]
     0 StringEntry data
      1 string key = "ach_killercaptain_desc"
      1 string val = "Gutxi gora-beherako egia, Konpainiaren eta Koroaren ustez, behintzat."
-   [374]
+   [376]
     0 StringEntry data
      1 string key = "ach_solvedany"
      1 string val = "Argitu $count"
-   [375]
+   [377]
     0 StringEntry data
      1 string key = "ach_solvedany_desc"
      1 string val = "Argitu $count patu."
-   [376]
+   [378]
     0 StringEntry data
      1 string key = "fate_unknown_die"
      1 string val = "Nor da?\nNola hil zen?"
-   [377]
+   [379]
     0 StringEntry data
      1 string key = "fate_unknown_disappear"
      1 string val = "Nor da?\nZein izan zen bere patua?"
-   [378]
+   [380]
     0 StringEntry data
      1 string key = "fate_killer_notpresent"
      1 string val = "$subject ez zegoen bertan arima gajo hau hil zenean, ezbairik gabe."
-   [379]
+   [381]
     0 StringEntry data
      1 string key = "fate_noncrew_d000-stow-m01-stowaway"
      1 string val = "Polizoi ezezagun bat, doako itsas zeharkaldi baten eta askatasunaren esperoan, birrinduta hil zen gordelekutzat hartu zuen upela erortzean."
-   [380]
+   [382]
     0 StringEntry data
      1 string key = "fate_noncrew_d010-cold-m02-cow"
      1 string val = "Behi handi bat bere okelagatik sakrifikatua izan zen."
-   [381]
+   [383]
     0 StringEntry data
      1 string key = "fate_noncrew_d050-ride-m07-carp"
      1 string val = "Munstro izugarri bat zendu zen arima adoretsu baina zoritxarreko batekin batera."
-   [382]
+   [384]
     0 StringEntry data
      1 string key = "fate_noncrew_d070-save-m01-mermaid3"
      1 string val = "Izaki madarikatu baten orroa erronkariek bala hilgarri bat izan zuten erantzun gisa."
-   [383]
+   [385]
     0 StringEntry data
      1 string key = "fate_noncrew_d070-save-m02-mermaid2"
      1 string val = "Piztia gatibu bat bere kartzelariaren aurka borrokatu zen eta arpoikada bat jaso zuen trukean."
-   [384]
+   [386]
     0 StringEntry data
      1 string key = "fate_noncrew_d070-save-m04-monkey"
      1 string val = "Tximino lagunkoi baina ez oso atsegingarri bat sakrifikatua izan zen ezagutza erdiesteko."
-   [385]
+   [387]
     0 StringEntry data
      1 string key = "tally_title"
      1 string val = "EKIALDEKO INDIETAKO\nKONPAINIA OHORAGARRIA"
-   [386]
+   [388]
     0 StringEntry data
      1 string key = "tally_assessment"
      1 string val = "ASEGURU-ETXEAREN TXOSTENA\n«OBRA DINN»\nontzi onari buruz,\nzeina itsas zabalean zorigatzen biktima izan zen."
-   [387]
+   [389]
     0 StringEntry data
      1 string key = "tally_preparer"
      1 string val = "Konpainiaren Ikerkuntza Bulegoak osatua"
-   [388]
+   [390]
     0 StringEntry data
      1 string key = "tally_approved"
      1 string val = "Txosten honen hasierako zirriborroa Errege Etxearen merkataritza-bermatzaile batek onartua izan da."
-   [389]
+   [391]
     0 StringEntry data
      1 string key = "tally_total"
      1 string val = "GUZTIRA ERREKLAMATUA: $amount"
-   [390]
+   [392]
     0 StringEntry data
      1 string key = "tally_certify"
      1 string val = "Ekialdeko Indietako Konpainia Ohoragarriaren izenean, ziurtatzen dut aitorpen guztiak zuzenak direla eta afera itxitzat ematen dut bere osotasunean:"
-   [391]
+   [393]
     0 StringEntry data
      1 string key = "tally_investigator"
      1 string val = "Konpainiako Ikuskatzaile Burua."
-   [392]
+   [394]
     0 StringEntry data
      1 string key = "tally_amount"
-     1 string val = "$number £"
-   [393]
+     1 string val = "$number £"
+   [395]
     0 StringEntry data
      1 string key = "tally_amount_separator"
      1 string val = ","
-   [394]
+   [396]
     0 StringEntry data
      1 string key = "tally_claim"
      1 string val = "ESKAERA"
-   [395]
+   [397]
     0 StringEntry data
      1 string key = "tally_ship"
      1 string val = "Ontzia"
-   [396]
+   [398]
     0 StringEntry data
      1 string key = "tally_ship_info"
      1 string val = "Haizealdiak kaltetua, Atlantikoan. Enbatak hondoratua, Falmouth-en. Erreklamatutako kopurua: $amount."
-   [397]
+   [399]
     0 StringEntry data
      1 string key = "tally_cargo_company"
      1 string val = "Zama (Konpainia)"
-   [398]
+   [400]
     0 StringEntry data
      1 string key = "tally_cargo_company_info"
      1 string val = "Zama guztia galdu da. Erreklamatutako kopurua: $amount."
-   [399]
+   [401]
     0 StringEntry data
      1 string key = "tally_cargo_crown"
      1 string val = "Zama (Koroa)"
-   [400]
+   [402]
     0 StringEntry data
      1 string key = "tally_cargo_crown_info"
      1 string val = "Zama guztia galdu da. Erreklamatutako kopurua: $amount."
-   [401]
+   [403]
     0 StringEntry data
      1 string key = "tally_join_major"
      1 string val = "._"
-   [402]
+   [404]
     0 StringEntry data
      1 string key = "tally_join_minor"
      1 string val = ";_"
-   [403]
+   [405]
     0 StringEntry data
      1 string key = "tally_fate"
      1 string val = "Patua: $summary"
-   [404]
+   [406]
     0 StringEntry data
      1 string key = "tally_crime"
      1 string val = "Delitu probak: $findings"
-   [405]
+   [407]
     0 StringEntry data
      1 string key = "tally_crime_murder"
      1 string val = "Eskifaia-kidearen erailketa ($countx)"
-   [406]
+   [408]
     0 StringEntry data
      1 string key = "tally_crime_mutiny"
      1 string val = "Matxinada saiakera"
-   [407]
+   [409]
     0 StringEntry data
      1 string key = "tally_crime_theft"
      1 string val = "Zama lapurtzea"
-   [408]
+   [410]
     0 StringEntry data
      1 string key = "tally_merit"
      1 string val = "Meritu probak: $findings"
-   [409]
+   [411]
     0 StringEntry data
      1 string key = "tally_merit_valor"
      1 string val = "Ezohiko adorea"
-   [410]
+   [412]
     0 StringEntry data
      1 string key = "tally_merit_duties"
      1 string val = "Jarduera bikaina"
-   [411]
+   [413]
     0 StringEntry data
      1 string key = "tally_demerit"
      1 string val = "Demeritu probak: $findings"
-   [412]
+   [414]
     0 StringEntry data
      1 string key = "tally_demerit_abandon"
      1 string val = "Eskifaia eta ontzia abandonatzea"
-   [413]
+   [415]
     0 StringEntry data
      1 string key = "tally_demerit_duties"
      1 string val = "Egitekoak burutzean huts egitea"
-   [414]
+   [416]
     0 StringEntry data
      1 string key = "tally_estate_none"
      1 string val = "Erreklamaziorik ez."
-   [415]
+   [417]
     0 StringEntry data
      1 string key = "tally_estate_wages"
      1 string val = "Oinordekoentzako soldata bereziak: $amount"
-   [416]
+   [418]
     0 StringEntry data
      1 string key = "tally_estate_wages_reward"
      1 string val = "Oinordekoentzako soldata eta ordainsari bereziak: $amount"
-   [417]
+   [419]
     0 StringEntry data
      1 string key = "tally_estate_fined"
      1 string val = "Oinordekoentzako isuna: $amount"
-   [418]
+   [420]
     0 StringEntry data
      1 string key = "tally_estate_unknown_wages"
      1 string val = "Oinordeko ezezagunak. Pentsio-funtsera gehitzeko soldata bereziak: $amount"
-   [419]
+   [421]
     0 StringEntry data
      1 string key = "tally_estate_unknown_wages_reward"
      1 string val = "Oinordeko ezezagunak. Pentsio-funtsera gehitzeko soldata eta ordainsari bereziak: $amount"
-   [420]
+   [422]
     0 StringEntry data
      1 string key = "tally_estate_unknown_fined"
      1 string val = "Oinordeko ezezagunak. Erreklamatutako isuna: $amount"
-   [421]
+   [423]
     0 StringEntry data
      1 string key = "tally_estate_forfeit"
      1 string val = "Herentzia Koroari emana."
-   [422]
+   [424]
     0 StringEntry data
      1 string key = "tally_parting_watch"
      1 string val = "Sakelako erlojuak zure eskuetan jarraitzen du."
-   [423]
+   [425]
     0 StringEntry data
      1 string key = "tally_parting_book"
      1 string val = "Liburua bere jatorrizko jabeagana bueltatuko duzu, Henry Evans-engana, Marokora, hark eskatu bezala."
-   [424]
+   [426]
     0 StringEntry data
      1 string key = "office_letter_win"
      1 string val = "Ikuskatzaile Buru jn./and.,\n\n	Albiste lazgarri baten berri emateko idazten dizut: Evans doktorea zendu da. Zure paketea jaso eta gutxira galdu zuen gaixotasunaren aurkako borroka.\n	Biziki poztu zuen zure gutunak, eta bere esker onaren adierazgarri gisa liburua itzul ziezazugun eskatu zuen, berau osatzeko baliabideekin batera.\n	Gelditzen garen beste hiruroi dagokigunez, Obra Dinn-a oroitzapen lausoa eta bizitzako atal zorigaitzekoa baizik ez da dagoeneko, betiko ahaztu nahi duguna. \n	Ez idatzi bueltan.\n\nAdeitasunez,\n	Jane Bird"
-   [425]
+   [427]
     0 StringEntry data
      1 string key = "office_letter_mid"
      1 string val = "Ikuskatzaile Buru jn./and.,\n\n	Albiste lazgarri baten berri emateko idazten dizut: Evans doktorea zendu da. Zure paketea jaso eta gutxira galdu zuen gaixotasunaren aurkako borroka.\n	Liburua erabat osaturik egon ez arren, eginiko saiakeragatik bere esker ona emateko eskatu zidan. Argi zeukan burutu beharreko lanaren zailtasuna, eta liburua osaturik ikusteko zeukan azken desira nekez beteko zela.\n	Obra Dinn-eko kalbario izugarritik bizirik irten ginen laurotatik, hiru gelditzen gara orain.\n	Gustora gaude Morokon daramagun bizitzarekin, eta ez dugu eskutitz gehiagorik jaso nahi.\n\nAdeitasunez,\n	Jane Bird"
-   [426]
+   [428]
     0 StringEntry data
      1 string key = "office_letter_fail"
      1 string val = "Ikuskatzaile Buru jn./and.,\n\n	Albiste lazgarri baten berri emateko idazten dizut: Evans doktorea zendu da. Zure paketea jaso eta gutxira galdu zuen gaixotasunaren aurkako borroka.\n	Osasunez oso ahul zegoen arren, Obra Dinn-aren liburua horren egoera osagabean jasotzeak horrenbeste bihozgabetu zuen, ezin izan zuela bizitzarekin aurrera egin.\n	Bere azken uneak damuz eman zituen, horren zeregin garrantzitsua zure eskuetan jarri izanagatik.\n\nAdeitasunez,\n	Jane Bird"
-   [427]
+   [429]
     0 StringEntry data
      1 string key = "store_tagline"
      1 string val = "Aseguruei buruzko abentura, kolore minimoekin"
-   [428]
+   [430]
     0 StringEntry data
      1 string key = "store_description_long"
      1 string val = "1802an, Obra Dinn merkataritza-ontzia Londresetik Ekialderantz abiatu zen, 200 tonatik gora salgairekin. Sei hilabete geroago, Esperantza Oneko lurmuturreko helburura iritsi gabe, itsasoan galdutzat eman zen. \n\nGaur, 1807ko urriaren 14ko goizean, Obra Dinn-a Falmouth-eko kaian lurreratu da hondaturiko belekin eta eskifaiarik gabe. Ekialdeko Indietako Konpainiaren Londreseko bulegoan aseguru-ikuskatzaile gisa, Falmouth-era abiatu behar duzu berehala, ontziratzea lortu eta kalteen txostena prestatu.\n\nReturn of the Obra Dinn misteriozko abentura da lehenengo pertsonan, esplorazioa eta ebazpen logikoa oinarritzat duena."
-   [429]
+   [431]
     0 StringEntry data
      1 string key = "store_description_short"
      1 string val = "Itsasoan galdua ~ Obra Dinn ontzi ona."
-   [430]
+   [432]
     0 StringEntry data
      1 string key = "store_mature"
      1 string val = "Joko honek era pasiboan erakusten ditu heriotza eta bortxa, izozturiko 3D eszenetan."
-   [431]
+   [433]
     0 StringEntry data
      1 string key = "crew_name_captain"
      1 string val = "Robert Witterel | R. Witterel"
-   [432]
+   [434]
     0 StringEntry data
      1 string key = "crew_name_mate1"
      1 string val = "William Hoscut | W. Hoscut"
-   [433]
+   [435]
     0 StringEntry data
      1 string key = "crew_name_mate2"
      1 string val = "Edward Nichols | E. Nichols"
-   [434]
+   [436]
     0 StringEntry data
      1 string key = "crew_name_mate3"
      1 string val = "Martin Perrott | M. Perrott"
-   [435]
+   [437]
     0 StringEntry data
      1 string key = "crew_name_mate4"
      1 string val = "John Davies | J. Davies"
-   [436]
+   [438]
     0 StringEntry data
      1 string key = "crew_name_bosun"
      1 string val = "Alfred Klestil | A. Klestil"
-   [437]
+   [439]
     0 StringEntry data
      1 string key = "crew_name_bosunmate"
      1 string val = "Charles Miner | C. Miner"
-   [438]
+   [440]
     0 StringEntry data
      1 string key = "crew_name_surgeon"
      1 string val = "Henry Evans | H. Evans"
-   [439]
+   [441]
     0 StringEntry data
      1 string key = "crew_name_surgeonmate"
      1 string val = "James Wallace | J. Wallace"
-   [440]
+   [442]
     0 StringEntry data
      1 string key = "crew_name_carp"
      1 string val = "Winston Smith | W. Smith"
-   [441]
+   [443]
     0 StringEntry data
      1 string key = "crew_name_carpmate"
      1 string val = "Marcus Gibbs | M. Gibbs"
-   [442]
+   [444]
     0 StringEntry data
      1 string key = "crew_name_cook"
      1 string val = "Thomas Sefton | T. Sefton"
-   [443]
+   [445]
     0 StringEntry data
      1 string key = "crew_name_butcher"
      1 string val = "Emil O’Farrell | E. O’Farrel"
-   [444]
+   [446]
     0 StringEntry data
      1 string key = "crew_name_gunner"
      1 string val = "Christian Wolff | C. Wolff"
-   [445]
+   [447]
     0 StringEntry data
      1 string key = "crew_name_gunnermate"
      1 string val = "Olus Wiater | O. Wiater"
-   [446]
+   [448]
     0 StringEntry data
      1 string key = "crew_name_purser"
      1 string val = "Duncan McKay | D. McKay"
-   [447]
+   [449]
     0 StringEntry data
      1 string key = "crew_name_sea9"
      1 string val = "Finley Dalton | F. Dalton"
-   [448]
+   [450]
     0 StringEntry data
      1 string key = "crew_name_pass5"
      1 string val = "Edward Spratt | E. Spratt"
-   [449]
+   [451]
     0 StringEntry data
      1 string key = "crew_name_pass1"
      1 string val = "Abigail Hoscut Witterel | A.H. Witterel"
-   [450]
+   [452]
     0 StringEntry data
      1 string key = "crew_name_pass2"
      1 string val = "Nunzio Pasqua | N. Pasqua"
-   [451]
+   [453]
     0 StringEntry data
      1 string key = "crew_name_pass3"
      1 string val = "Emily Jackson | E. Jackson"
-   [452]
+   [454]
     0 StringEntry data
      1 string key = "crew_name_pass4"
      1 string val = "Jane Bird andereñoa | J. Bird"
-   [453]
+   [455]
     0 StringEntry data
      1 string key = "crew_name_pass6"
      1 string val = "Bun-Lan Lim | B. Lim"
-   [454]
+   [456]
     0 StringEntry data
      1 string key = "crew_name_pass7"
      1 string val = "It-Beng Sia | I. Sia"
-   [455]
+   [457]
     0 StringEntry data
      1 string key = "crew_name_pass8"
      1 string val = "Chioh Tan | C. Tan"
-   [456]
+   [458]
     0 StringEntry data
      1 string key = "crew_name_pass9"
      1 string val = "Hok-Seng Lau | H. Lau"
-   [457]
+   [459]
     0 StringEntry data
      1 string key = "crew_name_stewship"
      1 string val = "Zungi Sathi | Z. Sathi"
-   [458]
+   [460]
     0 StringEntry data
      1 string key = "crew_name_stewcap"
      1 string val = "Fillip Dahl | F. Dahl"
-   [459]
+   [461]
     0 StringEntry data
      1 string key = "crew_name_stewm1"
      1 string val = "Paul Moss | P. Moss"
-   [460]
+   [462]
     0 StringEntry data
      1 string key = "crew_name_stewm2"
      1 string val = "Samuel Galligan | S. Galligan"
-   [461]
+   [463]
     0 StringEntry data
      1 string key = "crew_name_stewm3"
      1 string val = "Roderick Andersen | R. Andersen"
-   [462]
+   [464]
     0 StringEntry data
      1 string key = "crew_name_stewm4"
      1 string val = "Davey James | D. James"
-   [463]
+   [465]
     0 StringEntry data
      1 string key = "crew_name_mid1"
      1 string val = "Peter Milroy | P. Milroy"
-   [464]
+   [466]
     0 StringEntry data
      1 string key = "crew_name_mid2"
      1 string val = "Thomas Lanke | T. Lanke"
-   [465]
+   [467]
     0 StringEntry data
      1 string key = "crew_name_mid3"
      1 string val = "Charles Hershtik | C. Hershtik"
-   [466]
+   [468]
     0 StringEntry data
      1 string key = "crew_name_top5"
      1 string val = "Omid Gul | O. Gul"
-   [467]
+   [469]
     0 StringEntry data
      1 string key = "crew_name_top6"
      1 string val = "Timothy Butement | T. Butement"
-   [468]
+   [470]
     0 StringEntry data
      1 string key = "crew_name_top1"
      1 string val = "Huang Li | H. Li"
-   [469]
+   [471]
     0 StringEntry data
      1 string key = "crew_name_top4"
      1 string val = "Jie Zhang | J. Zhang"
-   [470]
+   [472]
     0 StringEntry data
      1 string key = "crew_name_top7"
      1 string val = "Li Hong | L. Hong"
-   [471]
+   [473]
     0 StringEntry data
      1 string key = "crew_name_top8"
      1 string val = "Wei Lee | W. Lee"
-   [472]
+   [474]
     0 StringEntry data
      1 string key = "crew_name_top9"
      1 string val = "Nicholas Botterill | N. Botterill"
-   [473]
+   [475]
     0 StringEntry data
      1 string key = "crew_name_top3"
      1 string val = "Maba | Maba"
-   [474]
+   [476]
     0 StringEntry data
      1 string key = "crew_name_topa"
      1 string val = "Lewis Walker | L. Walker"
-   [475]
+   [477]
     0 StringEntry data
      1 string key = "crew_name_top2"
      1 string val = "Leonid Volkov | L. Volkov"
-   [476]
+   [478]
     0 StringEntry data
      1 string key = "crew_name_sea1"
      1 string val = "Alarcus Nikishin | A. Nikishin"
-   [477]
+   [479]
     0 StringEntry data
      1 string key = "crew_name_sea5"
      1 string val = "Aleksei Toporov | A. Toporov"
-   [478]
+   [480]
     0 StringEntry data
      1 string key = "crew_name_sea2"
      1 string val = "Nathan Peters | N. Peters"
-   [479]
+   [481]
     0 StringEntry data
      1 string key = "crew_name_sea3"
      1 string val = "Lars Linde | L. Linde"
-   [480]
+   [482]
     0 StringEntry data
      1 string key = "crew_name_sea6"
      1 string val = "John Naples | J. Naples"
-   [481]
+   [483]
     0 StringEntry data
      1 string key = "crew_name_sea4"
      1 string val = "Renfred Rajub | R. Rajub"
-   [482]
+   [484]
     0 StringEntry data
      1 string key = "crew_name_sea7"
      1 string val = "Abraham Akbar | A. Akbar"
-   [483]
+   [485]
     0 StringEntry data
      1 string key = "crew_name_sea8"
      1 string val = "William Wasim | W. Wasim"
-   [484]
+   [486]
     0 StringEntry data
      1 string key = "crew_name_seac"
      1 string val = "Soloman Syed | S. Syed"
-   [485]
+   [487]
     0 StringEntry data
      1 string key = "crew_name_seaa"
      1 string val = "Hamadou Diom | H. Diom"
-   [486]
+   [488]
     0 StringEntry data
      1 string key = "crew_name_seab"
      1 string val = "Henry Brennan | H. Brennan"
-   [487]
+   [489]
     0 StringEntry data
      1 string key = "crew_name_sead"
      1 string val = "Alexander Booth | A. Booth"
-   [488]
+   [490]
     0 StringEntry data
      1 string key = "crew_name_seae"
      1 string val = "Patrick O’Hagan | P. O’Hagan"
-   [489]
+   [491]
     0 StringEntry data
      1 string key = "crew_name_seaf"
      1 string val = "George Shirley | G. Shirley"
-   [490]
+   [492]
     0 StringEntry data
      1 string key = "crew_name_seag"
      1 string val = "Samuel Peters | S. Peters"
-   [491]
+   [493]
     0 StringEntry data
      1 string key = "crew_job_officer"
      1 string val = "Ofiziala"
-   [492]
+   [494]
     0 StringEntry data
      1 string key = "crew_job_captain"
      1 string val = "Kapitaina"
-   [493]
+   [495]
     0 StringEntry data
      1 string key = "crew_job_mate1"
      1 string val = "Lehen ofiziala"
-   [494]
+   [496]
     0 StringEntry data
      1 string key = "crew_job_mate2"
      1 string val = "Bigarren ofiziala"
-   [495]
+   [497]
     0 StringEntry data
      1 string key = "crew_job_mate3"
      1 string val = "Hirugarren ofiziala"
-   [496]
+   [498]
     0 StringEntry data
      1 string key = "crew_job_mate4"
      1 string val = "Laugarren ofiziala"
-   [497]
+   [499]
     0 StringEntry data
      1 string key = "crew_job_bosun"
      1 string val = "Kontramaisua"
-   [498]
+   [500]
     0 StringEntry data
      1 string key = "crew_job_bosunmate"
      1 string val = "Kondestablea"
-   [499]
+   [501]
     0 StringEntry data
      1 string key = "crew_job_surgeon"
      1 string val = "Zirujaua"
-   [500]
+   [502]
     0 StringEntry data
      1 string key = "crew_job_surgeonmate"
      1 string val = "Zirujauaren zerbitzaria"
-   [501]
+   [503]
     0 StringEntry data
      1 string key = "crew_job_carp"
      1 string val = "Arotza"
-   [502]
+   [504]
     0 StringEntry data
      1 string key = "crew_job_carpmate"
      1 string val = "Arotzaren zerbitzaria"
-   [503]
+   [505]
     0 StringEntry data
      1 string key = "crew_job_cook"
      1 string val = "Sukaldaria"
-   [504]
+   [506]
     0 StringEntry data
      1 string key = "crew_job_butcher"
      1 string val = "Harakina"
-   [505]
+   [507]
     0 StringEntry data
      1 string key = "crew_job_gunner"
      1 string val = "Arma-maisua"
-   [506]
+   [508]
     0 StringEntry data
      1 string key = "crew_job_gunnermate"
      1 string val = "Arma-maisuaren zerbitzaria"
-   [507]
+   [509]
     0 StringEntry data
      1 string key = "crew_job_purser"
      1 string val = "Kargazaina"
-   [508]
+   [510]
     0 StringEntry data
      1 string key = "crew_job_helm"
      1 string val = "Lemazaina"
-   [509]
+   [511]
     0 StringEntry data
      1 string key = "crew_job_artist"
      1 string val = "Artista"
-   [510]
+   [512]
     0 StringEntry data
      1 string key = "crew_job_pass"
      1 string val = "Bidaiaria"
-   [511]
+   [513]
     0 StringEntry data
      1 string key = "crew_job_stew"
      1 string val = "Zerbitzaria"
-   [512]
+   [514]
     0 StringEntry data
      1 string key = "crew_job_stewship"
      1 string val = "Ontziko zerbitzaria"
-   [513]
+   [515]
     0 StringEntry data
      1 string key = "crew_job_stewcap"
      1 string val = "Kapitainaren zerbitzaria"
-   [514]
+   [516]
     0 StringEntry data
      1 string key = "crew_job_stewm1"
      1 string val = "1. ofizialaren zerbitzaria"
-   [515]
+   [517]
     0 StringEntry data
      1 string key = "crew_job_stewm2"
      1 string val = "2. ofizialaren zerbitzaria"
-   [516]
+   [518]
     0 StringEntry data
      1 string key = "crew_job_stewm3"
      1 string val = "3. ofizialaren zerbitzaria"
-   [517]
+   [519]
     0 StringEntry data
      1 string key = "crew_job_stewm4"
      1 string val = "4. ofizialaren zerbitzaria"
-   [518]
+   [520]
     0 StringEntry data
      1 string key = "crew_job_mid"
      1 string val = "Alfereza"
-   [519]
+   [521]
     0 StringEntry data
      1 string key = "crew_job_top"
      1 string val = "Gabikoa"
-   [520]
+   [522]
     0 StringEntry data
      1 string key = "crew_job_sea"
      1 string val = "Marinela"
-   [521]
+   [523]
     0 StringEntry data
      1 string key = "crew_origin_sierra"
      1 string val = "Sierra Leona"
-   [522]
+   [524]
     0 StringEntry data
      1 string key = "crew_origin_america"
      1 string val = "Amerika"
-   [523]
+   [525]
     0 StringEntry data
      1 string key = "crew_origin_austria"
      1 string val = "Austria"
-   [524]
+   [526]
     0 StringEntry data
      1 string key = "crew_origin_china"
      1 string val = "Txina"
-   [525]
+   [527]
     0 StringEntry data
      1 string key = "crew_origin_denmark"
      1 string val = "Danimarka"
-   [526]
+   [528]
     0 StringEntry data
      1 string key = "crew_origin_england"
      1 string val = "Ingalaterra"
-   [527]
+   [529]
     0 StringEntry data
      1 string key = "crew_origin_formosa"
      1 string val = "Formosa"
-   [528]
+   [530]
     0 StringEntry data
      1 string key = "crew_origin_france"
      1 string val = "Frantzia"
-   [529]
+   [531]
     0 StringEntry data
      1 string key = "crew_origin_india"
      1 string val = "India"
-   [530]
+   [532]
     0 StringEntry data
      1 string key = "crew_origin_ireland"
      1 string val = "Irlanda"
-   [531]
+   [533]
     0 StringEntry data
      1 string key = "crew_origin_italy"
      1 string val = "Italia"
-   [532]
+   [534]
     0 StringEntry data
      1 string key = "crew_origin_newguinea"
      1 string val = "Ginea Berria"
-   [533]
+   [535]
     0 StringEntry data
      1 string key = "crew_origin_poland"
      1 string val = "Polonia"
-   [534]
+   [536]
     0 StringEntry data
      1 string key = "crew_origin_russia"
      1 string val = "Errusia"
-   [535]
+   [537]
     0 StringEntry data
      1 string key = "crew_origin_scotland"
      1 string val = "Eskozia"
-   [536]
+   [538]
     0 StringEntry data
      1 string key = "crew_origin_sweden"
      1 string val = "Suedia"
-   [537]
+   [539]
     0 StringEntry data
      1 string key = "crew_origin_wales"
      1 string val = "Gales"
-   [538]
+   [540]
     0 StringEntry data
      1 string key = "crew_origin_persia"
      1 string val = "Persia"
-   [539]
+   [541]
     0 StringEntry data
      1 string key = "fate_glue_sentence"
      1 string val = " "
-   [540]
+   [542]
     0 StringEntry data
      1 string key = "fate_glue_summary"
      1 string val = ", "
-   [541]
+   [543]
     0 StringEntry data
      1 string key = "fate_sort"
      1 string val = "unknown, axed-killer, spiked-beast, alive-africa, alive-island, alive-azores, alive-verde, alive-eastindies, alive-europe, alive-canary, alive-middleeast, alive-westindies, alive-uk, decapitated-killer, suicide-knife, suicide-spear, suicide-gun, suicide-noose, electrocuted, fell-rigging, fell-stairs, fell-overboard, burned, strangled-killer, sworded-killer, expired-sick, eaten-killer, drowned-killer, froze, knifed-killer, speared-killer, exploded, clubbed-killer, clawed-beast, dismembered-killer, hooved-beast, winged-beast, tailed-beast, poisoned, arrowed-killer, cannoned-killer, gunned-killer, expired-age, crushed-rigging, crushed-stones, crushed-cannon, crushed-beast, crushed-cargo"
-   [542]
+   [544]
     0 StringEntry data
      1 string key = "fate_parts_unknown"
      1 string val = "Ezezaguna | $subject | ez dakigu patuak nora eraman zuen."
-   [543]
+   [545]
     0 StringEntry data
      1 string key = "fate_parts_gunned-killer"
      1 string val = "Tiroz/Su-arma | $subject | tiroz hil zuen | $killer."
-   [544]
+   [546]
     0 StringEntry data
      1 string key = "fate_parts_cannoned-killer"
      1 string val = "Tiroz/Kanoia | $subject | kanoi-bala batez birrindu zuen | $killer."
-   [545]
+   [547]
     0 StringEntry data
      1 string key = "fate_parts_knifed-killer"
      1 string val = "Labankadaz | $subject | labankadaz hil zuen | $killer."
-   [546]
+   [548]
     0 StringEntry data
      1 string key = "fate_parts_sworded-killer"
      1 string val = "Ezpataz | $subject | ezpataz hil zuen | $killer."
-   [547]
+   [549]
     0 StringEntry data
      1 string key = "fate_parts_clubbed-killer"
      1 string val = "Makilkadaz | $subject | makilkadaz hil zuen | $killer."
-   [548]
+   [550]
     0 StringEntry data
      1 string key = "fate_parts_axed-killer"
      1 string val = "Aizkoraz | $subject | aizkoraz hil zuen | $killer."
-   [549]
+   [551]
     0 StringEntry data
      1 string key = "fate_parts_speared-killer"
      1 string val = "Lantzaz | $subject | lantza batekin erahil zuen | $killer."
-   [550]
+   [552]
     0 StringEntry data
      1 string key = "fate_parts_dismembered-killer"
      1 string val = "Mutilatuta | $subject | mutilatuta hil zuen | $killer."
-   [551]
+   [553]
     0 StringEntry data
      1 string key = "fate_parts_decapitated-killer"
      1 string val = "Burua moztuta | $subject | zintzur eginda hil zuen | $killer."
-   [552]
+   [554]
     0 StringEntry data
      1 string key = "fate_parts_drowned-killer"
      1 string val = "Itota | $subject | itoarazi egin zuen | $killer."
-   [553]
+   [555]
     0 StringEntry data
      1 string key = "fate_parts_eaten-killer"
      1 string val = "Irentsita | $subject | irentsi egin zuen | $killer."
-   [554]
+   [556]
     0 StringEntry data
      1 string key = "fate_parts_strangled-killer"
      1 string val = "Estrangulatuta | $subject | estrangulatuta hil zuen | $killer."
-   [555]
+   [557]
     0 StringEntry data
      1 string key = "fate_parts_spiked-beast"
      1 string val = "Arantzekin | $subject | piztia izugarri baten arantzek zulatuta hil zen."
-   [556]
+   [558]
     0 StringEntry data
      1 string key = "fate_parts_clawed-beast"
      1 string val = "Matxardekin | $subject | piztia izugarri batek matxardekin txikitu zuen."
-   [557]
+   [559]
     0 StringEntry data
      1 string key = "fate_parts_winged-beast"
      1 string val = "Pizti-kolpez/Hegala | $subject | piztia izugarri baten hegalak kolpaturik hil zen."
-   [558]
+   [560]
     0 StringEntry data
      1 string key = "fate_parts_tailed-beast"
      1 string val = "Pizti-kolpez/Isatsa | $subject | piztia izugarri baten isatsak kolpaturik hil zen."
-   [559]
+   [561]
     0 StringEntry data
      1 string key = "fate_parts_hooved-beast"
      1 string val = "Pizti-kolpez/Erpea | $subject | piztia izugarri baten erpeak kolpaturik hil zen."
-   [560]
+   [562]
     0 StringEntry data
      1 string key = "fate_parts_crushed-cargo"
      1 string val = "Zanpatuta/Zama | $subject | zamak zanpatuta hil zen."
-   [561]
+   [563]
     0 StringEntry data
      1 string key = "fate_parts_crushed-beast"
      1 string val = "Zanpatuta/Piztia | $subject | piztia izugarri batek zanpatuta hil zen."
-   [562]
+   [564]
     0 StringEntry data
      1 string key = "fate_parts_crushed-cannon"
      1 string val = "Zanpatuta/Kanoia | $subject | kanoi askatu batek zanpatuta hil zen."
-   [563]
+   [565]
     0 StringEntry data
      1 string key = "fate_parts_crushed-rigging"
      1 string val = "Zanpatuta/Aparailua | $subject | ontzira jausitako aparailuak zanpatuta hil zen."
-   [564]
+   [566]
     0 StringEntry data
      1 string key = "fate_parts_crushed-stones"
      1 string val = "Zanpatuta/Harriak | $subject | harriek zanpatuta hil zen."
-   [565]
+   [567]
     0 StringEntry data
      1 string key = "fate_parts_fell-stairs"
      1 string val = "Erorita/Eskailerak | $subject | eskaileretatik eroriz aurkitu zuen heriotza."
-   [566]
+   [568]
     0 StringEntry data
      1 string key = "fate_parts_fell-rigging"
      1 string val = "Erorita/Belazurruna | $subject | belazurrunetik eroriz aurkitu zuen heriotza."
-   [567]
+   [569]
     0 StringEntry data
      1 string key = "fate_parts_fell-overboard"
      1 string val = "Erorita/Karela | $subject | kareletik eroriz aurkitu zuen heriotza."
-   [568]
+   [570]
     0 StringEntry data
      1 string key = "fate_parts_expired-age"
      1 string val = "Zaharrez | $subject | zaharrez hil zen."
-   [569]
+   [571]
     0 StringEntry data
      1 string key = "fate_parts_expired-sick"
      1 string val = "Gaixorik | $subject | zoritxarreko gaixotasun batek hil zuen."
-   [570]
+   [572]
     0 StringEntry data
      1 string key = "fate_parts_exploded"
      1 string val = "Leherketa | $subject | leherketa batek txikitu zuen."
-   [571]
+   [573]
     0 StringEntry data
      1 string key = "fate_parts_electrocuted"
      1 string val = "Elektrokutatuta | $subject | elektrokutatuta hil zen."
-   [572]
+   [574]
     0 StringEntry data
      1 string key = "fate_parts_poisoned"
      1 string val = "Pozoinduta | $subject | pozoinduta hil zen."
-   [573]
+   [575]
     0 StringEntry data
      1 string key = "fate_parts_burned"
      1 string val = "Erreta | $subject | kiskalita hil zen."
-   [574]
+   [576]
     0 StringEntry data
      1 string key = "fate_parts_froze"
      1 string val = "Izoztuta | $subject | izoztuta hil zen."
-   [575]
+   [577]
     0 StringEntry data
      1 string key = "fate_parts_suicide-gun"
      1 string val = "Buruaz beste/Pistolaz | $subject | tiro batez suizidatu zen."
-   [576]
+   [578]
     0 StringEntry data
      1 string key = "fate_parts_suicide-knife"
      1 string val = "Buruaz beste/Labanaz | $subject | labankadaka suizidatu zen."
-   [577]
+   [579]
     0 StringEntry data
      1 string key = "fate_parts_suicide-spear"
      1 string val = "Buruaz beste/Lantzaz | $subject | lantza batekin suizidatu zen."
-   [578]
+   [580]
     0 StringEntry data
      1 string key = "fate_parts_suicide-noose"
      1 string val = "Buruaz beste/Urkatuta | $subject | urkatu egin zen."
-   [579]
+   [581]
     0 StringEntry data
      1 string key = "fate_parts_alive-uk"
      1 string val = "Bizirik/Erresuma Batua | $subject | oraindik bizi da Erresuma Batuan."
-   [580]
+   [582]
     0 StringEntry data
      1 string key = "fate_parts_alive-eastindies"
      1 string val = "Bizirik/Ekialdeko Indiak | $subject | oraindik bizi da Ekialdeko Indietan."
-   [581]
+   [583]
     0 StringEntry data
      1 string key = "fate_parts_alive-westindies"
      1 string val = "Bizirik/Mendebaldeko Indiak | $subject | oraindik bizi da Mendebaldeko Indietan."
-   [582]
+   [584]
     0 StringEntry data
      1 string key = "fate_parts_arrowed-killer"
      1 string val = "Tiroz/Gezia | $subject | geziz hil zuen | $killer"
-   [583]
+   [585]
     0 StringEntry data
      1 string key = "fate_parts_alive-middleeast"
      1 string val = "Bizirik/Ekialde Hurbila | $subject | oraindik bizi da Ekialde Hurbilean."
-   [584]
+   [586]
     0 StringEntry data
      1 string key = "fate_parts_alive-europe"
      1 string val = "Bizirik/Europa Kontinentala | $subject | oraindik bizi da Europa Kontinentalean."
-   [585]
+   [587]
     0 StringEntry data
      1 string key = "fate_parts_alive-africa"
      1 string val = "Bizirik/Afrika | $subject | oraindik bizi da Afrikan."
-   [586]
+   [588]
     0 StringEntry data
      1 string key = "fate_parts_alive-island"
      1 string val = "Bizirik/Atlantikoko uhartea | $subject | oraindik bizi da Atlantikoko uharte batean."
-   [587]
+   [589]
     0 StringEntry data
      1 string key = "fate_parts_alive-canary"
      1 string val = "Bizirik/Kanariar Uharteak | $subject | soraindik bizi da Kanariar Uharteetan."
-   [588]
+   [590]
     0 StringEntry data
      1 string key = "fate_parts_alive-verde"
      1 string val = "Bizirik/Cabo Verde | $subject | oraindik bizi da Cabo Verden."
-   [589]
+   [591]
     0 StringEntry data
      1 string key = "fate_parts_alive-azores"
      1 string val = "Bizirik/Azoreak | $subject | oraindik bizi da Azoreetan."
-   [590]
+   [592]
     0 StringEntry data
      1 string key = "fate_ent_unknown"
      1 string val = "Ezezaguna | <M>Gizon ezezaguna<><F>Emakume ezezaguna<> | <M>Gizon ezezagun hau<><F>Emakume ezezagun hau<> | erasotzaile ezezagun batek"
-   [591]
+   [593]
     0 StringEntry data
      1 string key = "fate_ent_?officer"
      1 string val = "AUTO | Ofizial ezezaguna | Ofizial ezezagun hau | ofizial ezezagun batek"
-   [592]
+   [594]
     0 StringEntry data
      1 string key = "fate_ent_?pass"
      1 string val = "AUTO | Bidaiari ezezaguna | Bidaiari ezezagun hau | bidaiari ezezagun batek"
-   [593]
+   [595]
     0 StringEntry data
      1 string key = "fate_ent_?stew"
      1 string val = "AUTO | Zerbitzari ezezaguna | Zerbitzari ezezagun hau| zerbitzari ezezagun batek"
-   [594]
+   [596]
     0 StringEntry data
      1 string key = "fate_ent_?mid"
      1 string val = "AUTO | Alferez ezezaguna | Alferez ezezagun hau | alferez ezezagun batek"
-   [595]
+   [597]
     0 StringEntry data
      1 string key = "fate_ent_?top"
      1 string val = "AUTO | Gabiko ezezaguna | Gabiko ezezagun hau | gabiko ezezagun batek"
-   [596]
+   [598]
     0 StringEntry data
      1 string key = "fate_ent_?sea"
      1 string val = "AUTO | Marinel ezezaguna | Marinel ezezagun hau | marinel ezezagun batek"
-   [597]
+   [599]
     0 StringEntry data
      1 string key = "fate_ent_captain"
      1 string val = "AUTO | $name kapitaina | Robert Witterel kapitaina | Robert Witterel kapitainak"
-   [598]
+   [600]
     0 StringEntry data
      1 string key = "fate_ent_mate1"
      1 string val = "AUTO | $name (1. ofiziala) | = | 1. ofizialak"
-   [599]
+   [601]
     0 StringEntry data
      1 string key = "fate_ent_mate2"
      1 string val = "AUTO | $name (2. ofiziala) | = | 2. ofizialak"
-   [600]
+   [602]
     0 StringEntry data
      1 string key = "fate_ent_mate3"
      1 string val = "AUTO | $name (3. ofiziala) | = | 3. ofizialak"
-   [601]
+   [603]
     0 StringEntry data
      1 string key = "fate_ent_mate4"
      1 string val = "AUTO | $name (4. ofiziala) | = | 4. ofizialak"
-   [602]
+   [604]
     0 StringEntry data
      1 string key = "fate_ent_bosun"
      1 string val = "AUTO | $name (kontramaisua) | = | $name kontramaisuak"
-   [603]
+   [605]
     0 StringEntry data
      1 string key = "fate_ent_bosunmate"
      1 string val = "AUTO | $name (kondestablea) | = | $name kondestableak"
-   [604]
+   [606]
     0 StringEntry data
      1 string key = "fate_ent_surgeon"
      1 string val = "AUTO | $name (zirujaua) | = | $name zirujauak"
-   [605]
+   [607]
     0 StringEntry data
      1 string key = "fate_ent_surgeonmate"
      1 string val = "AUTO | $name (zirujauaren zerb.) | = | $name zirujauaren zerbitzariak"
-   [606]
+   [608]
     0 StringEntry data
      1 string key = "fate_ent_carp"
      1 string val = "AUTO | $name (arotza) | = | $name arotzak"
-   [607]
+   [609]
     0 StringEntry data
      1 string key = "fate_ent_carpmate"
      1 string val = "AUTO | $name (arotzaren zerb.) | = | $name arotzaren zerbitzariak"
-   [608]
+   [610]
     0 StringEntry data
      1 string key = "fate_ent_cook"
      1 string val = "AUTO | $name (sukaldaria) | = | $name sukaldariak"
-   [609]
+   [611]
     0 StringEntry data
      1 string key = "fate_ent_butcher"
      1 string val = "AUTO | $name (harakina) | = | $name harakinak"
-   [610]
+   [612]
     0 StringEntry data
      1 string key = "fate_ent_gunner"
      1 string val = "AUTO | $name (arma-maisua) | = | $name arma-maisuak"
-   [611]
+   [613]
     0 StringEntry data
      1 string key = "fate_ent_gunnermate"
      1 string val = "AUTO | $name (arma-maisuaren zerb.) | = | $name arma-maisuaren zerbitzariak"
-   [612]
+   [614]
     0 StringEntry data
      1 string key = "fate_ent_purser"
      1 string val = "AUTO | $name (kargazaina) | = | $name kargazainak"
-   [613]
+   [615]
     0 StringEntry data
      1 string key = "fate_ent_helm"
      1 string val = "AUTO | $name (lemazaina) | = | $name lemazainak"
-   [614]
+   [616]
     0 StringEntry data
      1 string key = "fate_ent_artist"
      1 string val = "AUTO | $name (artista) | = | $name artistak"
-   [615]
+   [617]
     0 StringEntry data
      1 string key = "fate_ent_pass"
      1 string val = "AUTO | $name (bidaiaria) | = | $name bidaiariak"
-   [616]
+   [618]
     0 StringEntry data
      1 string key = "fate_ent_stewship"
      1 string val = "AUTO | $name (ontziko zerb.) | = | $name ontziko zerbitzariak"
-   [617]
+   [619]
     0 StringEntry data
      1 string key = "fate_ent_stewcap"
      1 string val = "AUTO | $name (kapitainaren zerb.) | = | $name kapitainaren zerbitzariak"
-   [618]
+   [620]
     0 StringEntry data
      1 string key = "fate_ent_stewm1"
      1 string val = "AUTO | $name (1. ofizialaren zerb.) | = | $name 1. ofizialaren zerbitzariak"
-   [619]
+   [621]
     0 StringEntry data
      1 string key = "fate_ent_stewm2"
      1 string val = "AUTO | $name (2. ofizialaren zerb.) | = | $name 2. ofizialaren zerbitzariak"
-   [620]
+   [622]
     0 StringEntry data
      1 string key = "fate_ent_stewm3"
      1 string val = "AUTO | $name (3. ofizialaren zerb.) | = | $name 3. ofizialaren zerbitzariak"
-   [621]
+   [623]
     0 StringEntry data
      1 string key = "fate_ent_stewm4"
      1 string val = "AUTO | $name (4. ofizialaren zerb.) | = | $name 4. ofizialaren zerbitzariak"
-   [622]
+   [624]
     0 StringEntry data
      1 string key = "fate_ent_mid"
      1 string val = "AUTO | $name (alfereza) | = | $name alferezak"
-   [623]
+   [625]
     0 StringEntry data
      1 string key = "fate_ent_top"
      1 string val = "AUTO | $name (gabikoa) | = | $name gabikoak"
-   [624]
+   [626]
     0 StringEntry data
      1 string key = "fate_ent_sea"
      1 string val = "AUTO | $name (marinela) | = | $name marinelak"
-   [625]
+   [627]
     0 StringEntry data
      1 string key = "fate_ent_beast"
      1 string val = "Piztia | NONE | NONE | piztia izugarri batek"
-   [626]
+   [628]
     0 StringEntry data
      1 string key = "fate_ent_enemy"
      1 string val = "Etsaia | NONE | NONE | atzerriko etsai batek"
-   [627]
+   [629]
     0 StringEntry data
      1 string key = "dialog_intro_aa"
      1 string val = "Falmouth, Ingalaterra\n1807"
-   [628]
+   [630]
     0 StringEntry data
      1 string key = "dialog_intro_ba"
      1 string val = "Konpainiako tipo batek iratzarri nai<M>k<><F>n<>."
-   [629]
+   [631]
     0 StringEntry data
      1 string key = "dialog_intro_ca"
      1 string val = "Esan zida<M>k<><F>n<> Obra Dinn-era eraman behar haudala."
-   [630]
+   [632]
     0 StringEntry data
      1 string key = "dialog_intro_da"
      1 string val = "Etzego<M>k<><F>n<> inor asko horretarako prest."
-   [631]
+   [633]
     0 StringEntry data
      1 string key = "dialog_intro_ea"
      1 string val = "Iritzia galdetzen badida<M>k<><F>n<>: berandu du<M>k<><F>n<> dagoeneko."
-   [632]
+   [634]
     0 StringEntry data
      1 string key = "dialog_intro_fa"
      1 string val = "Ez dizut galdetu."
-   [633]
+   [635]
     0 StringEntry data
      1 string key = "dialog_intro_ga"
      1 string val = "Zer zego<M>k<><F>n<> kutxan?"
-   [634]
+   [636]
     0 StringEntry data
      1 string key = "dialog_intro_ha"
      1 string val = "Ez dakit."
-   [635]
+   [637]
     0 StringEntry data
      1 string key = "dialog_intro_ia"
      1 string val = "Igo ezazu geroxeago."
-   [636]
+   [638]
     0 StringEntry data
      1 string key = "dialog_intro_ja"
      1 string val = "E? Nola?"
-   [637]
+   [639]
     0 StringEntry data
      1 string key = "dialog_intro_ka"
      1 string val = "Kontu handiz."
-   [638]
+   [640]
     0 StringEntry data
      1 string key = "dialog_demo_end_aa"
      1 string val = "- Demoaren amaiera -"
-   [639]
+   [641]
     0 StringEntry data
      1 string key = "dialog_demo_end_ba"
      1 string val = "Milesker jolasteagatik!"
-   [640]
+   [642]
     0 StringEntry data
      1 string key = "dialog_watch_too_heavy_1_aa"
      1 string val = "Aiza<M>k<><F>n<>!"
-   [641]
+   [643]
     0 StringEntry data
      1 string key = "dialog_watch_too_heavy_1_ba"
      1 string val = "Astunegia du<M>k<><F>n<>!"
-   [642]
+   [644]
     0 StringEntry data
      1 string key = "dialog_watch_too_heavy_2_aa"
      1 string val = "Astunegia du<M>k<><F>n<>!"
-   [643]
+   [645]
     0 StringEntry data
      1 string key = "dialog_watch_too_heavy_2_ba"
      1 string val = "Igoza<M>k<><F>n<> herorrek!"
-   [644]
+   [646]
     0 StringEntry data
      1 string key = "dialog_watch_too_heavy_3_aa"
      1 string val = "Astunegia du<M>k<><F>n<>."
-   [645]
+   [647]
     0 StringEntry data
      1 string key = "dialog_watch_too_heavy_3_ba"
      1 string val = "Eraman heurekin edo irekiza<M>k<><F>n<> hemen."
-   [646]
+   [648]
     0 StringEntry data
      1 string key = "dialog_pickup_watch_aa"
      1 string val = "- Memento Mortem -"
-   [647]
+   [649]
     0 StringEntry data
      1 string key = "dialog_pickup_watch_ba"
      1 string val = "Gogoratu heriotza"
-   [648]
+   [650]
     0 StringEntry data
      1 string key = "dialog_ship_end_notify_aa"
      1 string val = "Aiza<M>k<><F>n<>!"
-   [649]
+   [651]
     0 StringEntry data
      1 string key = "dialog_ship_end_notify_ba"
      1 string val = "Hor hago oraindik?"
-   [650]
+   [652]
     0 StringEntry data
      1 string key = "dialog_ship_end_notify_ca"
      1 string val = "Enbata zetorre<M>k<><F>n<>!"
-   [651]
+   [653]
     0 StringEntry data
      1 string key = "dialog_ship_end_notify_da"
      1 string val = "Bukatu egin beharrekoak eta jaitsi hona!"
-   [652]
+   [654]
     0 StringEntry data
      1 string key = "dialog_ship_end_leave_1_aa"
      1 string val = "Amaitu du<M>k<><F>n<>?"
-   [653]
+   [655]
     0 StringEntry data
      1 string key = "dialog_ship_end_leave_1_ba"
      1 string val = "Joan beharra di<F>n<>agu."
-   [654]
+   [656]
     0 StringEntry data
      1 string key = "dialog_ship_end_leave_1_ca"
      1 string val = "Enbata bertan di<F>n<>agu, beraz ez gaitu<M>k<><F>n<> itzuliko."
-   [655]
+   [657]
     0 StringEntry data
      1 string key = "dialog_ship_end_leave_1_da"
      1 string val = "Oraindik egitekoak baditu<M>k<><F>n<>, igo eta buka itza<M>k<><F>n<>."
-   [656]
+   [658]
     0 StringEntry data
      1 string key = "dialog_ship_end_leave_1_ea"
      1 string val = "Bestela, kaira itzuliko nau<M>k<><F>n<>."
-   [657]
+   [659]
     0 StringEntry data
      1 string key = "dialog_ship_end_leave_2_aa"
      1 string val = "Joateko prest?"
-   [658]
+   [660]
     0 StringEntry data
      1 string key = "dialog_ship_end_leave_3_aa"
      1 string val = "Joan beharra di<F>n<>agu."
-   [659]
+   [661]
     0 StringEntry data
      1 string key = "dialog_ship_end_leave_3_ba"
      1 string val = "Enbata bertan di<F>n<>agu, beraz ez gaitu<M>k<><F>n<> itzuliko."
-   [660]
+   [662]
     0 StringEntry data
      1 string key = "dialog_ship_end_done_aa"
      1 string val = "Azkenean."
-   [661]
+   [663]
     0 StringEntry data
      1 string key = "dialog_ship_end_done_ca"
      1 string val = "Eseri edo eroriko haiz."
-   [662]
+   [664]
     0 StringEntry data
      1 string key = "dialog_moment_unknown_aa"
      1 string val = "ezezaguna"
-   [663]
+   [665]
     0 StringEntry data
      1 string key = "dialog_d0_m0_ah"
      1 string val = "Egin bidea, bagatoz."
-   [664]
+   [666]
     0 StringEntry data
      1 string key = "dialog_d0_m0_ar"
      1 string val = "Zubi faltsuko txopara, lemapera."
-   [665]
+   [667]
     0 StringEntry data
      1 string key = "dialog_d0_m0_ba"
      1 string val = "Jaitsi orain!"
-   [666]
+   [668]
     0 StringEntry data
      1 string key = "dialog_d0_m0_bh"
      1 string val = "Ei!"
-   [667]
+   [669]
     0 StringEntry data
      1 string key = "dialog_d0_m0_bk"
      1 string val = "Itxoin! Itxoin!"
-   [668]
+   [670]
     0 StringEntry data
      1 string key = "dialog_d0_m0_bo"
      1 string val = "Ez!"
-   [669]
+   [671]
     0 StringEntry data
      1 string key = "dialog_d0_m0_bs"
      1 string val = "Behera doa!"
-   [670]
+   [672]
     0 StringEntry data
      1 string key = "dialog_d0_m1_aa"
      1 string val = "Altxatu!"
-   [671]
+   [673]
     0 StringEntry data
      1 string key = "dialog_d0_m1_ba"
      1 string val = "Jaitsi orain!"
-   [672]
+   [674]
     0 StringEntry data
      1 string key = "dialog_d1_m0_am"
      1 string val = "Эй, мухлевать то завязывай! | Utziok tranpak egiteari!"
-   [673]
+   [675]
     0 StringEntry data
      1 string key = "dialog_d1_m0_ar"
      1 string val = "На себя погляди, дубина. | Ardura hadi hire kartez."
-   [674]
+   [676]
     0 StringEntry data
      1 string key = "dialog_d1_m0_aa"
      1 string val = "सय्यद | Syed!"
-   [675]
+   [677]
     0 StringEntry data
      1 string key = "dialog_d1_m0_ba"
      1 string val = "सय्यद, उठो। | Syed, altxatu!"
-   [676]
+   [678]
     0 StringEntry data
      1 string key = "dialog_d1_m0_ca"
      1 string val = "कुछ पी लो | Edan zerbait!"
-   [677]
+   [679]
     0 StringEntry data
      1 string key = "dialog_d1_m1_aa"
      1 string val = "Eta?"
-   [678]
+   [680]
     0 StringEntry data
      1 string key = "dialog_d1_m1_ba"
      1 string val = "Beste tipoa bezala."
-   [679]
+   [681]
     0 StringEntry data
      1 string key = "dialog_d1_m1_ca"
      1 string val = "Biriketako gaitzen bat."
-   [680]
+   [682]
     0 StringEntry data
      1 string key = "dialog_d1_m1_da"
      1 string val = "Ez da hetika."
-   [681]
+   [683]
     0 StringEntry data
      1 string key = "dialog_d1_m1_ea"
      1 string val = "Eta hotzak okertu du."
-   [682]
+   [684]
     0 StringEntry data
      1 string key = "dialog_d1_m1_fa"
      1 string val = "Hedatzeko aukerarik?"
-   [683]
+   [685]
     0 StringEntry data
      1 string key = "dialog_d1_m1_ga"
      1 string val = "Hala balitz, denok izango genuke."
-   [684]
+   [686]
     0 StringEntry data
      1 string key = "dialog_d1_m1_ha"
      1 string val = "Laskarraren etxean gaixotuko ziren."
-   [685]
+   [687]
     0 StringEntry data
      1 string key = "dialog_d1_m1_ia"
      1 string val = "Eskifaia guztia aztertu dut,"
-   [686]
+   [688]
     0 StringEntry data
      1 string key = "dialog_d1_m1_ja"
      1 string val = "eta denak daude osasuntsu."
-   [687]
+   [689]
     0 StringEntry data
      1 string key = "dialog_d1_m1_ka"
      1 string val = "Eta bera?"
-   [688]
+   [690]
     0 StringEntry data
      1 string key = "dialog_d1_m1_la"
      1 string val = "Bada itxaropenik?"
-   [689]
+   [691]
     0 StringEntry data
      1 string key = "dialog_d1_m1_ma"
      1 string val = "Laudano pixkat eman diot."
-   [690]
+   [692]
     0 StringEntry data
      1 string key = "dialog_d1_m1_na"
      1 string val = "Denborak esango du."
-   [691]
+   [693]
     0 StringEntry data
      1 string key = "dialog_d1_m2_aa"
      1 string val = "Eraman aroztegira."
-   [692]
+   [694]
     0 StringEntry data
      1 string key = "dialog_d1_m2_ba"
      1 string val = "Meztitu hil-jantziekin eta eman elizakoak."
-   [693]
+   [695]
     0 StringEntry data
      1 string key = "dialog_d1_m2_ca"
      1 string val = "Kolpatu hemen."
-   [694]
+   [696]
     0 StringEntry data
      1 string key = "dialog_d1_m2_da"
      1 string val = "Takateko bat."
-   [695]
+   [697]
     0 StringEntry data
      1 string key = "dialog_d1_m2_ea"
      1 string val = "Zeharkatu burezurra, zorabia dadin."
-   [696]
+   [698]
     0 StringEntry data
      1 string key = "dialog_d1_m2_fa"
      1 string val = "Gero neuk ebakiko diot zintzurra."
-   [697]
+   [699]
     0 StringEntry data
      1 string key = "dialog_d1_m2_ga"
      1 string val = "Hemen?"
-   [698]
+   [700]
     0 StringEntry data
      1 string key = "dialog_d1_m2_ha"
      1 string val = "Bai."
-   [699]
+   [701]
     0 StringEntry data
      1 string key = "dialog_d1_m2_ia"
      1 string val = "Emaiozu. Ostiko egin aurretik."
-   [700]
+   [702]
     0 StringEntry data
      1 string key = "dialog_d1_m2_ja"
      1 string val = "Ondo zaude, jauna?"
-   [701]
+   [703]
     0 StringEntry data
      1 string key = "dialog_d1_m2_ka"
      1 string val = "Ez haiz inoiz etxalde batean egon, Charlie?"
-   [702]
+   [704]
     0 StringEntry data
      1 string key = "dialog_d1_m2_la"
      1 string val = "Kontuz zapatak lohitu gabe."
-   [703]
+   [705]
     0 StringEntry data
      1 string key = "dialog_d2_m0_aa"
      1 string val = "Kaixo?"
-   [704]
+   [706]
     0 StringEntry data
      1 string key = "dialog_d2_m0_ba"
      1 string val = "Nor dabil hor?"
-   [705]
+   [707]
     0 StringEntry data
      1 string key = "dialog_d2_m0_ca"
      1 string val = "Nor da hori?"
-   [706]
+   [708]
     0 StringEntry data
      1 string key = "dialog_d2_m0_da"
      1 string val = "Norbait zauritu da?"
-   [707]
+   [709]
     0 StringEntry data
      1 string key = "dialog_d2_m0_ea"
      1 string val = "E?"
-   [708]
+   [710]
     0 StringEntry data
      1 string key = "dialog_d2_m0_fa"
      1 string val = "Signor Nichols, zu zara?"
-   [709]
+   [711]
     0 StringEntry data
      1 string key = "dialog_d2_m0_ga"
      1 string val = "Zer zabiltza hemen behean?"
-   [710]
+   [712]
     0 StringEntry data
      1 string key = "dialog_d2_m0_ha"
      1 string val = "Kaixo, bai!"
-   [711]
+   [713]
     0 StringEntry data
      1 string key = "dialog_d2_m0_ia"
      1 string val = "Dena dago ondo hemen."
-   [712]
+   [714]
     0 StringEntry data
      1 string key = "dialog_d2_m0_ja"
      1 string val = "Gauza batzuk, e… ordenatzen nabil."
-   [713]
+   [715]
     0 StringEntry data
      1 string key = "dialog_d2_m0_ka"
      1 string val = "Kontuz zapaldu."
-   [714]
+   [716]
     0 StringEntry data
      1 string key = "dialog_d2_m0_la"
      1 string val = "Tira, utzi laguntzen."
-   [715]
+   [717]
     0 StringEntry data
      1 string key = "dialog_d2_m1_aa"
      1 string val = "Hok Seng Lau…"
-   [716]
+   [718]
     0 StringEntry data
      1 string key = "dialog_d2_m1_ba"
      1 string val = "…zure aitorpenarekin, erruduntzat jotzen zaitugu…"
-   [717]
+   [719]
     0 StringEntry data
      1 string key = "dialog_d2_m1_ca"
      1 string val = "…Nunzio Pasqua erailtzeagatik."
-   [718]
+   [720]
     0 StringEntry data
      1 string key = "dialog_d2_m1_da"
      1 string val = "慢且！伊無做毋著代誌！ | Ez! Berak ez du ezer txarrik egin!"
-   [719]
+   [721]
     0 StringEntry data
      1 string key = "dialog_d2_m1_ea"
      1 string val = "小姐，袂赴啊。 | Lim andereñoa. Beranduegi da."
-   [720]
+   [722]
     0 StringEntry data
      1 string key = "dialog_d2_m1_fa"
      1 string val = "Ixo!"
-   [721]
+   [723]
     0 StringEntry data
      1 string key = "dialog_d2_m1_ga"
      1 string val = "Ontziko kapitain gisa…"
-   [722]
+   [724]
     0 StringEntry data
      1 string key = "dialog_d2_m1_ha"
      1 string val = "…eta Ekialdeko Indietako Konpainiako autoritate naizelarik…"
-   [723]
+   [725]
     0 StringEntry data
      1 string key = "dialog_d2_m1_ia"
      1 string val = "…eta ondorioz Ingalaterrako Koroaren izenean ere…"
-   [724]
+   [726]
     0 StringEntry data
      1 string key = "dialog_d2_m1_ja"
      1 string val = "…fusilamendu bidezko heriotzera zigortzen zaitut."
-   [725]
+   [727]
     0 StringEntry data
      1 string key = "dialog_d2_m1_ka"
      1 string val = "Wolff jauna. Prest zaudenean."
-   [726]
+   [728]
     0 StringEntry data
      1 string key = "dialog_d2_m1_la"
      1 string val = "Bai, jauna."
-   [727]
+   [729]
     0 StringEntry data
      1 string key = "dialog_d2_m1_ma"
      1 string val = "Prest?"
-   [728]
+   [730]
     0 StringEntry data
      1 string key = "dialog_d2_m1_na"
      1 string val = "Destatu."
-   [729]
+   [731]
     0 StringEntry data
      1 string key = "dialog_d2_m1_oa"
      1 string val = "Su!"
-   [730]
+   [732]
     0 StringEntry data
      1 string key = "dialog_d2_m2_ba"
      1 string val = "Erne, mutilok."
-   [731]
+   [733]
     0 StringEntry data
      1 string key = "dialog_d2_m2_ca"
      1 string val = "恁哪會使按呢！ | Nola egin dezakezue hau!"
-   [732]
+   [734]
     0 StringEntry data
      1 string key = "dialog_d2_m2_cm"
      1 string val = "Igozazue txalupara! Ospa egin behar dugu! "
-   [733]
+   [735]
     0 StringEntry data
      1 string key = "dialog_d2_m2_da"
      1 string val = "共我放開！ | Askatu!"
-   [734]
+   [736]
     0 StringEntry data
      1 string key = "dialog_d2_m2_ea"
      1 string val = "Ekarriko al duzue hona, behingoz."
-   [735]
+   [737]
     0 StringEntry data
      1 string key = "dialog_d2_m2_fa"
      1 string val = "Kapitaina!"
-   [736]
+   [738]
     0 StringEntry data
      1 string key = "dialog_d2_m2_ga"
      1 string val = "Erria txikota, eta jaitsi txalupak!"
-   [737]
+   [739]
     0 StringEntry data
      1 string key = "dialog_d2_m2_ha"
      1 string val = "Laster eskifaia osoa gainean dugu!"
-   [738]
+   [740]
     0 StringEntry data
      1 string key = "dialog_d2_m2_ia"
      1 string val = "Eman amore!"
-   [739]
+   [741]
     0 StringEntry data
      1 string key = "dialog_d3_m0_aa"
      1 string val = "Jarraitu sartalderantza."
-   [740]
+   [742]
     0 StringEntry data
      1 string key = "dialog_d3_m0_ba"
      1 string val = "Hiru egunen buruan Kanarietara arribatuko gara."
-   [741]
+   [743]
     0 StringEntry data
      1 string key = "dialog_d3_m0_ca"
      1 string val = "Nahikoa hornigai zamatu dituzu?"
-   [742]
+   [744]
     0 StringEntry data
      1 string key = "dialog_d3_m0_da"
      1 string val = "Bai, jauna. Neronek zamatu eta egiaztatuta."
-   [743]
+   [745]
     0 StringEntry data
      1 string key = "dialog_d3_m0_ea"
      1 string val = "Ongi. Mantendu lasai baina erne."
-   [744]
+   [746]
     0 StringEntry data
      1 string key = "dialog_d3_m0_fa"
      1 string val = "Haizea jasotzen badu, ez dugu aukerarik Obra Dinn-aren kontra."
-   [745]
+   [747]
     0 StringEntry data
      1 string key = "dialog_d3_m0_ga"
      1 string val = "小姐，妳有按怎無 | Lim andereñoa, ongi zaude?"
-   [746]
+   [748]
     0 StringEntry data
      1 string key = "dialog_d3_m0_ha"
      1 string val = "嗯，我無問題。 | Bai, ongi nago."
-   [747]
+   [749]
     0 StringEntry data
      1 string key = "dialog_d3_m0_ia"
      1 string val = "但是彼个箱仔，絕對袂使落入去水底！ | Baina kutxatzarra… ezin da itsasora erori!"
-   [748]
+   [750]
     0 StringEntry data
      1 string key = "dialog_d3_m0_ja"
      1 string val = "若是遐的怪物出現，妳絕對莫起來！| Munstroak agertzen badira, makurtu!"
-   [749]
+   [751]
     0 StringEntry data
      1 string key = "dialog_d3_m0_ka"
      1 string val = "Zuek! Ixo!"
-   [750]
+   [752]
     0 StringEntry data
      1 string key = "dialog_d3_m0_la"
      1 string val = "Gauza xelebreak ari dira esaten."
-   [751]
+   [753]
     0 StringEntry data
      1 string key = "dialog_d3_m0_lm"
      1 string val = "Munstroei buruz."
-   [752]
+   [754]
     0 StringEntry data
      1 string key = "dialog_d3_m1_aa"
      1 string val = "Матерь божья! | Ama maitea!"
-   [753]
+   [755]
     0 StringEntry data
      1 string key = "dialog_d3_m1_ba"
      1 string val = "Eman arraunari!"
-   [754]
+   [756]
     0 StringEntry data
      1 string key = "dialog_d3_m1_ca"
      1 string val = "他們欲過來啊！ | Hemen dira!"
-   [755]
+   [757]
     0 StringEntry data
      1 string key = "dialog_d3_m1_da"
      1 string val = "明叔，箱仔! | Beng, kutxatzarra!"
-   [756]
+   [758]
     0 StringEntry data
      1 string key = "dialog_d3_m1_ea"
      1 string val = "Non dago?"
-   [757]
+   [759]
     0 StringEntry data
      1 string key = "dialog_d3_m1_fa"
      1 string val = "Hor! Zerbait dago hor!"
-   [758]
+   [760]
     0 StringEntry data
      1 string key = "dialog_d3_m1_ga"
      1 string val = "Ikusten dut!"
-   [759]
+   [761]
     0 StringEntry data
      1 string key = "dialog_d3_m1_ha"
      1 string val = "Eman arma bat!"
-   [760]
+   [762]
     0 StringEntry data
      1 string key = "dialog_d3_m1_ia"
      1 string val = "小姐，莫起來！| Lim andereñoa! Makurtu!"
-   [761]
+   [763]
     0 StringEntry data
      1 string key = "dialog_d3_m1_ja"
      1 string val = "Heldu arraunei eta boga egin, kaikuok!"
-   [762]
+   [764]
     0 StringEntry data
      1 string key = "dialog_d3_m2_aa"
      1 string val = "O’Hagan! Bizi haiz?"
-   [763]
+   [765]
     0 StringEntry data
      1 string key = "dialog_d3_m2_am"
      1 string val = "Arraun egin dezakek?"
-   [764]
+   [766]
     0 StringEntry data
      1 string key = "dialog_d3_m2_ar"
      1 string val = "救命啊！ | Lagundu!"
-   [765]
+   [767]
     0 StringEntry data
      1 string key = "dialog_d3_m2_ba"
      1 string val = "Nichols! Jauna! Egin tiro, jainkoarren!"
-   [766]
+   [768]
     0 StringEntry data
      1 string key = "dialog_d3_m3_aa"
      1 string val = "我提著啊！ | Hartu dut!"
-   [767]
+   [769]
     0 StringEntry data
      1 string key = "dialog_d3_m3_ba"
      1 string val = "閣等一下！ | Eutsi!"
-   [768]
+   [770]
     0 StringEntry data
      1 string key = "dialog_d3_m4_aa"
      1 string val = "小姐？…小姐？ | Hor zaude? Lim andereñoa?"
-   [769]
+   [771]
     0 StringEntry data
      1 string key = "dialog_d3_m5_aa"
      1 string val = "Txalupa begi-bistan!"
-   [770]
+   [772]
     0 StringEntry data
      1 string key = "dialog_d3_m5_ba"
      1 string val = "Bueltan datoz!"
-   [771]
+   [773]
     0 StringEntry data
      1 string key = "dialog_d3_m5_ca"
      1 string val = "Deitu kapitainari!"
-   [772]
+   [774]
     0 StringEntry data
      1 string key = "dialog_d3_m5_da"
      1 string val = "Txalupa begi-bistan!"
-   [773]
+   [775]
     0 StringEntry data
      1 string key = "dialog_d3_m5_dm"
      1 string val = "Berreskuratu txalupak!"
-   [774]
+   [776]
     0 StringEntry data
      1 string key = "dialog_d3_m5_ea"
      1 string val = "Itxaron! Ez egin tiro!"
-   [775]
+   [777]
     0 StringEntry data
      1 string key = "dialog_d3_m5_fa"
      1 string val = "Altxorra dakart! Amore ematen dut!"
-   [776]
+   [778]
     0 StringEntry data
      1 string key = "dialog_d3_m5_ga"
      1 string val = "Ez egin tiro!"
-   [777]
+   [779]
     0 StringEntry data
      1 string key = "dialog_d4_m0_aa"
      1 string val = "Jaso hau eta eraman behera."
-   [778]
+   [780]
     0 StringEntry data
      1 string key = "dialog_d4_m0_ba"
      1 string val = "Ze arraio gertatzen da?"
-   [779]
+   [781]
     0 StringEntry data
      1 string key = "dialog_d4_m0_ca"
      1 string val = "Zer dakizu gauza hauei buruz?"
-   [780]
+   [782]
     0 StringEntry data
      1 string key = "dialog_d4_m0_da"
      1 string val = "Kutxatzarra eta hildako lagunei buruz?"
-   [781]
+   [783]
     0 StringEntry data
      1 string key = "dialog_d4_m0_ea"
      1 string val = "這是　啥物？佗位來的？ | Zer dira munstrook? Nondik datoz?"
-   [782]
+   [784]
     0 StringEntry data
      1 string key = "dialog_d4_m0_fa"
      1 string val = "全部　講出來！ | Dena kontatu behar diguzu!"
-   [783]
+   [785]
     0 StringEntry data
      1 string key = "dialog_d4_m0_ga"
      1 string val = "攏是恁害的啦！ | Hau zure errua da!"
-   [784]
+   [786]
     0 StringEntry data
      1 string key = "dialog_d4_m0_ha"
      1 string val = "彼个海螺仔殼竟然無顧給好！ | Maskorra babestu beharra dago!"
-   [785]
+   [787]
     0 StringEntry data
      1 string key = "dialog_d4_m0_ia"
      1 string val = "這聲咱穩死的！ | Guztiok hilko gara!"
-   [786]
+   [788]
     0 StringEntry data
      1 string key = "dialog_d4_m0_ja"
      1 string val = "Maskor bat aipatu du."
-   [787]
+   [789]
     0 StringEntry data
      1 string key = "dialog_d4_m0_ka"
      1 string val = "Oso arriskutsua."
-   [788]
+   [790]
     0 StringEntry data
      1 string key = "dialog_d4_m0_la"
      1 string val = "Maskorra? Ze maskor?"
-   [789]
+   [791]
     0 StringEntry data
      1 string key = "dialog_d4_m1_aa"
      1 string val = "Garbitu ontzigaina."
-   [790]
+   [792]
     0 StringEntry data
      1 string key = "dialog_d4_m1_ba"
      1 string val = "Mugitu txalupak txoparantz eta bota gorpuak kareletik."
-   [791]
+   [793]
     0 StringEntry data
      1 string key = "dialog_d4_m1_ca"
      1 string val = "Kontuz non zapaltzen duzuen."
-   [792]
+   [794]
     0 StringEntry data
      1 string key = "dialog_d4_m1_da"
      1 string val = "Kontxo. Zer da hau?"
-   [793]
+   [795]
     0 StringEntry data
      1 string key = "dialog_d4_m1_ea"
      1 string val = "Eman niri eta otordu on bat prestatuko dut, mutilok."
-   [794]
+   [796]
     0 StringEntry data
      1 string key = "dialog_d4_m1_fa"
      1 string val = "Kontuz orain, tentuz!"
-   [795]
+   [797]
     0 StringEntry data
      1 string key = "dialog_d4_m1_ga"
      1 string val = "Unetxo bat, jaunak."
-   [796]
+   [798]
     0 StringEntry data
      1 string key = "dialog_d4_m1_ha"
      1 string val = "Hemen maskor eder bat dago."
-   [797]
+   [799]
     0 StringEntry data
      1 string key = "dialog_d4_m1_ia"
      1 string val = "Ikustagun."
-   [798]
+   [800]
     0 StringEntry data
      1 string key = "dialog_d4_m1_ja"
      1 string val = "Ez! Egin atzera!"
-   [799]
+   [801]
     0 StringEntry data
      1 string key = "dialog_d4_m3_aa"
      1 string val = "Mantendu presioa hemen."
-   [800]
+   [802]
     0 StringEntry data
      1 string key = "dialog_d4_m3_ba"
      1 string val = "Eutsizazu."
-   [801]
+   [803]
     0 StringEntry data
      1 string key = "dialog_d4_m3_ca"
      1 string val = "Ze erokeri da hau?"
-   [802]
+   [804]
     0 StringEntry data
      1 string key = "dialog_d4_m3_da"
      1 string val = "Hogei urtez nire zerbitzari, eta inoiz ez diat hire sena auzitan jarri."
-   [803]
+   [805]
     0 StringEntry data
      1 string key = "dialog_d4_m3_ea"
      1 string val = "Ze daukak esateko?!"
-   [804]
+   [806]
     0 StringEntry data
      1 string key = "dialog_d4_m3_fa"
      1 string val = "Piztia horiek madarikazioa dakarte haiekin!"
-   [805]
+   [807]
     0 StringEntry data
      1 string key = "dialog_d4_m3_ga"
      1 string val = "Jaregin itzazue edo gureak egin du!"
-   [806]
+   [808]
     0 StringEntry data
      1 string key = "dialog_d4_m3_ha"
      1 string val = "Lotuzazue eta eraman lazaretora …gauza horiekin batera."
-   [807]
+   [809]
     0 StringEntry data
      1 string key = "dialog_d4_m3_ia"
      1 string val = "Ea kordea bueltatzen zaion."
-   [808]
+   [810]
     0 StringEntry data
      1 string key = "dialog_d4_m3_ja"
      1 string val = "Goazen."
-   [809]
+   [811]
     0 StringEntry data
      1 string key = "dialog_d4_m3_ka"
      1 string val = "Era dårar! | Inozoak!"
-   [810]
+   [812]
     0 StringEntry data
      1 string key = "dialog_d4_m3_la"
      1 string val = "Dena ondo zegok, John. Pasa dituk okerragoak."
-   [811]
+   [813]
     0 StringEntry data
      1 string key = "dialog_d4_m3_ma"
      1 string val = "Non dago falta duen hanka zatia?"
-   [812]
+   [814]
     0 StringEntry data
      1 string key = "dialog_d5_m0_aa"
      1 string val = "Jaso oihal nagusia!"
-   [813]
+   [815]
     0 StringEntry data
      1 string key = "dialog_d5_m0_ba"
      1 string val = "Ziurtatu eskaiak eta jaitsi gabia!"
-   [814]
+   [816]
     0 StringEntry data
      1 string key = "dialog_d5_m0_ca"
      1 string val = "Arin, haizea indarrez ari du!"
-   [815]
+   [817]
     0 StringEntry data
      1 string key = "dialog_d5_m1_aa"
      1 string val = "Egin tira!"
-   [816]
+   [818]
     0 StringEntry data
      1 string key = "dialog_d5_m1_ba"
      1 string val = "Korri!"
-   [817]
+   [819]
     0 StringEntry data
      1 string key = "dialog_d5_m1_bm"
      1 string val = "Zer da?"
-   [818]
+   [820]
     0 StringEntry data
      1 string key = "dialog_d5_m1_ca"
      1 string val = "Mila deabru!"
-   [819]
+   [821]
     0 StringEntry data
      1 string key = "dialog_d5_m1_da"
      1 string val = "Beste bat!"
-   [820]
+   [822]
     0 StringEntry data
      1 string key = "dialog_d5_m1_ea"
      1 string val = "Han!"
-   [821]
+   [823]
     0 StringEntry data
      1 string key = "dialog_d5_m2_a5"
      1 string val = "En dæmon! | Demonio bat!"
-   [822]
+   [824]
     0 StringEntry data
      1 string key = "dialog_d5_m2_aa"
      1 string val = "Kendu paretik!"
-   [823]
+   [825]
     0 StringEntry data
      1 string key = "dialog_d5_m2_ba"
      1 string val = "Zuen postuetara!"
-   [824]
+   [826]
     0 StringEntry data
      1 string key = "dialog_d5_m2_ca"
      1 string val = "Etsaia ontzian!"
-   [825]
+   [827]
     0 StringEntry data
      1 string key = "dialog_d5_m2_da"
      1 string val = "Zer gertatzen da?"
-   [826]
+   [828]
     0 StringEntry data
      1 string key = "dialog_d5_m2_ea"
      1 string val = "Egon atzean! Nick-enak egin dik!"
-   [827]
+   [829]
     0 StringEntry data
      1 string key = "dialog_d5_m2_fa"
      1 string val = "Tira, nagusi!"
-   [828]
+   [830]
     0 StringEntry data
      1 string key = "dialog_d5_m2_fm"
      1 string val = "Ez, makurtu!"
-   [829]
+   [831]
     0 StringEntry data
      1 string key = "dialog_d5_m2_ga"
      1 string val = "Ei! Jaso hau!"
-   [830]
+   [832]
     0 StringEntry data
      1 string key = "dialog_d5_m3_aa"
      1 string val = "Ez diagu zer eginik!"
-   [831]
+   [833]
     0 StringEntry data
      1 string key = "dialog_d5_m3_ba"
      1 string val = "Errezak bizkor!"
-   [832]
+   [834]
     0 StringEntry data
      1 string key = "dialog_d5_m5_aa"
      1 string val = "Heldu zaitut."
-   [833]
+   [835]
     0 StringEntry data
      1 string key = "dialog_d5_m5_ba"
      1 string val = "Ez mugitu."
-   [834]
+   [836]
     0 StringEntry data
      1 string key = "dialog_d5_m5_ca"
      1 string val = "Jaitsi egingo zaitut."
-   [835]
+   [837]
     0 StringEntry data
      1 string key = "dialog_d5_m5_cm"
      1 string val = "Emaidazu pistola hori."
-   [836]
+   [838]
     0 StringEntry data
      1 string key = "dialog_d5_m6_aa"
      1 string val = "Lazaretorantz doaz!"
-   [837]
+   [839]
     0 StringEntry data
      1 string key = "dialog_d5_m6_ba"
      1 string val = "Babestu kargamentua!"
-   [838]
+   [840]
     0 StringEntry data
      1 string key = "dialog_d5_m6_ca"
      1 string val = "Norbaitek tiroka dezala deabrukume hori!"
-   [839]
+   [841]
     0 StringEntry data
      1 string key = "dialog_d5_m7_aa"
      1 string val = "Hori da dena!?"
-   [840]
+   [842]
     0 StringEntry data
      1 string key = "dialog_d6_m0_aa"
      1 string val = "Utzidak igotzen."
-   [841]
+   [843]
     0 StringEntry data
      1 string key = "dialog_d6_m0_ba"
      1 string val = "Nire gorpuaren gainetik, daniar madarikatua."
-   [842]
+   [844]
     0 StringEntry data
      1 string key = "dialog_d6_m0_ca"
      1 string val = "E? Zergatik?"
-   [843]
+   [845]
     0 StringEntry data
      1 string key = "dialog_d6_m0_cm"
      1 string val = "Ez dago iskanbilarako motiborik, mutilak."
-   [844]
+   [846]
     0 StringEntry data
      1 string key = "dialog_d6_m0_cr"
      1 string val = "Igo txalupara."
-   [845]
+   [847]
     0 StringEntry data
      1 string key = "dialog_d6_m0_da"
      1 string val = "Ahaztu dudalakoan? Nire anaia hil huen."
-   [846]
+   [848]
     0 StringEntry data
      1 string key = "dialog_d6_m0_ea"
      1 string val = "Zer? Istripua izan zuan! Sokengatik!"
-   [847]
+   [849]
     0 StringEntry data
      1 string key = "dialog_d6_m0_em"
      1 string val = "Ez zuan bere errua izan. Nik ikusi nian guztia."
-   [848]
+   [850]
     0 StringEntry data
      1 string key = "dialog_d6_m0_fa"
      1 string val = "Gezurra!"
-   [849]
+   [851]
     0 StringEntry data
      1 string key = "dialog_d6_m0_ga"
      1 string val = "Ez nian hainbeste itxaron behar!"
-   [850]
+   [852]
     0 StringEntry data
      1 string key = "dialog_d6_m0_gm"
      1 string val = "Ez! Geldi!"
-   [851]
+   [853]
     0 StringEntry data
      1 string key = "dialog_d6_m2_a5"
      1 string val = "Kargatu!"
-   [852]
+   [854]
     0 StringEntry data
      1 string key = "dialog_d6_m2_aa"
      1 string val = "Mugitu eskuz!"
-   [853]
+   [855]
     0 StringEntry data
      1 string key = "dialog_d6_m2_ba"
      1 string val = "Destatu!"
-   [854]
+   [856]
     0 StringEntry data
      1 string key = "dialog_d6_m2_ca"
      1 string val = "Prest!"
-   [855]
+   [857]
     0 StringEntry data
      1 string key = "dialog_d6_m2_cm"
      1 string val = "Ez!"
-   [856]
+   [858]
     0 StringEntry data
      1 string key = "dialog_d6_m2_da"
      1 string val = "Ez egin su!"
-   [857]
+   [859]
     0 StringEntry data
      1 string key = "dialog_d6_m3_aa"
      1 string val = "Metxa!"
-   [858]
+   [860]
     0 StringEntry data
      1 string key = "dialog_d6_m4_a5"
      1 string val = "Zer gertatu da hemen?"
-   [859]
+   [861]
     0 StringEntry data
      1 string key = "dialog_d6_m4_aa"
      1 string val = "Jauna! Kanoi askea!"
-   [860]
+   [862]
     0 StringEntry data
      1 string key = "dialog_d6_m4_ba"
      1 string val = "Ontzia okertzen ari da!"
-   [861]
+   [863]
     0 StringEntry data
      1 string key = "dialog_d6_m4_ca"
      1 string val = "Heldu zerbaiti!"
-   [862]
+   [864]
     0 StringEntry data
      1 string key = "dialog_d6_m5_aa"
      1 string val = "Dibidietara, bizkor!"
-   [863]
+   [865]
     0 StringEntry data
      1 string key = "dialog_d6_m5_ba"
      1 string val = "Itxaron!"
-   [864]
+   [866]
     0 StringEntry data
      1 string key = "dialog_d6_m5_ca"
      1 string val = "Itxaron!"
-   [865]
+   [867]
     0 StringEntry data
      1 string key = "dialog_d6_m5_da"
      1 string val = "Jaurti!"
-   [866]
+   [868]
     0 StringEntry data
      1 string key = "dialog_d6_m5_ea"
      1 string val = "Jaurti bolbora!"
-   [867]
+   [869]
     0 StringEntry data
      1 string key = "dialog_d6_m7_aa"
      1 string val = "Martin!"
-   [868]
+   [870]
     0 StringEntry data
      1 string key = "dialog_d6_m7_ba"
      1 string val = "Non da kapitaina?"
-   [869]
+   [871]
     0 StringEntry data
      1 string key = "dialog_d6_m7_ca"
      1 string val = "Erotu zara?"
-   [870]
+   [872]
     0 StringEntry data
      1 string key = "dialog_d6_m7_da"
      1 string val = "Itzuli barrura!"
-   [871]
+   [873]
     0 StringEntry data
      1 string key = "dialog_d6_m7_ea"
      1 string val = "Nire senarra ikusi nahi dut!"
-   [872]
+   [874]
     0 StringEntry data
      1 string key = "dialog_d6_m7_fa"
      1 string val = "Non dago?"
-   [873]
+   [875]
     0 StringEntry data
      1 string key = "dialog_d6_m7_ga"
      1 string val = "Bizkarpean dago!"
-   [874]
+   [876]
     0 StringEntry data
      1 string key = "dialog_d6_m7_ha"
      1 string val = "Zatoz hona!"
-   [875]
+   [877]
     0 StringEntry data
      1 string key = "dialog_d7_m0_aa"
      1 string val = "Zer da hau?"
-   [876]
+   [878]
     0 StringEntry data
      1 string key = "dialog_d7_m0_ba"
      1 string val = "Zilarbizia!"
-   [877]
+   [879]
     0 StringEntry data
      1 string key = "dialog_d7_m0_ca"
      1 string val = "Herre, min gud! | Jainko maitea!"
-   [878]
+   [880]
     0 StringEntry data
      1 string key = "dialog_d7_m1_aa"
      1 string val = "Geldiarazizak, malapartatu hori."
-   [879]
+   [881]
     0 StringEntry data
      1 string key = "dialog_d7_m1_ba"
      1 string val = "Hau hire krakena duk."
-   [880]
+   [882]
     0 StringEntry data
      1 string key = "dialog_d7_m1_ca"
      1 string val = "Heuk ekarri duk hona."
-   [881]
+   [883]
     0 StringEntry data
      1 string key = "dialog_d7_m1_da"
      1 string val = "Esaiok bueltatzeko!"
-   [882]
+   [884]
     0 StringEntry data
      1 string key = "dialog_d7_m2_aa"
      1 string val = "Munstrook, guztiok akabatuko zaituztet."
-   [883]
+   [885]
     0 StringEntry data
      1 string key = "dialog_d7_m2_ba"
      1 string val = "Geldiarazi krakena!"
-   [884]
+   [886]
     0 StringEntry data
      1 string key = "dialog_d7_m2_ca"
      1 string val = "Edo guztiok garbituko zaituztet!"
-   [885]
+   [887]
     0 StringEntry data
      1 string key = "dialog_d7_m3_aa"
      1 string val = "Hirugarren maskor bat!"
-   [886]
+   [888]
     0 StringEntry data
      1 string key = "dialog_d7_m3_am"
      1 string val = "Kapitainak ez zitian denak bota!"
-   [887]
+   [889]
     0 StringEntry data
      1 string key = "dialog_d7_m3_ba"
      1 string val = "Uztak. Lagunduidak honekin."
-   [888]
+   [890]
     0 StringEntry data
      1 string key = "dialog_d7_m3_ca"
      1 string val = "Itxoin! Geldi!"
-   [889]
+   [891]
     0 StringEntry data
      1 string key = "dialog_d7_m3_da"
      1 string val = "Zu askatzera gatoz!"
-   [890]
+   [892]
     0 StringEntry data
      1 string key = "dialog_d7_m3_ea"
      1 string val = "Emaiok maskorra."
-   [891]
+   [893]
     0 StringEntry data
      1 string key = "dialog_d7_m3_fa"
      1 string val = "E?"
-   [892]
+   [894]
     0 StringEntry data
      1 string key = "dialog_d7_m3_ga"
      1 string val = "Emateko!"
-   [893]
+   [895]
     0 StringEntry data
      1 string key = "dialog_d7_m3_ha"
      1 string val = "Altxazak."
-   [894]
+   [896]
     0 StringEntry data
      1 string key = "dialog_d7_m3_ia"
      1 string val = "Bizkar nagusira."
-   [895]
+   [897]
     0 StringEntry data
      1 string key = "dialog_d7_m3_ja"
      1 string val = "Bota kareletik."
-   [896]
+   [898]
     0 StringEntry data
      1 string key = "dialog_d7_m3_ka"
      1 string val = "Itxi atea giltzaz irtetean."
-   [897]
+   [899]
     0 StringEntry data
      1 string key = "dialog_d7_m3_la"
      1 string val = "Heldu isatsetik, motel."
-   [898]
+   [900]
     0 StringEntry data
      1 string key = "dialog_d7_m3_ma"
      1 string val = "Trukean…"
-   [899]
+   [901]
     0 StringEntry data
      1 string key = "dialog_d7_m3_na"
      1 string val = "…ontzia…"
-   [900]
+   [902]
     0 StringEntry data
      1 string key = "dialog_d7_m3_oa"
      1 string val = "…Obra Dinn…"
-   [901]
+   [903]
     0 StringEntry data
      1 string key = "dialog_d7_m3_pa"
      1 string val = "…eramanzazu etxera."
-   [902]
+   [904]
     0 StringEntry data
      1 string key = "dialog_d7_m4_aa"
      1 string val = "Hemen zaude!"
-   [903]
+   [905]
     0 StringEntry data
      1 string key = "dialog_d7_m4_am"
      1 string val = "Batu zure gauzak, …"
-   [904]
+   [906]
     0 StringEntry data
      1 string key = "dialog_d7_m4_ba"
      1 string val = "Non da giltza?"
-   [905]
+   [907]
     0 StringEntry data
      1 string key = "dialog_d7_m4_ca"
      1 string val = "Ate horrena? Galduta."
-   [906]
+   [908]
     0 StringEntry data
      1 string key = "dialog_d7_m4_da"
      1 string val = "Putza."
-   [907]
+   [909]
     0 StringEntry data
      1 string key = "dialog_d7_m4_ea"
      1 string val = "Ez dago astirik. Joan beharra dugu."
-   [908]
+   [910]
     0 StringEntry data
      1 string key = "dialog_d7_m4_fa"
      1 string val = "Ondo da."
-   [909]
+   [911]
     0 StringEntry data
      1 string key = "dialog_d7_m4_ga"
      1 string val = "Barrura hoa."
-   [910]
+   [912]
     0 StringEntry data
      1 string key = "dialog_d7_m4_ha"
      1 string val = "Zer darabilzu buruan?"
-   [911]
+   [913]
     0 StringEntry data
      1 string key = "dialog_d7_m4_ia"
      1 string val = "Ezer onik ez."
-   [912]
+   [914]
     0 StringEntry data
      1 string key = "dialog_d8_m0_aa"
      1 string val = "Jaregin! Utz nazazue!"
-   [913]
+   [915]
     0 StringEntry data
      1 string key = "dialog_d8_m0_ba"
      1 string val = "Lasaitu, larri zauriturik zaude."
-   [914]
+   [916]
     0 StringEntry data
      1 string key = "dialog_d8_m0_ca"
      1 string val = "Txibia! Non da ene lagun frantsesa?"
-   [915]
+   [917]
     0 StringEntry data
      1 string key = "dialog_d8_m0_da"
      1 string val = "Txibia joan da. Zure laguna birrindu du."
-   [916]
+   [918]
     0 StringEntry data
      1 string key = "dialog_d8_m0_ea"
      1 string val = "Verdammt! Hil da piztia!"
-   [917]
+   [919]
     0 StringEntry data
      1 string key = "dialog_d8_m0_fa"
      1 string val = "Nola? Nola hil duzue?"
-   [918]
+   [920]
     0 StringEntry data
      1 string key = "dialog_d8_m0_ga"
      1 string val = "Ez dugu hil. Enbatarekin alde egin du."
-   [919]
+   [921]
     0 StringEntry data
      1 string key = "dialog_d8_m0_ha"
      1 string val = "Kapitaina sototik igo da."
-   [920]
+   [922]
     0 StringEntry data
      1 string key = "dialog_d8_m0_hm"
      1 string val = "Uxatu egin omen du."
-   [921]
+   [923]
     0 StringEntry data
      1 string key = "dialog_d8_m0_ja"
      1 string val = "Atseden hartu behar zenuke."
-   [922]
+   [924]
     0 StringEntry data
      1 string key = "dialog_d8_m0_ka"
      1 string val = "Halako madarikazioa…"
-   [923]
+   [925]
     0 StringEntry data
      1 string key = "dialog_d8_m0_la"
      1 string val = "…ez da besterik gabe joaten."
-   [924]
+   [926]
     0 StringEntry data
      1 string key = "dialog_d8_m1_aa"
      1 string val = "Azkena da. Bizkor."
-   [925]
+   [927]
     0 StringEntry data
      1 string key = "dialog_d8_m1_ba"
      1 string val = "E! Ez duzue azken txalupa hartuko!"
-   [926]
+   [928]
     0 StringEntry data
      1 string key = "dialog_d8_m1_ca"
      1 string val = "Paul! Kontuz!"
-   [927]
+   [929]
     0 StringEntry data
      1 string key = "dialog_d8_m1_da"
      1 string val = "Geldi!"
-   [928]
+   [930]
     0 StringEntry data
      1 string key = "dialog_d8_m1_dm"
      1 string val = "Utziek alde egiten!"
-   [929]
+   [931]
     0 StringEntry data
      1 string key = "dialog_d8_m1_ea"
      1 string val = "Ez!"
-   [930]
+   [932]
     0 StringEntry data
      1 string key = "dialog_d8_m1_em"
      1 string val = "Arraioa."
-   [931]
+   [933]
     0 StringEntry data
      1 string key = "dialog_d8_m2_aa"
      1 string val = "Utziek alde egiten!"
-   [932]
+   [934]
     0 StringEntry data
      1 string key = "dialog_d8_m3_aa"
      1 string val = "Aski da! Ezin gaitezke kapitainaz fio."
-   [933]
+   [935]
     0 StringEntry data
      1 string key = "dialog_d8_m3_ba"
      1 string val = "Plan bat daukak?"
-   [934]
+   [936]
     0 StringEntry data
      1 string key = "dialog_d8_m3_ca"
      1 string val = "Bai. Ontzia hartu eta ekialderantz egin."
-   [935]
+   [937]
     0 StringEntry data
      1 string key = "dialog_d8_m3_da"
      1 string val = "Infernuko arrain eta maskor horiek urre truk salduko ditugu."
-   [936]
+   [938]
     0 StringEntry data
      1 string key = "dialog_d8_m3_ea"
      1 string val = "E? Nor da hor?"
-   [937]
+   [939]
     0 StringEntry data
      1 string key = "dialog_d8_m3_fa"
      1 string val = "Matxinada! Matxinada!"
-   [938]
+   [940]
     0 StringEntry data
      1 string key = "dialog_d8_m3_ga"
      1 string val = "Mingainluze arraioa!"
-   [939]
+   [941]
     0 StringEntry data
      1 string key = "dialog_d8_m3_ha"
      1 string val = "Ez!"
-   [940]
+   [942]
     0 StringEntry data
      1 string key = "dialog_d8_m4_aa"
      1 string val = "Zer da hau, ero alaena?"
-   [941]
+   [943]
     0 StringEntry data
      1 string key = "dialog_d8_m5_aa"
      1 string val = "O, ez."
-   [942]
+   [944]
     0 StringEntry data
      1 string key = "dialog_d8_m5_am"
      1 string val = "Zauritu egin haute!"
-   [943]
+   [945]
     0 StringEntry data
      1 string key = "dialog_d8_m5_ba"
      1 string val = "Ez… nazazu bakarrik utzi."
-   [944]
+   [946]
     0 StringEntry data
      1 string key = "dialog_d8_m5_ca"
      1 string val = "Eutsi, seme. Ez noak inora."
-   [945]
+   [947]
     0 StringEntry data
      1 string key = "dialog_d8_m5_da"
      1 string val = "Esan Pete-en amari…"
-   [946]
+   [948]
     0 StringEntry data
      1 string key = "dialog_d8_m5_dh"
      1 string val = "ahal nuena egin nuela."
-   [947]
+   [949]
     0 StringEntry data
      1 string key = "dialog_d8_m5_dr"
      1 string val = "…bera ateratzeko… salbatzeko."
-   [948]
+   [950]
     0 StringEntry data
      1 string key = "dialog_d8_m5_ea"
      1 string val = "Herorrek esan ahalko diok."
-   [949]
+   [951]
     0 StringEntry data
      1 string key = "dialog_d8_m5_fa"
      1 string val = "Brennan! Ekar itzak zirujau-tresnak!"
-   [950]
+   [952]
     0 StringEntry data
      1 string key = "dialog_d9_m0_aa"
      1 string val = "Kapitaina!"
-   [951]
+   [953]
     0 StringEntry data
      1 string key = "dialog_d9_m0_ba"
      1 string val = "Ireki atea!"
-   [952]
+   [954]
     0 StringEntry data
      1 string key = "dialog_d9_m0_ca"
      1 string val = "Ireki ostikoz!"
-   [953]
+   [955]
     0 StringEntry data
      1 string key = "dialog_d9_m0_da"
      1 string val = "Bestela, sartu eta…"
-   [954]
+   [956]
     0 StringEntry data
      1 string key = "dialog_d9_m0_ea"
      1 string val = "maskorrak baino gehiago hartuko dugu gurekin."
-   [955]
+   [957]
     0 StringEntry data
      1 string key = "dialog_d9_m0_fa"
      1 string val = "Sasikumeak… Hartuko duzuen bakarra…"
-   [956]
+   [958]
     0 StringEntry data
      1 string key = "dialog_d9_m0_ga"
      1 string val = "nik emandakoa izango da."
-   [957]
+   [959]
     0 StringEntry data
      1 string key = "dialog_d9_m1_aa"
      1 string val = "Non daude?"
-   [958]
+   [960]
     0 StringEntry data
      1 string key = "dialog_d9_m1_ba"
      1 string val = "Hemen behar dute."
-   [959]
+   [961]
     0 StringEntry data
      1 string key = "dialog_d9_m1_ca"
      1 string val = "Itsasoaren…"
-   [960]
+   [962]
     0 StringEntry data
      1 string key = "dialog_d9_m1_da"
      1 string val = "sakonean zeudek."
-   [961]
+   [963]
     0 StringEntry data
      1 string key = "dialog_d9_m1_ea"
      1 string val = "Gezurra!"
-   [962]
+   [964]
     0 StringEntry data
      1 string key = "dialog_d9_m3_aa"
      1 string val = "Abigail."
-   [963]
+   [965]
     0 StringEntry data
      1 string key = "dialog_d9_m3_ba"
      1 string val = "Zure neba."
-   [964]
+   [966]
     0 StringEntry data
      1 string key = "dialog_d9_m3_ca"
      1 string val = "Nire adiskidea."
-   [965]
+   [967]
     0 StringEntry data
      1 string key = "dialog_d9_m3_da"
      1 string val = "Tirokatu egin dut…"
-   [966]
+   [968]
     0 StringEntry data
      1 string key = "dialog_d9_m3_ea"
      1 string val = "hilda dago."
-   [967]
+   [969]
     0 StringEntry data
      1 string key = "dialog_d9_m3_fa"
      1 string val = "Zurekin izango naiz…"
-   [968]
+   [970]
     0 StringEntry data
      1 string key = "dialog_d9_m3_ga"
      1 string val = "laster, maitea."
-   [969]
+   [971]
     0 StringEntry data
      1 string key = "dialog_d9_m3_ha"
      1 string val = "Mesedez, barkaidazu."
-   [970]
+   [972]
     0 StringEntry data
      1 string key = "dialog_d9_m3_ia"
      1 string val = "Guztiagatik."
-   [971]
+   [973]
     0 StringEntry data
      1 string key = "dialog_tally_intro_aa"
      1 string val = "Astebete geroago"
-   [972]
+   [974]
     0 StringEntry data
      1 string key = "dialog_office_intro_aa"
      1 string val = "Urtebete geroago"
-   [973]
+   [975]
     0 StringEntry data
      1 string key = "dialog_office_delivery_package_aa"
      1 string val = "Sinets dezakezu? Pakete bat orduotan!"
-   [974]
+   [976]
     0 StringEntry data
      1 string key = "dialog_office_delivery_package_ba"
      1 string val = "Ikaragarrizko kiratsa dario."
-   [975]
+   [977]
     0 StringEntry data
      1 string key = "dialog_office_delivery_package_ca"
      1 string val = "Hobe barruan irekitzen ez baduzu."
-   [976]
+   [978]
     0 StringEntry data
      1 string key = "dialog_office_delivery_package_da"
      1 string val = "Ni ohera noa."
-   [977]
+   [979]
     0 StringEntry data
      1 string key = "dialog_office_delivery_package_ea"
      1 string val = "Te gehiago nahi baduzu, sukaldean dago."
-   [978]
+   [980]
     0 StringEntry data
      1 string key = "dialog_office_delivery_envelope_aa"
      1 string val = "Sinets dezakezu? Gutun bat orduotan!"
-   [979]
+   [981]
     0 StringEntry data
      1 string key = "dialog_office_delivery_envelope_ba"
      1 string val = "Garrantzitsua behar du izan."
-   [980]
+   [982]
     0 StringEntry data
      1 string key = "dialog_office_delivery_envelope_ca"
      1 string val = "Ni ohera noa."
-   [981]
+   [983]
     0 StringEntry data
      1 string key = "dialog_office_delivery_envelope_da"
      1 string val = "Dagoeneko ez dago terik, zuk ere hobe zenuke oheratu."
-   [982]
+   [984]
     0 StringEntry data
      1 string key = "dialog_the_end_aa"
      1 string val = "Amaiera"

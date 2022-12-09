@@ -1,6 +1,6 @@
 #define MyAppName "Return of the Obra Dinn euskaraz"
 #define MyAppFilesystemName "Return of the Obra Dinn euskaraz"
-#define MyAppVersion "1.2"
+#define MyAppVersion "1.3"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"
