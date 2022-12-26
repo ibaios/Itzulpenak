@@ -160,7 +160,7 @@
     <entry name="INV_DESC_HEARTPIECE_3">Antzinako maskara baten pusketak, norbere burua kaltetik babesteko.&lt;br&gt;&lt;br&gt;Bildu beste pusketa bat zure oskola indartu eta zeure burua kaltetik babesteko.</entry>
     <entry name="INV_DESC_HEARTPIECE_ALL">Maskara osatua. Osorik denean, maskarak bere eramailea zaintzen du, honek atzean ezkutatzen duen egiazko forma babestuz.</entry>
     <entry name="INV_DESC_HEARTPIECE_NONE"></entry>
-    <entry name="INV_DESC_KINGSBRAND">Eramailea erege gisa markatzen du. Sakrabiako leku antzinakoak bere aurrean irekiko zaizkio.</entry>
+    <entry name="INV_DESC_KINGSBRAND">Eramailea errege gisa markatzen du. Sakrabiako leku antzinakoak bere aurrean irekiko zaizkio.</entry>
     <entry name="INV_DESC_LANTERN">Barnean argieuli bat daukan kristalezko faroltxoa. Harpe ilunak argitzen ditu, ibiltariek bidea aurki dezaten.</entry>
     <entry name="INV_DESC_LOVEKEY">Guztiz akoltxatua, maitasunaren ikurra dauka grabaturik.</entry>
     <entry name="INV_DESC_MAPQUILL">Sakrabiako mapa. Eserleku batean atsedena hartzean, luma erabil daiteke deskubritutako gune berriekin mapa eguneratzeko.</entry>

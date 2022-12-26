@@ -29,7 +29,7 @@
     <entry name="DIVINE_GIVE">Ahhhhhhhhhh! Ahhhh!&lt;page&gt;Zeinen ederra! Eta ze usaina... ze usaina! Ahhh!</entry>
     <entry name="DIVINE_GRIMM_DEPARTED">Ahhh! Erritua amaitu da, hortaz? Eta Nagusiak... bere bideari jarraitu dio? Bai? Akaso ez?&lt;page&gt;Ahhh, baina gehiago niretzako. Egiteko gehiago niretzako. Opariak, hain ederrak! Aaaahh. Nagusiak ulertuko luke.</entry>
     <entry name="DIVINE_HAS_CHARM">Usain hori! Eeuuarrggh! Gauza zoragarriren bat duzu gordeta, ez da hala? Ez zenuke halako gauza ederra ezkutuan eduki beharko!&lt;page&gt;Erakutsi... erakutsidazu! Ekipa ezazu! Bizkor!</entry>
-    <entry name="DIVINE_MEET">Aaaaaaaaahhhhhhhh!&lt;page&gt;Zuk deitu gaituzu? Deitu gaituzu, eta etorri gara. Hemen gara!&lt;page&gt;Ez dirudizu izutua. Zergatik deitu gaituzu?&lt;page&gt;Ahhh. Berdin dio. Ez idazu esan.&lt;page&gt;Etorri gara, eta zerbait usain dezaket. Zerbait gure azpian, sakonean. Niretzat nahi dut... Nahi dut!</entry>
+    <entry name="DIVINE_MEET">Aaaaaaaaahhhhhhhh!&lt;page&gt;Zuk deitu gaituzu? Deitu gaituzu, eta etorri gara. Hemen gara!&lt;page&gt;Ez dirudizu izuturik. Zergatik deitu gaituzu?&lt;page&gt;Ahhh. Berdin dio. Ez iezadazu esan.&lt;page&gt;Etorri gara, eta zerbait usain dezaket. Zerbait gure azpian, sakonean. Niretzat nahi dut... Nahi dut!</entry>
     <entry name="DIVINE_NOTENOUGH">Georik ez... zergatik? Zergatik ez duzu behar beste geo?</entry>
     <entry name="DIVINE_OFFER_2">Berriro...? Opari-gogoz zaude! Maitagarri txiki koitadua. Emazkidazu zure geoak, eta oparia emango dizut.</entry>
     <entry name="DIVINE_RECEIVED_GIFT">Oso gustuko duzu, ezta? Zure oparia. Zorionekoa zara halako usaina aldean eramateagatik!&lt;page&gt;Eeeuuaaarrrrggh!</entry>
@@ -59,7 +59,7 @@
     <entry name="GRIMMSYCOPHANT_DREAM">Nagusi... nire rola.... zugandik aparte... nire ahaideengandik aparte. Nahigabetzen nau.</entry>
     <entry name="GRIMMSYCOPHANT_INSPECT">Zomorro handi baten gorpua.</entry>
     <entry name="IGOR_DREAM">Sugarrak norbere gogoan su biziz erretzen duelarik&lt;br&gt;Kasu, ahaideok, lur eta denboran zeharko deiari.</entry>
-    <entry name="IGOR_FINAL">...Mrmm.&lt;page&gt;Bikain. Kumea su garretan erretzen ari da.&lt;page&gt;Nagusi... zure zain dago. Mrmm.</entry>
+    <entry name="IGOR_FINAL">...Mrmm.&lt;page&gt;Bikain. Kumea su garretan erretzen ari da.&lt;page&gt;Nagusia... zain duzu. Mrmm.</entry>
     <entry name="IGOR_FLAME">Sugarra. Bila ezazu.&lt;page&gt;Nagusiagatik. Gure ahaideengatik. Mrmm.</entry>
     <entry name="IGOR_MEET">Mrmm. Zuk deitu gaituzu?&lt;page&gt;Hitz egin Nagusiarekin.</entry>
     <entry name="IGOR_SPEAK">...Mrmm.&lt;page&gt;Hitz egin Nagusiarekin.</entry>

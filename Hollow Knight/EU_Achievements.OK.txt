@@ -40,7 +40,7 @@
     <entry name="DREAM_SOUL_MASTER_DEFEAT_TITLE">Hilkortasuna</entry>
     <entry name="DREAM_SOUL_MASTER_DEFEAT_TEXT">Garaitu Arimen Tiranoa</entry>
     <entry name="ASCENSION_TITLE">Igoera</entry>
-    <entry name="ASCENSION_TEXT">Bildu 2400 esentzia eta entzun Profetaren azken hitzak</entry>
+    <entry name="ASCENSION_TEXT">Bildu 2400 esentzia eta entzun Igarlearen azken hitzak</entry>
     <entry name="NAILSMITH_SPARE_TITLE">Bikote Alaia</entry>
     <entry name="NAILSMITH_SPARE_TEXT">Utzi ezten-arotzari dei berri bat aurkitzen</entry>
     <entry name="NAILSMITH_KILL_TITLE">Purutasuna</entry>
