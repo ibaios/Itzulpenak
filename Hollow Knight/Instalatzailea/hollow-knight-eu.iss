@@ -38,7 +38,6 @@ Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 Source: "..\..\..\uabea\*"; DestDir: "{app}\uabea"; Flags: ignoreversion recursesubdirs
 Source: "hollow-knight-eu-es.emip"; DestDir: "{app}"; Flags: ignoreversion
 Source: "hollow-knight-eu-fr.emip"; DestDir: "{app}"; Flags: ignoreversion
-;Source: "{tmp}\dotnet-install.ps1"; DestDir: "{app}"; Flags: external
 
 [Run]
 Filename: "powershell.exe";  Parameters: "&powershell -ExecutionPolicy Bypass -File {tmp}\dotnet-install.ps1 -Runtime dotnet -Version 5.0.0 -InstallDir {tmp}\.dotnet"; WorkingDir: {tmp}; Flags: runhidden
