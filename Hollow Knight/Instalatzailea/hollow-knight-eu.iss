@@ -1,6 +1,6 @@
 #define MyAppName "Hollow Knight euskaraz"
 #define MyAppFilesystemName "Hollow Knight euskaraz"
-#define MyAppVersion "0.991"
+#define MyAppVersion "0.992"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppURL "https://ibaios.eus/"
 #define MyAppIcon "hollow-knight-eu.ico"
@@ -38,15 +38,18 @@ Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 Source: "..\..\..\uabea\*"; DestDir: "{app}\uabea"; Flags: ignoreversion recursesubdirs
 Source: "hollow-knight-eu-es.emip"; DestDir: "{app}"; Flags: ignoreversion
 Source: "hollow-knight-eu-fr.emip"; DestDir: "{app}"; Flags: ignoreversion
+;Source: "{tmp}\dotnet-install.ps1"; DestDir: "{app}"; Flags: external
 
 [Run]
-Filename: "{app}\uabea\UABEAvalonia.exe"; Parameters: "applyemip ""{app}\{code:GetSelectedEmip}"" ""{code:GetSelectedGameDataDir}"""
+Filename: "powershell.exe";  Parameters: "&powershell -ExecutionPolicy Bypass -File {tmp}\dotnet-install.ps1 -Runtime dotnet -Version 5.0.0 -InstallDir {tmp}\.dotnet"; WorkingDir: {tmp}; Flags: runhidden
+Filename: "{cmd}"; Parameters: "/C set DOTNET_ROOT={tmp}\.dotnet & ""{app}\uabea\UABEAvalonia.exe"" applyemip ""{app}\{code:GetSelectedEmip}"" ""{code:GetSelectedGameDataDir}"""
 
 [Code]
 var
   GameDataDirPage: TInputDirWizardPage;
   AdditionalOptionsPage: TInputQueryWizardPage;
   LanguageComboBox: TNewComboBox;
+  DownloadPage: TDownloadWizardPage;
 
 function ParseSteamConfig(FileName: string): TArrayOfString;
 var
@@ -174,6 +177,16 @@ begin
   Result := GamePath;
 end;
 
+
+function OnDownloadProgress(const Url, FileName: String; const Progress, ProgressMax: Int64): Boolean;
+begin
+  if Progress = ProgressMax then
+    Log(Format('Successfully downloaded file to {tmp}: %s', [FileName]));
+  Result := True;
+end;
+
+
+
 procedure InitializeWizard;
 var
   LanguageLabelStaticText: TNewStaticText;
@@ -213,6 +226,8 @@ begin
   LanguageComboBox.Items.Add('Gaztelania');
   LanguageComboBox.Items.Add('Frantsesa');
   LanguageComboBox.ItemIndex := 0;
+
+  DownloadPage := CreateDownloadPage(SetupMessage(msgWizardPreparing), SetupMessage(msgPreparingDesc), @OnDownloadProgress);
   
 end;
 
@@ -265,4 +280,26 @@ begin
     Result := 'hollow-knight-eu-es.emip'
   else
     Result := 'hollow-knight-eu-fr.emip';
+end;
+
+
+function NextButtonClick(CurPageID: Integer): Boolean;
+begin
+  if CurPageID = wpReady then begin
+    DownloadPage.Clear;
+    DownloadPage.Add('https://dot.net/v1/dotnet-install.ps1', 'dotnet-install.ps1', '');
+    DownloadPage.Show;
+    try
+      try
+        DownloadPage.Download;
+        Result := True;
+      except
+        SuppressibleMsgBox(AddPeriod(GetExceptionMessage), mbCriticalError, MB_OK, IDOK);
+        Result := False;
+      end;
+    finally
+      DownloadPage.Hide;
+    end;
+  end else
+    Result := True;
 end;
