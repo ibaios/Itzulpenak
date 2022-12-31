@@ -1,0 +1,3 @@
+<entries>
+<entry name="TOLLBOOTH_STAG">Toll booth in a stag station</entry>
+</entries>

@@ -1,0 +1,9 @@
+<entries>
+<entry name="HOLLOW_KNIGHT_1">No longer used</entry>
+<entry name="HOLLOW_KNIGHT_2">No longer used</entry>
+<entry name="HOLLOW_KNIGHT_4">No longer used</entry>
+<entry name="HOLLOW_KNIGHT_5">No longer used</entry>
+<entry name="HOLLOW_KNIGHT_6">No longer used</entry>
+<entry name="HOLLOW_KNIGHT_3">No longer used</entry>
+<entry name="HOLLOW_KNIGHT_7">No longer used</entry>
+</entries>

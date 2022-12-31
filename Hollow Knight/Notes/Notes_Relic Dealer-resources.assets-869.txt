@@ -1,0 +1,3 @@
+<entries>
+<entry name="RELICDEALER_FOUNTAIN">how do these fountain ones relate to these: RELICDEALER_MEET and REMEET? Are these deprecated?</entry>
+</entries>

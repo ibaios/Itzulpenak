@@ -298,7 +298,7 @@ directory_monsaic_d3_a = PARAMITAK ETA SCRABAK LURROTAN URRI DAUDE
 directory_monsaic_d3_b = MILIOIKA BAITITUGU AKATU MENDEZ MENDE.
 directory_monsaic_d3_c = DAKIGUNONTZAT IZAN ARREN SAKRATUAK
 directory_monsaic_d3_d = AURRE EGIN BEHARKO DIE 'HAUTATUAK'.
-directory_monsaic_d3_e = HAIEN IZPIRITU ASALDATUEK SHRYKULL DUTE ESNATUKO
+directory_monsaic_d3_e = HAIEN ESPIRITU ASALDATUEK SHRYKULL DUTE ESNATUKO
 directory_monsaic_d3_f = ETA ERRONKA HONEN GARAILEA LAGUNDUKO.
 directory_monsaic_d4 = AKTIBATU PUTZUAK PALANKEKIN
 directory_monsaic_d5_a = HAUTATUAREN ESKU URDINEK,
@@ -709,7 +709,7 @@ ParamoniaScar2_10 = Buru Handiak argitu zidan probaren zergatia.
 ParamoniaScar2_17 = Esku gain bakoitzeko orbainak batuz...
 ParamoniaScar2_20 = RuptureFarms itxi nezakeen, gure lurra berreskuratuz.
 
-ShrkullTransform_21 = Eskuko orbainak lortzean, izpirituek forma hartu zuten...
+ShrkullTransform_21 = Eskuko orbainak lortzean, espirituek forma hartu zuten...
 ShrkullTransform_55 = Orain nire kantua boteretsua zen... RuptureFarms galtzear zen.
 
 MolluckWatches2_03 = Molluck-ek egiten nenbilena ikusi zuen. Sutan zegoen!

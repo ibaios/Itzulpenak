@@ -1,0 +1,32 @@
+<entries>
+<entry name="CITY_LIFT_1">Lift between city and crossroads</entry>
+<entry name="TOLL_BENCH_ROYALGARDENS">Unfolding toll bench in Fungus3_50</entry>
+<entry name="TUK_RANCIDEGG_MIN">Every Time an egg is purchased from Tuk, he sets the price of the next egg within this range</entry>
+<entry name="TUK_RANCIDEGG_MAX">Every Time an egg is purchased from Tuk, he sets the price of the next egg within this range</entry>
+<entry name="COLOSSEUM_SILVER">Price for opening a colosseum challenge. One-time fee.</entry>
+<entry name="TOLL_BENCH_RUINS_1">Unfolding toll bench in Ruins1_31</entry>
+<entry name="CHARM_GLASS_HP_BRK">Repair price ( * 0.8 if dung charm equipped)</entry>
+<entry name="BANK_TRANSACTION_AMOUNT">How much you can increment the withdraw/deposit counter by</entry>
+<entry name="TOLL_GATE_MINES">Mines 33 (path from crossroads to mines)</entry>
+<entry name="TOLL_GATE_DEEPNEST">Deepnest_41</entry>
+<entry name="CHARM_GLASS_ATTACK_BRK">Repair price ( * 0.8 if dung charm equipped)</entry>
+<entry name="CHARM_GLASS_GEO">Initial price ( * 0.8 if dung charm equipped)</entry>
+<entry name="COLOSSEUM_BRONZE">Price for opening a colosseum challenge. One-time fee.</entry>
+<entry name="BANK_THEFT_LIMIT">Once the player has more than this amount deposited, banker will abscond with the cash</entry>
+<entry name="WISH_FOUNTAIN">Amount of Geo player must drop into the fountain for soul vessel to appear</entry>
+<entry name="TOLL_GATE_GREENPATH">Greenpath 31</entry>
+<entry name="CHARM_GLASS_ATTACK">Initial price ( * 0.8 if dung charm equipped)</entry>
+<entry name="RELIC_4">Arcane Egg (sell price)</entry>
+<entry name="RELIC_3">King&#39;s Idol (sell price)</entry>
+<entry name="RELIC_2">Hallownest Seal (sell price)</entry>
+<entry name="RELIC_1">Wanderer&#39;s Journal (sell price)</entry>
+<entry name="NAILMASTER_ORO">Oro&#39;s charge for learning Dash Slash</entry>
+<entry name="COLOSSEUM_GOLD">Price for opening a colosseum challenge. One-time fee.</entry>
+<entry name="CHARM_GLASS_GEO_BRK">Repair price ( * 0.8 if dung charm equipped)</entry>
+<entry name="BANK_LIMIT">Player can&#39;t deposit any more than this into bank account</entry>
+<entry name="TOLL_BENCH_ABYSS">Unfolding toll bench in Abyss18 (before infected knight)</entry>
+<entry name="UNBREAKABLE_GREED">12000</entry>
+<entry name="CHARM_GLASS_HP">Initial price ( * 0.8 if dung charm equipped)</entry>
+<entry name="BANK_OPEN_ACCT">Price for opening a bank account with Millibelle</entry>
+<entry name="LEGEATER_SOMETHING">Pay Leg Eater to open up his shop</entry>
+</entries>

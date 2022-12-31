@@ -1,0 +1,5 @@
+<entries>
+
+<entry name="NOTE_KIN_SEAL">(intentionally left blank)</entry>
+<entry name="KILL_COUNT_1">These two cells come together to tell player how many more of a creature they have to kill to unlock Hunter Note. Eg &#39;Defeat 17 more to decipher the Hunter&#39;s notes.&#39;</entry>
+</entries>

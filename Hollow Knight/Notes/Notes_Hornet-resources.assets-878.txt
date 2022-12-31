@@ -1,0 +1,6 @@
+<entries>
+<entry name="HORNET_DOOR_UNOPENED">Outside the Black Egg, before knight approaches door and it opens</entry>
+<entry name="HORNET_OUTSKIRTS_1">Clarify the split between out 1 and out 2.</entry>
+<entry name="HORNET_PRE_FINAL_BATTLE">Outside the Black Egg</entry>
+<entry name="HORNET_OUTSKIRTS_DEFEAT">Is this defeating hornet?</entry>
+</entries>
