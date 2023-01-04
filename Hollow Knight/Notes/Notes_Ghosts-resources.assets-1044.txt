@@ -1,5 +1,0 @@
-<entries>
-<entry name="ALADAR_TALK">Greetings pale thing. Do you seek my knowledge? That I cannot give. Only an end.</entry>
-<entry name="ALADAR_REPEAT">Would you accept the end I offer?</entry>
-<entry name="ALADAR_DEFEAT">Alas. It destroys...</entry>
-</entries>

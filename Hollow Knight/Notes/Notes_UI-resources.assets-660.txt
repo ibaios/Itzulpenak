@@ -1,5 +1,0 @@
-<entries>
-<entry name="SHOP">As in the verb, &#39;to shop&#39;</entry>
-<entry name="PIN_DESC_DREAMPLANT">This pin shows those whispering </entry>
-<entry name="INV_DESC_SPELL_FIREBALL1">A desire for revenge is seared into the SOUL of those who fell in battle or were wronged in life. A Shaman can concentrate this desire and cast it out into the world to burn away whatever stands before them. - old descriptor text. Is pretty good! Should we put it in dialogue somewhere?</entry>
-</entries>

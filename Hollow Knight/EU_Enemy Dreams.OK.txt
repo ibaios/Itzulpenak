@@ -210,7 +210,7 @@
     <entry name="RUINS_SENTRY_1">...Kanpotarra...</entry>
     <entry name="RUINS_SENTRY_2">...Defendatu...</entry>
     <entry name="RUINS_SENTRY_3">...Hil...</entry>
-    <entry name="RUINS_SENTRY_4">...Babestu....the city...</entry>
+    <entry name="RUINS_SENTRY_4">...Babestu....hiria...</entry>
     <entry name="RUINS_SENTRY_5">...Ez ongi etorria...Hil...</entry>
     <entry name="RUINS_SENTRY_6">...Kanpora...</entry>
     <entry name="SHEO_1">Botererik handiena da, ezta?</entry>

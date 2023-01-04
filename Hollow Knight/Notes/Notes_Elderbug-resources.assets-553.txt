@@ -1,9 +1,0 @@
-<entries>
-<entry name="ELDERBUG_INTRO_NORMAL">Comes before Intro main normally</entry>
-<entry name="ELDERBUG_HISTORY_2">For matt: that &#39;french&#39; translation looks liek german to me - william</entry>
-<entry name="ELDERBUG_INTRO_VISITEDCROSSROAD">Comes before Intro main if player entered crossroads before speaking to elderbug</entry>
-<entry name="ELDERBUG_INTRO_WALKEDBY">Comes before Intro main if player walked past elderbug</entry>
-<entry name="ELDERBUG_MINES_LIFT">Activated the lift to graveyard via mines</entry>
-<entry name="ELDERBUG_JIJI_DOOR">jiji&#39;s door opened</entry>
-<entry name="ELDERBUG_KINGS_PASS">after cliffs visited</entry>
-</entries>

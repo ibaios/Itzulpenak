@@ -1,3 +1,0 @@
-<entries>
-<entry name="WITCH_QUEST_9">The moth tribe were (perhaps) descended from Radiance. However, the King convinced them somehow to seal Radiance away. I guess so he could rule Hallownest with his singular vision, as a monarch/god with no other gods.The moths sealed Radiance away by forgetting about her. Hallownest was born and flourished. However, the memory of Radiance lingered (eg the statue at hallownest&#39;s crown) and soon she began to reappear in dreams and starting exerting influence. The King and the bugs of hallownest resisted this memory/power and it started to manifest as the infection. Thus the first attempt to seal Radiance failed, and the King had to try another method - the Vessel.</entry>
-</entries>
