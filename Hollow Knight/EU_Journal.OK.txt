@@ -452,7 +452,7 @@
     <entry name="NOTE_MOSSMAN_RUNNER">Ez dira ikusten errazak hostotza artean, gehiegi gerturatu eta gainera oldartzen zaizkizun arte. Kontuz egin aurrera.</entry>
     <entry name="NOTE_MOSSMAN_SHAKER">Haien bizarretatik irazten den gasak usain gozo erakargarria dauka, baina gehiegi gerturatuz gero oskol eta haragi erreko zaitu!</entry>
     <entry name="NOTE_MOSS_WALKER">Uste nuen hauek noraezean zebiltzan landare soilak zirela. Izaki bizidunak zirela jakin nuenean, ikusi ahala haiek hiltzen hasi nintzen. Hau da ehizaren izatea!</entry>
-    <entry name="NOTE_MUMMY">Lurretik arrastaka dozen gorpu hauen barnean argi distiratsu bat dago, iluntasunik ilunena ere hausteko gai dena. Behin argi haren barnera begiratu nuen eta... zerbait ikusi nuen, argi barnean distiratsu. Zer izugarri bat.</entry>
+    <entry name="NOTE_MUMMY">Lurretik arrastaka doazen gorpu hauen barnean argi distiratsu bat dago, iluntasunik ilunena ere hausteko gai dena. Behin argi haren barnera begiratu nuen eta... zerbait ikusi nuen, argi barnean distiratsu. Zer izugarri bat.</entry>
     <entry name="NOTE_MUSH_BABY">Perretxiko arrunta dirudi hurbildu artean, orduan lurretik atera eta itsu-itsuan ihesean hasten da. Oso, oso dibertigarria.</entry>
     <entry name="NOTE_MUSH_BRAWLER">Gauza gihartsu hauek piztiak edo perretxikoak dira? Bat erdibitu eta barruan begiratu nuen, baina ezin izan nuen erantzunik aurkitu bere barru bigun kirastuetan.</entry>
     <entry name="NOTE_MUSH_ROLLER">Aire bereziren baten eraginez perretxiko hauei bihotza, gogoa eta aurpegiak sortu zaizkie! Horrek esan nahi du orain hiltzeko beldur direla, gainontzeko izaki bizidunak bezala.</entry>
