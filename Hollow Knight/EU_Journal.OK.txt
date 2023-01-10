@@ -230,7 +230,7 @@
     <entry name="NAME_GHOST_NOEYES">Begigabe</entry>
     <entry name="NAME_GHOST_XERO">Xero</entry>
     <entry name="NAME_GIANT_HOPPER">Saltari handia</entry>
-    <entry name="NAME_GODSEEKER_MASK">Maskara Higatua</entry>
+    <entry name="NAME_GODSEEKER_MASK">Maskara higatua</entry>
     <entry name="NAME_GORGEOUS_HUSK">Oskol ederra</entry>
     <entry name="NAME_GRASS_HOPPER">Basakusoa</entry>
     <entry name="NAME_GREAT_SHIELD_ZOMBIE">Oskol zentinela handia</entry>

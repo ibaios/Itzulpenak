@@ -91,7 +91,7 @@
     <entry name="LOOM_SPIDER_03">...Babesteko...</entry>
     <entry name="LOOM_SPIDER_04">...Egindako tratuagatik...</entry>
     <entry name="LOVE_KEY_CORPSE">Luzaroegi... batera bizitzen. Bakarra bihurtu ginen...</entry>
-    <entry name="LURIAN_JOURNAL">Betiereko loak deitzen nau, eta hauek izango dira nire azken hitzak.&lt;br&gt;Hemendik haurrera nire begiradak hiri hau zainduko ez duen arren, beti jarraituko dut berau babesteko lan egiten.&lt;page&gt;Erregerengatik, zomorroengatik, Sakrabiagatik, orain nire atsedenaren unea da.</entry>
+    <entry name="LURIAN_JOURNAL">Betiereko loak deitzen nau, eta hauek izango dira nire azken hitzak.&lt;br&gt;Hemendik aurrera nire begiradak hiri hau zainduko ez duen arren, beti jarraituko dut berau babesteko lan egiten.&lt;page&gt;Erregerengatik, zomorroengatik, Sakrabiagatik, orain nire atsedenaren unea da.</entry>
     <entry name="MAGE_COMP_01">Cenda agiria&lt;br&gt;Gogoan izan kontsumituak.&lt;br&gt;Haien sakrifizioari esker eboluzionatu dugu.&lt;br&gt;Orain ez dago mendera gaitzakeen gogoaren izurriterik.</entry>
     <entry name="MAGE_COMP_02">Bela agiria&lt;br&gt;Arima bat manipulatzeko, aurrena gogoa aldatu behar da.&lt;br&gt;Oso gutxik jasan dezakete halako aldaketa.&lt;br&gt;Egiazko aurrerapenaren bidea akatsez betea da.</entry>
     <entry name="MAGE_COMP_03">Aba agiria&lt;br&gt;Gogoak oraindik mugatu egiten gaitu.&lt;br&gt;Nola hauts ditzakegu bere loturak?&lt;br&gt;Kontzentrazio purua erdiestea, posible ote da? </entry>
