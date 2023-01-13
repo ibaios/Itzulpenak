@@ -2,7 +2,7 @@
     <entry name="DESC_ABYSS_CRAWLER">Leku sakon eta ilunetan soilik aurki daiteke. Ez da inoiz ezer jan edo edaten ikusi.</entry>
     <entry name="DESC_ABYSS_TENDRIL">Huts pusketak, garro zorrotz jipoitzaileen forma hartuta.</entry>
     <entry name="DESC_ACID_FLYER">Oskol arantzatsuz babesturiko izaki hegalari xaloa.</entry>
-    <entry name="DESC_ACID_WALKER">Oskol gogorrean bilduriko izaki ibiltari xaloa. Sarri ur azidozko sakonera txikiko urmaelean batetik bestera ibili ohi da.</entry>
+    <entry name="DESC_ACID_WALKER">Oskol gogorrean bilduriko izaki ibiltari xaloa. Sarri ur azidozko sakonera txikiko urmaeletan batetik bestera ibili ohi da.</entry>
     <entry name="DESC_ANGRY_BUZZER">Kutsadura iraunkorrak gorputza desitxuratu dion nekosoa. Biziki oldarkorra.</entry>
     <entry name="DESC_BABY_CENTIPEDE">Saldoan ibili ohi den Sakoneko Habiako harraparia. Lurpean aztarrika gordetzen da, gero ezustean atera eta ehizakiaren gainera oldartzeko.</entry>
     <entry name="DESC_BEE">Erletxea sarkinengandik babesten du bere ezten hedagarriarekin.</entry>
@@ -77,7 +77,7 @@
     <entry name="DESC_INFECTED_KNIGHT">Gorputz suntsitua, parasito kutsatuek mugiarazia.</entry>
     <entry name="DESC_INFLATOR">Txikia eta baketsua, baina tamaina erraldoia hartzen du mehatxupean bada.</entry>
     <entry name="DESC_JAR_COLLECTOR">Maitasunaren Dorrean giltzapeturiko izaki iluna. Sakrabiako izakiak kristalezko potoetan mantentzen ditu, batez ere larbak.</entry>
-    <entry name="DESC_JELLY_CRAWLER">Marmoka izakietan txikiena. Pasiboa eta ez-kontzientea, baina karga elektriko arriskutsuen bidez taupa egiten duena.</entry>
+    <entry name="DESC_JELLY_CRAWLER">Marmoka-izakietan txikiena. Pasiboa eta ez-kontzientea, baina karga elektriko arriskutsuen bidez taupa egiten duena.</entry>
     <entry name="DESC_JELLYFISH">Izaki pasiboa kanpotik, barnean duen muin leherkor eta oldarkorra babesten duela.</entry>
     <entry name="DESC_KIN_SEAL">Antzinako diseinudun zigilua xehetasun korapilatsuekin.&lt;br&gt;&lt;br&gt;Lehen indar boteretsu bat zuen barnean, edo garrantzi handiko zerbait babesten zuen.</entry>
     <entry name="DESC_LAZY_FLYER">Ur azidoen inguruan astiro ibiliz bizitzea gogoko duen izaki baketsua.</entry>
@@ -123,7 +123,7 @@
     <entry name="DESC_PALACE_FLY">Eulien gisara eraikia, oskol zurikoa eta barrenak likido ilunez betetik dituena.</entry>
     <entry name="DESC_PALE_LURKER">Koliseoko txapeldun ahaztua, obsesio arraroek ilunpera bideratu zutena.</entry>
     <entry name="DESC_PARASITE_BLOB">Zelula bakarreko organismoa, izurriteak erabat hartua. Batetik bestera dabil alderrai.</entry>
-    <entry name="DESC_PIGEON">Inguru lasaiak nahiago dituen izaki hegalari baketsua. Norbalean saldoan bidaiatzen du.</entry>
+    <entry name="DESC_PIGEON">Inguru lasaiak nahiago dituen izaki hegalari baketsua. Normalean saldoan bidaiatzen du.</entry>
     <entry name="DESC_PLANT_SHOOTER">Landare-izaki erasokorra, arriskua gerturatzean babesteko atzera biltzen dena. Pilota gogor arantzatsuak jaurtitzen ditu arerioak tarte batera daudenean.</entry>
     <entry name="DESC_PRAYER_SLUG">Sakrabiako erresumako kiderik ahulenak. Orokorki gutxietsiak eta garrantzi gabeko lanak egitera behartuak.</entry>
     <entry name="DESC_PURE_VESSEL">Edukitzaile hautatua, jatorrizko formarako hezia eta trebatua.</entry>
@@ -357,8 +357,8 @@
     <entry name="NOTE_BLACK_KNIGHT">Gudari isil hauek borrokan erortzen direnean, haien gorpuak erdibitu eta barnetik zomorro bitxiak ateratzen dira hegan. Zer aterako ote zait hegan gorpu barrutik ni hiltzen naizenean? Nire esperantza eta beldurrek egingo ote dute ihes iluntasunerantz?</entry>
     <entry name="NOTE_BLOBBLE">Maskara txiki bat landu dute beretzat! Praktikoa al da halako nabarmenkeria?</entry>
     <entry name="NOTE_BLOB_FLYER">Ohartzen ote da egiten duen trabaz? Batetik bestera noraezean, nonahi zuku kaltegarriak isuriz...? Baten bat ikusten baduzu, akabatu.</entry>
-    <entry name="NOTE_BLOCKER">Zahartu ahala, izaki hauek astunegi eta lodiegi bihurtzen dira librekin ibiltzeko. Aitzitik, uzkurtu eta mundutik ezkutatzen dira. Zer izango ote dute buruan, beren baitan bilduta daudela? Kezka eta arazo gutxiagoko garaiak, akaso.</entry>
-    <entry name="NOTE_BOUNCER">Haien inguruan gertatzen denaz ozta-ozta konturatzen dira, harrapakin erraza bihurtuz hortzak zorrozteko. Zerk gidatzen ditu bere bidean? Balirudike hiltzeko modu baten bila dabiltzala.</entry>
+    <entry name="NOTE_BLOCKER">Zahartu ahala, izaki hauek astunegi eta lodiegi bihurtzen dira libreki ibiltzeko. Aitzitik, uzkurtu eta mundutik ezkutatzen dira. Zer izango ote dute buruan, beren baitan bilduta daudela? Kezka eta arazo gutxiagoko garaiak, akaso.</entry>
+    <entry name="NOTE_BOUNCER">Haien inguruan gertatzen denaz ozta-ozta konturatzen dira, harrapakin errazak bihurtuz hortzak zorrozteko. Zerk gidatzen ditu bere bidean? Balirudike hiltzeko modu baten bila dabiltzala.</entry>
     <entry name="NOTE_BURSTING_BOUNCER">Muki nazkagarria tantaka eta gas kaltegarri isuria hasi da goitik. Non ote da higuingarrikeria horren jatorria? Ez dut erantzuna ezagutzen.</entry>
     <entry name="NOTE_BUZZER">Ehiztari basati txiki honek ausarki harrapatzen ditu bera baino askoz handiagoak diren izakiak. Miresgarria da! Ahula da, ordea, eta hauetako ehunka irentsi ditut nik ia ahaleginik egin edo intentziorik izan gabe ere.</entry>
     <entry name="NOTE_CEILING_DROPPER">Bere bizia estimatzen ez duen izaki haserretua. Beldurrik ez duen izakia... zilegi ote da harrapakintzat hartzea?</entry>
@@ -368,7 +368,7 @@
     <entry name="NOTE_COL_HOPPER">Gogorrak diruditen arren, ez dute punteria onik. Zaindu haien mugimenduak eta kolpatu itzazu aukera izatean. Hartu haien kaskoak garaikur gisa.</entry>
     <entry name="NOTE_COL_MINER">Gudari honen arma birakariak airean daudela kolpatu ditzakezu, bueltan haiengana bidaliz! Trikimailu erabilgarria da zokoratzen zaituztenerako.</entry>
     <entry name="NOTE_COL_MOSQUITO">Indartsua eta bizkorra! Indarra hartzeko atzera egiten duenean, kendu paretik edo prestatu kontraerasorako!</entry>
-    <entry name="NOTE_COL_ROLLER">Izaki hauek... ez dut inoiz hauetako heldu bat ikusi. Suposatzen dut ez zaiela helduaroraino hazten uzten.</entry>
+    <entry name="NOTE_COL_ROLLER">Izaki hauek... Ez dut inoiz hauetako heldu bat ikusi. Suposatzen dut ez zaiela helduaroraino hazten uzten.</entry>
     <entry name="NOTE_COL_SHIELD">&#39;Koliseo&#39; hori leku bitxia da, non zomorro batzuk elkarrekin borrokatzen baitira heriotzara arte, beste batzuk begira daudelarik. Ez ditut erritu ilun horiek ulertzen. Bertara menturatzen bazara, uneoro erne egon.</entry>
     <entry name="NOTE_COL_WORM">Handia eta bizirik irauteko borrokan. Ez ezazula borrokalari hau gutxietsi! Gorpuzkera handikoa izan arren, azkar irristatzen da. Aurpegi ederra ere badauka maskararen azpian.</entry>
     <entry name="NOTE_CRAWLER">Gogaikarri eta patetikoa. Ia ez du hiltzea ere merezi.</entry>
@@ -416,7 +416,7 @@
     <entry name="NOTE_HOPPER">Lapur saltokari honen sabela beste piztiei ebatsi dien odolez lepo dago. Sugar baten gainean jartzen baduzu, sabela puztu eta puztu haziko zaio lehertu arte, likido ketsuko zaparrada sortuz.</entry>
     <entry name="NOTE_HORNET">Ikusia dut izakitxo arin hau. Ehizakitzat hartu nuen eta gainera salto egin nion, baina zirt-zart bere orratz hegalariarekin sastatu ninduen, eta lasterka ihes egin zuen. Bera ere... ehiztaria ote da?</entry>
     <entry name="NOTE_HUNTERMARK">Ez dut ondorengorik, ez mendekorik, ezta gurtzen nauenik ere. Nire izatearen, nire jakinduriaren, nire senaren batura... dena uzten dizut zuri. Zorte on, ehiztaria.</entry>
-    <entry name="NOTE_INFECTED_KNIGHT">Izaki honen itxura... lehenago ere ikusia dut horrelako zerbait. Behin baino gehiagotan, agian. Sakrabiako zomorroen antz pitin bat du, baina ez erabat. Nondik ote datoz ibiltari txiki huts hauek?</entry>
+    <entry name="NOTE_INFECTED_KNIGHT">Izaki honen itxura... Lehenago ere ikusia dut horrelako zerbait. Behin baino gehiagotan, agian. Sakrabiako zomorroen antz pitin bat du, baina ez erabat. Nondik ote datoz ibiltari txiki huts hauek?</entry>
     <entry name="NOTE_INFLATOR">Izaki biziki dibertigarriak.</entry>
     <entry name="NOTE_JAR_COLLECTOR">Noizbehinka harpeetan batetik bestera ibiltzen den itzala, zarata bitxiak eginez. Ez dut inoiz garbi ikusi, beraz, ez dakit zer izaki mota den.</entry>
     <entry name="NOTE_JELLY_CRAWLER">Hildako arbaso baten espiritua? Izaki handiago baten burmuina, libre mugitzeko aukerarekin? Arrautza bat, erruteko leku seguru baten bila? Ez dut ideiarik ere hau zer den.</entry>
@@ -465,7 +465,7 @@
     <entry name="NOTE_PALACE_FLY">Sakrabiako zomorroek uste zuten haien erregeak mundu hau eta bertan zegoen guztia sortu zuela. Zein helbururekin? galdetzen diot nire buruari. Bere mendekoak zer ziren... lagunak... ala jostailuak... ala kumeak? Halako adimen bat... ulergaitza da.</entry>
     <entry name="NOTE_PALE_LURKER">Izaki bitxi honi ez dio harpeetan zehar barreiaturiko gaitzak eragiten, eta badirudi ez dakiela existitzen denik ere. Bere erokeria berea baino ez da.</entry>
     <entry name="NOTE_PARASITE_BLOB">Aire bitxia sartu zen goitik urte luzez. Aire horren zati bat likido bihurtu zen, eta likido horretatik apur bat haragiztatu, eta, era berean, haragi horren zati batek bizia hartu zuen. Ez dakit horrekin zer egin.</entry>
-    <entry name="NOTE_PIGEON">Denek egiten dute zaintza, arriskuen beldur, eta batek hegaka ihes egiten badu, besteek ere bai. Zer izango ote da taldearen babesa sentitzea?</entry>
+    <entry name="NOTE_PIGEON">Denek batera egiten dute zaintza, arriskuen beldur, eta batek hegaka ihes egiten badu, besteek ere bai. Zer izango ote da taldearen babesa sentitzea?</entry>
     <entry name="NOTE_PLANT_SHOOTER">Hosto lehorrak eta bigunak ditu. Usain nazkagarria dauka, baina oh! Jaurtitzen dituen bola horien pozoia. Primerakoa! Astirik badaukazu, edan pixka bat bertatik, eta gozatu bere efektuez.</entry>
     <entry name="NOTE_PRAYER_SLUG">Nagusiki koipe gozoz beterik dauden izaki babesgabe hauek elikagai bikaina dira bidaia luzeetarako. Hobeak dira sugarraren gainean ondo txigortuz gero. Bizia barkatzeko erregutzen badizute, ez egin jaramonik. Ez dute ezer eskaintzekorik.</entry>
     <entry name="NOTE_PURE_VESSEL">&quot;Isiltasunik sakonena oskol sakratuan,&lt;br&gt;Eztena emanez zaldun izendatua,&lt;br&gt;Aztikeriaz eta katez lotua arrautza barruan,&lt;br&gt;Entzun gure eskaria! Azaldu zure argi ezkutua!&quot;&lt;br&gt;- Edukitzaileari Erregua</entry>
@@ -480,8 +480,7 @@
     <entry name="NOTE_SLASH_SPIDER">Indartsuak, ondo korazatuak eta bizkorrak... hauek ez dira piztia hutsak. Aztertu haien mugimenduak eta behatu arretaz erasorako tarte bila.</entry>
     <entry name="NOTE_SNAPPER_TRAP">Benetan inozoa behar duzu izan landare batek engainatzeko.</entry>
     <entry name="NOTE_SPIDER_FLYER">Edozein unetan ager daitezke iluntasunetik! Airean hegan egiten dutela ematen du, soka ikusezinen gainean dantzan, ehizakiak isilean zelatatzen dituztela.</entry>
-    <entry name="NOTE_SPITTER">Urrutitik zuri erasotzen saiatuko diren harrapari 
-    artetsuak. Ez eman tarterik, kargatu bizkor haien kontra eta erdibitu itzazu! Hil ondoren ez dirudite hain artetsuak.</entry>
+    <entry name="NOTE_SPITTER">Urrutitik zuri erasotzen saiatuko diren harrapari artetsuak. Ez eman tarterik, kargatu bizkor haien kontra eta erdibitu itzazu! Hil ondoren ez dirudite hain artetsuak.</entry>
     <entry name="NOTE_SPITTING_SPIDER">Ikusteko zailak dira, ilunpetik sartu-irtenean ibiltzen direnez. Haien begi distiratsuak dira bilatu behar dituzunak.</entry>
     <entry name="NOTE_SUPER_SPITTER">Arerio krudel hauek segada ipiniko dizute, eta etengabe erasoko dizute pozoi erretzailearekin. Bitxia da haien ondorengoak hain ahulak izatea. Inoiz kumerik badut, ni baino indartsuagoak izatea espero dut...</entry>
     <entry name="NOTE_TRAITOR_LORD">Nik ere sentitu dut grina hori. Izurritea nire baitan izateko desira. Indartsuago, boteretsuago bihurtzekoa... pentsamendu horiek ametsetan azaltzen zaizkit, une ilunenetan. Itxaropen faltsu bat, baina gogoan oso distiratsu piztu daitekeena.</entry>
