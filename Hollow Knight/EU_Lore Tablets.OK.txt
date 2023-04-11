@@ -111,7 +111,7 @@
     <entry name="MIMIC_CORPSE_10">...Nola?...</entry>
     <entry name="MIMIC_CORPSE_11">...Ez...</entry>
     <entry name="MIMIC_CORPSE_12">...Faltan bota zaitut...</entry>
-    <entry name="MISSING_PALACE_CORPSES">...Nora joan zara?... Ene Errege...</entry>
+    <entry name="MISSING_PALACE_CORPSES">...Nora joan da berori?... Ene Errege...</entry>
     <entry name="MOSS_FAT_MOUND_01">...Argia...</entry>
     <entry name="MOSS_FAT_MOUND_02">...Distiratsua...</entry>
     <entry name="MOTH_STATUE">...Oroitu... Argia...</entry>

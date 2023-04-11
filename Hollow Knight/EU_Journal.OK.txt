@@ -358,7 +358,7 @@
     <entry name="NOTE_BLOBBLE">Maskara txiki bat landu dute beretzat! Praktikoa al da halako nabarmenkeria?</entry>
     <entry name="NOTE_BLOB_FLYER">Ohartzen ote da egiten duen trabaz? Batetik bestera noraezean, nonahi zuku kaltegarriak isuriz...? Baten bat ikusten baduzu, akabatu.</entry>
     <entry name="NOTE_BLOCKER">Zahartu ahala, izaki hauek astunegi eta lodiegi bihurtzen dira libreki ibiltzeko. Aitzitik, uzkurtu eta mundutik ezkutatzen dira. Zer izango ote dute buruan, beren baitan bilduta daudela? Kezka eta arazo gutxiagoko garaiak, akaso.</entry>
-    <entry name="NOTE_BOUNCER">Haien inguruan gertatzen denaz ozta-ozta konturatzen dira, harrapakin errazak bihurtuz hortzak zorrozteko. Zerk gidatzen ditu bere bidean? Balirudike hiltzeko modu baten bila dabiltzala.</entry>
+    <entry name="NOTE_BOUNCER">Haien inguruan gertatzen denaz ozta-ozta konturatzen dira, harrapakin errazak bihurtuz hortzak zorrozteko. Zerk gidatzen ditu beren bidean? Balirudike hiltzeko modu baten bila dabiltzala.</entry>
     <entry name="NOTE_BURSTING_BOUNCER">Muki nazkagarria tantaka eta gas kaltegarri isuria hasi da goitik. Non ote da higuingarrikeria horren jatorria? Ez dut erantzuna ezagutzen.</entry>
     <entry name="NOTE_BUZZER">Ehiztari basati txiki honek ausarki harrapatzen ditu bera baino askoz handiagoak diren izakiak. Miresgarria da! Ahula da, ordea, eta hauetako ehunka irentsi ditut nik ia ahaleginik egin edo intentziorik izan gabe ere.</entry>
     <entry name="NOTE_CEILING_DROPPER">Bere bizia estimatzen ez duen izaki haserretua. Beldurrik ez duen izakia... zilegi ote da harrapakintzat hartzea?</entry>

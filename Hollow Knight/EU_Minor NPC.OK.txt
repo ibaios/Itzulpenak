@@ -38,7 +38,7 @@
     <entry name="SPIDER_DREAM">Gah!! Ospa! Zoaz! Irten!</entry>
     <entry name="WHITE_DEFENDER_OUTRO_1a">Lagunok... nik babestuko dut gure erresuma maitea. Izan fedea nigan!</entry>
     <entry name="WHITE_DEFENDER_OUTRO_1b">Berriz ere elkartuko gara guztiok. Zin dagizuet...</entry>
-    <entry name="WHITE_DEFENDER_OUTRO_2">Errege... Zugan sinesten dut. Sinesten dut Sakrabian! Nire debozioak ez du inoiz zalantza egingo...</entry>
+    <entry name="WHITE_DEFENDER_OUTRO_2">Errege... Berorrengan sinesten dut. Sinesten dut Sakrabian! Nire debozioak ez du inoiz zalantza egingo...</entry>
     <entry name="WHITE_DEFENDER_OUTRO_3">Errege... Sakrabia berriz jaioko da! Loriatsua eta argia! Beti izan den modukoa...</entry>
     <entry name="WHITE_DEFENDER_OUTRO_4">Errege... Guztiok elkarrekin izango gara beste behin ere...</entry>
     <entry name="WHITE_DEFENDER_OUTRO_5">Bitxia da, ametsetan ere ikusten zaitut, txikia. Zure jokaera prestuak gure Errege maitea gogorarazten dit. Itzultzen denean, zaldun izenda zaitzan eskatuko diot! Abentura ederrak biziko ditugu...</entry>
