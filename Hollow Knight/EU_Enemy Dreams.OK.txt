@@ -234,7 +234,7 @@
     <entry name="WHITE_DEF_5">Maiestatea... Sinistu nigan!</entry>
     <entry name="WYRM_SERVANT_1">...Errege... Dena gugatik...</entry>
     <entry name="WYRM_SERVANT_2">... Itxarongo dugu... Errege...</entry>
-    <entry name="WYRM_SERVANT_3">...Errege... Berorren arazoak... Utz bekigu...</entry>
+    <entry name="WYRM_SERVANT_3">...Errege... Berorren arazoak... Utz guri...</entry>
     <entry name="WYRM_SERVANT_4">Berorren argia... Bikaina eta egiazkoa...</entry>
     <entry name="ZOMBIE_10">Hilko zaitut!</entry>
     <entry name="ZOMBIE_1">Ez nigana gerturatu!</entry>
