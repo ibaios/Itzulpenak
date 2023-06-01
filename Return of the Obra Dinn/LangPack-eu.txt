@@ -514,7 +514,7 @@
    [124]
     0 StringEntry data
      1 string key = "book_chapter_1_name"
-     1 string val = "Hotz gordina"
+     1 string val = "HOTZ GORDINA"
    [125]
     0 StringEntry data
      1 string key = "book_chapter_2_toc"
@@ -610,7 +610,7 @@
    [148]
     0 StringEntry data
      1 string key = "book_chapter_9_name"
-     1 string val = "Amaiera"
+     1 string val = "AMAIERA"
    [149]
     0 StringEntry data
      1 string key = "book_toc_contents"
@@ -670,7 +670,7 @@
    [163]
     0 StringEntry data
      1 string key = "book_conclusion"
-     1 string val = "AMAIERA"
+     1 string val = "ITXIERA"
    [164]
     0 StringEntry data
      1 string key = "book_head_chart"
@@ -774,7 +774,7 @@
    [189]
     0 StringEntry data
      1 string key = "location_room_captain_inside"
-     1 string val = "KAPITAINaren GANBARA (barruan)
+     1 string val = "KAPITAINaren GANBARA (barruan)"
    [190]
     0 StringEntry data
      1 string key = "location_room_mate1_window"
@@ -2222,7 +2222,7 @@
    [551]
     0 StringEntry data
      1 string key = "fate_parts_speared-killer"
-     1 string val = "Lantzaz | $subject | lantza batekin erahil zuen | $killer."
+     1 string val = "Lantzaz | $subject | lantza batekin erail zuen | $killer."
    [552]
     0 StringEntry data
      1 string key = "fate_parts_dismembered-killer"
@@ -2286,15 +2286,15 @@
    [567]
     0 StringEntry data
      1 string key = "fate_parts_fell-stairs"
-     1 string val = "Erorita/Eskailerak | $subject | eskaileretatik eroriz aurkitu zuen heriotza."
+     1 string val = "Erorita/Eskailerak | $subject | eskaileretatik eroriz aurkitu zuen heriotzak."
    [568]
     0 StringEntry data
      1 string key = "fate_parts_fell-rigging"
-     1 string val = "Erorita/Belazurruna | $subject | belazurrunetik eroriz aurkitu zuen heriotza."
+     1 string val = "Erorita/Belazurruna | $subject | belazurrunetik eroriz aurkitu zuen heriotzak."
    [569]
     0 StringEntry data
      1 string key = "fate_parts_fell-overboard"
-     1 string val = "Erorita/Karela | $subject | kareletik eroriz aurkitu zuen heriotza."
+     1 string val = "Erorita/Karela | $subject | kareletik eroriz aurkitu zuen heriotzak."
    [570]
     0 StringEntry data
      1 string key = "fate_parts_expired-age"
@@ -2542,7 +2542,7 @@
    [631]
     0 StringEntry data
      1 string key = "dialog_intro_ca"
-     1 string val = "Esan zida<M>k<><F>n<> Obra Dinn-era eraman behar haudala."
+     1 string val = "Esan zida<M>k<><F>n<> Obra Dinn-era eraman behar hauda<F>na<>la."
    [632]
     0 StringEntry data
      1 string key = "dialog_intro_da"
