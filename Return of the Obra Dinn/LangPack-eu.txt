@@ -1570,7 +1570,7 @@
    [388]
     0 StringEntry data
      1 string key = "tally_assessment"
-     1 string val = "ASEGURU-ETXEAREN TXOSTENA\n«OBRA DINN»\nontzi onari buruz,\nzeina itsas zabalean zorigatzen biktima izan zen."
+     1 string val = "ASEGURU-ETXEAREN TXOSTENA\n«OBRA DINN»\nontzi onari buruz,\nzeina itsas zabalean zorigaitzen biktima izan baitzen."
    [389]
     0 StringEntry data
      1 string key = "tally_preparer"
@@ -2314,7 +2314,7 @@
    [574]
     0 StringEntry data
      1 string key = "fate_parts_poisoned"
-     1 string val = "Pozoinduta | $subject | pozoinduta hil zen."
+     1 string val = "Pozoituta | $subject | pozoituta hil zen."
    [575]
     0 StringEntry data
      1 string key = "fate_parts_burned"
