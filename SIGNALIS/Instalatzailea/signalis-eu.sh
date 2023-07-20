@@ -47,6 +47,8 @@ echo "ItzulTool deskargatzen..."
 # Deskargatu ItzulTool
 wget https://github.com/ibaios/itzultool/releases/download/v0.1/"$itzultool_filename"
 
+chmod +x ./"$itzultool_filename"
+
 echo "Deskargatuta."
 
 echo ".Net 6.0 frameworka instalatzen..."
@@ -66,14 +68,18 @@ echo "Deskargatuta."
 echo "Itzulpena aplikatzen. Honek luze jo dezake..."
 
 # Aplikatu itzulpena
-export DOTNET_ROOT=~/.dotnet/ && "$itzultool_filename" decompress "$path"/data.unity3d
-export DOTNET_ROOT=~/.dotnet/ && "$itzultool_filename" extractassets "$path"/data.unity3d.decomp resources.assets
-export DOTNET_ROOT=~/.dotnet/ && "$itzultool_filename" applyemip signalis-eu-$locale.emip "$path"
-export DOTNET_ROOT=~/.dotnet/ && "$itzultool_filename" replaceassets  "$path"/data.unity3d.decomp "$path"/resources.assets
-# Garbitu eta bundlearen backupa sortu
+export DOTNET_ROOT=~/.dotnet/ && ./"$itzultool_filename" decompress "$path"/data.unity3d
+export DOTNET_ROOT=~/.dotnet/ && ./"$itzultool_filename" extractassets "$path"/data.unity3d.decomp resources.assets
+export DOTNET_ROOT=~/.dotnet/ && ./"$itzultool_filename" applyemip signalis-eu-$locale.emip "$path"
+# Garbitu
 rm "$path"/resources.assets.bak0000
+export DOTNET_ROOT=~/.dotnet/ && ./"$itzultool_filename" replaceassets  "$path"/data.unity3d.decomp "$path"/resources.assets
+# Garbitu eta bundlearen backupa sortu
+rm "$path"/resources.assets
 mv "$path"/data.unity3d "$path"/data.unity3d.bak
-export DOTNET_ROOT=~/.dotnet/ && "$itzultool_filename" compress "$path"/data.unity3d.decomp "$path"/data.unity3d
+export DOTNET_ROOT=~/.dotnet/ && ./"$itzultool_filename" compress "$path"/data.unity3d.decomp "$path"/data.unity3d
+# Garbitu
+rm "$path"/data.unity3d.decomp
 
 echo "Aplikatuta."
 echo "Instalazioko fitxategiak ezabatzen..."
