@@ -1,6 +1,6 @@
 #!/bin/bash
 
-itzultool_filename=itzultool-0.1-linux-x64
+itzultool_filename=itzultool-0.3-linux-x64
 
 echo "SIGNALIS euskaraz - Instalatzen..."
 
@@ -16,6 +16,38 @@ while true; do
 		2 ) locale='fr'; break;;
 		* ) echo "
 		OKERREKO AUKERA. Idatzi 1 (Gaztelania) edo 2 (Frantsesa) eta sakatu SARTU tekla.
+		";;		
+	esac
+done
+
+# Aukeratu bundlea konprimatu edo ez
+while true; do
+	read -p "Amaieran bundlea konprimatu? Diskoan leku gutxiago hartuko du, baina konprimatzeko prozesua motela da (5min inguru).
+	1: Bai
+	2: Ez
+	(idatzi 1 edo 2 eta sakatu SARTU tekla)
+	" c
+	case $c in
+		1 ) compress=true; break;;
+		2 ) compress=false; break;;
+		* ) echo "
+		OKERREKO AUKERA. Idatzi 1 (BAI) edo 2 (EZ) eta sakatu SARTU tekla.
+		";;		
+	esac
+done
+
+# Aukeratu jatorrizko bundlearen backupa gorde edo ez
+while true; do
+	read -p "Jatorrizko bundlea gorde? Diskoan lekua hartuko du, eta Steam edo GOG moduko denda gehienetan erraza da jokoa berrinstalatzea arazoren bat badago.
+	1: Bai
+	2: Ez
+	(idatzi 1 edo 2 eta sakatu SARTU tekla)
+	" k
+	case $k in
+		1 ) keeporiginal=true; break;;
+		2 ) keeporiginal=false; break;;
+		* ) echo "
+		OKERREKO AUKERA. Idatzi 1 (BAI) edo 2 (EZ) eta sakatu SARTU tekla.
 		";;		
 	esac
 done
@@ -45,7 +77,7 @@ cd signalis-eu-instalazioa
 echo "ItzulTool deskargatzen..."
 
 # Deskargatu ItzulTool
-wget https://github.com/ibaios/itzultool/releases/download/v0.1/"$itzultool_filename"
+wget https://github.com/ibaios/itzultool/releases/download/v0.3/"$itzultool_filename"
 
 chmod +x ./"$itzultool_filename"
 
@@ -54,7 +86,7 @@ echo "Deskargatuta."
 echo ".Net 6.0 frameworka instalatzen..."
 
 # .Net 6.0 instalatu
-wget https://dot.net/v1/dotnet-install.sh
+wget https://dotnet.microsoft.com/download/dotnet/scripts/v1/dotnet-install.sh
 chmod +x ./dotnet-install.sh
 ./dotnet-install.sh --runtime dotnet --version 6.0.0
 
@@ -71,15 +103,28 @@ echo "Itzulpena aplikatzen. Honek luze jo dezake..."
 export DOTNET_ROOT=~/.dotnet/ && ./"$itzultool_filename" decompress "$path"/data.unity3d
 export DOTNET_ROOT=~/.dotnet/ && ./"$itzultool_filename" extractassets "$path"/data.unity3d.decomp resources.assets
 export DOTNET_ROOT=~/.dotnet/ && ./"$itzultool_filename" applyemip signalis-eu-$locale.emip "$path"
+
 # Garbitu
 rm "$path"/resources.assets.bak0000
+
 export DOTNET_ROOT=~/.dotnet/ && ./"$itzultool_filename" replaceassets  "$path"/data.unity3d.decomp "$path"/resources.assets
-# Garbitu eta bundlearen backupa sortu
+
+# Garbitu eta bundlearen backupa sortu (hala hautatu badu)
 rm "$path"/resources.assets
-mv "$path"/data.unity3d "$path"/data.unity3d.bak
-export DOTNET_ROOT=~/.dotnet/ && ./"$itzultool_filename" compress "$path"/data.unity3d.decomp "$path"/data.unity3d
-# Garbitu
-rm "$path"/data.unity3d.decomp
+
+if [[ "$keeporiginal" = true ]]; then
+	mv "$path"/data.unity3d "$path"/data.unity3d.bak
+else
+	rm "$path"/data.unity3d
+fi
+
+# Konprimatu (hala hautatu badu)
+if [[ "$compress" = true ]]; then
+	export DOTNET_ROOT=~/.dotnet/ && ./"$itzultool_filename" compress "$path"/data.unity3d.decomp "$path"/data.unity3d
+	rm "$path"/data.unity3d.decomp
+else
+	mv "$path"/data.unity3d.decomp "$path"/data.unity3d
+fi
 
 echo "Aplikatuta."
 echo "Instalazioko fitxategiak ezabatzen..."
