@@ -18764,7 +18764,7 @@
      [62]
       0 LocalizedString LocalizedStrings
        1 string StringID = "KeyOfLove Inspect"
-       1 string Localized = "1024. zikloa\nElster ezagutu aurretik, ez nuke inola ere pentsatuko hala maitemintzeko moduko norbait aurki nezakeekin."
+       1 string Localized = "1024. zikloa\nElster ezagutu aurretik, ez nuke inola ere pentsatuko hala maitemintzeko moduko norbait aurki nezakeenik."
      [63]
       0 LocalizedString LocalizedStrings
        1 string StringID = "KeyOfSacrifice Description"
@@ -19896,7 +19896,7 @@
      [345]
       0 LocalizedString LocalizedStrings
        1 string StringID = "OptionsHint VolSFXControllerInter"
-       1 string Localized = "Soinu-efektuen bolumena (tiro-hotsak, oinotsak, etab.)"
+       1 string Localized = "Soinu-efektuen bolumena (tiro-hotsak, urrats-hotsak, etab.)"
      [346]
       0 LocalizedString LocalizedStrings
        1 string StringID = "OptionsHint VolRadioControllerInter"
@@ -20240,11 +20240,11 @@
      [431]
       0 LocalizedString LocalizedStrings
        1 string StringID = "Minimap ROT_Apartments"
-       1 string Localized = "Apartmentuak (goiko solairua)"
+       1 string Localized = "Apartamentuak (goiko solairua)"
      [432]
       0 LocalizedString LocalizedStrings
        1 string StringID = "Minimap ROT_GroundFloor"
-       1 string Localized = "Apartmentuak (beheko solairua)"
+       1 string Localized = "Apartamentuak (beheko solairua)"
      [433]
       0 LocalizedString LocalizedStrings
        1 string StringID = "Minimap Nowhere"
@@ -21424,7 +21424,7 @@
      [727]
       0 LocalizedString LocalizedStrings
        1 string StringID = "RES_Libri_3"
-       1 string Localized = "[Kolibri] Lehen haien gogoa aurreikusteko gai nintzen.\n[Kolibri] Izaki bakarra bagina bezala.\n[Kolibri] Elkarrekin, gainontzekoak gidatzen genituen.\n[Kolibri] Baina orain, iada ezin ditut haien pentsamenduak ulertu."
+       1 string Localized = "[Kolibri] Lehen haien gogoa aurreikusteko gai nintzen.\n[Kolibri] Izaki bakarra bagina bezala.\n[Kolibri] Elkarrekin, gainontzekoak gidatzen genituen.\n[Kolibri] Baina orain, jada ezin ditut haien pentsamenduak ulertu."
      [728]
       0 LocalizedString LocalizedStrings
        1 string StringID = "RES_Libri_4"
@@ -21592,15 +21592,15 @@
      [769]
       0 LocalizedString LocalizedStrings
        1 string StringID = "GameOverMessage"
-       1 string Localized = "Salbuespen sahietsezina gertatu da. Noiz: {0}\nNon: {1}. Baliteke hardware hutsegite batek eragina izatea. \nArazoak irauten badu, jarri Replikentzako zerbitzu teknikoarekin harremanetan.\nErrore kodea:  ***STOP: {2} [LSTR-512]"
+       1 string Localized = "Salbuespen saihetsezina gertatu da. Noiz: {0}\nNon: {1}. Baliteke hardware hutsegite batek eragina izatea. \nArazoak irauten badu, jarri Replikentzako zerbitzu teknikoarekin harremanetan.\nErrore kodea:  ***STOP: {2} [LSTR-512]"
      [770]
       0 LocalizedString LocalizedStrings
        1 string StringID = "GameOverMessage B"
-       1 string Localized = "Salbuespen sahietsezina gertatu da. Noiz: {0}\nNon: {1}. Baliteke hardware hutsegite batek eragina izatea. \nArazoak irauten badu, jarri Replikentzako zerbitzu teknikoarekin harremanetan.\nErrore kodea:  ***STOP: {2} [LSTR-S2301]"
+       1 string Localized = "Salbuespen saihetsezina gertatu da. Noiz: {0}\nNon: {1}. Baliteke hardware hutsegite batek eragina izatea. \nArazoak irauten badu, jarri Replikentzako zerbitzu teknikoarekin harremanetan.\nErrore kodea:  ***STOP: {2} [LSTR-S2301]"
      [771]
       0 LocalizedString LocalizedStrings
        1 string StringID = "GameOverMessage C"
-       1 string Localized = "Salbuespen sahietsezina gertatu da. Noiz: {0}\nNon: {1}. Baliteke hardware hutsegite batek eragina izatea. \nArazoak irauten badu, jarri Replikentzako zerbitzu teknikoarekin harremanetan.\nErrore kodea:  ***STOP: {2} [LSTR-▞▜▟▞]"
+       1 string Localized = "Salbuespen saihetsezina gertatu da. Noiz: {0}\nNon: {1}. Baliteke hardware hutsegite batek eragina izatea. \nArazoak irauten badu, jarri Replikentzako zerbitzu teknikoarekin harremanetan.\nErrore kodea:  ***STOP: {2} [LSTR-▞▜▟▞]"
      [772]
       0 LocalizedString LocalizedStrings
        1 string StringID = "GameOverPrompt"
@@ -22020,7 +22020,7 @@
      [876]
       0 LocalizedString LocalizedStrings
        1 string StringID = "DET_EuleCorpse"
-       1 string Localized = "Hildako Eule unitate bat. Bere buruko azal eta ile sintetikoak gaza geruza mehe eta hezearekin ordeztu dira.\nBere polietilenozko oskolaren zati batzuk falta dira, bere bioosagaiak bistan utziz.§Nola gertatu ote da hau…"
+       1 string Localized = "Hildako Eule unitate bat. Bere buruko azal eta ile sintetikoak gaza geruza mehe eta hezearekin ordeztu dira.\nBere polietilenozko oskolaren zati batzuk falta dira, bioosagaiak bistan utziz.§Nola gertatu ote da hau…"
      [877]
       0 LocalizedString LocalizedStrings
        1 string StringID = "DET_Library_FAK"
@@ -22096,7 +22096,7 @@
      [895]
       0 LocalizedString LocalizedStrings
        1 string StringID = "DET_EV_Impound"
-       1 string Localized = "-ABISUA-\nTXARTELA KONFISKATUA\n\n\nKONTAKTATU   \nADMINISTRATZAILEA"
+       1 string Localized = "-ABISUA-\nTXARTELA KONFISKATUA\n\n<size=27>KONTAKTATU\nADMINISTRAZIOA"
      [896]
       0 LocalizedString LocalizedStrings
        1 string StringID = "DET_EV_Reboot"
@@ -22324,7 +22324,7 @@
      [952]
       0 LocalizedString LocalizedStrings
        1 string StringID = "RES_TapeDeckFailure"
-       1 string Localized = "Audio-kaseteak erreproduzitzeko unitatea, emisio-unitatera konektatua. <style=red>audio-kasete</style> bat banu, bertako edukia irratiz emititu ahalko nuke."
+       1 string Localized = "Audio-kaseteak erreproduzitzeko unitatea, emisio-unitatera konektatua. <style=red>audio-kasete</style> bat banu, bertako edukia irratiz igorri ahalko nuke."
      [953]
       0 LocalizedString LocalizedStrings
        1 string StringID = "RES_Flashlight"
@@ -22420,7 +22420,7 @@
      [976]
       0 LocalizedString LocalizedStrings
        1 string StringID = "LAB_Shrine_Plates"
-       1 string Localized = "Arbasoen oroitarriak daude hormaren kontra lerrokatuta. Higadurak izenak irakurrezin bihurtu ditu."
+       1 string Localized = "Arbasoen oroitarriak daude hormaren kontra lerrokatuta. Higadurak izenak irakurgaitz bihurtu ditu."
      [977]
       0 LocalizedString LocalizedStrings
        1 string StringID = "LAB_Radio_Lamp"
@@ -22736,7 +22736,7 @@
      [1055]
       0 LocalizedString LocalizedStrings
        1 string StringID = "ROT_Email_3"
-       1 string Localized = "C sektoreko Blockwartarentzat: Txutxumutxuen arabera, espioi inperial bat dago aktibo zure gunean.\nAEONen Heimateko kuartel nagusitik Operazio Berezien Protektor unitate bat igorri da gaia ikertzeko eta 6-12 zikloren buruan da iristekoa.\nEz dago esan beharrik arrakasta badute honek zure aurrekarietan eragin negatiboa izango duela.\Ondo dakizu zer egin behar duzun."
+       1 string Localized = "C sektoreko Blockwartarentzat: Txutxu-mutxuen arabera, espioi inperial bat dago aktibo zure gunean.\nAEONen Heimateko kuartel nagusitik Operazio Berezien Protektor unitate bat igorri da gaia ikertzeko eta 6-12 zikloren buruan da iristekoa.\nEz dago esan beharrik arrakasta badute honek zure aurrekarietan eragin negatiboa izango duela.\Ondo dakizu zer egin behar duzun."
      [1056]
       0 LocalizedString LocalizedStrings
        1 string StringID = "ROT_Email_4_RE"
@@ -22880,11 +22880,11 @@
      [1091]
       0 LocalizedString LocalizedStrings
        1 string StringID = "END_CR_Flag"
-       1 string Localized = "Nazioaren bandera. Ez du garrantziarik."
+       1 string Localized = "Nazioaren bandera. Ez du garrantzirik."
      [1092]
       0 LocalizedString LocalizedStrings
        1 string StringID = "END_CR_Radio"
-       1 string Localized = "Arianeren irrati-igorgailu zaharra.Oraindik funtzionatzen du…"
+       1 string Localized = "Arianeren irrati-igorgailu zaharra. Oraindik funtzionatzen du…"
      [1093]
       0 LocalizedString LocalizedStrings
        1 string StringID = "END_CR_Photos"
@@ -23820,7 +23820,7 @@
      [1326]
       0 LocalizedString LocalizedStrings
        1 string StringID = "Health25 Inspect"
-       1 string Localized = "K koagulatzaileak fluidoen jarioak era bizkor eta fidagarrian eteten ditu, Replikaren fluido oxidatzailea masa gelatinotsu bihurtu arte lodituz."
+       1 string Localized = "K koagulatzaileak fluidoen jarioak era bizkor eta fidagarrian eteten ditu, Replikaren fluido oxidatzailea masa gelatinatsu bihurtu arte lodituz."
      [1327]
       0 LocalizedString LocalizedStrings
        1 string StringID = "Health50"
@@ -23852,7 +23852,7 @@
      [1334]
       0 LocalizedString LocalizedStrings
        1 string StringID = "HealthFast Inspect"
-       1 string Localized = "Poliuretanozko erretxina kaltetutako guneak konpondu eta betetzeko erabil daiteke. Instantean gogortzen da."
+       1 string Localized = "Poliuretanozko erretxina kaltetutako guneak konpondu eta betetzeko erabil daiteke. Istantean gogortzen da."
      [1335]
       0 LocalizedString LocalizedStrings
        1 string StringID = "Health100"
@@ -24700,7 +24700,7 @@
      [1546]
       0 LocalizedString LocalizedStrings
        1 string StringID = "Taser Inspect"
-       1 string Localized = "Gertuko helburu guztiak arku elektriko batekin instantean ezgaitzen dituen arma ez-hilgarria."
+       1 string Localized = "Gertuko helburu guztiak arku elektriko batekin istantean ezgaitzen dituen arma ez-hilgarria."
      [1547]
       0 LocalizedString LocalizedStrings
        1 string StringID = "MensaKey"
@@ -25232,7 +25232,7 @@
      [1679]
       0 LocalizedString LocalizedStrings
        1 string StringID = "KeyOfEternity Description OLD"
-       1 string Localized = "Itxura zaharreko giltza latza, guztiz heldoildua."
+       1 string Localized = "Itxura zaharreko giltza latza, guztiz herdoildua."
      [1680]
       0 LocalizedString LocalizedStrings
        1 string StringID = "KeyOfLove"
@@ -25244,7 +25244,7 @@
      [1682]
       0 LocalizedString LocalizedStrings
        1 string StringID = "KeyOfLove Description OLD"
-       1 string Localized = "Itxura zaharreko giltza latza, guztiz heldoildua."
+       1 string Localized = "Itxura zaharreko giltza latza, guztiz herdoildua."
      [1683]
       0 LocalizedString LocalizedStrings
        1 string StringID = "KeyOfSacrifice"
@@ -25256,7 +25256,7 @@
      [1685]
       0 LocalizedString LocalizedStrings
        1 string StringID = "KeyOfSacrifice Description OLD"
-       1 string Localized = "Itxura zaharreko giltza latza, guztiz heldoildua."
+       1 string Localized = "Itxura zaharreko giltza latza, guztiz herdoildua."
      [1686]
       0 LocalizedString LocalizedStrings
        1 string StringID = "RES_Orrery_Base"
@@ -25416,7 +25416,7 @@
      [1725]
       0 LocalizedString LocalizedStrings
        1 string StringID = "LOV_SafeHint"
-       1 string Localized = "<title>Mond&Töchter segurtasun altuko hormako kutxa gotorra (zenbakizkoa)</title>\nHormako kutxa gotor honek Eusaneko Segurtasun Publikoko Ekipamenduen 41. eta 43. erregulazioak betetzen ditu, eta dentsitate altuko Kraftstahl atea dauka, zenbakizko teklatuz babestua. \nVEB Mond & Töchter Tresortechnik konpainiak Heimaten harroki ekoitzia.<page>^\n- Erabilera-jarraibideak - \n1. Sartu kodea teklatua erabiliz. \n2. Sakatu behe-eskumako ertzean dagoen berrespen-tekla. Kodea zuzena bada, argi berdea piztuko da. \n3. Biratu ezkerreko diala atea irekitzeko. \nSartutako digitoak ezabatzeko, sakatu "E" tekla (behe-ezkerrean).<page>^\n- Lehen aldiko konfigurazioa -  \n1. Sartu fabrikako kode lehenetsia (204512) kutxa gotorra irekitzeko. \n2. Atea irekita dagoela, sartu ezarri nahi duzun kode berria teklatua erabiliz. \n3. Sakatu eta mantentu sakatuta berrespen-tekla 10 segundoz, argi berdea piztu arte. \n"
+       1 string Localized = "<title>Mond&Töchter segurtasun altuko hormako kutxa gotorra (zenbakizkoa)</title>\nHormako kutxa gotor honek Eusaneko Segurtasun Publikoko Ekipamenduen 41. eta 43. erregulazioak betetzen ditu, eta dentsitate altuko Kraftstahl atea dauka, zenbakizko teklatuz babestua. \nVEB Mond & Töchter Tresortechnik konpainiak Heimaten harroki ekoitzia.<page>^\n- Erabilera-jarraibideak - \n1. Sartu kodea teklatua erabiliz. \n2. Sakatu behe-eskumako ertzean dagoen berrespen-tekla. Kodea zuzena bada, argi berdea piztuko da. \n3. Biratu ezkerreko diala atea irekitzeko. \nSartutako digituak ezabatzeko, sakatu "E" tekla (behe-ezkerrean).<page>^\n- Lehen aldiko konfigurazioa -  \n1. Sartu fabrikako kode lehenetsia (204512) kutxa gotorra irekitzeko. \n2. Atea irekita dagoela, sartu ezarri nahi duzun kode berria teklatua erabiliz. \n3. Sakatu eta mantendu sakatuta berrespen-tekla 10 segundoz, argi berdea piztu arte. \n"
      [1726]
       0 LocalizedString LocalizedStrings
        1 string StringID = "DET_Adler"
@@ -25480,7 +25480,7 @@
      [1741]
       0 LocalizedString LocalizedStrings
        1 string StringID = "END_LetterMom"
-       1 string Localized = "<title>Amaren gutuna</title>\nAriane maite-maitea, \nAsko poztu nau hobeto sentitzen zarela jakiteak. Asko arduratu nintzen izebak berriro ospitalean zeundela esan zidanean. Oraindik gogoan dut nola gaixotzen zinen sarri-sarri umetan. Mesedez, ez egin esfortzu handiegirik, ados? \n<page>Bidali zenidan argazkia oso interesgarria da. Benetan bitxia da zuok biok hainbesteko antza izatea. Bikiak dirudizute! Akaso loturaren bat dauka gurekin, baina ez dut Seo abizendun inor ezagutzen familian. Dirudienez, Vinetan atera zen argazkia. \n<page>Laster ekingo diozu zure zerbitzu militarrari, beraz, berea moduko uniforme bat jantziko duzu agian. Bidalidazu argazki bat hala bada! \nMusu bat, \nAma"
+       1 string Localized = "<title>Amaren gutuna</title>\nAriane maite-maitea, \nAsko poztu nau hobeto sentitzen zarela jakiteak. Asko arduratu nintzen izebak berriro ospitalean zeundela esan zidanean. Oraindik gogoan dut nola gaixotzen zinen sarri-sarri umetan. Mesedez, ez egin esfortzu handiegirik, ados? \n<page>Bidali zenidan argazkia oso interesgarria da. Benetan bitxia da zuok biok hainbesteko antza izatea. Bikiak dirudizue! Akaso loturaren bat dauka gurekin, baina ez dut Seo abizendun inor ezagutzen familian. Dirudienez, Vinetan atera zen argazkia. \n<page>Laster ekingo diozu zure zerbitzu militarrari, beraz, berea moduko uniforme bat jantziko duzu agian. Bidalidazu argazki bat hala bada! \nMusu bat, \nAma"
      [1742]
       0 LocalizedString LocalizedStrings
        1 string StringID = "END_Workforce"
@@ -25492,7 +25492,7 @@
      [1744]
       0 LocalizedString LocalizedStrings
        1 string StringID = "EXC_Monowire"
-       1 string Localized = "<title>Monofilamentuzko zuntza</title>\n<align=center>Diametroa: <2nm batez beste \n- Kontuz erabili - \n<style=red>! HERIOTZA ARRISKUA !</style> \nMonozuntzak instantean ebaki ditzake gorputz-adarrak eta tresneria, \nesfortzurik egin gabe! \nErabili BETI babes-jantziak! \nEz ukitu monozuntza ekipamendu babesgarririk gabe! \nOndo argitutako lekuetan soilik erabili!</align>"
+       1 string Localized = "<title>Monofilamentuzko zuntza</title>\n<align=center>Diametroa: <2nm batez beste \n- Kontuz erabili - \n<style=red>! HERIOTZA ARRISKUA !</style> \nMonozuntzak istantean ebaki ditzake gorputz-adarrak eta tresneria, \nesfortzurik egin gabe! \nErabili BETI babes-jantziak! \nEz ukitu monozuntza ekipamendu babesgarririk gabe! \nOndo argitutako lekuetan soilik erabili!</align>"
      [1745]
       0 LocalizedString LocalizedStrings
        1 string StringID = "LAB_N-Warning"
@@ -25548,7 +25548,7 @@
      [1758]
       0 LocalizedString LocalizedStrings
        1 string StringID = "PEN_Instructions"
-       1 string Localized = "<title>Penrose motako ontzietarako eremu-operazioen eskuliburua</title>\nEusan Herriaren Ontzidiko Penrose motako ontziak espazioa arakatzeko kostu baxuko ontziak dira, gure Nazio Handiaren hazkunde etengabeari eusteko helburuz, bizitzeko moduko planeta eta ilargiak edo baliabide naturaletan aberatsak direnak bilatzeko eguzki-sistemaren mugetatik haratago hedatuak. \n<page>Penrose ontzi guztiak Gestalt esplorazio-ofizial batek pilotaturik daude, laguntzailetzat Lurralde-ikuskatzaile/Ontzi teknikari Replika (LSTR) bat dutelarik. Gestalt-Replika kooperaziorako "bikote sistema" honen arrakasta lehenago ere konta ezin ahala esplorazio-operaziotan frogatu da. Elkarren arteko kontrolak eta laguntzak norberaren gaitasun optimoetan lan egitea ahalbidetzen die bai Gestalt ofizialari, bai Replika teknikariari. \n<page>Masa orbitalaren gidari batek ontzia eguzki-sistemaren ertzerantz katapultatu ondoren, pilotuak hegaldiaren ibilbidea pilotuen kabinatik egokitu dezake, Replika ontziaren mantentze mekanikoaz arduratzen den bitartean."
+       1 string Localized = "<title>Penrose motako ontzietarako eremu-operazioen eskuliburua</title>\nEusan Herriaren Ontzidiko Penrose motako ontziak espazioa arakatzeko kostu baxuko ontziak dira, gure Nazio Handiaren hazkunde etengabeari eusteko helburuz, bizitzeko moduko planeta eta ilargiak edo baliabide naturaletan aberatsak direnak bilatzeko eguzki-sistemaren mugetatik haratago hedatuak. \n<page>Penrose ontzi guztiak Gestalt esplorazio-ofizial batek pilotaturik daude, laguntzailetzat Lurralde-ikuskatzaile/Ontzi-teknikari Replika (LSTR) bat dutelarik. Gestalt-Replika kooperaziorako "bikote sistema" honen arrakasta lehenago ere konta ezin ahala esplorazio-operaziotan frogatu da. Elkarren arteko kontrolak eta laguntzak norberaren gaitasun optimoetan lan egitea ahalbidetzen die bai Gestalt ofizialari, bai Replika teknikariari. \n<page>Masa orbitalaren gidari batek ontzia eguzki-sistemaren ertzerantz katapultatu ondoren, pilotuak hegaldiaren ibilbidea pilotuen kabinatik egokitu dezake, Replika ontziaren mantentze mekanikoaz arduratzen den bitartean."
      [1759]
       0 LocalizedString LocalizedStrings
        1 string StringID = "MEM_Cannibal"
@@ -25560,7 +25560,7 @@
      [1761]
       0 LocalizedString LocalizedStrings
        1 string StringID = "END_Briefing_P3"
-       1 string Localized = "<title>Penrose txostena: III. fasea</title>\n--- Transmisio deszifratuaren hasiera --- \nZorionak, Kamarada! 3000 zikloko muga gainditu duzu eta Penrose programaren azken fasera iritsi zara. \nZure Replikaren bizitza funtzionala iristear delarik, misioaren azken faserako prestatzeko unea da. \n<page>Oraindik ez baduzu lurreratzeko egokia den mundurik aurkitu, onartu ez duzula inoiz aurkituko. Kontsola zaitez jakinez zuk huts egin duzunean beste batzuek arrakasta izango dutela. \nZiurrenik jakingo duzunez, zure ontziko ordezko piezak eta errazioak laster agortuko dira. \n<page>Bizitzeko laguntza-sistemak eta erreaktorearen armadura huts egiten hasiko dira gutxi barru, eta baliteke hozte-sisteman erradiazio-ihesak egotea. \nOinazea ez luzatzea gomendatzen dizugu, ez saiatu iragazki zaharrak berrerabiltzen edo baliabideak errazionatzen. \n<page>Egin bakea zure patuarekin. Gomendatzen dizugu, zure Replika oraindik funtzional dagoen bitartean, heriotza motel eta jasanezin batetik libra zaitzala eskatzea, edo kapsula kriogenikoan behin betiko atsedena hartzea. \n<page>Gogoan izan, zure Nazioa zerbitzatuz hilko zara, gure indarraren erakustaldi loriatsu baten parte izanez. \n--- Transmisio deszifratuaren amaiera ---"
+       1 string Localized = "<title>Penrose txostena: III. fasea</title>\n--- Transmisio deszifratuaren hasiera --- \nZorionak, Kamarada! 3000 zikloko muga gainditu duzu eta Penrose programaren azken fasera iritsi zara. \nZure Replikaren bizitza funtzionala amaierara iristear delarik, misioaren azken faserako prestatzeko unea da. \n<page>Oraindik ez baduzu lurreratzeko egokia den mundurik aurkitu, onartu ez duzula inoiz aurkituko. Kontsola zaitez jakinez zuk huts egin duzunean beste batzuek arrakasta izango dutela. \nZiurrenik jakingo duzunez, zure ontziko ordezko piezak eta errazioak laster agortuko dira. \n<page>Bizitzeko laguntza-sistemak eta erreaktorearen armadura huts egiten hasiko dira gutxi barru, eta baliteke hozte-sisteman erradiazio-ihesak egotea. \nOinazea ez luzatzea gomendatzen dizugu, ez saiatu iragazki zaharrak berrerabiltzen edo baliabideak errazionatzen. \n<page>Egin bakea zure patuarekin. Gomendatzen dizugu, zure Replika oraindik funtzional dagoen bitartean, heriotza motel eta jasanezin batetik libra zaitzala eskatzea, edo kapsula kriogenikoan behin betiko atsedena hartzea. \n<page>Gogoan izan, zure Nazioa zerbitzatuz hilko zara, gure indarraren erakustaldi loriatsu baten parte izanez. \n--- Transmisio deszifratuaren amaiera ---"
      [1762]
       0 LocalizedString LocalizedStrings
        1 string StringID = "MEM_Checklist"
@@ -25616,7 +25616,7 @@
      [1775]
       0 LocalizedString LocalizedStrings
        1 string StringID = "RES_AdlerDiarySecret"
-       1 string Localized = "<title>Sagrarioko egunerokoa</title>\nData: 84-21-D \nBeste eguneroko bat hasi dut. Denbora ziztu bizian doa! Lana inoiz baino aspergarriago eta monotonoagoa da Sierpinskin, baina argi distiratsu batek argiztatu du nire eguna: gaur Falke Komandanteak bilera batera gonbidatu nau, eta beti bezain bikain zegoen. \n<page>Data: 84-21-D \nBeste egun bat igaro da. Gaur Komandantearekin izan dudan bileran, bere alboan esertzean, etxekotasun sentsazio bitxia sentitu dut. Zoritxarrez, bat-bateko argindar mozketa batek bilera etenarazi digu. \n<page>Data: 84-21-D \nAzken egunotan bereziki paranoiko sentitu naiz. \nEz dut inoiz egunotan izandakoa bezalako déjà vu sentsazio indartsua eduki. \n<page>Data: 84-21-D \nGaur, egunerokoaren orrialdeak begiratzean, konturatu naiz aurreko egunetako sarreretan gaurko data jarri dudala, nork daki zergatik. Akats lotsagarria benetan. \n<page>Data: 84-21-D \nEgunero iruditzen zait hau lehenago ere bizi izan dudala, eta are indartsuagoa da zerbait lekuz kanpo dagoenaren sentipena. \n<page>Data: 84-21-D \nZergatik dago nire egunerokoa idatzi izana gogoratzen ez ditudan sarreraz betea? Zergatik dute guztiek gaurko data? Ene Komandante maitearen galerak burua galduarazi al dit? Erotzen ari ote naiz? Inork hau deskubritzen badu gertatuko zaidanak ikaratzen nau... Bakar-bakarrik nago orain. Nire oharrak aurkitzen badituzte, erretiratu egingo naute ni ere. \n<page>Data: 84-21-D \nZerbait ez dabil ondo - nabari dezaket. Eromena ote da hau? Nire egunerokoaren orriak irakurtzean inoiz gertatu ez diren uneak gogoratzen ditut.  \nInoiz existitu ez zen 'atzo' bat, baina benetan bizi izan nuena bezain erreala dirudiena.  \nHau ezin da nire buruko defektu hutsa izan. \n<page>Data: 84-21-D \nIruditzen zait gela honetatik errealitatearen beste bertsio bati begiratzen diodala. Nola? Ez dakit. Agian, ni ere besteak bezala gaixotu naiz, oharkabean. Baina ez dut amore emango. \n<page>Data: 84-21-D \nErreprodukzio-erroreen pilaketa motela  -  informazioaren pixkanako galbideratzea  -  gaizki oroitutako istorio bat, kontatzen den bakoitzean poliki eraldatua  -  material genetikoa bezala, mutatzen eta eboluzionatzen  -  Replikaren gogoa bezala, behin eta berriro kopiatua, txantiloi zaharkitu batetik abiatuz? \n<page>Data: 84-21-D \nEz dakit, baina egia aurkituko dut. \n<page>Data: 84-21-D \nErantzunak behe horretan daude. Senti dezaket. \nNorbait edo zerbait ari zait handik deika, meatzetik."
+       1 string Localized = "<title>Sagrarioko egunerokoa</title>\nData: 84-21-D \nBeste eguneroko bat hasi dut. Denbora ziztu bizian doa! Lana inoiz baino aspergarriago eta monotonoagoa da Sierpinskin, baina argi distiratsu batek argiztatu du nire eguna: gaur Falke Komandanteak bilera batera gonbidatu nau, eta beti bezain bikain zegoen. \n<page>Data: 84-21-D \nBeste egun bat igaro da. Gaur Komandantearekin izan dudan bileran, bere alboan esertzean, etxekotasun sentsazio bitxia sentitu dut. Zoritxarrez, bat-bateko argindar mozketa batek bilera etenarazi digu. \n<page>Data: 84-21-D \nAzken egunotan bereziki paranoiko sentitu naiz. \nEz dut inoiz egunotan izandakoa bezalako déjà vu sentsazio indartsua eduki. \n<page>Data: 84-21-D \nGaur, egunerokoaren orrialdeak begiratzean, konturatu naiz aurreko egunetako sarreretan gaurko data jarri dudala, nork daki zergatik. Akats lotsagarria benetan. \n<page>Data: 84-21-D \nEgunero iruditzen zait hau lehenago ere bizi izan dudala, eta are indartsuagoa da zerbait lekuz kanpo dagoenaren sentipena. \n<page>Data: 84-21-D \nZergatik dago nire egunerokoa idatzi izana gogoratzen ez ditudan sarreraz betea? Zergatik dute guztiek gaurko data? Ene Komandante maitearen galerak burua galarazi al dit? Erotzen ari ote naiz? Inork hau deskubritzen badu gertatuko zaidanak ikaratzen nau... Bakar-bakarrik nago orain. Nire oharrak aurkitzen badituzte, erretiratu egingo naute ni ere. \n<page>Data: 84-21-D \nZerbait ez dabil ondo - nabari dezaket. Eromena ote da hau? Nire egunerokoaren orriak irakurtzean inoiz gertatu ez diren uneak gogoratzen ditut.  \nInoiz existitu ez zen 'atzo' bat, baina benetan bizi izan nuena bezain erreala dirudiena.  \nHau ezin da nire buruko defektu hutsa izan. \n<page>Data: 84-21-D \nIruditzen zait gela honetatik errealitatearen beste bertsio bati begiratzen diodala. Nola? Ez dakit. Agian, ni ere besteak bezala gaixotu naiz, oharkabean. Baina ez dut amore emango. \n<page>Data: 84-21-D \nErreprodukzio-erroreen pilaketa motela  -  informazioaren pixkanako galbideratzea  -  gaizki oroitutako istorio bat, kontatzen den bakoitzean poliki eraldatua  -  material genetikoa bezala, mutatzen eta eboluzionatzen  -  Replikaren gogoa bezala, behin eta berriro kopiatua, txantiloi zaharkitu batetik abiatuz? \n<page>Data: 84-21-D \nEz dakit, baina egia aurkituko dut. \n<page>Data: 84-21-D \nErantzunak behe horretan daude. Senti dezaket. \nNorbait edo zerbait ari zait handik deika, meatzetik."
      [1776]
       0 LocalizedString LocalizedStrings
        1 string StringID = "END_AdlerNote"
@@ -25672,11 +25672,11 @@
      [1789]
       0 LocalizedString LocalizedStrings
        1 string StringID = "RES_Report_ARAR"
-       1 string Localized = "<title>Replikaren aipamena: ARAR</title>\n<style=red>Allzweck-Reparatur-Arbeiter Replika</style> \n- 'Ara' - \n(Erabilera anitzeko konponketa-langile Replika, 'Guakamaioa') \nMota: 2. belaunaldiko kostu baxuko erabilera orokorrekoa \nGorputz-egitura: Biomekanikoa; titanioz sendotutako polietilenozko oskola \nGaraiera: 185 cm \n<page>Eraikuntza eta konpontze industriako 'erle langile' gogorrak. \nReplika diseinu goiztiarrenetakoa, Ara soil baina eraginkorra gehien ekoizten den Replika mota da une honetan. Langile unitate indartsu eta astun hauek ezin hobeak dira eraikuntza-lanetarako eta merkantzia industrialaren ekoizpenerako. Gure nazioaren txoko ugaritan Ara unitateek Gestalt langile guztiak ordeztu dituzte, esaterako, Klimaformatze alorrean edo artilleria leherkorraren deuseztean."
+       1 string Localized = "<title>Replikaren aipamena: ARAR</title>\n<style=red>Allzweck-Reparatur-Arbeiter Replika</style> \n- 'Ara' - \n(Erabilera anitzeko konponketa-langile Replika, 'Guakamaioa') \nMota: 2. belaunaldiko kostu baxuko erabilera orokorrekoa \nGorputz-egitura: Biomekanikoa; titanioz sendotutako polietilenozko oskola \nGaraiera: 185 cm \n<page>Eraikuntza eta konpontze industriako 'erle langile' gogorrak. \nReplika diseinu goiztiarrenetakoa, Ara soil baina eraginkorra gehien ekoizten den Replika mota da une honetan. Langile unitate indartsu eta astun hauek ezin hobeak dira eraikuntza-lanetarako eta merkantzia industrialaren ekoizpenerako. Gure nazioaren txoko ugaritan Ara unitateek Gestalt langile guztiak ordeztu dituzte, esaterako, Klimaformatze alorrean edo artilleria leherkorraren deuseztatzean."
      [1790]
       0 LocalizedString LocalizedStrings
        1 string StringID = "RES_Report_EULR"
-       1 string Localized = "<title>Replikaren aipamena: EULR</title>\n<style=red>Einfache Universelle Leichte Replika</style> \n- 'Eule' - \n(Replika arin unibertsal soila, 'Hontza') \nMota: 4. belaunaldiko kostu baxuko erabilera orokorrekoa \nGorputz-egitura: Biomekanikoa; polietilenozko oskola\nGaraiera: 175 cm \n<page>EULR unitateak Eusan nazioko biztanleria aktiboaren oinarria dira.  \nErabilera anitzeko langile unitate dotore hauek etxeko ataza ugaritarako aproposak dira: garbiketa, sukaldaritza, edo osagintza eta bulegoko lan arruntak, esaterako. Euleak biziki lagunkoiak dira eta ondo konpontzen dira bai haien artean, eta baita beste Replika modelo gehienekin ere.\nBorrokarako egokiak ez diren arren, haien gorputz-egitura arinak aukera paregabe bihurtzen ditu baliabide mugatuko urruneko instalazioetarako."
+       1 string Localized = "<title>Replikaren aipamena: EULR</title>\n<style=red>Einfache Universelle Leichte Replika</style> \n- 'Eule' - \n(Replika arin unibertsal soila, 'Hontza') \nMota: 4. belaunaldiko kostu baxuko erabilera orokorrekoa \nGorputz-egitura: Biomekanikoa; polietilenozko oskola\nGaraiera: 175 cm \n<page>EULR unitateak Eusan nazioko biztanleria aktiboaren oinarria dira.  \nErabilera anitzeko langile unitate dotore hauek etxeko ataza ugaritarako aproposak dira: garbiketa, sukaldaritza, edo sendagintza eta bulegoko lan arruntak, esaterako. Euleak biziki lagunkoiak dira eta ondo konpontzen dira bai haien artean, eta baita beste Replika modelo gehienekin ere.\nBorrokarako egokiak ez diren arren, haien gorputz-egitura arinak aukera paregabe bihurtzen ditu baliabide mugatuko urruneko instalazioetarako."
      [1791]
       0 LocalizedString LocalizedStrings
        1 string StringID = "RES_Report_FKLR"
@@ -25684,11 +25684,11 @@
      [1792]
       0 LocalizedString LocalizedStrings
        1 string StringID = "RES_Report_KLBR"
-       1 string Localized = "<title>Replikaren aipamena: KLBR</title>\n<style=red>Kommando-Leiteinheit Bioresonanztechnik-Replika</style> \n- 'Kolibri' - \n(Komandoen kontrolerako bioerresonantzia teknologiadun Replika unitatea, 'Kolibria') \nMota: 6. belaunaldiko goi-teknologiako espezialista bioerresonantea \nGorputz-egitura: Biomekanikoa; polietilenozko oskola eta balen kontrako xafladun armadura \nGaraiera: 152 cm \n<page><align=center>- <style=red>INFORMAZIO KONFIDENTZIALA</style> - Komandanteak soilik ikusteko -</align>\nEgungo teknologiaren miraria da Kolibria, inoiz ekoitzi den unitate bioerresonanterik trebeena. \nProtektor Führungskommando bakoitzeko Falke unitateak beti dauka laguntzen dion KLBR unitateen koadro bat, bere seinale bioerresonanteak anplifika ditzakeena, edo seinale propioak sortu.  \nGorpuzkeraz txikiak izan arren, Kolibriak Protektor unitaterik eraginkorrenetakoak dira. \n<page>Kolibrien bioerresonantzia da benetako 'erlauntza-adimen' batengandik hurbilen dagoen birsorkuntza: gai dira Replika eta Gestalten borondateari zuzenki eragiteko, hitz egin gabe informazioa erauzteko, edo haien artean instantean komunikatzeko. "
+       1 string Localized = "<title>Replikaren aipamena: KLBR</title>\n<style=red>Kommando-Leiteinheit Bioresonanztechnik-Replika</style> \n- 'Kolibri' - \n(Komandoen kontrolerako bioerresonantzia teknologiadun Replika unitatea, 'Kolibria') \nMota: 6. belaunaldiko goi-teknologiako espezialista bioerresonantea \nGorputz-egitura: Biomekanikoa; polietilenozko oskola eta balen kontrako xafladun armadura \nGaraiera: 152 cm \n<page><align=center>- <style=red>INFORMAZIO KONFIDENTZIALA</style> - Komandanteak soilik ikusteko -</align>\nEgungo teknologiaren miraria da Kolibria, inoiz ekoitzi den unitate bioerresonanterik trebeena. \nProtektor Führungskommando bakoitzeko Falke unitateak beti dauka laguntzen dion KLBR unitateen koadro bat, bere seinale bioerresonanteak anplifika ditzakeena, edo seinale propioak sortu.  \nGorpuzkeraz txikiak izan arren, Kolibriak Protektor unitaterik eraginkorrenetakoak dira. \n<page>Kolibrien bioerresonantzia da benetako 'erlauntza-adimen' batengandik hurbilen dagoen birsorkuntza: gai dira Replika eta Gestalten borondateari zuzenki eragiteko, hitz egin gabe informazioa erauzteko, edo haien artean istantean komunikatzeko. "
      [1793]
       0 LocalizedString LocalizedStrings
        1 string StringID = "RES_Report_LSTR"
-       1 string Localized = "<title>Replikaren aipamena: LSTR</title>\n<style=red>Landvermessungs-/Schiff-Techniker Replika</style> \n- 'Elster' - \n(Lurralde-ikuskatzaile/Ontzi teknikari Replika, 'Mika') \nMota: 5. belaunaldiko espezialista kosmo-aitzindaria \nGorputz-egitura: Biomekanikoa; karbono zuntzez sendotutako polietilenozko oskola eta titaniozko hezurdura \nGaraiera: 178 cm \n<page>Batez ere zerbitzu orbitalerako diseinatutako erabilera anitzeko borroka-ingeniari unitatea. \nBakarzale estoiko gogor hauek zulatzaile edo esploratzaile espezialista izateko bereziki prestaturik daude. Haien ezagutza teknikoak eta borrokarako abileziak unitate hauek biziraupenerako ezin hobe bilakatzen ditu, batez ere borroka bizirako konfigurazio zuri-urdin ikonikoa daramatenean, bere balen kontrako xafladun armadurarekin bularra eta besaurreak babesteko. \nUnitate honentzako jatorrizko eredu neuronala Vinetako Artxibo Neuronal zentralaren suntsiketarekin galdu zenez, LSTR unitate berriak Penrose programako unitate erretiratu batean oinarrituz ekoizten dira."
+       1 string Localized = "<title>Replikaren aipamena: LSTR</title>\n<style=red>Landvermessungs-/Schiff-Techniker Replika</style> \n- 'Elster' - \n(Lurralde-ikuskatzaile/Ontzi-teknikari Replika, 'Mika') \nMota: 5. belaunaldiko espezialista kosmo-aitzindaria \nGorputz-egitura: Biomekanikoa; karbono zuntzez sendotutako polietilenozko oskola eta titaniozko hezurdura \nGaraiera: 178 cm \n<page>Batez ere zerbitzu orbitalerako diseinatutako erabilera anitzeko borroka-ingeniari unitatea. \nBakarzale estoiko gogor hauek zulatzaile edo esploratzaile espezialista izateko bereziki prestaturik daude. Haien ezagutza teknikoak eta borrokarako abileziak unitate hauek biziraupenerako ezin hobe bilakatzen ditu, batez ere borroka bizirako konfigurazio zuri-urdin ikonikoa daramatenean, bere balen kontrako xafladun armadurarekin bularra eta besaurreak babesteko. \nUnitate honentzako jatorrizko eredu neuronala Vinetako Artxibo Neuronal zentralaren suntsiketarekin galdu zenez, LSTR unitate berriak Penrose programako unitate erretiratu batean oinarrituz ekoizten dira."
      [1794]
       0 LocalizedString LocalizedStrings
        1 string StringID = "RES_Report_MNHR"
@@ -25720,7 +25720,7 @@
      [1801]
       0 LocalizedString LocalizedStrings
        1 string StringID = "MEM_Replika_Known_Elster"
-       1 string Localized = "<title>Repliken arazo ezagunak, Penrose programa</title>\n<align=center>- <style=red>INFORMAZIO KONFIDENTZIALA</style> - Gestalt ofizialak soilik ikusteko -</align>\nReplika modelo hauekin izandako esperientziari esker hobeto ulertzen ditugu haien jokaerako irregulartasunak, zeinak unitate hauentzako erabilitako jatorrizko eredu neuronaletan duten sorburua. Informazio hau hain kontuzkoa denez, dokumentu hau irakurri ondoren suntsitu behar da. \n<page>LSTR \nElster unitateek duten moldakortasunari eta isolazioan denbora luzez egoteko fidagarritasunari esker aukeratu zituzten Penrose programarako. \nEstoikoak eta isilak direlarik, Elster unitateen eredu neuronalak nahiko egonkorrak dira. Hobe da haiekin ahalik gutxien interaktuatzea, eta bakean uztea. \nElsterren eredu neuronala vinetar jatorriko soldadu bat zenez, oinarrizko beharrak baino ez ditu. Ez hitz egin Elster unitatearekin gerrari buruz. \n<page>Penrose ontziak kalibrazio-kapsula espezializatu bat daukate, pertsonalitatea egonkortzeko egokia. \nGestalt oroitzapenak berpiztea ekiditeko, ez erakutsi edo eman argazkirik Elster unitateari, bereziki gerra garaiko soldaduak azaltzen badira. Ez erakutsi filmik, edo jarri musikarik. Ez saiatu Elster unitatearen lagun egiten."
+       1 string Localized = "<title>Repliken arazo ezagunak, Penrose programa</title>\n<align=center>- <style=red>INFORMAZIO KONFIDENTZIALA</style> - Gestalt ofizialak soilik ikusteko -</align>\nReplika modelo hauekin izandako esperientziari esker hobeto ulertzen ditugu haien jokaerako irregulartasunak, zeinak unitate hauentzako erabilitako jatorrizko eredu neuronaletan duten sorburua. Informazio hau hain kontuzkoa denez, dokumentu hau irakurri ondoren suntsitu behar da. \n<page>LSTR \nElster unitateek duten moldakortasunari eta isolamenduan denbora luzez egoteko fidagarritasunari esker aukeratu zituzten Penrose programarako. \nEstoikoak eta isilak direlarik, Elster unitateen eredu neuronalak nahiko egonkorrak dira. Hobe da haiekin ahalik gutxien interaktuatzea, eta bakean uztea. \nElsterren eredu neuronala vinetar jatorriko soldadu bat zenez, oinarrizko beharrak baino ez ditu. Ez hitz egin Elster unitatearekin gerrari buruz. \n<page>Penrose ontziak kalibrazio-kapsula espezializatu bat daukate, pertsonalitatea egonkortzeko egokia. \nGestalt oroitzapenak berpiztea ekiditeko, ez erakutsi edo eman argazkirik Elster unitateari, bereziki gerra garaiko soldaduak azaltzen badira. Ez erakutsi filmik, edo jarri musikarik. Ez saiatu Elster unitatearen lagun egiten."
      [1802]
       0 LocalizedString LocalizedStrings
        1 string StringID = "ROT_Bioresonance_God"
@@ -25756,7 +25756,7 @@
      [1810]
       0 LocalizedString LocalizedStrings
        1 string StringID = "ROT_TarotHint"
-       1 string Localized = "<title>Ametsen egunerokoa</title>\n6. gaua.\nInperioko nekazari bat nintzela amets egin nuen. \nNire maitalea besarkatu nuen Kitezheko basamortu gorrietan, ekaitz batek deuseztatu gintuenean, \nhondarrak higatu gintuen gure arrastorik txikiena ere ezabatu arte.\n<page>^\n13. gaua. \nLeng-eko meatzeetako langilea nintzen, haragi-masa formagabe batek irentsi ninduenean, \nnire haragia beste hainbatenarekin elkarturik, hezurrak baino gelditu ez ziren arte.\nNire gogoa haragiaren kolektibotasunera batu zen, zeinak heriotza baino harago ere irauten baitu.\n<page>^\n16. gaua.\nZerua ekaitzak hartu zuenean, Vinetako hondatutako etxeorratz batetik erori nintzen, \nbaina ez nintzen azpiko ozeanora inoiz iritsi. Etengabe erortzen jarraitu nuen, \nbat-batean tximista batek eraikina jo, eta esnatu nintzen arte.\n<page>^\n18. gaua. \nRotfronteko izotzaren pean dagoen itsaso eguzkigabean flotatzen nenbilen, \nizaki handi bat nire azpiko iluntasunean zehar mugitzen ikusi nuenean \nilargiaren nukleo ilunean.\n<page>^\n19. gaua.\nSuzko begi bat ikusi nuen Buyaneko lainoen gaineko zeruan. \nJauregi Inperial hegalarian zehar oinez nindoan, \neguzki itxurako irisa ikuste hutsak nire gorputza erraustu zuenean."
+       1 string Localized = "<title>Ametsen egunerokoa</title>\n6. gaua.\nInperioko nekazari bat nintzela amets egin nuen. \nNire maitalea besarkatu nuen Kitezheko basamortu gorrietan, ekaitz batek deuseztatu gintuenean, \nhondarrak higatu gintuen gure arrastorik txikiena ere ezabatu arte.\n<page>^\n13. gaua. \nLeng-eko meatzeetako langilea nintzen, haragi-masa formagabe batek irentsi ninduenean, \nnire haragia beste hainbatenarekin elkarturik, hezurrak baino gelditu ez ziren arte.\nNire gogoa haragiaren kolektibotasunera batu zen, zeinak heriotza baino harago ere irauten baitu.\n<page>^\n16. gaua.\nZerua ekaitzak hartu zuenean, Vinetako hondatutako etxe orratz batetik erori nintzen, \nbaina ez nintzen azpiko ozeanora inoiz iritsi. Etengabe erortzen jarraitu nuen, \nbat-batean tximista batek eraikina jo, eta esnatu nintzen arte.\n<page>^\n18. gaua. \nRotfronteko izotzaren pean dagoen itsaso eguzkigabean flotatzen nenbilen, \nizaki handi bat nire azpiko iluntasunean zehar mugitzen ikusi nuenean \nilargiaren nukleo ilunean.\n<page>^\n19. gaua.\nSuzko begi bat ikusi nuen Buyaneko lainoen gaineko zeruan. \nJauregi Inperial hegalarian zehar oinez nindoan, \neguzki itxurako irisa ikuste hutsak nire gorputza erraustu zuenean."
      [1811]
       0 LocalizedString LocalizedStrings
        1 string StringID = "ROT_WarNews"
