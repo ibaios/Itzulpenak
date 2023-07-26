@@ -29197,7 +29197,7 @@
      [916]
       0 LocalizedString LocalizedStrings
        1 string StringID = "DET_RadioWeatherReport"
-       1 string Localized = "Rotfront eguraldia Tenp 2-6 Ikus 30 Heze 80 Haiz 2-5-20 STOP"
+       1 string Localized = "ROTFRONT EGURALDIA TENP 2-6 IKUS 30 HEZ 80 HAIZ 2-5-20 STOP"
      [917]
       0 LocalizedString LocalizedStrings
        1 string StringID = "DET_RadioPainting"
