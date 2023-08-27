@@ -7,4 +7,4 @@ Jokoari buruzko informazioa: https://ibaios.eus/itzulpenak/papersplease
 
 ---
 
-Euskarazo joko gehiago: https://ibaios.eus/
+Euskarazko joko gehiago: https://ibaios.eus/

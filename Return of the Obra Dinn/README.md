@@ -9,4 +9,4 @@ Deskargatu instalatzailea: https://github.com/ibaios/Itzulpenak/raw/master/Retur
 
 ---
 
-Euskarazo joko gehiago: https://ibaios.eus/
+Euskarazko joko gehiago: https://ibaios.eus/
