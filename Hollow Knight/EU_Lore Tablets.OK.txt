@@ -115,7 +115,7 @@
     <entry name="MOSS_FAT_MOUND_01">...Argia...</entry>
     <entry name="MOSS_FAT_MOUND_02">...Distiratsua...</entry>
     <entry name="MOTH_STATUE">...Oroitu... Argia...</entry>
-    <entry name="MR_MUSH_RIDDLE_TAB_NORMAL">Mezulari Maisuaren bidea dugu predikatzen, aro berri baten hasiera iragarri baitzuen.&lt;br&gt;&lt;page&gt;Beren baitatik sortuek, gogo bakarreko burua,&lt;br&gt;Alboan aurkitzen da ur azidoen sorburua,&lt;br&gt;&lt;page&gt;Argi leunez sakonera bihurritsu ilunean,&lt;br&gt;Uluka dabil haizea, harrizko mailen artean,&lt;br&gt;&lt;page&gt;Monarka-euliak airean paraturik,&lt;br&gt;Sustraien lurrera bidean, barraskiloa isildurik,&lt;br&gt;&lt;page&gt;Wyrm-en bidea zen lur berrietara sartu,&lt;br&gt;Bidaia amaituz, erresumarantz menturatu.&lt;br&gt;</entry>
+    <entry name="MR_MUSH_RIDDLE_TAB_NORMAL">Mezulari Maisuaren bidea dugu predikatzen, aro berri baten hasiera iragarri baitzuen.&lt;br&gt;&lt;page&gt;Beren baitatik sortuek, gogo bakarreko burua,&lt;br&gt;Alboan aurkitzen da ur azidoen sorburua,&lt;br&gt;&lt;page&gt;Argi leunez sakonera bihurritsu ilunean,&lt;br&gt;Uluka dabil haizea, harrizko mailen artean,&lt;br&gt;&lt;page&gt;Monarka-euliak airean paraturik,&lt;br&gt;Sustraiaren lurrera bidean, barraskiloa isildurik,&lt;br&gt;&lt;page&gt;Wyrm-en bidea zen lur berrietara sartu,&lt;br&gt;Bidaia amaituz, erresumarantz menturatu.&lt;br&gt;</entry>
     <entry name="MUMMY_CORPSE_01">...Oso... ilun...</entry>
     <entry name="NAILSMITH_ANCIENT">...Purua...</entry>
     <entry name="PILGRIM_TAB_01">Erromesaren Bidea&lt;br&gt;Sakrabiako bidaiariok, jaitsi basa berdeetan eta onddo-basoetan zehar erresuma honen bihotzean dagoen hirira.&lt;br&gt;Bertan dira zuen gurari guztiak beteko, eta egia guztiak azaleratuko. </entry>

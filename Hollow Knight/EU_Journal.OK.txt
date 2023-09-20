@@ -11,7 +11,7 @@
     <entry name="DESC_BIGBUZZER">Nekoso kolonia bateko patriarka. Kanpotarrei oldartzen zaie eta errefortzuei deika hasten da mehatxupean dagoela ikusten badu.</entry>
     <entry name="DESC_BIG_CENTIPEDE">Aztarrikatzaile erraldoia, xaflazko oskol sendoz estalia. Sakoneko Habiako tunelak zeharkatzen ditu atsedenik hartu gabe.</entry>
     <entry name="DESC_BIG_FAT_FLYER">Erresumaren Ertzeko harpeen inguruan era baketsuan hegan egiten duen izaki otzana.</entry>
-    <entry name="DESC_BIGFLY">Umealdia sabelean garraiatzen duen eular heldua. Bere gorputz erraldoia arerioaren kontra botaz erasotzen du.</entry>
+    <entry name="DESC_BIGFLY">Umealdia sabelean garraiatzen duen eular heldua. Bere gorputz erraldoia arerioaren kontra botaz erasotzen dio.</entry>
     <entry name="DESC_BLACK_KNIGHT">Zaldun Jagole baten oskol baztertua, kutsaturiko euli saldo batek mugiarazia.</entry>
     <entry name="DESC_BLOBBLE">Koliseoan hazia. Borrokarako trebatua izan arren, bere mugimendu eta erasoak oraindik nahiko traketsak dira.</entry>
     <entry name="DESC_BLOB_FLYER">Zomorro hegalari potolo eta motela. Noizbehinka gorputz biribilaren barnean gorderik daukan azidozko likidoa jaurtitzen du.</entry>
@@ -22,7 +22,7 @@
     <entry name="DESC_CEILING_DROPPER">Hego finek oso sabel leherkorra ezkutatzen dute. Bizia emango du bere lurraldea babesteko.</entry>
     <entry name="DESC_CENTIPEDE_HATCHER">Ehizakiak gerturatzen direnean bere gorputzetik haztakariak botatzen dituen izaki hegalaria.</entry>
     <entry name="DESC_CLIMBER">Bere erpe txiki zorroztuak darabiltza horma eta sabaiak eskalatzeko.</entry>
-    <entry name="DESC_COL_FLYINGSENTRY">Burugabeen Koliseoan loria bila borrokatzen duen gudaria. Aurkariaren helmenetik kanpora hegan egiten du, eta gero hiltzeko eraso egiten du.</entry>
+    <entry name="DESC_COL_FLYINGSENTRY">Burugabeen Koliseoan loria bila borrokatzen duen gudaria. Aurkariaren helmenetik kanpora hegan egiten du, eta gero hiltzeko eraso egin.</entry>
     <entry name="DESC_COL_HOPPER">Kaskodun basakusoa, hiltzeko trebatua.</entry>
     <entry name="DESC_COL_MINER">Burugabeen Koliseoan loria bila borrokatzen duen gudaria. Ilargi-erdi formako xaflak darabiltza arerioak zauritzeko.</entry>
     <entry name="DESC_COL_MOSQUITO">Skit zaildua, Burugabeen Koliseoko borroketarako hezia. Bere arbaso basatia baino gogorragoa eta erasokorragoa.</entry>
@@ -35,7 +35,7 @@
     <entry name="DESC_CRYS_LAZER_BUG">Herrestan dabilela, argi izpi kiskalgarriak jariatzen ditu bizkarreko kristalen boterearekin, ia oharkabean.</entry>
     <entry name="DESC_DUNG_DEFENDER">Ubideetako bihotzean bizi den gudari trebea. Gorotz trinkodun pilotak jaurtiz egiten die eraso sarkinei.</entry>
     <entry name="DESC_EGG_SAC">Izaki barea baina usteldua. Hesteetan arrautza ustelak gordetzen ditu.</entry>
-    <entry name="DESC_ELEC_MAGE">Arimen Santutegiko irakaspenak borroka-arte hilgarri bihurtu dituen zomorro jakintsua. Elektrizitate eztanden bidez erasotzen du.</entry>
+    <entry name="DESC_ELEC_MAGE">Arimen Santutegiko irakaspenak borroka-arte hilgarri bihurtu dituen zomorro jakintsua. Elektrizitate eztanden bidez erasotzen die arerioei.</entry>
     <entry name="DESC_FALSEKNIGHT">Indar berezi batek erotuarazitako bizkarroia. Lapurturiko oskol armaduradun baten barruan bizi da.</entry>
     <entry name="DESC_FAT_FLUKE">Trematodo zaharra, hiriburu azpiko hodietan aurkitutako hondakin ugariekin loditua.</entry>
     <entry name="DESC_FINAL_BOSS">Argia, ahaztua.</entry>
@@ -81,15 +81,15 @@
     <entry name="DESC_JELLYFISH">Izaki pasiboa kanpotik, barnean duen muin leherkor eta oldarkorra babesten duela.</entry>
     <entry name="DESC_KIN_SEAL">Antzinako diseinudun zigilua xehetasun korapilatsuekin.&lt;br&gt;&lt;br&gt;Lehen indar boteretsu bat zuen barnean, edo garrantzi handiko zerbait babesten zuen.</entry>
     <entry name="DESC_LAZY_FLYER">Ur azidoen inguruan astiro ibiliz bizitzea gogoko duen izaki baketsua.</entry>
-    <entry name="DESC_LESSER_MAWLEK">Azidoa jaurtiz eta erpeekin sastatuz erasotzen du.</entry>
+    <entry name="DESC_LESSER_MAWLEK">Azidoa jaurtiz eta erpeekin sastatuz erasotzen die arerioei.</entry>
     <entry name="DESC_LOBSTER_LANCER">Burugabeen Koliseoko gudari beteranoa. Trebatu dituen  izakiekin batera egiten du borroka.</entry>
     <entry name="DESC_MAGE_BALLOON">Behinola adimen-gaitasun handiko zomorroa, arimaren erabilera okerragatik puztua.</entry>
     <entry name="DESC_MAGEBLOB">Behinola adimen-gaitasun handiko zomorroa, arimaren erabilera okerragatik desitxuratua.</entry>
     <entry name="DESC_MAGE">Adimen-gaitasun handiko zomorroa, ezkutuko ezagutza darabilena arima bihurrituz aztikeria zitalak sortzeko.</entry>
-    <entry name="DESC_MAGE_KNIGHT">Arma gisa orratz-xafla findu bat daraman zomorro jakintsua. Bildutako arimari esker borrokarako abilezia gehitzen du.</entry>
+    <entry name="DESC_MAGE_KNIGHT">Arma gisa orratz-xafla findu bat daraman zomorro jakintsua. Bildutako arimari esker bere borrokarako abilezia handitzen du.</entry>
     <entry name="DESC_MAGE_LORD">Arimen Santutegiko nagusia. Arima metatu zuen Sakrabiako gaitza uxatzeko ahaleginean, nahiz eta azkenean bere botereak itsuturik amaitu.</entry>
-    <entry name="DESC_MANTIS_FLYER_ADULT">Hostotza artean zelatan egoten da eta urrunetik haizezko segak jaurtiz erasotzen du.</entry>
-    <entry name="DESC_MANTIS_FLYER_CHILD">Tribu harro bateko kidea, bere lurraldea gogorki babesten duena. Orratza bezain zorrotza den eztenarekin ziztatuz eraso egiten du.</entry>
+    <entry name="DESC_MANTIS_FLYER_ADULT">Hostotza artean zelatan egoten da eta urrunetik haizezko segak jaurtiz erasotzen die arerioei.</entry>
+    <entry name="DESC_MANTIS_FLYER_CHILD">Tribu harro bateko kidea, bere lurraldea gogorki babesten duena. Orratza bezain zorrotza den eztenarekin ziztatuz erasoko dizu.</entry>
     <entry name="DESC_MANTIS_HEAVY">Behinola marisorginen tribuko kidea, orain baztertua eta kutsadurak eroarazia.</entry>
     <entry name="DESC_MANTIS_LORD">Marisorginen tribuko buruzagiak, eta bertako gudaririk bikainenak. Ezten-lantza finak darabilzkite eta abiadura bizian egiten dute eraso.</entry>
     <entry name="DESC_MANTIS">Tribu harro bateko kidea, bere lurraldea gogorki babesten duena. Beso zorrotzekin erasoaldi bortitzak egiten ditu.</entry>
@@ -150,7 +150,7 @@
     <entry name="DESC_WORM">Sendoki blindaturiko zomorroa, lurrazpitik ezustean irteten da ehizakia hagin artean harrapatu nahian.</entry>
     <entry name="DESC_ZAP_BUG">Mehatxaturik sentitzean taldeka batzen dira, elektrizitatea sortuz.</entry>
     <entry name="DESC_ZOM_BARGER">Behinola zomorro izandakoaren oskola, indar bitxi batek mugiarazia. Bortizki erasotzen die aurrean jartzen zaizkion kutsatu gabeko izakiei.</entry>
-    <entry name="DESC_ZOM_BEAM_MINER">Behinola zomorro izandakoaren oskola, kristalez inguraturik hila. Indar bitxi batek mugiarazten du eta kristalduriko besoetatik argi-izpiak jaurtiz eraso egiten du.</entry>
+    <entry name="DESC_ZOM_BEAM_MINER">Behinola zomorro izandakoaren oskola, kristalez inguraturik hila. Indar bitxi batek mugiarazten du eta kristalduriko besoetatik argi-izpiak jaurtiz erasoko dizu.</entry>
     <entry name="DESC_ZOM_BURSTING">Izurrite handi batek eroarazia. Etsaien kontra oldartzen da bere osasunari jaramonik egin gabe.</entry>
     <entry name="DESC_ZOM_GUARD">Sakrabiako Bideen Zaindari handia izandakoaren oskola, indar bitxi batek mugiarazia. Senak guardia egitera darama oraindik, sarkinengandik babesteko.</entry>
     <entry name="DESC_ZOM_HIVE">Oskol koldarra, gorputza erlideek kolonizaturik daukana.</entry>

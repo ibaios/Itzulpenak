@@ -202,7 +202,7 @@
     <entry name="KING_ABYSS_FINAL_A">Zuk zigilatuko duzu haien ametsak kutsatzen dituen argi itsugarria.</entry>
     <entry name="KING_ABYSS_FINAL_B">Zeu zara Edukitzailea.</entry>
     <entry name="KING_ABYSS_FINAL_C">Zeu zara Zaldun Hutsa.</entry>
-    <entry name="KING_FINAL_WORDS">...Wyrm-en arima. Erroaren arima. Hutsezko bihotza...</entry>
+    <entry name="KING_FINAL_WORDS">...Wyrm-en arima. Sustraiaren arima. Hutsezko bihotza...</entry>
     <entry name="MR_MUSHROOM_1">...Pozgarria da ikustea adiskideari lagundu ahal izan zeniola. Beraz, dagoeneko ez zara gose?&lt;page&gt;Bai, sake onekoa zara. Zur eta lur utzi nauzu. Baina denok egin behar dugu aurrera lehenago edo geroago.&lt;page&gt;Gauza handiagoetara, beharbada? Izugarri lor daiteke oso denbora gutxian...</entry>
     <entry name="MR_MUSHROOM_2">...Ez zaitez eman zizuten begiaz fidatu. Fida zaitez senak diotsunaz.&lt;page&gt;Usaimen onekoa bazara, erabil ezazu.&lt;page&gt;Eta sekretu bila ehizan zabiltzanean, kontuz zu ehizatu nahian dabiltzanekin!</entry>
     <entry name="MR_MUSHROOM_3">...Hildakoek ezin dute aberastasunik baliatu, inolaz ere. Zer erosiko lukete ba?&lt;page&gt;Bai, halako kumaldi oparoa... jana beharko dute. Eta aterbea. Eta jostailuak.&lt;page&gt;Baten bat zuretzako hartzen baduzu... Tira, uste dut ondo merezia duzula. Bai...</entry>
