@@ -691,7 +691,7 @@ ScrabaniaScar_04 = Buru Handiak esan zidan nire proban asko ikasi nuela.
 ScrabaniaScar_16 = Arrisku gehiago bainituen zain, eskuko orbainak lagunduko ninduela.
 ScrabaniaScar_21 = Eta patuari aurre egiteko, bere botere osoaren beharrean nintzela.
 
-ScrabaniaIntro_04 = Aurrean neukan Scrabania, biluzi eta deuseztua...
+ScrabaniaIntro_04 = Aurrean neukan Scrabania, biluzi eta deuseztatua...
 ScrabaniaIntro_12 = Bertan bizi ohi ziren Scrab-en hezurdurez inguratua.
 ScrabaniaIntro_19 = Orain zatitu, birrindu, eta pastel txiki bihurtuak.
 ScrabaniaIntro_34 = Etekinaren izenean, piztia suntsituak.

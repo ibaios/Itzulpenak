@@ -187,7 +187,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,Toby,They're just trying to get you down.,Hi zirikatzea besterik ez ditek nahi.,Vellie/tobyCheck,127
 ,Toby,"Here, just soak a bit in the hot spring.<nl>That'll make you feel better.","Hator, beratu pixkat ur berotan.<nl>Honek goxatuko hau.",Vellie/tobyCheck,127
 ,Toby,"That's the way, Otus!","Hori duk-eta, Otus!",Vellie/tobyCheck,143
-,Toby,"The hot spring won't make yer' troubles go away, but...","Ur termalak ez ditik arazoak deusezten, baina...",Vellie/tobyCheck,143
+,Toby,"The hot spring won't make yer' troubles go away, but...","Ur termalak ez ditik arazoak deuseztatzen, baina...",Vellie/tobyCheck,143
 ,Toby,...Everything will pass.,...dena konponduko duk.,Vellie/tobyCheck,143
 ,Toby,"And when we're in here, hard<nl>times don't feel quite as bad.","Eta hemen barruan, une<nl>latzenek ez ziruditek horren txarrak.",Vellie/tobyCheck,143
 ,Toby,"Oh, Mandolyn got mugged?","O, Mandolynen etxean lapurtu ditek?",Vellie/tobyCheck,160
@@ -1568,7 +1568,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,penguinBobble,But they didn't!,Baina ez!,Penguins/mesosPenguinAfterSaved,128
 ,penguinBobble,"Thanks to you, guy!","Zuri esker, txo!",Penguins/mesosPenguinAfterSaved,128
 ,penguinBobble,I was just making my merry<nl>way back to Buccanary's!,Buccanarygana bueltako bidean<nl>nindoan pozez kantari!,Penguins/mesosPenguinAfterSaved,141
-,penguinBobble,When those monsters<nl>jumped out and said-,"Munstro hauek agertu direnean<nl>bapatean, esanez-",Penguins/mesosPenguinAfterSaved,141
+,penguinBobble,When those monsters<nl>jumped out and said-,"Munstro hauek agertu direnean<nl>bat-batean, esanez-",Penguins/mesosPenguinAfterSaved,141
 ,penguinBobble,H[1]ey!,E[1]i!,Penguins/mesosPenguinAfterSaved,151
 ,penguinBobble,W[1]e're gonna cut you!,T[1]xiki-txiki egingo zaitugu!,Penguins/mesosPenguinAfterSaved,156
 ,penguinBobble,...and I was like...,...eta nik orduan...,Penguins/mesosPenguinAfterSaved,161
@@ -2734,7 +2734,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,RudeGuy,"Don't tell Twig I said that,<30> the truth hurts the sensitive.","Ez esan Twigi hau esan dudanik,<30> egiak min ematen dio.",Mesos/TwigFamily/rudeGuyCheck,26
 ,RudeGuy,"Oh, you can't speak at all?","O, ezin duzu hitz egin?",Mesos/TwigFamily/rudeGuyCheck,34
 ,RudeGuy,I guess that takes care of the problem!,"Tira, ba orduan ez dago arazorik!",Mesos/TwigFamily/rudeGuyCheck,34
-SadGuy is Twig without his costume,SadGuy,...What are you whispering about over there?,...Zer zabiltzate hor txutxumutxuan?,Mesos/TwigFamily/rudeGuyCheck,42
+SadGuy is Twig without his costume,SadGuy,...What are you whispering about over there?,...Zer zabiltzate hor txutxu-mutxuan?,Mesos/TwigFamily/rudeGuyCheck,42
 ,RudeGuy,"We might look upper class to you,<nl>but times in Mesos are tough!","Baliteke zuri goi klasekoak garela iruditzea,<nl>baina Mesosen garai zailak bizi ditugu!",Mesos/TwigFamily/rudeGuyCheck,55
 ,RudeGuy,There used to be rolling green hills here!,Hemen lehen muino berdeak genituen inguru guztian!,Mesos/TwigFamily/rudeGuyCheck,55
 ,RudeGuy,Now it's a frozen wasteland.,Orain basamortu izoztu bat da.,Mesos/TwigFamily/rudeGuyCheck,55
@@ -3115,7 +3115,7 @@ SadGuy is Twig without his costume,SadGuy,Tsch.,Tstx.,Mesos/TwigFamily/rudeGuyCh
 ,Alphonse,We shall have to find the opening mechanism.,Irekitzeko mekanismoa aurkitu behar dugu.,DungeonPirate/PirateIntro/firstDoor,159
 ,Alphonse,It should be around here somewhere!,Hemen zehar egon behar du nonbait!,DungeonPirate/PirateIntro/firstDoor,167
 ,P1,Intruders?,Sarkinak?,DungeonPirate/PirateIntro/start,45
-,P1,Prepare for annihilation!,Presta zaitezte deuseztuak izateko!,DungeonPirate/PirateIntro/start,45
+,P1,Prepare for annihilation!,Presta zaitezte deuseztatuak izateko!,DungeonPirate/PirateIntro/start,45
 ,Spiderguy,Hi there... friend!,Kaixo... laguna!,DungeonPirate/PirateIntro/start,66
 ,Spiderguy,"We're here to see my buddy, <b>Dirk!<b>",Nire adiskide <b>Dirk<b> bisitatzera etorri gara!,DungeonPirate/PirateIntro/start,78
 ,Spiderguy,So step aside!,"Beraz, kendu paretik!",DungeonPirate/PirateIntro/start,90
@@ -3370,7 +3370,7 @@ SadGuy is Twig without his costume,SadGuy,Tsch.,Tstx.,Mesos/TwigFamily/rudeGuyCh
 ,Alphonse,"I believe we are witnessing<nl><20>the end of the world, my friends.","Uste dut ikusten ari garena<nl><20>munduaren amaiera dela, lagunok.",Dungeon3/Elevator/mainElevatorChase,528
 ,Alphonse,"We ourselves are floating, <20>the<nl>floating continents are rising into space...","Gu airean flotatzen ari gara, <20>eta<nl>kontinente hegalariak espaziorantz goratzen dabiltza...",Dungeon3/Elevator/mainElevatorChase,528
 ,Alphonse,This <20>is the end.,Hau <20>da amaiera.,Dungeon3/Elevator/mainElevatorChase,528
-,Mechanic,It's happening so suddenly...,Hain bapatean ari da gertatzen...,Dungeon3/Elevator/mainElevatorChase,538
+,Mechanic,It's happening so suddenly...,Hain bat-batean ari da gertatzen...,Dungeon3/Elevator/mainElevatorChase,538
 ,Mechanic,What has Solus done up there?!,Zer egin du Solusek hor goian?!,Dungeon3/Elevator/mainElevatorChase,538
 ,Spiderguy,Yeah!,Hori da!,Dungeon3/Elevator/mainElevatorChase,544
 ,Spiderguy,"Whatever Solus is doing up<nl>there, we have to stop him.","Solus hor goian egiten ari dena<nl>edozer dela ere, gelditu beharra dugu.",Dungeon3/Elevator/mainElevatorChase,544
@@ -3714,7 +3714,7 @@ SadGuy is Twig without his costume,SadGuy,Tsch.,Tstx.,Mesos/TwigFamily/rudeGuyCh
 ,Mechanic,"Does it mean anything to you, Alphonse?","Zer ateratzen duzu hortik, Alphonse?",Bonfire/Tropos/adventDestroyed,151
 ,Alphonse,"I have heard of this Noctae, long ago.","Noctae hori lehenago ere entzuna dut, orain dela asko.",Bonfire/Tropos/adventDestroyed,158
 ,Alphonse,I think perhaps I have read the book he speaks of.,Uste dut agian aipatzen duen liburu hori irakurria daukadala.,Bonfire/Tropos/adventDestroyed,158
-,Alphonse,But it's strange... It ends very abruptly.,Baina bitxia da... amaiera bapatekoegia da.,Bonfire/Tropos/adventDestroyed,158
+,Alphonse,But it's strange... It ends very abruptly.,Baina bitxia da... amaiera bat-batekoegia da.,Bonfire/Tropos/adventDestroyed,158
 ,Alphonse,I seem to recall that there was<nl>more about these higher mysteries...,Gogora datorkit misterio handiago hauei<nl>buruz gehiago azaltzen zela liburuan...,Bonfire/Tropos/adventDestroyed,158
 ,Alphonse,I don't remember much about the Relics' origin.,Ez dut oroitzen zein zen Erlikia hauen jatorria.,Bonfire/Tropos/adventDestroyed,194
 ,Alphonse,"I know that they are made by the ancient owls,<nl>and that they contain extraordinary power.","Badakit antzinako hontzek sortu zituztela,<nl>eta izugarrizko boterea daukatela barruan.",Bonfire/Tropos/adventDestroyed,194
@@ -4495,7 +4495,7 @@ Boguin cannon,menu?,launch,jaurti,default.ini,-1
 Boguin cannon,menu?,left,ezkerrera,default.ini,-1
 Boguin cannon,menu?,right,eskuinera,default.ini,-1
 After emerging from the Vellie Cave,Mechanic,Uhh...,Uuu...,Vellie/PirateAttack/startPirateAttack,52
-After emerging from the Vellie Cave,Mechanic,.<10>.<10>.<30>Why is it dark all of a sudden?,.<10>.<10>.<30>Zergatik ilundu du bapatean?,Vellie/PirateAttack/startPirateAttack,62
+After emerging from the Vellie Cave,Mechanic,.<10>.<10>.<30>Why is it dark all of a sudden?,.<10>.<10>.<30>Zergatik ilundu du bat-batean?,Vellie/PirateAttack/startPirateAttack,62
 After emerging from the Vellie Cave,Mechanic,How long were we chasing that jerk?,Zenbat denbora daramagu tentel horren atzetik?,Vellie/PirateAttack/startPirateAttack,66
 After emerging from the Vellie Cave,Mechanic,It should still be morning...,Oraindik goiza izan beharko luke...,Vellie/PirateAttack/startPirateAttack,66
 After emerging from the Vellie Cave,Mechanic,Aaah!<30> What's going on?!,Aaa!<30> Zer ari da gertatzen?!,Vellie/PirateAttack/startPirateAttack,96

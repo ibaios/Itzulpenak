@@ -2294,7 +2294,7 @@ return
 	UBA0135 = "Gorpua miatu dut",
 	UBA0136 = "eta argazki bat aurkitu. \"Xi Hang\" hitzak ditu idatzita atzealdean. Eskutitz bat ere badago.",
 
-	UBA0137 = "Amaieran eskutitza irakurrezina bihurtzen da. Zenbait zati baino ezin dira irakurri.",
+	UBA0137 = "Amaieran eskutitza irakurtezina bihurtzen da. Zenbait zati baino ezin dira irakurri.",
 	UBA0138 = "Gizonak \"Ten.. Zald...\" izeneko zerbaiti buruz idazten du. Tenplarioei buruz ari da? Ez du zentzurik.",
 	UBA0139 = "Zer zerikusi dute printze txinatar batek eta tenplarioek?",
 
@@ -2444,7 +2444,7 @@ return
 	BAR0032 = "Eta maite ditut tenplarioak. Nire bigarren hobbya dira, nolabait esateko.",
 	BAR0033 = "Bai, esan daiteke nireak ere baietz. Esaidazu zerbait haiei buruz.",
 	BAR0034 = "",
-	BAR0035 = "Erdi Aroko zaldunen ordena bat zen, \"Filipe Ederra\"k deuseztu zuena.",
+	BAR0035 = "Erdi Aroko zaldunen ordena bat zen, \"Filipe Ederra\"k deuseztatu zuena.",
 	BAR0036 = "Hiru aste barru tenplarioei buruzko erakusketa bat egongo da Parisen. Ezin dut galdu, emaztea mokoka hasiko bazait ere.",
 	BAR0037 = "Harrituta nago.",
 
@@ -2468,7 +2468,7 @@ return
 	BAR0053 = "Zigilu hori benetakoa dela uste duzu?",
 	BAR0054 = "Bai ba. Ez dut zalantzarik.",
 	BAR0055 = "Eta zer esan nahi du horrek?",
-	BAR0056 = "Ezer ez! Ez dut uste zigiluak inolako garrantziarik duenik.",
+	BAR0056 = "Ezer ez! Ez dut uste zigiluak inolako garrantzirik duenik.",
 	BAR0058 = "Jacques de Molayk bere atzetik zebiltzanak eta arerioak beldurtu nahi zituen, hil aurretik - oso heriotz ez-naturalez, gainera -",
 	BAR0059 = "baina isekak eta trufak baino ez zituen lortu.",
 
@@ -2493,7 +2493,7 @@ return
 	BAR0076 = "Ez dut esertzeko beharrik.",
 	BAR0077 = "Aulki gorriak. Ez dirudite oso erosoak.",
 
-	BAR0078 = "Ez, milesker, \"deuseztu zure birikak\" erako drogek ez naute erakartzen.",
+	BAR0078 = "Ez, milesker, \"deuseztatu zure birikak\" erako drogek ez naute erakartzen.",
 	BAR0079 = "Hautsontzi bat da. Oso zaharra eta erabilia dirudi.",
 
 	BAR0080 = "Ez, milesker.",

@@ -452,7 +452,7 @@ ERA!"
 "news:IMPOR_SANCTIONS_START","Impor Begins Trade Sanctions!","Imporrek trukerako zigorrak jarri ditu"
 "news:IMPOR_SANCTIONS_START","Immediately Restricts All Imports From Arstotzka","Arstotzkako inportazio guztiak geldiarazi ditu"
 "news:IMPOR_SANCTIONS_END","Impor Sanctions End!","Imporren zigorren amaiera!"
-"news:IMPOR_SANCTIONS_END","Over So Fast? What Happened?","Bapateko amaiera? Zer gertatu da?"
+"news:IMPOR_SANCTIONS_END","Over So Fast? What Happened?","Bat-bateko amaiera? Zer gertatu da?"
 "news:SURGERY_SETUP","Breakthrough Spinal Surgery Perfected","Aurrerapena bizkarrezurreko kirurgia hobetzean"
 "news:SURGERY_SETUP","Only Possible With Arstotzkan Expertise","Arstotzkako ezagutzak funtsezkoak izan dira"
 "news:VIRUS_PRIMER","Polio Resurfaces In United Fed","Polioa berragertu da Federazio Batuan"
@@ -637,7 +637,7 @@ $tokens tokens, apartment $apt","$day. eguna
 ""$news""
 
 $savings kreditu, $family senide zurekin,
-$tokens token, $apt apartmentua"
+$tokens token, $apt apartamentua"
 "text:load_continue","CONTINUE","JARRAITU"
 "text:emotion_happy","HAPPY","POZIK"
 "text:emotion_ok","OK","ONGI"
