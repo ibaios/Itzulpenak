@@ -1,6 +1,6 @@
 #define MyAppName "Nine Sols Demo euskaraz"
 #define MyAppFilesystemName "Nine Sols Demo euskaraz"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.1"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppURL "https://ibaios.eus/"
 #define MyAppIcon "nine-sols-demo-eu.ico"

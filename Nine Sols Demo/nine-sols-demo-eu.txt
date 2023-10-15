@@ -753,7 +753,7 @@
         [7]
          1 string data = "Mittel"
         [8]
-         1 string data = "Erantsi/Detonatu kutuna"
+         1 string data = "Itsatsi/Detonatu kutuna"
         [9]
          1 string data = "Médio"
         [10]
@@ -19278,7 +19278,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Indar-arintzea"
         [9]
          1 string data = ""
         [10]
@@ -19343,7 +19343,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Gutxitu jasotako mina %10ean"
         [9]
          1 string data = ""
         [10]
@@ -19408,7 +19408,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Urrezko ezkutua"
         [9]
          1 string data = ""
         [10]
@@ -19473,7 +19473,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Hobetu defentsa min gutxiago hartzeko"
         [9]
          1 string data = ""
         [10]
@@ -19603,7 +19603,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Handitu 'chi' leherketekin eragindako kaltea"
         [9]
          1 string data = ""
         [10]
@@ -19733,7 +19733,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "'Chi' leherketak eragin berriekin: barne-zauriak sendatzea"
         [9]
          1 string data = ""
         [10]
@@ -19798,7 +19798,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "'Chi' arnas sendatzailea"
         [9]
          1 string data = ""
         [10]
@@ -19863,7 +19863,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Handitu oldartze-erasoak egitean eragindako kaltea"
         [9]
          1 string data = ""
         [10]
@@ -19928,7 +19928,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "'Foo' ahurra"
         [9]
          1 string data = ""
         [10]
@@ -19993,7 +19993,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Etsaiak 'chi' leherketez hiltzean osasun pixka bat berreskuratu"
         [9]
          1 string data = ""
         [10]
@@ -20058,7 +20058,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Kutun sendatzaileak"
         [9]
          1 string data = ""
         [10]
@@ -20123,7 +20123,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Handitu zure gehienezko 'chi' energia"
         [9]
          1 string data = ""
         [10]
@@ -20188,7 +20188,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Indarberritzea"
         [9]
          1 string data = ""
         [10]
@@ -20253,7 +20253,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Lortu botere igoera desbideratze bat zuzen burutzean"
         [9]
          1 string data = ""
         [10]
@@ -20383,7 +20383,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Handitu desbideratze zuzenekin eragindako albo-kaltea"
         [9]
          1 string data = ""
         [10]
@@ -20448,7 +20448,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Kontraerasoa"
         [9]
          1 string data = ""
         [10]
@@ -20513,7 +20513,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Sendatu barne-zauriak pipa erabiltzean"
         [9]
          1 string data = ""
         [10]
@@ -20578,7 +20578,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Osasun-elixirra"
         [9]
          1 string data = ""
         [10]
@@ -20643,7 +20643,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Handitu 'zhu' partikulak biltzeko abiadura"
         [9]
          1 string data = ""
         [10]
@@ -20708,7 +20708,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Kristaltzea"
         [9]
          1 string data = ""
         [10]
@@ -20773,7 +20773,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Handitu gehienezko 'zhu' partikuladun gezien kopurua"
         [9]
          1 string data = ""
         [10]
@@ -20838,7 +20838,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "'Zhu' partikulen igoera"
         [9]
          1 string data = ""
         [10]
@@ -20903,7 +20903,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Gutxitu oldartze-erasoen arteko atsedenaldia"
         [9]
          1 string data = ""
         [10]
@@ -20968,7 +20968,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Iratxo-oinak"
         [9]
          1 string data = ""
         [10]
@@ -21033,7 +21033,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = ""
+         1 string data = "Zauri hilgarria jasotzean, aldi bakarrean heriotzari ihes egiteko aukera"
         [9]
          1 string data = ""
         [10]
@@ -21098,7 +21098,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = "Bederatzi Bizitza"
+         1 string data = "Bederatzi bizitza"
         [9]
          1 string data = ""
         [10]
@@ -30133,7 +30133,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = " 'foo' kutuna eransteko"
+         1 string data = " 'foo' kutuna itsasteko"
         [9]
          1 string data = ""
         [10]
@@ -30198,7 +30198,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = " etsaiari 'foo' kutuna eransteko"
+         1 string data = " etsaiari 'foo' kutuna itsasteko"
         [9]
          1 string data = ""
         [10]
@@ -30523,7 +30523,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = "Erantsi ondoren, mantendu sakatuta "
+         1 string data = "Itsatsi ondoren, mantendu sakatuta "
         [9]
          1 string data = ""
         [10]
@@ -36633,7 +36633,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = "Erantsi 'foo' kutuna eta MANTENDU sakatuta bildutako 'chi'a xurgatu eta detonatzeko, min asko eraginez"
+         1 string data = "Itsatsi 'foo' kutuna eta MANTENDU sakatuta bildutako 'chi'a xurgatu eta detonatzeko, min asko eraginez"
         [9]
          1 string data = ""
         [10]
@@ -37088,7 +37088,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = "Tximinidoen prozesatze-instalazioa (garraio pasabidea)"
+         1 string data = "Tximinidoen prozesatze-instalazioa\n(garraio pasabidea)"
         [9]
          1 string data = ""
         [10]
@@ -37153,7 +37153,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = "Tximinidoen prozesatze-instalazioa (igogailu-estazioa)"
+         1 string data = "Tximinidoen prozesatze-instalazioa\n(igogailu-estazioa)"
         [9]
          1 string data = ""
         [10]
@@ -37218,7 +37218,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = "Tximinidoen prozesatze-instalazioa (sakoneko eremua)"
+         1 string data = "Tximinidoen prozesatze-instalazioa\n(sakoneko eremua)"
         [9]
          1 string data = ""
         [10]
@@ -38388,7 +38388,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = "Giza-gorputzaren tratamendu-eremua"
+         1 string data = "Giza-gorputzaren tratamendu instalazioa"
         [9]
          1 string data = ""
         [10]
@@ -38778,7 +38778,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = "Giza-gorputzaren tratamendu-instalazioa"
+         1 string data = "Giza-gorputzaren tratamendu instalazioa"
         [9]
          1 string data = ""
         [10]
