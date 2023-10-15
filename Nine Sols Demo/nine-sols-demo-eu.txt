@@ -27663,7 +27663,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = "Gizakien prozesatze-instalazio berezia.\n\nPenglai Berriko umatze-instalazioetan sarri biltzen eta kultibatzen dituzte gizakiak.\nProzesu honek automatikoki funtzionatu du ehunka urtetan zehar."
+         1 string data = "Tximinidoen prozesatze-instalazio berezia.\n\nPenglai Berriko umatze-instalazioetan sarri biltzen eta kultibatzen dituzte tximinidoak.\nProzesu honek automatikoki funtzionatu du ehunka urtetan zehar."
         [9]
          1 string data = ""
         [10]
