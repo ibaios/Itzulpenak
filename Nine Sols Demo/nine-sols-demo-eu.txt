@@ -26233,7 +26233,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = "Gako-ojektuak"
+         1 string data = "Gako-objektuak"
         [9]
          1 string data = ""
         [10]
@@ -38388,7 +38388,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = "Giza-gorputzaren tratamendu instalazioa"
+         1 string data = "Tximinidoen prozesatze-instalazioa"
         [9]
          1 string data = ""
         [10]
@@ -38778,7 +38778,7 @@
         [7]
          1 string data = ""
         [8]
-         1 string data = "Giza-gorputzaren tratamendu instalazioa"
+         1 string data = "Tximinidoen prozesatze-instalazioa"
         [9]
          1 string data = ""
         [10]
