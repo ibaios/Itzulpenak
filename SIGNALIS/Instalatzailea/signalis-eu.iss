@@ -1,6 +1,6 @@
 #define MyAppName "SIGNALIS euskaraz"
 #define MyAppFilesystemName "SIGNALIS euskaraz"
-#define MyAppVersion "1.3"
+#define MyAppVersion "1.4"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppURL "https://ibaios.eus/"
 #define MyAppIcon "signalis-eu.ico"
