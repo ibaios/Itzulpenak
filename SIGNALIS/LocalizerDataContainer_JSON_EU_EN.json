@@ -4767,7 +4767,7 @@
             },
             {
               "StringID": "LOV_Star_NPC1",
-              "Localized": "[STAR] Konpontze-adabakiak nire odol-jarioa eteten duen bezain laster alde egingo dut hemendik.\n[STAR] Zuk ere hemendik atera behar zenuke.\n[STAR] Ez dakit nor den emakume hori, baina seguruenik honezkero hilda egongo da.\n[STAR] Halere joan nahi baduzu, zorte on."
+              "Localized": "[STAR] Konpontze-adabakiak nire odoljarioa eteten duen bezain laster alde egingo dut hemendik.\n[STAR] Zuk ere hemendik atera behar zenuke.\n[STAR] Ez dakit nor den emakume hori, baina seguruenik honezkero hilda egongo da.\n[STAR] Halere joan nahi baduzu, zorte on."
             },
             {
               "StringID": "LOV_Star_NPC2",
@@ -4779,7 +4779,7 @@
             },
             {
               "StringID": "LOV_Star_NPC4",
-              "Localized": "[STAR] Konpontze-adabakiak nire odol-jarioa eteten duen bezain laster alde egingo dut hemendik."
+              "Localized": "[STAR] Konpontze-adabakiak nire odoljarioa eteten duen bezain laster alde egingo dut hemendik."
             },
             {
               "StringID": "DET_Isa_1",
@@ -5727,7 +5727,7 @@
             },
             {
               "StringID": "RES_School_Blackboard",
-              "Localized": "[Isa] Hutsik dago. Euleak beti ezabatzen du nik apunteak hartzeko astia izan aurretik, eta Erikarenak \nkopiatu behar izaten ditut.\n[Isa] Eskerrak gela berean gaudela, horrek irakasleak nahasten baditu ere."
+              "Localized": "[Isa] Hutsik dago. Euleak beti ezabatzen du nik apunteak hartu ahal izan aurretik, \n[Isa] eta Erikarenak kopiatu behar izaten ditut.\n[Isa] Eskerrak gela berean gaudela, horrek irakasleak nahasten baditu ere."
             },
             {
               "StringID": "RES_School_Leaders",
