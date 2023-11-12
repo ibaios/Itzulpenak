@@ -1824,7 +1824,7 @@ return
 	FLY0018 = "Onartu beharrean nago nire bizitza ongi ikertu duzula.",
 	FLY0019 = "Milesker!",
 
-	FLY0021 = "Beraz, gustora hartuko zaitut nire etxean bertan, nahi duzunean.",
+	FLY0021 = "Beraz, gustura hartuko zaitut nire etxean bertan, nahi duzunean.",
 	FLY0022 = "Agian gehiegi eskatzea da, baina zer deritzozu elkarrizketa gaur bertan grabatzeari?",
 	FLY0023 = "Gaur? Telebistako jendeok ez duzue segundorik ere galtzen, ezta?",
 	FLY0024 = "Esaldi horrek deskribatzen gaitu.",
