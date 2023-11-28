@@ -5623,7 +5623,7 @@
             },
             {
               "StringID": "DET_RadioPainting",
-              "Localized": "Kostalde lasai bat irudikatzen duen margoa.\nUste dut margo hau lehenago ere ikusia dudala…"
+              "Localized": "Kostalde lasai bat irudikatzen duen margolana.\nUste dut koadro hau lehenago ere ikusia dudala…"
             },
             {
               "StringID": "DET_RadioPainting2",
@@ -5799,11 +5799,11 @@
             },
             {
               "StringID": "RES_PaintingHint",
-              "Localized": "Margoan <style=red>sarraila-zulo</style> bat dago."
+              "Localized": "Margolanean <style=red>sarraila-zulo</style> bat dago."
             },
             {
               "StringID": "RES_PaintingObs",
-              "Localized": "Uharte bitxi baten margoa. Nolabait ezaguna egiten zait."
+              "Localized": "Uharte bitxi baten margolana. Nolabait ezaguna egiten zait."
             },
             {
               "StringID": "RES_WorkshopHint",
@@ -6383,7 +6383,7 @@
             },
             {
               "StringID": "END_Paintings",
-              "Localized": "Beste margo bat amaitu gabe. Ez genuen inoiz astirik."
+              "Localized": "Beste margolan bat amaitu gabe. Ez genuen inoiz astirik."
             },
             {
               "StringID": "END_Reaktor",
@@ -7203,7 +7203,7 @@
             },
             {
               "StringID": "FlareGunAmmo Inspect",
-              "Localized": "26,5x80mm-ko bengalak. Helburu bigunetan barneratzeko besteko indarrez kolpatzen du. Repliken armadura urtzeko eta etsaiak errausteko besteko beroz erretzen du."
+              "Localized": "26,5x80mm-ko bengalak. Helburu bigunetan barneratzeko besteko indarrez kolpatzen dute. Repliken armadura urtzeko eta etsaiak errausteko besteko beroz erretzen dute."
             },
             {
               "StringID": "FlakGunAmmo",
@@ -7219,7 +7219,7 @@
             },
             {
               "StringID": "FlakGunAmmo Inspect",
-              "Localized": "26,5x100mm-ko granada-kartutxo oso lehergarriak.\nTalka egitean berehala lehertzen da, inguruan den ia edonor hil edo ezgaituz. Ez da gomendatzen gertura tirokatzea.\n"
+              "Localized": "26,5x100mm-ko granada-kartutxo oso lehergarriak.\nTalka egitean berehala lehertzen dira, inguruan den ia edonor hil edo ezgaituz. Ez da gomendatzen gertura tirokatzea.\n"
             },
             {
               "StringID": "FlakGun",
@@ -7431,7 +7431,7 @@
             },
             {
               "StringID": "RevolverAmmo Inspect",
-              "Localized": "Inperio Zaharrean ekoitzitako 12x40mm-ko punta hutseko balak. Talka egitean deformatu eta apurtzen da, inpaktu-potentzia izugarria lortuz."
+              "Localized": "Inperio Zaharrean ekoitzitako 12x40mm-ko punta hutseko balak. Talka egitean deformatu eta apurtzen dira, inpaktu-potentzia izugarria lortuz."
             },
             {
               "StringID": "Rifle",
@@ -9087,7 +9087,7 @@
             },
             {
               "StringID": "LAB_Radio_Painting",
-              "Localized": "Margoa hondatua dago, ezagutezina da. \nMarkoko plakak \"Metamorfosia\" dio."
+              "Localized": "Margolana hondatua dago, ezagutezina da. \nMarkoko plakak \"Metamorfosia\" dio."
             },
             {
               "StringID": "ROT_Rations_Obs",
@@ -9127,7 +9127,7 @@
             },
             {
               "StringID": "LAB_Empress_Face",
-              "Localized": "Txanodun emakume baten margoa. Bere esku zainduekin aurpegia estaltzen du."
+              "Localized": "Txanodun emakume baten margolana. Bere esku zainduekin aurpegia estaltzen du."
             },
             {
               "StringID": "ROT_Mural_Necker",
