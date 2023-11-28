@@ -1,5 +1,7 @@
 #!/bin/bash
 
+itzultool_filename=itzultool-0.3-linux-x64
+
 echo "Hollow Knight euskaraz - Instalatzen..."
 
 # Aukeratu gainidatziko den hizkuntza
@@ -42,24 +44,15 @@ cd hollow-knight-eu-instalazioa
 
 echo "UABE Avalonia deskargatzen..."
 
-# Deskargatu UABE Avalonia
-wget https://github.com/nesrak1/UABEA/releases/download/v4/uabea_rel4_ubuntu_x64.zip
+echo "ItzulTool deskargatzen..."
+
+# Deskargatu ItzulTool
+wget https://github.com/ibaios/itzultool/releases/download/v0.3/"$itzultool_filename"
+
+chmod +x ./"$itzultool_filename"
 
 echo "Deskargatuta."
-echo "UABE Avalonia erauzten..."
 
-# Erauzi
-unzip uabea_rel4_ubuntu_x64.zip -d uabea
-
-echo "Erauzita."
-echo ".Net 5.0 frameworka instalatzen..."
-
-# .Net 5.0 instalatu
-wget https://dot.net/v1/dotnet-install.sh
-chmod +x ./dotnet-install.sh
-./dotnet-install.sh --runtime dotnet --version 5.0.0
-
-echo "Instalatuta."
 echo "EMIP itzulpen-fitxategia deskargatzen..."
 
 # Deskargatu EMIP fitxategia
@@ -69,7 +62,7 @@ echo "Deskargatuta."
 echo "Itzulpena aplikatzen..."
 
 # Aplikatu itzulpena
-export DOTNET_ROOT=~/.dotnet/ && uabea/net5.0/UABEAvalonia applyemip hollow-knight-eu-$locale.emip "$path"
+./"$itzultool_filename" applyemip hollow-knight-eu-$locale.emip "$path"
 
 echo "Aplikatuta."
 echo "Instalazioko fitxategiak ezabatzen..."
