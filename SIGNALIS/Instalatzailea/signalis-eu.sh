@@ -1,6 +1,7 @@
 #!/bin/bash
 
-itzultool_filename=itzultool-0.3-linux-x64
+itzultool_version=0.4
+itzultool_filename=itzultool-"$itzultool_version"-linux-x64
 
 echo "SIGNALIS euskaraz - Instalatzen..."
 
@@ -77,7 +78,7 @@ cd signalis-eu-instalazioa
 echo "ItzulTool deskargatzen..."
 
 # Deskargatu ItzulTool
-wget https://github.com/ibaios/itzultool/releases/download/v0.3/"$itzultool_filename"
+wget https://github.com/ibaios/itzultool/releases/download/v"$itzultool_version"/"$itzultool_filename"
 
 chmod +x ./"$itzultool_filename"
 

@@ -37,20 +37,20 @@ Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 
 
 [Files]
-Source: "..\..\..\itzultool\bin\release\net6.0\win-x64\publish\itzultool-0.3-win-x64.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\..\..\itzultool\bin\release\net6.0\win-x64\publish\itzultool-0.4-win-x64.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "signalis-eu-es.emip"; DestDir: "{app}"; Flags: ignoreversion
 Source: "signalis-eu-fr.emip"; DestDir: "{app}"; Flags: ignoreversion
 
 [Run]
-Filename: "{app}\itzultool-0.3-win-x64.exe"; Parameters: "decompress ""{code:GetSelectedGameDataDir}\data.unity3d"""
-Filename: "{app}\itzultool-0.3-win-x64.exe"; Parameters: "extractassets ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" resources.assets"
-Filename: "{app}\itzultool-0.3-win-x64.exe"; Parameters: "applyemip ""{app}\{code:GetSelectedEmip}"" ""{code:GetSelectedGameDataDir}"""
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "decompress ""{code:GetSelectedGameDataDir}\data.unity3d"""
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "extractassets ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" resources.assets"
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "applyemip ""{app}\{code:GetSelectedEmip}"" ""{code:GetSelectedGameDataDir}"""
 Filename: "{cmd}"; Parameters: "/C del /f  ""{code:GetSelectedGameDataDir}\resources.assets.bak0000"""
-Filename: "{app}\itzultool-0.3-win-x64.exe"; Parameters: "replaceassets ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" ""{code:GetSelectedGameDataDir}\resources.assets"""
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "replaceassets ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" ""{code:GetSelectedGameDataDir}\resources.assets"""
 Filename: "{cmd}"; Parameters: "/C del  ""{code:GetSelectedGameDataDir}\resources.assets"""
 Filename: "{cmd}"; Parameters: "/C move  ""{code:GetSelectedGameDataDir}\data.unity3d"" ""{code:GetSelectedGameDataDir}\data.unity3d.bak"""; Check: KeepOriginalBundleChecked
 Filename: "{cmd}"; Parameters: "/C del  ""{code:GetSelectedGameDataDir}\data.unity3d"""; Check: Not KeepOriginalBundleChecked
-Filename: "{app}\itzultool-0.3-win-x64.exe"; Parameters: "compress ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" ""{code:GetSelectedGameDataDir}\data.unity3d"""; Check: CompressBundleChecked
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "compress ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" ""{code:GetSelectedGameDataDir}\data.unity3d"""; Check: CompressBundleChecked
 Filename: "{cmd}"; Parameters: "/C del  ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"""; Check: CompressBundleChecked
 Filename: "{cmd}"; Parameters: "/C move  ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" ""{code:GetSelectedGameDataDir}\data.unity3d"""; Check: Not CompressBundleChecked
 

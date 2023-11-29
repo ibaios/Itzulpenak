@@ -36,12 +36,12 @@ SetupLogging=yes
 Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 
 [Files]
-Source: "..\..\..\itzultool\bin\release\net6.0\win-x64\publish\itzultool-0.3-win-x64.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\..\..\itzultool\bin\release\net6.0\win-x64\publish\itzultool-0.4-win-x64.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "hollow-knight-eu-es.emip"; DestDir: "{app}"; Flags: ignoreversion
 Source: "hollow-knight-eu-fr.emip"; DestDir: "{app}"; Flags: ignoreversion
 
 [Run]
-Filename: "{app}\itzultool-0.3-win-x64.exe"; Parameters: "applyemip ""{app}\{code:GetSelectedEmip}"" ""{code:GetSelectedGameDataDir}"""
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "applyemip ""{app}\{code:GetSelectedEmip}"" ""{code:GetSelectedGameDataDir}"""
 
 [Code]
 var
