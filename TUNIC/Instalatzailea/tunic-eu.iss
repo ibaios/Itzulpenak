@@ -1,6 +1,6 @@
 #define MyAppName "TUNIC euskaraz"
 #define MyAppFilesystemName "TUNIC euskaraz"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.0.1"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppURL "https://ibaios.eus/"
 #define MyAppIcon "tunic-eu.ico"
@@ -30,26 +30,26 @@ Compression=lzma
 SolidCompression=yes
 WizardSizePercent=150
 WizardStyle=modern
+SetupLogging=yes
   
 [Languages]
 Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 
 [Files]
-Source: "..\..\..\itzultool\bin\release\net6.0\win-x64\publish\itzultool-0.3-win-x64.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\..\..\itzultool\bin\release\net6.0\win-x64\publish\itzultool-0.4-win-x64.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "tunic-eu-es.emip"; DestDir: "{app}"; Flags: ignoreversion
 Source: "tunic-eu-fr.emip"; DestDir: "{app}"; Flags: ignoreversion
 
 [Run]
-Filename: "powershell.exe";  Parameters: "&powershell -ExecutionPolicy Bypass -File {tmp}\dotnet-install.ps1 -Runtime dotnet -Version 6.0.0 -InstallDir {tmp}\.dotnet"; WorkingDir: {tmp}; Flags: runhidden
-Filename: "{cmd}"; Parameters: "/C set DOTNET_ROOT={tmp}\.dotnet & ""{app}\itzultool-0.3-win-x64.exe"" decompress ""{code:GetSelectedGameDataDir}\data.unity3d"""
-Filename: "{cmd}"; Parameters: "/C set DOTNET_ROOT={tmp}\.dotnet & ""{app}\itzultool-0.3-win-x64.exe"" extractassets ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" resources.assets"
-Filename: "{cmd}"; Parameters: "/C set DOTNET_ROOT={tmp}\.dotnet & ""{app}\itzultool-0.3-win-x64.exe"" applyemip ""{app}\{code:GetSelectedEmip}"" ""{code:GetSelectedGameDataDir}"""
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "decompress ""{code:GetSelectedGameDataDir}\data.unity3d"""
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "extractassets ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" resources.assets"
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "applyemip ""{app}\{code:GetSelectedEmip}"" ""{code:GetSelectedGameDataDir}"""
 Filename: "{cmd}"; Parameters: "/C del /f  ""{code:GetSelectedGameDataDir}\resources.assets.bak0000"""
-Filename: "{cmd}"; Parameters: "/C set DOTNET_ROOT={tmp}\.dotnet & ""{app}\itzultool-0.3-win-x64.exe"" replaceassets ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" ""{code:GetSelectedGameDataDir}\resources.assets"""
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "replaceassets ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" ""{code:GetSelectedGameDataDir}\resources.assets"""
 Filename: "{cmd}"; Parameters: "/C del  ""{code:GetSelectedGameDataDir}\resources.assets"""
 Filename: "{cmd}"; Parameters: "/C move  ""{code:GetSelectedGameDataDir}\data.unity3d"" ""{code:GetSelectedGameDataDir}\data.unity3d.bak"""; Check: KeepOriginalBundleChecked
 Filename: "{cmd}"; Parameters: "/C del  ""{code:GetSelectedGameDataDir}\data.unity3d"""; Check: Not KeepOriginalBundleChecked
-Filename: "{cmd}"; Parameters: "/C set DOTNET_ROOT={tmp}\.dotnet & ""{app}\itzultool-0.3-win-x64.exe"" compress ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" ""{code:GetSelectedGameDataDir}\data.unity3d"""; Check: CompressBundleChecked
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "compress ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" ""{code:GetSelectedGameDataDir}\data.unity3d"""; Check: CompressBundleChecked
 Filename: "{cmd}"; Parameters: "/C del  ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"""; Check: CompressBundleChecked
 Filename: "{cmd}"; Parameters: "/C move  ""{code:GetSelectedGameDataDir}\data.unity3d.decomp"" ""{code:GetSelectedGameDataDir}\data.unity3d"""; Check: Not CompressBundleChecked
 
@@ -60,7 +60,6 @@ var
   LanguageComboBox: TNewComboBox;
   CompressBundleCheckBox: TNewCheckBox;
   KeepOriginalBundleCheckBox: TNewCheckBox;
-  DownloadPage: TDownloadWizardPage;
 
 function ParseSteamConfig(FileName: string): TArrayOfString;
 var
@@ -188,16 +187,6 @@ begin
   Result := GamePath;
 end;
 
-
-function OnDownloadProgress(const Url, FileName: String; const Progress, ProgressMax: Int64): Boolean;
-begin
-  if Progress = ProgressMax then
-    Log(Format('Successfully downloaded file to {tmp}: %s', [FileName]));
-  Result := True;
-end;
-
-
-
 procedure InitializeWizard;
 var
   LanguageLabelStaticText: TNewStaticText;
@@ -253,8 +242,6 @@ begin
   KeepOriginalBundleCheckBox.Top := CompressBundleCheckBox.Top + CompressBundleCheckBox.Height + ScaleY(8);
   KeepOriginalBundleCheckBox.Width := AdditionalOptionsPage.SurfaceWidth;
   KeepOriginalBundleCheckBox.Caption := 'Jatorrizko bundlea &gorde (diskoan lekua hartuko du, eta denda gehienetan erraza da jokoa berrinstalatzea arazorik badago).';
-
-  DownloadPage := CreateDownloadPage(SetupMessage(msgWizardPreparing), SetupMessage(msgPreparingDesc), @OnDownloadProgress);
   
 end;
 
@@ -327,28 +314,6 @@ begin
     Result := 'tunic-eu-es.emip'
   else
     Result := 'tunic-eu-fr.emip';
-end;
-
-
-function NextButtonClick(CurPageID: Integer): Boolean;
-begin
-  if CurPageID = wpReady then begin
-    DownloadPage.Clear;
-    DownloadPage.Add('https://dotnet.microsoft.com/download/dotnet/scripts/v1/dotnet-install.ps1', 'dotnet-install.ps1', '');
-    DownloadPage.Show;
-    try
-      try
-        DownloadPage.Download;
-        Result := True;
-      except
-        SuppressibleMsgBox(AddPeriod(GetExceptionMessage), mbCriticalError, MB_OK, IDOK);
-        Result := False;
-      end;
-    finally
-      DownloadPage.Hide;
-    end;
-  end else
-    Result := True;
 end;
 
 function CompressBundleChecked: Boolean;
