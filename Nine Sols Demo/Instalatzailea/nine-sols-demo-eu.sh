@@ -1,6 +1,7 @@
 #!/bin/bash
 
-itzultool_filename=itzultool-0.3-linux-x64
+itzultool_version=0.4
+itzultool_filename=itzultool-"$itzultool_version"-linux-x64
 
 echo "Nine Sols Demo euskaraz - Instalatzen..."
 
@@ -29,20 +30,12 @@ cd nine-sols-demo-eu-instalazioa
 echo "ItzulTool deskargatzen..."
 
 # Deskargatu ItzulTool
-wget https://github.com/ibaios/itzultool/releases/download/v0.3/"$itzultool_filename"
+wget https://github.com/ibaios/itzultool/releases/download/v$itzultool_version/"$itzultool_filename"
 
 chmod +x ./"$itzultool_filename"
 
 echo "Deskargatuta."
 
-echo ".Net 6.0 frameworka instalatzen..."
-
-# .Net 6.0 instalatu
-wget https://dotnet.microsoft.com/download/dotnet/scripts/v1/dotnet-install.sh
-chmod +x ./dotnet-install.sh
-./dotnet-install.sh --runtime dotnet --version 6.0.0
-
-echo "Instalatuta."
 echo "EMIP itzulpen-fitxategia deskargatzen..."
 
 # Deskargatu EMIP fitxategia
@@ -52,7 +45,7 @@ echo "Deskargatuta."
 echo "Itzulpena aplikatzen..."
 
 # Aplikatu itzulpena
-export DOTNET_ROOT=~/.dotnet/ && ./"$itzultool_filename" applyemip nine-sols-demo-eu.emip "$path"
+./"$itzultool_filename" applyemip nine-sols-demo-eu.emip "$path"
 
 echo "Aplikatuta."
 echo "Instalazioko fitxategiak ezabatzen..."

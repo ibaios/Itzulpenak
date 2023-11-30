@@ -1,6 +1,6 @@
 #define MyAppName "Nine Sols Demo euskaraz"
 #define MyAppFilesystemName "Nine Sols Demo euskaraz"
-#define MyAppVersion "1.3"
+#define MyAppVersion "1.3.1"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppURL "https://ibaios.eus/"
 #define MyAppIcon "nine-sols-demo-eu.ico"
@@ -35,17 +35,15 @@ WizardStyle=modern
 Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 
 [Files]
-Source: "..\..\..\itzultool\bin\release\net6.0\win-x64\publish\itzultool-0.3-win-x64.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\..\..\itzultool\bin\release\net6.0\win-x64\publish\itzultool-0.4-win-x64.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "nine-sols-demo-eu.emip"; DestDir: "{app}"; Flags: ignoreversion
 
 [Run]
-Filename: "powershell.exe";  Parameters: "&powershell -ExecutionPolicy Bypass -File {tmp}\dotnet-install.ps1 -Runtime dotnet -Version 6.0.0 -InstallDir {tmp}\.dotnet"; WorkingDir: {tmp}; Flags: runhidden
-Filename: "{cmd}"; Parameters: "/C set DOTNET_ROOT={tmp}\.dotnet & ""{app}\itzultool-0.3-win-x64.exe"" applyemip ""{app}\nine-sols-demo-eu.emip"" ""{code:GetSelectedGameDataDir}"""
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "applyemip ""{app}\nine-sols-demo-eu.emip"" ""{code:GetSelectedGameDataDir}"""
 
 [Code]
 var
   GameDataDirPage: TInputDirWizardPage;
-  DownloadPage: TDownloadWizardPage;
 
 function ParseSteamConfig(FileName: string): TArrayOfString;
 var
@@ -174,15 +172,6 @@ begin
 end;
 
 
-function OnDownloadProgress(const Url, FileName: String; const Progress, ProgressMax: Int64): Boolean;
-begin
-  if Progress = ProgressMax then
-    Log(Format('Successfully downloaded file to {tmp}: %s', [FileName]));
-  Result := True;
-end;
-
-
-
 procedure InitializeWizard;
 begin
   GameDataDirPage := CreateInputDirPage(wpSelectDir,
@@ -197,8 +186,6 @@ begin
   
   GameDataDirPage.Values[0] := GetGamePath();
 
-  DownloadPage := CreateDownloadPage(SetupMessage(msgWizardPreparing), SetupMessage(msgPreparingDesc), @OnDownloadProgress);
-  
 end;
 
 function UpdateReadyMemo(Space, NewLine, MemoUserInfoInfo, MemoDirInfo, MemoTypeInfo, MemoComponentsInfo, MemoGroupInfo, MemoTasksInfo: string): string;
@@ -238,25 +225,4 @@ end;
 function GetSelectedGameDataDir(Param: string): string;
 begin
   Result:= GameDataDirPage.Values[0];
-end;
-
-function NextButtonClick(CurPageID: Integer): Boolean;
-begin
-  if CurPageID = wpReady then begin
-    DownloadPage.Clear;
-    DownloadPage.Add('https://dotnet.microsoft.com/download/dotnet/scripts/v1/dotnet-install.ps1', 'dotnet-install.ps1', '');
-    DownloadPage.Show;
-    try
-      try
-        DownloadPage.Download;
-        Result := True;
-      except
-        SuppressibleMsgBox(AddPeriod(GetExceptionMessage), mbCriticalError, MB_OK, IDOK);
-        Result := False;
-      end;
-    finally
-      DownloadPage.Hide;
-    end;
-  end else
-    Result := True;
 end;

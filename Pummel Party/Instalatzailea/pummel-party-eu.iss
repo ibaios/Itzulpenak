@@ -1,6 +1,6 @@
 #define MyAppName "Pummel Party euskaraz"
 #define MyAppFilesystemName "Pummel Party euskaraz"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.0.1"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppURL "https://ibaios.eus/"
 #define MyAppIcon "pummel-party-eu.ico"
@@ -30,25 +30,24 @@ Compression=lzma
 SolidCompression=yes
 WizardSizePercent=150
 WizardStyle=modern
+SetupLogging=yes
   
 [Languages]
 Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 
 [Files]
-Source: "..\..\..\itzultool\bin\release\net6.0\win-x64\publish\itzultool-0.3-win-x64.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\..\..\itzultool\bin\release\net6.0\win-x64\publish\itzultool-0.4-win-x64.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "pummel-party-eu-es.emip"; DestDir: "{app}"; Flags: ignoreversion
 Source: "pummel-party-eu-fr.emip"; DestDir: "{app}"; Flags: ignoreversion
 
 [Run]
-Filename: "powershell.exe";  Parameters: "&powershell -ExecutionPolicy Bypass -File {tmp}\dotnet-install.ps1 -Runtime dotnet -Version 6.0.0 -InstallDir {tmp}\.dotnet"; WorkingDir: {tmp}; Flags: runhidden
-Filename: "{cmd}"; Parameters: "/C set DOTNET_ROOT={tmp}\.dotnet & ""{app}\itzultool-0.3-win-x64.exe"" applyemip ""{app}\{code:GetSelectedEmip}"" ""{code:GetSelectedGameDataDir}"""
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "applyemip ""{app}\{code:GetSelectedEmip}"" ""{code:GetSelectedGameDataDir}"""
 
 [Code]
 var
   GameDataDirPage: TInputDirWizardPage;
   AdditionalOptionsPage: TInputQueryWizardPage;
   LanguageComboBox: TNewComboBox;
-  DownloadPage: TDownloadWizardPage;
 
 function ParseSteamConfig(FileName: string): TArrayOfString;
 var
@@ -176,16 +175,6 @@ begin
   Result := GamePath;
 end;
 
-
-function OnDownloadProgress(const Url, FileName: String; const Progress, ProgressMax: Int64): Boolean;
-begin
-  if Progress = ProgressMax then
-    Log(Format('Successfully downloaded file to {tmp}: %s', [FileName]));
-  Result := True;
-end;
-
-
-
 procedure InitializeWizard;
 var
   LanguageLabelStaticText: TNewStaticText;
@@ -225,9 +214,7 @@ begin
   LanguageComboBox.Items.Add('Gaztelania');
   LanguageComboBox.Items.Add('Frantsesa');
   LanguageComboBox.ItemIndex := 0;
-
-  DownloadPage := CreateDownloadPage(SetupMessage(msgWizardPreparing), SetupMessage(msgPreparingDesc), @OnDownloadProgress);
-  
+ 
 end;
 
 function UpdateReadyMemo(Space, NewLine, MemoUserInfoInfo, MemoDirInfo, MemoTypeInfo, MemoComponentsInfo, MemoGroupInfo, MemoTasksInfo: string): string;
@@ -279,26 +266,4 @@ begin
     Result := 'pummel-party-eu-es.emip'
   else
     Result := 'pummel-party-eu-fr.emip';
-end;
-
-
-function NextButtonClick(CurPageID: Integer): Boolean;
-begin
-  if CurPageID = wpReady then begin
-    DownloadPage.Clear;
-    DownloadPage.Add('https://dotnet.microsoft.com/download/dotnet/scripts/v1/dotnet-install.ps1', 'dotnet-install.ps1', '');
-    DownloadPage.Show;
-    try
-      try
-        DownloadPage.Download;
-        Result := True;
-      except
-        SuppressibleMsgBox(AddPeriod(GetExceptionMessage), mbCriticalError, MB_OK, IDOK);
-        Result := False;
-      end;
-    finally
-      DownloadPage.Hide;
-    end;
-  end else
-    Result := True;
 end;
