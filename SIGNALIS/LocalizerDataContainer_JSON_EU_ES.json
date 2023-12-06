@@ -27396,7 +27396,7 @@
             },
             {
               "StringID": "END_Falke_4a",
-              "Localized": "[Falke] Ez du gehiago inoiz gurekin dantza egingo,\n[Falke] egiten duguna egiten dugula.\n[Falke] Dagoeneko ez gaitu nahi ere."
+              "Localized": "[Falke] Ez du inoiz gehiago gurekin dantza egingo,\n[Falke] egiten duguna egiten dugula.\n[Falke] Dagoeneko ez gaitu nahi ere."
             },
             {
               "StringID": "END_Falke_3",
@@ -28868,7 +28868,7 @@
             },
             {
               "StringID": "ROT_Medifile_10",
-              "Localized": "Izena: Yeong, Ariane\nPKZ: YNGARN-L-5921D\nJaioteguna: (Rotfront) 18S 6P a\nJaiotze-mundua: Leng\nJatorriko mundua: Rotfront\nOgibidea: Irrati-ofiziala\nBizilekua (sektorea): ROT-C\nHistoria medikoa:\nInsomnioa, ubelduak, akromotrikia\nDoktorearen oharrak: (ezabatuta)"
+              "Localized": "Izena: Yeong, Ariane\nPKZ: YNGARN-L-5921D\nJaioteguna: (Rotfront) 18S 6P a\nJaiotze-mundua: Leng\nJatorriko mundua: Rotfront\nOgibidea: Irrati-ofiziala\nBizilekua (sektorea): ROT-C\nHistoria medikoa:\nInsomnioa, ubelduak, akromotrikia\nDoktorearen oharrak: (ezabatua)"
             },
             {
               "StringID": "ROT_Medifile_11_Name",
@@ -28916,7 +28916,7 @@
             },
             {
               "StringID": "ROT_Email_3",
-              "Localized": "C sektoreko Blockwartarentzat: Txutxu-mutxuen arabera, espioi inperial bat dago aktibo zure gunean.\nAEONen Heimateko kuartel nagusitik Operazio Berezien Protektor unitate bat igorri da gaia ikertzeko eta 6-12 zikloren buruan da iristekoa.\nEz dago esan beharrik arrakasta badute honek zure aurrekarietan eragin negatiboa izango duela.Ondo dakizu zer egin behar duzun."
+              "Localized": "C sektoreko Blockwartarentzat: Txutxu-mutxuen arabera, espioi inperial bat dago aktibo zure gunean.\nAEONen Heimateko kuartel nagusitik Operazio Berezien Protektor unitate bat igorri da gaia ikertzeko eta 6-12 zikloren buruan da iristekoa.\nEz dago esan beharrik arrakasta badute honek zure aurrekarietan eragin negatiboa izango duela. Ondo dakizu zer egin behar duzun."
             },
             {
               "StringID": "ROT_Email_4_RE",
@@ -28932,7 +28932,7 @@
             },
             {
               "StringID": "ROT_Email_5",
-              "Localized": "Ulertzen duten zure patruilaldirako liburu-dendara sarbidea behar duzula, baina ez daukagu aurreko aterako beste giltzarik libre. Dena dela, atzeko atea erabil dezakezu dendara sartzeko. Zenbakizko teklatu batekin babestua dago. \nKodea nire alaben urtebetetze-eguna da (oharra: Vinetan jaio ziren - begiratu haien PKZ zenbakien azken 6 digituak).\nAdeitsuki,\nAnja Itou"
+              "Localized": "Ulertzen dut zure patruilaldirako liburu-dendara sarbidea behar duzula, baina ez daukagu aurreko aterako beste giltzarik libre. Dena dela, atzeko atea erabil dezakezu dendara sartzeko. Zenbakizko teklatu batekin babestua dago. \nKodea nire alaben urtebetetze-eguna da (oharra: Vinetan jaio ziren - begiratu haien PKZ zenbakien azken 6 digituak).\nAdeitsuki,\nAnja Itou"
             },
             {
               "StringID": "ROT_Email_6_RE",
@@ -31928,7 +31928,7 @@
             },
             {
               "StringID": "LAB_Alina",
-              "Localized": "<title>Alinaren egunerokoa (4)</title>\nZenbat denbora daramat hemen behean? Nola iritsi nintzen hona? \nNon dago leku hau eta zergatik nago hemen? \nNire memoria hain nahasia dago - Betidanik hemen izan banintz bezala, betiko. \nNire ilea ere gutxinaka zuritzen ari da. \nGogoratzen dut nire izena, eta nire bizitza. \nBaina baita beste izen bat, eta beste bizitza bat ere, \neta badirudi, hemen zenbat eta luzaroago egon, bi bizitzak banatzen dituen lerroa orduan eta lausoagoa dela. \n- Alina"
+              "Localized": "<title>Alinaren egunerokoa (4)</title>\nZenbat denbora daramat hemen behean? Nola iritsi nintzen hona? \nNon dago leku hau eta zergatik nago hemen? \nNire memoria hain nahasia dago - Betidanik hemen izan banintz bezala, betiko. \nNire ilea ere, gutxinaka, zuritzen ari da. \nGogoratzen dut nire izena, eta nire bizitza. \nBaina baita beste izen bat, eta beste bizitza bat ere, \neta badirudi, hemen zenbat eta luzaroago egon, bi bizitzak banatzen dituen lerroa orduan eta lausoagoa dela. \n- Alina"
             },
             {
               "StringID": "DET_ElevatorMap",
@@ -31944,7 +31944,7 @@
             },
             {
               "StringID": "DET_RepairPlusRecipe",
-              "Localized": "<title>Gogortze bizkorreko eraikuntza-aparra</title>\nErrazionamendu-plana berriro aldatu denez, <style=red>gogortze bizkorreko konpontze-esprai</style> gutxi daukagu. Baina, badirudi espraia gerok egin dezakegula K koagulatzailea eta PU apar hedatzaile arrunta konbinatuz. Ez da jatorrizkoa beste hedatuko, baina <style=red>berehala gogortuko</style> da eta lotura sendoa eratuko du, presazko konponketa baten beharra baduzu baliagarria delarik.  \n<page><style=red>Replikentzako konpontze-adabaki</style> arruntak erabil ditzakezu, K koagulatzaile iturri erraza direnez, eta <style=red>konpontze-esprai</style> arruntekin konbinatu."
+              "Localized": "<title>Gogortze bizkorreko eraikuntza-aparra</title>\nErrazionamendu-plana berriro aldatu denez, <style=red>gogortze bizkorreko konpontze-esprai</style> gutxi dauzkagu. Baina, badirudi espraia gerok egin dezakegula K koagulatzailea eta PU apar hedatzaile arrunta konbinatuz. Ez da jatorrizkoa beste hedatuko, baina <style=red>berehala gogortuko</style> da eta lotura sendoa eratuko du, presazko konponketa baten beharra baduzu baliagarria delarik.  \n<page><style=red>Replikentzako konpontze-adabaki</style> arruntak erabil ditzakezu, K koagulatzaile iturri erraza direnez, eta <style=red>konpontze-esprai</style> arruntekin konbinatu."
             },
             {
               "StringID": "DET_Service",
@@ -32032,7 +32032,7 @@
             },
             {
               "StringID": "MED_VentHint",
-              "Localized": "<title>P-14 langileentzako kexa-inprimakia</title>\nKexa-inprimakiaren betetze-data: 84-20-F \nKexatu den unitatearen Protektor ID osoa: ARAR-S2308 (Replika) \nEstatusa: Pertsonala        Departamentua: Medikuntza \nKexa eragin duten unitateen Protektor ID osoak: ARAR-S2311 (Replika) \nGertakariaren data-ordua: Uneoro! \nGertakariaren kokalekua: Medikuntza hegala \n<page>Deskribapena: Elf-ek etengabe erabiltzen du nire giltza, 10mm-ko tutu-erako muturra galduz. \nBeheko solairuko haizebidea \nez konpontzeagatik errieta egin didate, baina ezin dut haizebidearen estalkia askatu \n10mm-ko tutu-erako muturra gabe! Badakit nahita egiten duela."
+              "Localized": "<title>P-14 langileentzako kexa-inprimakia</title>\nKexa-inprimakiaren betetze-data: 84-20-F \nKexatu den unitatearen Protektor ID osoa: ARAR-S2308 (Replika) \nEstatusa: Pertsonala        Departamentua: Medikuntza \nKexa eragin duten unitateen Protektor ID osoak: ARAR-S2311 (Replika) \nGertakariaren data-ordua: Uneoro! \nGertakariaren kokalekua: Medikuntza hegala \n<page>Deskribapena: Elf-ek etengabe erabiltzen du nire giltza, 10mm-ko tutu-erako muturra galduz. \nBeheko solairuko haizebidea ez konpontzeagatik errieta egin didate, baina ezin dut haizebidearen estalkia askatu 10mm-ko tutu-erako muturra gabe! Badakit nahita egiten duela."
             },
             {
               "StringID": "PEN_Instructions",
@@ -32052,7 +32052,7 @@
             },
             {
               "StringID": "MEM_Checklist",
-              "Localized": "<title>Programatutako mantentze-egitekoak</title>\n[{0}] Ikuskatu LST Replikaren kalibrazioa eta biltegiratze-unitatea (Mantentze-gela) \n[{1}] Ikuskatu Sistema nagusira sarbide-terminala (Kantina) \n[{2}] Ikuskatu hegaldi-kontrolak (Pilotuen kabina) \n[{3}] Ikuskatu hozgarria injektatzeko hodiak (Erreaktorea)) \n[{4}] Ikuskatu Larrialdiko Hibernazio Kriogenikorako unitatea (Kriogenia) \n[{5}] Berri eman Gestalt esplorazio-ofizialari"
+              "Localized": "<title>Programatutako mantentze-egitekoak</title>\n[{0}] Ikuskatu LST Replikaren kalibrazioa eta biltegiratze-unitatea (Mantentze-gela) \n[{1}] Ikuskatu Sistema nagusira sarbide-terminala (Kantina) \n[{2}] Ikuskatu hegaldi-kontrolak (Pilotuen kabina) \n[{3}] Ikuskatu hozgarria injektatzeko hodiak (Erreaktorea) \n[{4}] Ikuskatu Larrialdiko Hibernazio Kriogenikorako unitatea (Kriogenia) \n[{5}] Berri eman Gestalt esplorazio-ofizialari"
             },
             {
               "StringID": "END_LateDaysD",
@@ -32068,7 +32068,7 @@
             },
             {
               "StringID": "MEM_Chronometer",
-              "Localized": "<title>Kronometroaren doikuntza</title>\nZerbitzu teknikoen erregistroa, Yeong Ariane esplorazio-ofiziala \nOfizialaren oharra: Ontziaren barne-erlojua doitu dut apur bat motelago ibil dadin. Nire kalkuluen arabera, ziklo bakoitza zehazki %12,6 luzeagoa izan beharko litzateke, Vinetako \"egun\" baten luzera simulatuz, oker ez banabil. \nElsterrek nabarituko al dut diferentzia? \nBere azentuagatik esango nuke Vinetakoa dela. Isa eta Erik bezala ahoskatzen du \"ontzia\". Maitagarria da. Berari entzutean ozeanoaz amets egiten dut... ezagutuko al dut inoiz halakorik? Akaso urruneko munduren batean?"
+              "Localized": "<title>Kronometroaren doikuntza</title>\nZerbitzu teknikoen erregistroa, Yeong Ariane esplorazio-ofiziala \nOfizialaren oharra: Ontziaren barne-erlojua doitu dut apur bat motelago ibil dadin. Nire kalkuluen arabera, ziklo bakoitza zehazki %12,6 luzeagoa izan beharko litzateke, Vinetako \"egun\" baten luzera simulatuz, oker ez banabil. \nElsterrek nabarituko al du diferentzia? \nBere azentuagatik esango nuke Vinetakoa dela. Isak eta Erik bezala ahoskatzen du \"ontzia\". Maitagarria da. Berari entzutean ozeanoaz amets egiten dut... ezagutuko al dut inoiz halakorik? Akaso urruneko munduren batean?"
             },
             {
               "StringID": "MEM_Diary",
@@ -32192,7 +32192,7 @@
             },
             {
               "StringID": "RES_Report_KnownA",
-              "Localized": "<title>Repliken arazo ezagunak, I. zatia</title>\n<align=center>- <style=red>INFORMAZIO KONFIDENTZIALA</style> - Komandanteak soilik ikusteko -</align>\nReplika modelo hauekin izandako esperientziari esker hobeto ulertzen ditugu haien jokaerako irregulartasunak, zeinak unitate hauentzako erabilitako jatorrizko eredu neuronaletan duten sorburua. Informazio hau hain kontuzkoa denez, dokumentu hau, irakurri ondoren, suntsitu egin behar da. \n<page>EULR \nEuleek talde handiak osatzen dituzte, eta gogoko dute abestu eta dantzatzea, unitate honentzako jatorrizko eredu neuronala ballet dantzari bat baitzen. Pertsonalitatearen degradazioa erraz ekidin daiteke unitate honetan, musika eskuragarri dutela ziurtatuz (kasete-erreproduzitzaile edo instrumentu musikalen bidez). Jarri gutxienez ispilu bat Euleen logeletan, beren itxurari sarri begiratzeko beharra izaten baitute. Euleen pertsonalitatea egonkortzen da haien itxura zaintzea eta interakzio sozial sarria lortzen badute. Maiz hamar unitate inguruko taldetan antolatzen dira, batak besteari ezizenak jarriz. \n<page>ARAR \nLehen begiratuan txepel xamarrak iruditu arren, ez itzazu Arak gutxietsi. Hala ez adierazi arren, haiekin zakarrak edo desatseginak direnak gogorki epaitzen dituzte, eta koadro osoarekin partekatuko dute iritzia isilean. Arak ondoen Euleekin moldatzen dira, hauek pazientzia handikoak eta lagunkoiak izan ohi direlako, baita Ara unitateen aurpegi espresio gabea irakurtzen trebeak ere. \nInstalazio ugaritan, Ara unitateek haiek soilik ezagutzen dituzten zerbitzu-tunelak eraikitzen dituzte, askotan lur azpian eta horma barruetan. Unitate ezegonkorrak tunel hauetara ihes egin ohi dute. Ez da gomendagarria handik ekartzen saiatzea. \nAra pertsonalitatea egonkortzeko erarik onena zain ditzaten landareak ematea da, ahal dela lore koloretsuak edo zuhaitzak."
+              "Localized": "<title>Repliken arazo ezagunak, I. zatia</title>\n<align=center>- <style=red>INFORMAZIO KONFIDENTZIALA</style> - Komandanteak soilik ikusteko -</align>\nReplika modelo hauekin izandako esperientziari esker hobeto ulertzen ditugu haien jokaerako irregulartasunak, zeinak unitate hauentzako erabilitako jatorrizko eredu neuronaletan duten sorburua. Informazio hau hain kontuzkoa denez, dokumentu hau, irakurri ondoren, suntsitu egin behar da. \n<page>EULR \nEuleek talde handiak osatzen dituzte, eta gogoko dute abestu eta dantzatzea, unitate honentzako jatorrizko eredu neuronala ballet dantzari bat baitzen. Pertsonalitatearen degradazioa erraz ekidin daiteke unitate honetan, musika eskuragarri dutela ziurtatuz (kasete-erreproduzitzaile edo instrumentu musikalen bidez). Jarri gutxienez ispilu bat Euleen logeletan, beren itxurari sarri begiratzeko beharra izaten baitute. Euleen pertsonalitatea egonkortzen da haien itxura zaintzea eta interakzio sozial sarria lortzen badute. Maiz hamar unitate inguruko taldetan antolatzen dira, batak besteari ezizenak jarriz. \n<page>ARAR \nLehen begiratuan txepel xamarrak iruditu arren, ez itzazu Arak gutxietsi. Hala ez adierazi arren, haiekin zakarrak edo desatseginak direnak gogorki epaitzen dituzte, eta koadro osoarekin partekatuko dute iritzia isilean. Arak ondoen Euleekin moldatzen dira, hauek pazientzia handikoak eta lagunkoiak izan ohi direlako, baita Ara unitateen aurpegi espresio gabea irakurtzen trebeak ere. \nInstalazio ugaritan, Ara unitateek haiek soilik ezagutzen dituzten zerbitzu-tunelak eraikitzen dituzte, askotan lur azpian eta horma barruetan. Unitate ezegonkorrek tunel hauetara ihes egin ohi dute. Ez da gomendagarria handik ekartzen saiatzea. \nAra pertsonalitatea egonkortzeko erarik onena zain ditzaten landareak ematea da, ahal dela lore koloretsuak edo zuhaitzak."
             },
             {
               "StringID": "RES_Report_KnownB",
@@ -32252,11 +32252,11 @@
             },
             {
               "StringID": "TUT_Combine",
-              "Localized": "<title>LSTR-aren ezaugarriak: Konponketa Modulu Logikoa</title>\nGure Nazio Handia zerbitzatzeko Penrose programako esplorazio ontzietan teknikari gisa nabigatzen duten LSTR motako Replikak, zu bezala, Konponketa Modulu Logiko (KML) espezializatu batekin ekipaturik daude, bizkor eta errazki konpon dezaketelarik beren burua eta misiorako ekipamendu garrantzitsua. \n<page>KMLaren funtzioetara sarbidea \nSartu inbentario-pantailara {3} sakatuz. \nHautatu konpondu beharreko objektua {7} erabiliz. \nSakatu {0} komandoen menua irekitzeko. \nHautatu 「KONBINA.」 aukera <style=red>konbinatze modua</style>n sartzeko. \n<page>Konbinatze moduan zaudelarik, hautatu konpondu beharreko beste objektu bat. \nSakatu {0} berriro bi objektuak konbinatzeko. \nReplika gorputzaren kalteak konpontzeko, hautatu konponketarako objektu egokia eta aukeratu 「ERABILI」 komandoen menuan. \n<page>Batzuetan lagungarri izan daiteke objektu bati alde guztietatik ondo begiratzea.  \nHautatu 「AZTERTU」 aukera komandoen menuan <style=red>aztertze modua</style>n sartzeko. \nAztertze moduan zaudelarik, erabili {8} objektua biratu eta alde guztietatik begiratzeko."
+              "Localized": "<title>LSTRaren ezaugarriak: Konponketa Modulu Logikoa</title>\nGure Nazio Handia zerbitzatzeko Penrose programako esplorazio ontzietan teknikari gisa nabigatzen duten LSTR motako Replikak, zu bezala, Konponketa Modulu Logiko (KML) espezializatu batekin ekipaturik daude, bizkor eta errazki konpon dezaketelarik beren burua eta misiorako ekipamendu garrantzitsua. \n<page>KMLaren funtzioetara sarbidea \nSartu inbentario-pantailara {3} sakatuz. \nHautatu konpondu beharreko objektua {7} erabiliz. \nSakatu {0} komandoen menua irekitzeko. \nHautatu 「KONBINA.」 aukera <style=red>konbinatze modua</style>n sartzeko. \n<page>Konbinatze moduan zaudelarik, hautatu konpontzeko bigarren objektua. \nSakatu {0} berriro bi objektuak konbinatzeko. \nReplika gorputzaren kalteak konpontzeko, hautatu konponketarako objektu egokia eta aukeratu 「ERABILI」 komandoen menuan. \n<page>Batzuetan lagungarri izan daiteke objektu bati alde guztietatik ondo begiratzea.  \nHautatu 「AZTERTU」 aukera komandoen menuan <style=red>aztertze modua</style>n sartzeko. \nAztertze moduan zaudelarik, erabili {8} objektua biratu eta alde guztietatik begiratzeko."
             },
             {
               "StringID": "TUT_Injector",
-              "Localized": "<title>REPLIKA-KLStim-N Soforthilfe 2.0 ml - Eskuorria</title>\nEskuorria: erabiltzailearentzako informazioa \nReplikentzako zirkulazio-estimulatzailea, injekzio likidoa autoinjektorean \nOsagai aktiboa: Replika-Kreislaufstimulans N (%99,9) \nOHARRA: BIZIKI ERAGINKORRA, REPLIKEK SOILIK ERABILTZEKO \n<page>- Zer da REPLIKA-KLStim-N Berehalako Laguntza eta noiz hartu behar da? \nKLStim-N soluzio esterila da, larrialdiko injekzioetarako autoinjekzio-luma batean datorrena. \nKLStim-N-k berehalako eragina dauka Replikaren zirkulazio-sisteman, sistemaren osasuna berrezarriz. \nKLStim-N sistemaren hutsegite kritikoa ekiditeko egina dago, 3. belaunalditik aurrerako Replika gorputz-egituretan. \n<page>- Nola erabili REPLIKA-KLStim-N? \nKLStim-N autoinjektorea zuzenean erabil daiteke inbentario-pantailatik. \nAutoinjektorea tresna-artekan ekipatzeko aukera ere baduzu <style=red>inbentario-pantaila</style>n, mugitu bitartean ere zuzenean erabiltzeko. Autoinjektorea mugitu bitartean erabiltzeko, mantendu {4} sakatuta injekzioa hartu bitarteko tarte osoan zehar. \nTresna-artekan ekipaturik duzunean, automatikoki aktibatuko da Replika sistemak bestela huts egingo lukeen uneetan, sistemaren hutsegitea ekidinez eta sistema partzialki berrezarriz. Sistemaren hutsegitea horrela ekidin ondoren, berehala osasun-arreta jasotzea gomendatzen da."
+              "Localized": "<title>REPLIKA-KLStim-N Soforthilfe 2.0 ml - Eskuorria</title>\nEskuorria: erabiltzailearentzako informazioa \nReplikentzako zirkulazio-estimulatzailea, injekzio likidoa autoinjektorean \nOsagai aktiboa: Replika-Kreislaufstimulans N (%99,9) \nOHARRA: BIZIKI ERAGINKORRA, REPLIKEK SOILIK ERABILTZEKO \n<page>- Zer da REPLIKA-KLStim-N Berehalako Laguntza eta noiz hartu behar da? \nKLStim-N soluzio esterila da, larrialdiko injekzioetarako autoinjekzio-luma batean datorrena. \nKLStim-N-k berehalako eragina dauka Replikaren zirkulazio-sisteman, sistemaren osasuna berrezarriz. \nKLStim-N 3. belaunalditik aurrerako Replika gorputz-egituretan sistemaren hutsegite kritikoa ekiditeko egina dago. \n<page>- Nola erabili REPLIKA-KLStim-N? \nKLStim-N autoinjektorea zuzenean erabil daiteke inbentario-pantailatik. \nAutoinjektorea tresna-artekan ekipatzeko aukera ere baduzu <style=red>inbentario-pantaila</style>n, mugitu bitartean ere zuzenean erabiltzeko. Autoinjektorea mugitu bitartean erabiltzeko, mantendu {4} sakatuta injekzioa hartu bitarteko tarte osoan zehar. \nTresna-artekan ekipaturik duzunean, automatikoki aktibatuko da Replika sistemak bestela huts egingo lukeen uneetan, sistemaren hutsegitea ekidinez eta sistema partzialki berrezarriz. Sistemaren hutsegitea horrela ekidin ondoren, berehala osasun-arreta jasotzea gomendatzen da."
             },
             {
               "StringID": "TUT_Map",
