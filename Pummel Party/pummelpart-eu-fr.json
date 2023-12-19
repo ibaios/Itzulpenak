@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 578
+    "m_PathID": 608
   },
   "m_Name": "I2Languages",
   "mSource": {
@@ -1110,7 +1110,7 @@
         "Assegna controller",
         "Controller zuweisen",
         "Asignar mando",
-        "Назначить геймпад",
+        "Назначить контроллер",
         "分配控制器",
         "分配控制器",
         "コントローラー割り当て",
@@ -1145,7 +1145,7 @@
         "Controller assegnati",
         "Zugewiesene Controller",
         "Mandos asignados",
-        "Назначенные геймпады",
+        "Назначенные контроллер",
         "已分配控制器",
         "已分配控制器",
         "割り当てされたコントローラー",
@@ -1568,7 +1568,7 @@
         "БУМ!",
         "砰！",
         "轟！",
-        "BANG！",
+        "バタン！",
         "쾅!"
       ]
     },
@@ -3796,41 +3796,6 @@
     }
   },
   {
-    "Term": "Challenge_Statistic_DamageRecieved",
-    "TermType": 0,
-    "Languages": {
-      "Array": [
-        "Damage Received",
-        "Hartutako mina",
-        "Danni ricevuti",
-        "Erhaltener Schaden",
-        "Daño recibido",
-        "полученного урона",
-        "受到的伤害",
-        "受到的傷害",
-        "受けたダメージ",
-        "입은 데미지"
-      ]
-    },
-    "Flags": {
-      "Array": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    "Languages_Touch": {
-      "Array": []
-    }
-  },
-  {
     "Term": "Challenge_Statistic_KeysGained",
     "TermType": 0,
     "Languages": {
@@ -4295,7 +4260,7 @@
         "Controller",
         "Controller",
         "Mando",
-        "Геймпад",
+        "контроллер",
         "控制器",
         "控制器",
         "コントローラー",
@@ -4325,12 +4290,12 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Controller Rumble",
+        "Controller Vibration",
         "Agintearen dardara",
         "Vibrazione controller",
-        "Controller-Rumble",
+        "Controller-Vibration",
         "Vibración de mando",
-        "Вибрация геймпадов",
+        "Вибрация контроллер",
         "控制器振动",
         "控制器振動",
         "コントローラー振動",
@@ -4360,12 +4325,12 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Enable or Disable rumble for controllers.",
+        "Enable or Disable vibration for controllers.",
         "Gaitu edo desgaitu aginteen dardara.",
         "Abilita o disabilita la vibrazione controller.",
-        "Aktiviere oder deaktiviere das Controller-Rumble.",
+        "Aktiviere oder deaktiviere das Controller-Vibration.",
         "Activa o desactiva la vibración de los mandos.",
-        "Включение/отключение вибрации геймпадов.",
+        "Включение/отключение вибрации контроллер.",
         "启用或禁用控制器振动。",
         "啟用或停用控制器振動。",
         "コントローラーの振動を有効化、または無効化します。",
@@ -7553,7 +7518,7 @@
         "ХОРОШО!",
         "很好！",
         "很好！",
-        "GOOD！",
+        "良い！",
         "좋아요!"
       ]
     },
@@ -7790,16 +7755,16 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Use 40 keys to release the soul of this victim from the killers demonic prison.",
-        "Erabili 40 giltza eta askatu biktima honen arima hiltzailearen deabruzko kaiolatik.",
-        "Usa 40 chiavi per liberare l'anima di questa vittima dalla prigione demoniaca degli assassini.",
-        "Verwende 40 Schlüssel, um die Seele dieses Opfers aus dem dämonischen Gefängnis des Killers zu befreien.",
-        "Usa 40 llaves para liberar el alma de esta víctima de la prisión demoniaca del asesino.",
-        "Освободите душу жертвы из демонической тюрьмы ее убийцы, израсходовав 40 ключей.",
-        "使用 40 把钥匙将受害者的灵魂从杀手的恶魔监狱中释放出来。",
-        "使用 40 把鑰匙將受害者的靈魂從殺手的惡魔監獄中釋放出來。",
-        "カギを40個使って、悪の牢獄からこの犠牲者の魂を解き放ってあげましょう。",
-        "열쇠 40개를 사용해 킬러의 감옥에 갇힌 영혼을 풀어주세요."
+        "Use %keyCost% keys to release the soul of this victim from the killer's demonic prison.",
+        "Erabili %keyCost% giltza eta askatu biktima honen arima hiltzailearen deabruzko kaiolatik.",
+        "Usa %keyCost% chiavi per liberare l'anima di questa vittima dalla prigione demoniaca degli assassini.",
+        "Verwende %keyCost% Schlüssel, um die Seele dieses Opfers aus dem dämonischen Gefängnis des Killers zu befreien.",
+        "Usa %keyCost% llaves para liberar el alma de esta víctima de la prisión demoniaca del asesino.",
+        "Освободите душу жертвы из демонической тюрьмы ее убийцы, израсходовав %keyCost% ключей.",
+        "使用 %keyCost% 把钥匙将受害者的灵魂从杀手的恶魔监狱中释放出来。",
+        "使用 %keyCost% 把鑰匙將受害者的靈魂從殺手的惡魔監獄中釋放出來。",
+        "カギを%keyCost%個使って、悪の牢獄からこの犠牲者の魂を解き放ってあげましょう。",
+        "열쇠 %keyCost%개를 사용해 킬러의 감옥에 갇힌 영혼을 풀어주세요."
       ]
     },
     "Flags": {
@@ -8836,7 +8801,7 @@
     }
   },
   {
-    "Term": "Jump / Double Jump",
+    "Term": "Double Jump",
     "TermType": 0,
     "Languages": {
       "Array": [
@@ -12725,7 +12690,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Score over 10 in 'Altitude Attack'",
+        "Score 10 or more points in 'Altitude Attack'",
         "Lortu 10 puntutik gora 'Helize Hegalariak' minijokoan",
         "Ottieni più di 10 in \"Attacco d'altitudine\"",
         "Erreiche mehr als 10 Punkten in „Höhen-Hinterhalt“",
@@ -13005,7 +12970,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "As the lightning holder kill every other player in 'Thunderous Trench'",
+        "As the lightning holder, kill every other player in 'Thunderous Trench'",
         "Tximista gisa, hil gainontzeko jokalariak 'Trumoi Tximistak' minijokoan",
         "Quando sei il possessore del fulmine, uccidi tutti gli altri giocatori in \"Trincea tonante\"",
         "Töte jeden anderen Spieler als Blitzträger in „Donnerndes Drama“",
@@ -13075,8 +13040,8 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Knockout 10 players in one game of 'Explosive Exchange'",
-        "Nokeatu 10 jokalari 'Libratu Lehergailutik' minijokoaren jokaldi bakarrean",
+        "Stun other players 10 times in a single game of 'Explosive Exchange'",
+        "Nokeatu beste jokalariak 10 aldiz 'Libratu Lehergailutik' minijokoaren jokaldi bakarrean",
         "Elimina 10 giocatori in una partita di \"Scambio esplosivo\"",
         "Schalte 10 Spieler in einer Runde „Explosive Entsorgung“ aus",
         "Noquea a 10 jugadores en una partida de «Eliminación explosiva».",
@@ -13215,8 +13180,8 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Survive for at least 50 seconds in 'Sorcerers Sprint'",
-        "Biziraun gutxienez 50 segundoz 'Sorginak Sasiartean' minijokoan",
+        "Survive for 50 seconds in 'Sorcerers Sprint'",
+        "Biziraun 50 segundoz 'Sorginak Sasiartean' minijokoan",
         "Sopravvivi per almeno 50 secondi in \"Scatto dello stregone\"",
         "Überlebe mindestens 50 Sekunden in „Flinker Flug“",
         "Sobrevive al menos durante 50 segundos en «Circuito del conjurador».",
@@ -13285,7 +13250,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Got hit by the train in 'Temporal Trails'",
+        "Get hit by the train in 'Temporal Trails'",
         "Jasan trenaren harrapaketa 'Arrasto Arriskutsuak' minijokoan",
         "Fatti investire dal treno in \"Sentieri temporali\"",
         "Werde in „Schlängelnde Spuren“ vom Zug erfasst",
@@ -13355,7 +13320,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Knock off 5 players in one game of 'Snowy Spin'",
+        "Knock 5 players off the stage in a single game of 'Snowy Spin'",
         "Bota 5 jokalari amildegitik 'Elur Erauntsia' minijokoaren jokaldi bakarrean",
         "Elimina 5 giocatori in una partita a \"Giro nella neve\"",
         "Schlage 5 Spieler in einer Partie „Schnee-Schleudern“ runter",
@@ -13565,7 +13530,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Get launched off screen in 'Tunneling Tanks'",
+        "Get launched offscreen in 'Tunneling Tanks'",
         "Atera pantailatik kanpora 'Tanke Tunelgileak' minijokoan",
         "Fatti lanciare fuori dallo schermo in \"Carri armati e tunnel\"",
         "Fliege in „Planende Panzer“ aus dem Bildschirm",
@@ -13705,7 +13670,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Died in 'Acidic Atoll' without throwing a barrel",
+        "Die in 'Acidic Atoll' without throwing a barrel",
         "Hil 'Atoloi Azidoan' upelik jaurti gabe",
         "Morì in \"Atollo acido\" senza mai lanciare una botte",
         "Stirb im „Acid-Atoll“, ohne ein Fass zu werfen",
@@ -13775,7 +13740,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Win 'Magma & Mages' without taking damage",
+        "Win in 'Magma & Mages' without taking any damage",
         "Irabazi 'Magma eta Magia' minijokoa minik hartu gabe",
         "Vinci \"Magma e maghi\" senza subire danni",
         "Gewinne „Magma & Magier“ gewinnen, ohne Schaden zu nehmen",
@@ -13845,7 +13810,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Collect 40 keys in 'Morphing Maze' minigame",
+        "Collect 40 keys in 'Morphing Maze'",
         "Bildu 40 giltza 'Labirinto Lanjerosa' minijokoan",
         "Raccogli 40 chiavi nel minigioco \"Labirinto trasformante\"",
         "Sammle 40 Schlüssel in „Launisches Labyrinth“",
@@ -13915,7 +13880,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Survive in 'Breaking Blocks' for 60 seconds",
+        "Survive for 60 seconds in 'Breaking Blocks' ",
         "Biziraun 60 segundoz 'Bloke Birrinkorrak' minijokoan",
         "Sopravvivi per 60 secondi a ​​\"Blocchi sgretolanti\"",
         "Überlebe 60 Sekunden lang in „Bröselnde Blöcke“",
@@ -13985,7 +13950,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Steal the last gift in a players pile in 'Grifting Gifts'",
+        "Steal the last gift in a player's pile in 'Grifting Gifts'",
         "Lapurtu jokalari baten piloko azken oparia 'Opariak Osten' minijokoan",
         "Ruba l'ultimo regalo del mucchio di un giocatore in \"Frega il regalo\"",
         "Stiehl das letzte Geschenk eines Spielerstapels in „Geschenke gaunern“",
@@ -14055,7 +14020,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Complete 'Slippery Sprint' without falling in the water",
+        "Complete 'Slippery Sprint' without falling into the water",
         "Osatu 'Leiazko Lehia' uretara erori gabe",
         "Completa \"Scatto scivoloso\" senza cadere in acqua",
         "Schließe „Schlitternder Sprint“ ab, ohne ins Wasser zu fallen",
@@ -14125,7 +14090,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Score over 5 in 'Bouncing Balls'",
+        "Score 5 or more points in 'Bouncing Balls'",
         "Lortu 5 baino puntuazio hobea 'Pilota Punpakariak' minijokoan",
         "Segna più di 5 punti a \"Palle rimbalzanti\"",
         "Erreiche mehr als 5 Punkten in „Bälle-Bataillon“",
@@ -14265,7 +14230,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Complete 'Gift Grab' without collecting coal",
+        "Complete 'Gift Grab' without collecting any coal",
         "Osatu 'Opari Onarpena' minijokoa ikatzik bildu gabe",
         "Completa \"Acchiappa il regalo\" senza raccogliere carbone",
         "Schließe „Geschenke-Greifer“ ab, ohne Kohle zu sammeln",
@@ -14405,8 +14370,8 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Take no damage in 'Searing Spotlights' minigame",
-        "Ez hartu minik 'Foku Frijiarazleak' minijokoan",
+        "Take no damage in a game of 'Searing Spotlights'",
+        "Ez hartu minik 'Foku Frijiarazleak' minijokoko partida batean",
         "Non subire danni nel minigioco \"Riflettori accesi\"",
         "Erleide keinen Schaden im Minispiel „Sengende Scheinwerfer“",
         "No sufras daños en el minijuego «Focos fogosos».",
@@ -14475,7 +14440,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Accidentally blew yourself up in the 'Strategic Shockwave' minigame",
+        "Accidentally blow yourself up in 'Strategic Shockwave'",
         "Suntsi zaitez zeuk jarritako lehergailuaren eztandarekin 'Eztanda Estrategikoa' minijokoan",
         "Fatti esplodere accidentalmente nel minigioco \"Onda d'urto strategica\"",
         "Jage dich im Minispiel „Strategische Schockwelle“ versehentlich in die Luft",
@@ -14545,8 +14510,8 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Hit three players with the remote control eggplant",
-        "Zauritu hiru jokalari alberjinia telegidatuarekin",
+        "Hit exaclty three other players with an eggplant's explosion",
+        "Zauritu zehazki hiru jokalari alberjinia telegidatuarekin",
         "Colpisci tre giocatori con la \"melanzana telecomandata\"",
         "Triff drei Spieler mit der ferngesteuerten Aubergine",
         "Impacta a tres jugadores con la berenjena teledirigida.",
@@ -14615,8 +14580,8 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Skewer three players with the rocket skewer item",
-        "Zeharkatu hiru jokalari suziri-burruntziarekin.",
+        "Skewer three or more players with a single rocket skewer item",
+        "Zeharkatu hiru jokalari edo gehiago suziri-burruntzi bakarrarekin.",
         "Infilza tre giocatori con lo \"spiedino a razzo\"",
         "Spieße drei Spieler mit dem Raketenspieß auf",
         "Atraviesa a tres jugadores con el cohete ensartador.",
@@ -16466,7 +16431,7 @@
     }
   },
   {
-    "Term": "Pickup/Throw Explosive barrel",
+    "Term": "Throw Explosive barrel",
     "TermType": 0,
     "Languages": {
       "Array": [
@@ -22840,16 +22805,16 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "The treasure chest is gleaming with a bright light, use 40 of the keys you've collected to find out what's inside.",
-        "Altxorraren kutxatik argi distiratsu bat irteten da. Erabili bildutako giltzetatik 40 barruan zer dagoen deskubritzeko.",
-        "Il forziere del tesoro brilla di una luce intensa. Usa 40 delle chiavi raccolte per scoprire cosa c'è dentro.",
-        "Die Schatztruhe erstrahlt in einem hellen Licht. Benutze 40 der gesammelten Schlüssel, um herauszufinden, was sich darin befindet.",
-        "Del cofre del tesoro emana una luz brillante; usa 40 de las llaves que has reunido para averiguar qué alberga en su interior.",
-        "Используйте 40 собранных ключей, чтобы открыть ярко сияющий сундук и узнать, что внутри него.",
-        "宝箱闪烁着明亮的光芒，使用你收集的 40 个钥匙来看看里面有什么。",
-        "寶箱閃爍著明亮的光芒，使用你收集的 40 個鑰匙來看看裡面有什麼。",
-        "宝箱はまばゆい光を放っています。集めたカギを40個使って中身を見てみましょう。",
-        "보물상자가 밝게 빛납니다. 모은 열쇠 40개를 사용해 안에 무엇이 있는지 보세요."
+        "The treasure chest is gleaming with a bright light, use %keyCost% of the keys you've collected to find out what's inside.",
+        "Altxorraren kutxatik argi distiratsu bat irteten da. Erabili bildutako giltzetatik %keyCost% barruan zer dagoen deskubritzeko.",
+        "Il forziere del tesoro brilla di una luce intensa. Usa %keyCost% delle chiavi raccolte per scoprire cosa c'è dentro.",
+        "Die Schatztruhe erstrahlt in einem hellen Licht. Benutze %keyCost% der gesammelten Schlüssel, um herauszufinden, was sich darin befindet.",
+        "Del cofre del tesoro emana una luz brillante; usa %keyCost% de las llaves que has reunido para averiguar qué alberga en su interior.",
+        "Используйте %keyCost% собранных ключей, чтобы открыть ярко сияющий сундук и узнать, что внутри него.",
+        "宝箱闪烁着明亮的光芒，使用你收集的 %keyCost% 个钥匙来看看里面有什么。",
+        "寶箱閃爍著明亮的光芒，使用你收集的 %keyCost% 個鑰匙來看看裡面有什麼。",
+        "宝箱はまばゆい光を放っています。集めたカギを%keyCost%個使って中身を見てみましょう。",
+        "보물상자가 밝게 빛납니다. 모은 열쇠 %keyCost%개를 사용해 안에 무엇이 있는지 보세요."
       ]
     },
     "Flags": {
@@ -23995,16 +23960,16 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Unlock new cosmetic items with goblets",
-        "Desblokeatu objektu kosmetiko berriak kopak erabiliz",
-        "Sblocca nuovi oggetti cosmetici con i calici",
-        "Schalte neue Kosmetikartikel mit Pokalen frei",
+        "Unlock new cosmetic items with goblets.",
+        "Desblokeatu objektu kosmetiko berriak kopak erabiliz.",
+        "Sblocca nuovi oggetti cosmetici con i calici.",
+        "Schalte neue Kosmetikartikel mit Pokalen frei.",
         "Usa cálices para desbloquear nuevos objetos cosméticos.",
-        "Откройте новые косметические предметы за кубки",
-        "用奖杯解锁新的装饰品",
-        "用獎杯解鎖新的裝飾品",
+        "Откройте новые косметические предметы за кубки.",
+        "用奖杯解锁新的装饰品。",
+        "用獎杯解鎖新的裝飾品。",
         "ゴブレットで新しいファッションアイテムをロック解除します。",
-        "우승컵으로 새 치장 아이템 잠금해제"
+        "우승컵으로 새 치장 아이템 잠금해제."
       ]
     },
     "Flags": {
@@ -24385,7 +24350,7 @@
         "Nota: se vuoi utilizzare più di 4 controller, disabilita \"Usa Xinput\".",
         "Hinweis: Wenn du mehr als 4 Controller verwenden möchtest, deaktiviere „XInput verwenden“.",
         "Nota: si quieres usar más de 4 mandos, desactiva «Usar XInput».",
-        "Внимание: при использовании свыше 4 геймпадов XInput необходимо отключить.",
+        "Внимание: при использовании свыше 4 контроллер XInput необходимо отключить.",
         "注意：如果你希望使用 4 个以上的控制器，请禁用“使用 XInput”。",
         "注意：如果你希望使用 4 個以上的控制器，請停用「使用 XInput」。",
         "Note : if you wish to use more than 4 controllers disable 'Use XInput'.",
@@ -25540,7 +25505,7 @@
         "Nota: se vuoi utilizzare più di 4 controller, disabilita \"Usa Xinput\".",
         "Hinweis: Wenn du mehr als 4 Controller verwenden möchtest, deaktiviere „XInput verwenden“.",
         "Nota: si quieres usar más de 4 mandos, desactiva «Usar XInput».",
-        "Внимание: при использовании свыше 4 геймпадов XInput необходимо отключить.",
+        "Внимание: при использовании свыше 4 контроллер XInput необходимо отключить.",
         "注意：如果你希望使用 4 个以上的控制器，请禁用“使用 XInput”。",
         "注意：如果你想要使用 4 個以上的控制器，請停用「使用 XInput」。",
         "注意：コントローラーを4つ以上使用する場合は、「X入力の使用」を無効化してください。",
@@ -26305,8 +26270,8 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Find modded boards and minigames to play.",
-        "Bilatu mod bidez aldatutako taulak eta minijokoak.",
+        "Browse and add community-created board and minigame mods to your game.",
+        "Arakatu eta gehitu zure jokora mod bidez aldatutako taulak eta minijokoak.",
         "Trova tabelloni modificati e minigiochi con cui giocare.",
         "Finden Sie modifizierte Bretter und Minispiele zum Spielen.",
         "Encuentra tableros modificados y minijuegos para jugar.",
@@ -27911,20 +27876,20 @@
     }
   },
   {
-    "Term": "HostOnlineGame",
+    "Term": "ControllerDisconnectedDescription",
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Host an online game.",
-        "Antolatu online partida bat.",
-        "Ospita un gioco online.",
-        "Veranstalten Sie ein Online-Spiel.",
-        "Organice un juego en línea.",
-        "Организуйте онлайн-игру.",
-        "举办在线游戏。",
-        "舉辦在線遊戲。",
-        "オンライン ゲームをホストします。",
-        "온라인 게임을 주최합니다."
+        "Please reconnect your controller to continue.",
+        "Konektatu berriro agintea jarraitzeko.",
+        "Ricollegare il controller per continuare.",
+        "Bitte schließen Sie Ihren Controller erneut an, um fortzufahren.",
+        "Vuelva a conectar su controlador para continuar.",
+        "Пожалуйста, повторно подключите контроллер, чтобы продолжить.",
+        "请重新连接您的控制器以继续。",
+        "請重新連接您的控制器以繼續。",
+        "続行するにはコントローラーを再接続してください。",
+        "계속하려면 컨트롤러를 다시 연결하세요."
       ]
     },
     "Flags": {
@@ -27946,20 +27911,55 @@
     }
   },
   {
-    "Term": "ReturnToMultiplayerMenu",
+    "Term": "ControllerDisconnected",
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Return to multiplayer menu.",
-        "Itzuli multijokalari menura.",
-        "Torna al menu multigiocatore.",
-        "Kehren Sie zum Mehrspielermenü zurück.",
-        "Vuelve al menú multijugador.",
-        "Вернитесь в многопользовательское меню.",
-        "返回多人游戏菜单。",
-        "返回多人遊戲菜單。",
-        "マルチプレイヤーメニューに戻ります。",
-        "멀티플레이어 메뉴로 돌아갑니다."
+        "Controller Disconnected",
+        "Agintea deskonektatua",
+        "Controller disconnesso",
+        "Controller nicht verbunden",
+        "Controlador desconectado",
+        "КонтроллерОтключен",
+        "控制器断开连接",
+        "控制器斷開連接",
+        "コントローラが切断されました",
+        "컨트롤러 연결 끊김"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "ControllerProfileChangedDescription",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Profile changed. Switch to correct profile or return to main menu.",
+        "Profila aldatu da. Hautatu profil zuzena edo irten menu nagusira.",
+        "Profilo cambiato. Passa al profilo corretto o torna al menu principale.",
+        "Profil geändert. Wechseln Sie zum richtigen Profil oder kehren Sie zum Hauptmenü zurück.",
+        "Perfil cambiado. Cambie al perfil correcto o regrese al menú principal.",
+        "Профиль изменен. Переключитесь на правильный профиль или вернитесь в главное меню.",
+        "个人资料已更改。切换到正确的配置文件或返回主菜单。",
+        "個人資料已更改。切換到正確的配置文件或返回主菜單。",
+        "プロフィールが変更されました。正しいプロファイルに切り替えるか、メインメニューに戻ります。",
+        "프로필이 변경되었습니다. 올바른 프로필로 전환하거나 기본 메뉴로 돌아갑니다."
       ]
     },
     "Flags": {
@@ -28415,6 +28415,1511 @@
         "調整顯示器的刷新率。這是每秒顯示的幀數。",
         "モニターのリフレッシュ レートを調整します。これは、1 秒あたりに表示されるフレーム数です。",
         "모니터의 새로 고침 빈도를 조정합니다. 초당 표시되는 프레임 수입니다."
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "LoadingMinigames",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Loading Minigames",
+        "Minijokoak kargatzen",
+        "Caricamento Dei Minigiochi",
+        "Laden Von Minispielen",
+        "Cargando Minijuegos",
+        "Загрузка Мини-Игр",
+        "加载小游戏",
+        "加載小遊戲",
+        "ミニゲームを読み込み中",
+        "미니게임 로딩 중"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Killer",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Killer",
+        "Hiltzailea",
+        "Uccisore",
+        "Mörder",
+        "Asesino",
+        "Убийца",
+        "杀手",
+        "殺手",
+        "キラー",
+        "살인자"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Respawn",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Respawn",
+        "Birsortu",
+        "Rigenerarsi",
+        "Respawn",
+        "Reaparecer",
+        "Респаун",
+        "重生",
+        "重生",
+        "リスポーン",
+        "부활하다"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Escaped",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Escaped",
+        "Ihes egina",
+        "Sfuggito",
+        "Entkam",
+        "Escapado",
+        "Сбежал",
+        "逃脱了",
+        "逃脫了",
+        "逃げた",
+        "탈출하다"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Hazard",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Hazard",
+        "Arriskua",
+        "Rischio",
+        "Gefahr",
+        "Peligro",
+        "Опасность",
+        "冒险",
+        "冒險",
+        "危険",
+        "위험"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "You Were Caught!",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "You Were Caught!",
+        "Harrapatu zaituzte!",
+        "Sei Stato Catturato!",
+        "Du Wurdest Erwischt!",
+        "¡Fuiste Atrapado!",
+        "Тебя Поймали!",
+        "你被抓住了！",
+        "你被抓住了！",
+        "あなたは捕まったのです！",
+        "당신은 잡혔어요!"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "You Escaped!",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "You Escaped!",
+        "Ihes egin duzu!",
+        "Sei Scappato!",
+        "Du Bist Entkommen!",
+        "¡Escapaste!",
+        "Ты Сбежал!",
+        "你逃走了！",
+        "你逃走了！",
+        "あなたは逃げた！",
+        "당신은 탈출했다!"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Rabbits riding Pandas",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Rabbits riding Pandas",
+        "Untxiak panda gainean",
+        "Conigli che cavalcano panda",
+        "Kaninchen reiten Pandas",
+        "Conejos montando pandas",
+        "Кролики катаются на пандах",
+        "兔子骑熊猫",
+        "兔子騎熊貓",
+        "パンダに乗るウサギ",
+        "팬더를 타는 토끼"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Tigers riding Pandas",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Tigers riding Pandas",
+        "Tigreak panda gainean",
+        "Tigri che cavalcano panda",
+        "Tiger reiten Pandas",
+        "Tigres montando pandas",
+        "Тигры верхом на пандах",
+        "老虎骑着熊猫",
+        "老虎騎著熊貓",
+        "パンダに乗るトラ",
+        "판다를 타고 있는 호랑이들"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Rabbits riding Boars",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Rabbits riding Boars",
+        "Untxiak basurde gainean",
+        "Conigli che cavalcano cinghiali",
+        "Kaninchen reiten Wildschweine",
+        "Conejos montando jabalíes",
+        "Кролики верхом на кабанах",
+        "兔子骑野猪",
+        "兔子騎野豬",
+        "イノシシに乗るウサギ",
+        "멧돼지를 타는 토끼"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Raccoons riding Raccoons",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Raccoons riding Raccoons",
+        "Mapatxeak mapatxe gainean",
+        "Procioni che cavalcano procioni",
+        "Waschbären reiten Waschbären",
+        "Mapaches montando mapaches",
+        "Еноты катаются на енотах",
+        "浣熊骑着浣熊",
+        "浣熊騎著浣熊",
+        "アライグマに乗るアライグマ",
+        "너구리를 타고 있는 너구리"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Foxes riding Deers",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Foxes riding Deers",
+        "Azeriak orein gainean",
+        "Volpi che cavalcano cervi",
+        "Füchse reiten auf Hirschen",
+        "Zorros montando ciervos",
+        "Лисы верхом на оленях",
+        "狐狸骑着鹿",
+        "狐狸騎著鹿",
+        "鹿に乗るキツネ",
+        "사슴을 타고 있는 여우"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Boars riding Deers",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Boars riding Deers",
+        "Basurdeak orain gainean",
+        "Cinghiali che cavalcano cervi",
+        "Wildschweine reiten auf Hirschen",
+        "Jabalíes montando ciervos",
+        "Кабаны верхом на оленях",
+        "野猪骑着鹿",
+        "野豬騎著鹿",
+        "鹿に乗る猪",
+        "사슴을 타고 있는 멧돼지"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Rabbits riding Wolves",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Rabbits riding Wolves",
+        "Untxiak otso gainean",
+        "Conigli che cavalcano lupi",
+        "Kaninchen reiten Wölfe",
+        "Conejos montando lobos",
+        "Кролики верхом на волках",
+        "兔子骑狼",
+        "兔子騎狼",
+        "オオカミに乗るウサギ",
+        "늑대를 타는 토끼"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Foxes riding Bears",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Foxes riding Bears",
+        "Azeriak hartz gainean",
+        "Volpi che cavalcano orsi",
+        "Füchse reiten Bären",
+        "Zorros montando osos",
+        "Лисы катаются на медведях",
+        "狐狸骑着熊",
+        "狐狸騎著熊",
+        "クマに乗るキツネ",
+        "곰을 타고 있는 여우들"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Raccoons riding Moose",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Raccoons riding Moose",
+        "Mapatxeak altze gainean",
+        "Procioni che cavalcano alci",
+        "Waschbären reiten auf Elch",
+        "Mapaches montando alces",
+        "Еноты верхом на лосях",
+        "浣熊骑着驼鹿",
+        "浣熊騎著駝鹿",
+        "ヘラジカに乗るアライグマ",
+        "무스를 타고 있는 너구리"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "ControllerDisconnected",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Controller Disconnected",
+        "Agintea deskonektatua",
+        "Controller Scollegato",
+        "Controller Nicht Angeschlossen",
+        "Mando Desconectado",
+        "Контроллер Отключен",
+        "控制器已断开",
+        "控制器已斷開",
+        "コントローラーが切断されました",
+        "컨트롤러 연결이 끊어졌습니다"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "ReconnectControllerMessage",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Please reconnect your controller to continue",
+        "Konektatu berriro agintea jarraitzeko.",
+        "Ricollega il controller per continuare",
+        "Bitte schließen Sie Ihren Controller erneut an, um fortzufahren",
+        "Vuelva a conectar su mando para continuar",
+        "Пожалуйста, переподключите контроллер, чтобы продолжить",
+        "请重新连接您的控制器以继续",
+        "請重新連接您的控制器以繼續",
+        "続行するにはコントローラーを再接続してください",
+        "계속하려면 컨트롤러를 다시 연결하세요."
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "IncorrectProfile",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Controller Disconnected - Incorrect Profile",
+        "Deskonektatua - Okerreko profila",
+        "Disconnesso - Profilo Errato",
+        "Verbindung Getrennt - Falsches Profil",
+        "Desconectado - Perfil Incorrecto",
+        "Отключено - Неверный Профиль",
+        "已断开连接 - 配置文件不正确",
+        "已斷開連接 - 設定檔不正確",
+        "切断されました - プロファイルが正しくありません",
+        "연결 끊김 - 잘못된 프로필"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "IncorrectProfileDescription",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "The active profile has changed, switch profiles or you will be returned to the main menu and your current game will be lost.",
+        "Profil aktiboa aldatu da, hautatu profil zuzena edo hasierako menura bueltatuko zaitugu eta uneko partida galduko duzu.",
+        "Il profilo attivo è cambiato, cambia profilo o tornerai al menu principale e la partita attuale andrà persa.",
+        "Das aktive Profil hat sich geändert. Wechseln Sie das Profil. Andernfalls kehren Sie zum Hauptmenü zurück und Ihr aktuelles Spiel geht verloren.",
+        "El perfil activo ha cambiado, cambie de perfil o volverá al menú principal y se perderá su juego actual.",
+        "Активный профиль изменился, переключите профили, иначе вы вернетесь в главное меню и ваша текущая игра будет потеряна.",
+        "活动配置文件已更改，请切换配置文件，否则您将返回主菜单，并且您当前的游戏将丢失。",
+        "活動設定檔已更改，請切換配置文件，否則您將返回主選單，並且您當前的遊戲將丟失。",
+        "アクティブなプロファイルが変更されました。プロファイルを切り替えると、メイン メニューに戻り、現在のゲームが失われます。",
+        "활성 프로필이 변경되었습니다. 프로필을 전환하거나 주 메뉴로 돌아가고 현재 게임을 잃게 됩니다."
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Continue",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Continue",
+        "Jarraitu",
+        "Continua",
+        "Weitermachen",
+        "Continuar",
+        "Продолжать",
+        "继续",
+        "繼續",
+        "続く",
+        "계속하다"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Try Again!",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Try Again!",
+        "Berriz saiatu!",
+        "Riprova!",
+        "Versuchen Sie Es Erneut!",
+        "¡Intentar Otra Vez!",
+        "Попробуйте Еще Раз!",
+        "再试一次！",
+        "再試一次！",
+        "もう一度やり直してください！",
+        "다시 시도하십시오!"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Bot",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Bot",
+        "Bot",
+        "Bot",
+        "Bot",
+        "Bot",
+        "Бот",
+        "机器人",
+        "機器人",
+        "ボット",
+        "봇"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Connection timed out",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Connection timed out",
+        "Konexioaren denbora-muga gainditua",
+        "Connessione Scaduta",
+        "Zeitüberschreitung der Verbindung",
+        "Tiempo de conexión agotado",
+        "Время соединения истекло",
+        "连接超时",
+        "連線逾時",
+        "接続がタイムアウトしました",
+        "연결 시간이 초과되었습니다"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "ConnectionLost",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Connection Lost",
+        "Konexioa galdu da",
+        "Collegamento Perso",
+        "Verbindung Unterbrochen",
+        "Conexión Perdida",
+        "Соединение Потеряно",
+        "连接丢失",
+        "連線遺失",
+        "接続切断",
+        "연결 끊김"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Attribution",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Attribution",
+        "Aitortza",
+        "Attribuzione",
+        "Zuschreibung",
+        "Atribución",
+        "Атрибуция",
+        "归因",
+        "歸因",
+        "帰属",
+        "속성"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "ViewPlayers",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "View Players",
+        "Ikusi jokalariak",
+        "Visualizzare I Giocatori",
+        "Spieler Ansehen",
+        "Ver Jugadores",
+        "Просмотреть Игроков",
+        "查看玩家",
+        "查看玩家",
+        "プレーヤーを見る",
+        "플레이어 보기"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "ShowNametags",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Name Tags",
+        "Izen-txartelak",
+        "Targhette Con Nome",
+        "Namensschilder",
+        "Etiquetas De Nombres",
+        "Бейджи",
+        "名称标签",
+        "名稱標籤",
+        "ネームタグ",
+        "이름표"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "ShowNametagsDescription",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Show name tags above players' heads on the board and during minigames.",
+        "Erakutsi izen-txartelak jokalarien gainean, taulan eta minijokoetan.",
+        "Mostra le etichette con i nomi dei giocatori sopra le loro teste sul tabellone e durante i minigiochi.",
+        "Zeigen Sie Spielernamensschilder über den Köpfen der Spieler auf dem Spielbrett und während der Minispiele an.",
+        "Muestre etiquetas con los nombres de los jugadores sobre sus cabezas en el tablero y durante los minijuegos.",
+        "Показывать теги с именами игроков над головами игроков на доске и во время мини-игр.",
+        "在棋盘上和迷你游戏期间，在玩家头顶上方显示玩家姓名标签。",
+        "在棋盤上和迷你遊戲期間，在玩家頭頂上方顯示玩家姓名標籤。",
+        "ボード上およびミニゲーム中にプレイヤーの頭の上にプレイヤーの名札を表示します。",
+        "보드 위나 미니게임 중에 플레이어 머리 위에 플레이어 이름표를 표시합니다."
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "AttemptingNATIntroduction",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Preparing NAT Connection",
+        "NAT konexioa prestatzen",
+        "Preparazione della connessione NAT",
+        "NAT-Verbindung vorbereiten",
+        "Preparando la conexión NAT",
+        "Подготовка NAT-соединения",
+        "准备 NAT 连接",
+        "準備 NAT 連接",
+        "NAT接続の準備中",
+        "NAT 연결 준비 중"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Challenge_Order_Random",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Random Least/Most",
+        "Ausaz Gehien/Gutxien",
+        "Più/Meno",
+        "Am Meisten/Am Wenigsten",
+        "Mayor número de/Menor número de",
+        "больше всех/меньше всех",
+        "最多/最少",
+        "最多/最少",
+        "最高/最低",
+        "최다/최소"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Challenge_Statistic_Random",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Random Statistic",
+        "Ausazko estatistika",
+        "Statistica Casuale",
+        "Zufallsstatistik",
+        "Estadística Aleatoria",
+        "Случайная Статистика",
+        "随机统计",
+        "隨機統計",
+        "ランダムな統計",
+        "무작위 통계"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Challenge_Event_Random",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Random Middle/End",
+        "Ausaz Erdian/Amaieran",
+        "Metà/Fine Casuale",
+        "Zufällige Mitte/Ende",
+        "Medio/Final Aleatorio",
+        "Случайная Середина/Конец",
+        "随机中/尾",
+        "隨機中/尾",
+        "ランダムなミドル/エンド",
+        "임의의 중간/끝"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Challenge_Statistic_DamageReceived",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Damage Received",
+        "Hartutako mina",
+        "Danni ricevuti",
+        "Erhaltener Schaden",
+        "Daño recibido",
+        "полученного урона",
+        "受到的伤害",
+        "受到的傷害",
+        "受けたダメージ",
+        "입은 데미지"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Options_Include",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Include",
+        "Gehitu",
+        "Includere",
+        "Enthalten",
+        "Incluir",
+        "Включать",
+        "包括",
+        "包括",
+        "含む",
+        "포함하다"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Options_Exclude",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Exclude",
+        "Kendu",
+        "Escludere",
+        "Ausschließen",
+        "Excluir",
+        "Исключать",
+        "排除",
+        "排除",
+        "除外する",
+        "들어오지 못하게 하다"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "General_UseCustomGoalChestCount",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Override Board Chest Count",
+        "Gainidatzi taulako kutxa kopurua",
+        "Ignorare Il Conteggio Dei Forzieri Della Plancia",
+        "Überschreiben Sie Die Brustanzahl Auf Dem Board",
+        "Anular El Recuento De Cofres Del Tablero",
+        "Переопределить Количество Сундуков На Доске",
+        "覆盖板箱数量",
+        "覆蓋板箱數量",
+        "ボードのチェスト数を上書きする",
+        "보드 상자 수 무시"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "General_CustomGoalChestCount",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Number of Chests",
+        "Kutxa kopurua",
+        "Numero di bauli",
+        "Anzahl der Truhen",
+        "Número de cofres",
+        "Количество сундуков",
+        "宝箱数量",
+        "寶箱數量",
+        "チェストの数",
+        "상자 수"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "General_ChestCost",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Keys Required to Open Chest",
+        "Kutxa irekitzeko beharrezko giltza kopurua",
+        "Numero di chiavi necessarie per aprire il baule",
+        "Anzahl der zum Öffnen der Truhe erforderlichen Schlüssel",
+        "Número de llaves necesarias para abrir el cofre",
+        "Количество ключей, необходимых для открытия сундука",
+        "打开宝箱所需的钥匙数量",
+        "打開寶箱所需的鑰匙數量",
+        "チェストを開けるのに必要な鍵の数",
+        "상자를 여는 데 필요한 열쇠 수"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "General_StartingKeys",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Initial Key Amount",
+        "Hasierako giltza kopurua",
+        "Importo chiave iniziale",
+        "Anfänglicher Schlüsselbetrag",
+        "Cantidad de clave inicial",
+        "Начальная ключевая сумма",
+        "初始关键金额",
+        "初始關鍵金額",
+        "初期キー量",
+        "초기 키 금액"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Modifier_RandomChestCost_Description",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Each chest costs a random number of keys to be opened.",
+        "Kutxa bakoitza irekitzeko ausazko giltza kopurua behar da.",
+        "I forzieri necessitano di un numero casuale di chiavi per essere aperti.",
+        "Truhen benötigen zum Öffnen eine zufällige Anzahl an Schlüsseln.",
+        "Los cofres necesitan un número aleatorio de llaves para abrirse.",
+        "Для открытия сундуков требуется случайное количество ключей.",
+        "箱子需要随机数量的钥匙才能打开。",
+        "箱子需要隨機數量的鑰匙才能打開。",
+        "チェストを開けるにはランダムな数の鍵が必要です。",
+        "상자를 열려면 임의의 수의 열쇠가 필요합니다."
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Modifier_RandomChestCost",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Randomized Chest Cost",
+        "Kutxen ausazko kostua",
+        "Costo Del Forziere Randomizzato",
+        "Zufällige Brustkosten",
+        "Costo Del Cofre Aleatorio",
+        "Рандомизированная Стоимость Сундука",
+        "随机胸部成本",
+        "隨機胸部成本",
+        "ランダム化された宝箱のコスト",
+        "무작위 상자 비용"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "NewsHeader",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "NEWS",
+        "BERRIAK",
+        "Notizia",
+        "Nachricht",
+        "Noticias",
+        "Новости",
+        "消息",
+        "訊息",
+        "ニュース",
+        "소식"
       ]
     },
     "Flags": {
