@@ -1,0 +1,3996 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2271696209222652706
+  },
+  "m_Name": "LangPack",
+  "code": "es",
+  "hash": "91‌​19‌​33‌​fe‌​f6‌​ba‌​99‌​b5‌​67‌​0c‌​be‌​b9‌​d0‌​f6‌​4e‌​5a",
+  "stringsHash": "ab‌​b1‌​24‌​fe‌​e1‌​94‌​9c‌​17‌​e8‌​93‌​59‌​1b‌​6c‌​0f‌​2c‌​9a",
+  "spritesHash": "61‌​15‌​47‌​49‌​a5‌​62‌​65‌​23‌​98‌​6f‌​d8‌​d4‌​84‌​58‌​cc‌​b6",
+  "buildDate": "2018-11-13T14:25:06",
+  "strings": {
+    "Array": [
+      {
+        "key": "language_code",
+        "val": "es"
+      },
+      {
+        "key": "language_name",
+        "val": "Euskara"
+      },
+      {
+        "key": "title_begin",
+        "val": "HASI"
+      },
+      {
+        "key": "title_continue",
+        "val": "JARRAITU"
+      },
+      {
+        "key": "title_credit",
+        "val": "Egilea:\nLucas Pope"
+      },
+      {
+        "key": "menu_settings",
+        "val": "AUKERAK"
+      },
+      {
+        "key": "menu_paused",
+        "val": "PAUSATUTA"
+      },
+      {
+        "key": "menu_cancel",
+        "val": "Utzi"
+      },
+      {
+        "key": "settings_volume",
+        "val": "Bolumena"
+      },
+      {
+        "key": "settings_volume_0",
+        "val": "Itzalita"
+      },
+      {
+        "key": "settings_volume_1",
+        "val": "Apenas entzungarria"
+      },
+      {
+        "key": "settings_volume_2",
+        "val": "Nahiko baxua"
+      },
+      {
+        "key": "settings_volume_3",
+        "val": "Baxuxea"
+      },
+      {
+        "key": "settings_volume_4",
+        "val": "Erdian"
+      },
+      {
+        "key": "settings_volume_5",
+        "val": "Ozenxea"
+      },
+      {
+        "key": "settings_volume_6",
+        "val": "Ozen baina onargarri"
+      },
+      {
+        "key": "settings_volume_7",
+        "val": "Ia maximoan"
+      },
+      {
+        "key": "settings_volume_8",
+        "val": "Maximoan"
+      },
+      {
+        "key": "settings_sens",
+        "val": "Begiradaren sentikortasuna"
+      },
+      {
+        "key": "settings_sens_0",
+        "val": "Ia mugimendu gabea"
+      },
+      {
+        "key": "settings_sens_1",
+        "val": "Oso motela"
+      },
+      {
+        "key": "settings_sens_2",
+        "val": "Motela"
+      },
+      {
+        "key": "settings_sens_3",
+        "val": "Motelxea"
+      },
+      {
+        "key": "settings_sens_4",
+        "val": "Perfektua"
+      },
+      {
+        "key": "settings_sens_5",
+        "val": "Arinxea"
+      },
+      {
+        "key": "settings_sens_6",
+        "val": "Arina baina zentzuzkoa"
+      },
+      {
+        "key": "settings_sens_7",
+        "val": "Zentzugabeki arina"
+      },
+      {
+        "key": "settings_sens_8",
+        "val": "Kontrolaezina"
+      },
+      {
+        "key": "settings_inverty",
+        "val": "Alderantz. ardatz bert."
+      },
+      {
+        "key": "settings_inverty_yes",
+        "val": "Bai"
+      },
+      {
+        "key": "settings_inverty_no",
+        "val": "Ez"
+      },
+      {
+        "key": "settings_monitor",
+        "val": "Monitorea"
+      },
+      {
+        "key": "settings_monitor_lcd",
+        "val": "LCD modernoa"
+      },
+      {
+        "key": "settings_output",
+        "val": "Irteera"
+      },
+      {
+        "key": "settings_output_analog",
+        "val": "Leundua"
+      },
+      {
+        "key": "settings_output_digital_0",
+        "val": "Zehatza"
+      },
+      {
+        "key": "settings_output_digital_1",
+        "val": "Zehatza (1. txikitzea)"
+      },
+      {
+        "key": "settings_output_digital_2",
+        "val": "Zehatza (2. txikitzea)"
+      },
+      {
+        "key": "settings_output_digital_3",
+        "val": "Zehatza (3. txikitzea)"
+      },
+      {
+        "key": "settings_output_digital_4",
+        "val": "Zehatza (4. txikitzea)"
+      },
+      {
+        "key": "settings_output_digital_5",
+        "val": "Zehatza (5. txikitzea)"
+      },
+      {
+        "key": "settings_controls",
+        "val": "Kontrolak"
+      },
+      {
+        "key": "settings_controls_view",
+        "val": "Ikusi"
+      },
+      {
+        "key": "settings_language",
+        "val": "Hizkuntza"
+      },
+      {
+        "key": "settings_quit",
+        "val": "Irten menura"
+      },
+      {
+        "key": "settings_autosaved",
+        "val": "AUTOGORDETA"
+      },
+      {
+        "key": "controls_exploring",
+        "val": "ARAKATZEAN"
+      },
+      {
+        "key": "controls_reading",
+        "val": "IRAKURTZEAN"
+      },
+      {
+        "key": "control_action",
+        "val": "Ekintza"
+      },
+      {
+        "key": "control_zoom",
+        "val": "Gerturatu"
+      },
+      {
+        "key": "control_pause",
+        "val": "Pausatu"
+      },
+      {
+        "key": "control_book_open",
+        "val": "Ireki liburua"
+      },
+      {
+        "key": "control_book_close",
+        "val": "Itxi liburua"
+      },
+      {
+        "key": "control_book_next",
+        "val": "Hurrengo orrira"
+      },
+      {
+        "key": "control_book_prev",
+        "val": "Aurreko orrira"
+      },
+      {
+        "key": "control_book_toc",
+        "val": "Aurkibidera"
+      },
+      {
+        "key": "control_back",
+        "val": "Itzuli"
+      },
+      {
+        "key": "profile_new",
+        "val": "BERRIA"
+      },
+      {
+        "key": "profile_begin",
+        "val": "HASI"
+      },
+      {
+        "key": "profile_continue",
+        "val": "JARRAITU"
+      },
+      {
+        "key": "profile_rewind",
+        "val": "ATZERA EGIN"
+      },
+      {
+        "key": "profile_rewind_warning_a",
+        "val": "Ontzira itzuli nahi duzu?\nEz da aurrerapenik galduko."
+      },
+      {
+        "key": "profile_rewind_warning_b",
+        "val": "Ontzira itzuli nahi duzu?\nLiburuko «Tratua» kapitulua leheneratuko da, baina ez da beste aurrerapenik galduko."
+      },
+      {
+        "key": "profile_fates_zero",
+        "val": "Argitutako paturik ez"
+      },
+      {
+        "key": "profile_fates_morethanone",
+        "val": "$0 patu argituta"
+      },
+      {
+        "key": "profile_description_full",
+        "val": "#$num ($fates patu)"
+      },
+      {
+        "key": "profile_description_empty",
+        "val": "#$num (hutsik)"
+      },
+      {
+        "key": "profile_copy",
+        "val": "KOPIATU"
+      },
+      {
+        "key": "profile_delete",
+        "val": "EZABATU"
+      },
+      {
+        "key": "profile_option_cancel",
+        "val": "Utzi"
+      },
+      {
+        "key": "profile_option_copy",
+        "val": "Kopiatu"
+      },
+      {
+        "key": "profile_option_delete",
+        "val": "Ezabatu"
+      },
+      {
+        "key": "profile_option_rewind",
+        "val": "Egin atzera"
+      },
+      {
+        "key": "profile_confirm",
+        "val": "Betiko ezabatuko da #$num partidako edukia."
+      },
+      {
+        "key": "profile_playtime_m2",
+        "val": "$m minutuz jolastua"
+      },
+      {
+        "key": "profile_playtime_h1",
+        "val": "Ordubetez jolastua"
+      },
+      {
+        "key": "profile_playtime_h2",
+        "val": "$h orduz jolastua"
+      },
+      {
+        "key": "profile_playtime_h1m2",
+        "val": "Ordubete eta $m minutuz jolastua"
+      },
+      {
+        "key": "profile_playtime_h2m2",
+        "val": "$h ordu eta $m minutuz jolastua"
+      },
+      {
+        "key": "profile_lastplayed_justnow",
+        "val": "Azkenekoz oraintxe jolastua"
+      },
+      {
+        "key": "profile_lastplayed_m2",
+        "val": "Azkenekoz duela $m minutu jolastua"
+      },
+      {
+        "key": "profile_lastplayed_h1",
+        "val": "Azkenekoz duela ordubete jolastua"
+      },
+      {
+        "key": "profile_lastplayed_h2",
+        "val": "Azkenekoz duela $h ordu jolastua"
+      },
+      {
+        "key": "profile_lastplayed_h1m2",
+        "val": "Azkenekoz duela ordubete $m min. jolastua"
+      },
+      {
+        "key": "profile_lastplayed_h2m2",
+        "val": "Azkenekoz duela $h ordu $m min. jolastua"
+      },
+      {
+        "key": "profile_lastplayed_date",
+        "val": "Azkenekoz $year/$month/$day(e)an jolastua"
+      },
+      {
+        "key": "intro_lost",
+        "val": "Itsasoan galdua, 1803an"
+      },
+      {
+        "key": "intro_goodship",
+        "val": "GURE ONTZI ON"
+      },
+      {
+        "key": "intro_obradinn",
+        "val": "«OBRA DINN»"
+      },
+      {
+        "key": "intro_built",
+        "val": "1796an Londresen eraikia ~ 800 tona ~ 18 oineko zingoa\nKapitaina R. WITTEREL ~ Eskifaia: 51 lagun\nAzken bidaia Ekialdera ~ Ez zen helburura iritsi"
+      },
+      {
+        "key": "intro_contact",
+        "val": "Informazioa eskatu edo eransteko, kontaktatu\nEkialdeko Indietako Konpainia Londresen."
+      },
+      {
+        "key": "intro_company",
+        "val": "EKIALDEKO INDIETAKO\nKONPAINIA\nOHORAGARRIA"
+      },
+      {
+        "key": "intro_attention",
+        "val": "Att:\nAseguru eta Erreklamazioen\nIkuskatzaile Burua\nLondreseko Bulegoa"
+      },
+      {
+        "key": "intro_dispatch",
+        "val": "Obra Dinn ontzia itzuli da.\nGerturatu berehala Falmouth-era txosten osatu bat idazteko."
+      },
+      {
+        "key": "welldone",
+        "val": "Ongi egina.\n"
+      },
+      {
+        "key": "welldone_3_first",
+        "val": "Ongi egina.\nHiru patu zuzen daude."
+      },
+      {
+        "key": "welldone_3_more",
+        "val": "Ongi egina.\nBeste hiru patu zuzen daude."
+      },
+      {
+        "key": "welldone_2_first",
+        "val": "Ongi egina.\nBi patu zuzen daude."
+      },
+      {
+        "key": "welldone_2_more",
+        "val": "Ongi egina.\nBeste bi patu zuzen daude."
+      },
+      {
+        "key": "welldone_solvable",
+        "val": "Ongi egina.\nEskuragai diren patu guztiak zuzen daude."
+      },
+      {
+        "key": "welldone_last",
+        "val": "Ongi egina.\nPatu guztiak zuzen daude."
+      },
+      {
+        "key": "welldone_shipdone",
+        "val": "Ez dago beste egitekorik Obra Dinn-ean."
+      },
+      {
+        "key": "book_title",
+        "val": "Obra Dinn\n<size=24>ontziaren</size>\nitzulera"
+      },
+      {
+        "key": "book_subtitle",
+        "val": "Abentura eta tragediaren\nkatalogo bat"
+      },
+      {
+        "key": "book_preface",
+        "val": "AITZINSOLASA"
+      },
+      {
+        "key": "book_preface_left",
+        "val": "\tEspero dut une honetan Obra Dinn-aren barruan izango zarela. Egun honen esperoan nintzen. Nire xede bakarra zen ontziaren istorio bitxia liburu honen orrialdeen baitan kontatzea. \n\tTamalez, nire osasun ahulak oinarrizko eskema bat garatzea baizik ez dit ahalbidetu, zeina ondorengo orriotan aurkituko duzun.\n\tZu Obra Dinn-ean izatea ezinbestekoa da. Zure eskuetan uzten dut bere patua deskubritu eta liburu hau osatzeko lana."
+      },
+      {
+        "key": "book_preface_right",
+        "val": "\tHurrengo orriok, hasiera batean, nahasgarriak suertatuko zaizkizu. Baina denak hartuko du zentzua bere unean.\n\n\tErabili sakelako erlojua ontzian zeuden lagun guztien nortasuna eta patua argitzeko. Osatu kapitulu bakoitza zehaztasunez, eta bueltatu liburua posta zertifikatuz Frantziako Kanpo Aferen Marokoko Bulegora.\n\n\t«Tratua» kapitulua ezin izango duzu argitu. Xehetasunak ondo dakizkidan arren, oraingoz niretzako gordeko dut istorioaren zati hori."
+      },
+      {
+        "key": "book_chapter_withheld",
+        "val": "Kapitulu hau ezkutuan mantenduko dut ontzitik atera eta liburua niri bueltatu artean. - H.E."
+      },
+      {
+        "key": "book_congrats",
+        "val": "Istorio hau zeurea duzu. Arren, osa ezazu. - H.E."
+      },
+      {
+        "key": "book_numeral_1",
+        "val": "I"
+      },
+      {
+        "key": "book_numeral_2",
+        "val": "II"
+      },
+      {
+        "key": "book_numeral_3",
+        "val": "III"
+      },
+      {
+        "key": "book_numeral_4",
+        "val": "IV"
+      },
+      {
+        "key": "book_numeral_5",
+        "val": "V"
+      },
+      {
+        "key": "book_numeral_6",
+        "val": "VI"
+      },
+      {
+        "key": "book_numeral_7",
+        "val": "VII"
+      },
+      {
+        "key": "book_numeral_8",
+        "val": "VIII"
+      },
+      {
+        "key": "book_numeral_9",
+        "val": "IX"
+      },
+      {
+        "key": "book_numeral_10",
+        "val": "X"
+      },
+      {
+        "key": "book_chapter_0_toc",
+        "val": "Zama askatua"
+      },
+      {
+        "key": "book_chapter_0_head",
+        "val": "I. ZAMA ASKATUA"
+      },
+      {
+        "key": "book_chapter_0_name",
+        "val": "ZAMA ASKATUA"
+      },
+      {
+        "key": "book_chapter_1_toc",
+        "val": "Hotz gordina"
+      },
+      {
+        "key": "book_chapter_1_head",
+        "val": "II. HOTZ GORDINA"
+      },
+      {
+        "key": "book_chapter_1_name",
+        "val": "HOTZ GORDINA"
+      },
+      {
+        "key": "book_chapter_2_toc",
+        "val": "Erailketa"
+      },
+      {
+        "key": "book_chapter_2_head",
+        "val": "III. ERAILKETA"
+      },
+      {
+        "key": "book_chapter_2_name",
+        "val": "ERAILKETA"
+      },
+      {
+        "key": "book_chapter_3_toc",
+        "val": "Deia"
+      },
+      {
+        "key": "book_chapter_3_head",
+        "val": "IV. DEIA"
+      },
+      {
+        "key": "book_chapter_3_name",
+        "val": "DEIA"
+      },
+      {
+        "key": "book_chapter_4_toc",
+        "val": "Infernuko gatibuak"
+      },
+      {
+        "key": "book_chapter_4_head",
+        "val": "V. INFERNUKO GATIBUAK"
+      },
+      {
+        "key": "book_chapter_4_name",
+        "val": "INFERNUKO GATIBUAK"
+      },
+      {
+        "key": "book_chapter_5_toc",
+        "val": "Itsasoko gudariak"
+      },
+      {
+        "key": "book_chapter_5_head",
+        "val": "VI. ITSASOKO GUDARIAK"
+      },
+      {
+        "key": "book_chapter_5_name",
+        "val": "ITSASOKO GUDARIAK"
+      },
+      {
+        "key": "book_chapter_6_toc",
+        "val": "Hondamendia"
+      },
+      {
+        "key": "book_chapter_6_head",
+        "val": "VII. HONDAMENDIA"
+      },
+      {
+        "key": "book_chapter_6_name",
+        "val": "HONDAMENDIA"
+      },
+      {
+        "key": "book_chapter_7_toc",
+        "val": "Tratua"
+      },
+      {
+        "key": "book_chapter_7_head",
+        "val": "VIII. TRATUA"
+      },
+      {
+        "key": "book_chapter_7_name",
+        "val": "TRATUA"
+      },
+      {
+        "key": "book_chapter_8_toc",
+        "val": "Ihesa"
+      },
+      {
+        "key": "book_chapter_8_head",
+        "val": "IX. IHESA"
+      },
+      {
+        "key": "book_chapter_8_name",
+        "val": "IHESA"
+      },
+      {
+        "key": "book_chapter_9_toc",
+        "val": "Amaiera"
+      },
+      {
+        "key": "book_chapter_9_head",
+        "val": "X. AMAIERA"
+      },
+      {
+        "key": "book_chapter_9_name",
+        "val": "AMAIERA"
+      },
+      {
+        "key": "book_toc_contents",
+        "val": "Aurkibidea"
+      },
+      {
+        "key": "book_toc_chapters",
+        "val": "KAPITULUAK"
+      },
+      {
+        "key": "book_toc_chart",
+        "val": "Bidaia"
+      },
+      {
+        "key": "book_toc_deck",
+        "val": "Ontzia"
+      },
+      {
+        "key": "book_toc_crew",
+        "val": "Eskifaia"
+      },
+      {
+        "key": "book_toc_sketch",
+        "val": "Bizitza itsasoan (zirriborroak)"
+      },
+      {
+        "key": "book_toc_glossary",
+        "val": "Glosarioa"
+      },
+      {
+        "key": "book_toc_last",
+        "val": "Kontrazala"
+      },
+      {
+        "key": "dialog_chapter",
+        "val": "<size=20>$chapter_num. KAPITULUA</size>\n<size=40>$chapter_name</size>\n<size=20>$part_num/$part_max. ATALA</size>"
+      },
+      {
+        "key": "dialog_next",
+        "val": "HURRENGOA"
+      },
+      {
+        "key": "dialog_ellipses",
+        "val": "…"
+      },
+      {
+        "key": "quote_open",
+        "val": "«"
+      },
+      {
+        "key": "quote_close",
+        "val": "»"
+      },
+      {
+        "key": "book_part_num",
+        "val": "$0. ATALA"
+      },
+      {
+        "key": "book_conclusion",
+        "val": "ITXIERA"
+      },
+      {
+        "key": "book_head_chart",
+        "val": "BIDAIA"
+      },
+      {
+        "key": "book_head_deck",
+        "val": "ONTZIA"
+      },
+      {
+        "key": "book_head_crew",
+        "val": "ESKIFAIA"
+      },
+      {
+        "key": "book_head_sketch",
+        "val": "BIZITZA ITSASOAN"
+      },
+      {
+        "key": "book_legend_openclose",
+        "val": "IREKI/ITXI LIBURUA"
+      },
+      {
+        "key": "book_legend_toc",
+        "val": "AURKIBIDEA"
+      },
+      {
+        "key": "book_caption_chart",
+        "val": "Ekialde Urrunerako itsasbidea"
+      },
+      {
+        "key": "book_caption_deck",
+        "val": "Obra Dinn-eko bizkarren planoak"
+      },
+      {
+        "key": "book_caption_manifest",
+        "val": "Ontziratze-zerrenda"
+      },
+      {
+        "key": "book_caption_sketch",
+        "val": "Obra Dinn-eko bizitzaren zirriborroak"
+      },
+      {
+        "key": "book_caption_corpse",
+        "val": "Gorpuaren kokapena"
+      },
+      {
+        "key": "book_caption_corpses",
+        "val": "Gorpuen kokapena"
+      },
+      {
+        "key": "book_caption_corpsemoved",
+        "val": "Gorpua hil ondoren lekualdatu zen"
+      },
+      {
+        "key": "book_caption_corpsegone",
+        "val": "Beste gorpu baten bidez soilik eskuragai"
+      },
+      {
+        "key": "book_caption_others_zero",
+        "val": "Ez zegoen lekukorik"
+      },
+      {
+        "key": "book_caption_others_one",
+        "val": "Lekuko bakarra egon zen"
+      },
+      {
+        "key": "book_caption_others_many",
+        "val": "$0 lekuko egon ziren"
+      },
+      {
+        "key": "book_hint_arrows",
+        "val": "* GEZIEK DENBORAREN FLUXUA ADIERAZTEN DUTE"
+      },
+      {
+        "key": "book_dontleave",
+        "val": "Irten aurretik, jarraitu liburuaren bukaeraraino."
+      },
+      {
+        "key": "disappeared_title",
+        "val": "DESAGERTZEAK"
+      },
+      {
+        "key": "disappeared_title2",
+        "val": "DESAGERTZEAK (jarr.)"
+      },
+      {
+        "key": "disappeared_text_d030",
+        "val": "Bi arima setatsu desagertu ziren kapitulu honetako gertakarietan. Haien patuak hemen katalogatu dira."
+      },
+      {
+        "key": "disappeared_text_d060",
+        "val": "Zazpi arima setasu desagertu ziren kapitulu honetako gertakarietan. Haien patuak hemen katalogatu dira."
+      },
+      {
+        "key": "disappeared_text_d080",
+        "val": "Lau arima setasu desagertu ziren kapitulu honetako gertakarietan. Haien patuak hemen katalogatu dira."
+      },
+      {
+        "key": "location_room_captain_outside",
+        "val": "KAPITAINaren GANBARA (kanpoan)"
+      },
+      {
+        "key": "location_room_captain_inside",
+        "val": "KAPITAINaren GANBARA (barruan)"
+      },
+      {
+        "key": "location_room_mate1_window",
+        "val": "LEHEN OFIZIALAREN KAMAROTEA (kanpoan)"
+      },
+      {
+        "key": "location_deck_main",
+        "val": "BIZKAR NAGUSIA"
+      },
+      {
+        "key": "location_deck_gun",
+        "val": "ARMA- BIZKARRA"
+      },
+      {
+        "key": "location_deck_gun_aft",
+        "val": "ARMA- BIZKARRA (TXOPA)"
+      },
+      {
+        "key": "location_deck_gun_bow",
+        "val": "BRANKA"
+      },
+      {
+        "key": "location_room_midshipmen",
+        "val": "ALFEREZEN KABINA"
+      },
+      {
+        "key": "location_room_officermess",
+        "val": "OFIZIALEN JANTOKIA"
+      },
+      {
+        "key": "location_deck_poop",
+        "val": "TXOPAKO GAZTELUA"
+      },
+      {
+        "key": "location_deck_orlop",
+        "val": "ZUBI FALTSUA"
+      },
+      {
+        "key": "location_room_surgeon",
+        "val": "ERIZAIN- DEGIA"
+      },
+      {
+        "key": "location_deck_orlop_walk",
+        "val": "ABABORREKO PASABIDEA"
+      },
+      {
+        "key": "location_deck_cargo",
+        "val": "SOTOA"
+      },
+      {
+        "key": "location_rigging",
+        "val": "APARAILUA"
+      },
+      {
+        "key": "location_room_lazarette",
+        "val": "LAZARETOA"
+      },
+      {
+        "key": "location_sea_open",
+        "val": "ITSAS ZABALA"
+      },
+      {
+        "key": "location_sea_port",
+        "val": "ABABORRA"
+      },
+      {
+        "key": "memories_zero",
+        "val": "Oroitzapenik ez"
+      },
+      {
+        "key": "memories_one",
+        "val": "Oroitzapen 1"
+      },
+      {
+        "key": "memories_many",
+        "val": "$0 oroitzapen"
+      },
+      {
+        "key": "bookmarked_title_one",
+        "val": "Arima hau oroitzapen bakarrean azaltzen da"
+      },
+      {
+        "key": "bookmarked_title_many",
+        "val": "Arima hau $0 oroitzapenetan azaltzen da"
+      },
+      {
+        "key": "bookmarked_unknown",
+        "val": "Identifikatu gabeko arima"
+      },
+      {
+        "key": "bookmarked_first",
+        "val": "Aurreneko oroitzapena"
+      },
+      {
+        "key": "bookmarked_mark",
+        "val": "Markatu oroitzapenak"
+      },
+      {
+        "key": "bookmarked_clear",
+        "val": "Kendu orri-markatzaileak"
+      },
+      {
+        "key": "bookmarked_marked_one",
+        "val": "Oroitzapen bat markatuta"
+      },
+      {
+        "key": "bookmarked_marked_many",
+        "val": "$0 oroitzapen markatuta"
+      },
+      {
+        "key": "bookmarked_death",
+        "val": "Heriotza: «$chapter $part»"
+      },
+      {
+        "key": "bookmarked_disappear",
+        "val": "Desagerketa: «$chapter»"
+      },
+      {
+        "key": "bookmarked_gosketch",
+        "val": "«$sketch» zirriborroan azaltzen da"
+      },
+      {
+        "key": "bookmarked_godeck",
+        "val": "Erakutsi oroitzapenak planoan"
+      },
+      {
+        "key": "bookmarked_next",
+        "val": "Hurrengo oroitzapena"
+      },
+      {
+        "key": "bookmarked_prev",
+        "val": "Aurreko oroitzapena"
+      },
+      {
+        "key": "chooseface_title",
+        "val": "Nor da $subject?"
+      },
+      {
+        "key": "sketch_dance",
+        "val": "Bidean"
+      },
+      {
+        "key": "sketch_formosans",
+        "val": "Formosako erregetza"
+      },
+      {
+        "key": "sketch_justice",
+        "val": "Justizia itsasoan"
+      },
+      {
+        "key": "deck_maindeck",
+        "val": "BIZKAR NAGUSIA"
+      },
+      {
+        "key": "deck_gundeck",
+        "val": "ARMA-BIZKARRA"
+      },
+      {
+        "key": "deck_orlopdeck",
+        "val": "ZUBI FALTSUA"
+      },
+      {
+        "key": "deck_cargodeck",
+        "val": "SOTOA"
+      },
+      {
+        "key": "deck_captainsquarters",
+        "val": "Kapitainaren\nganbara"
+      },
+      {
+        "key": "deck_passengerrooms",
+        "val": "Bidaiarien\ngelak"
+      },
+      {
+        "key": "deck_mate1",
+        "val": "Lehen\nofiziala"
+      },
+      {
+        "key": "deck_mate3",
+        "val": "Hirugarren\nofiziala"
+      },
+      {
+        "key": "deck_stewards",
+        "val": "Zerbitzariak"
+      },
+      {
+        "key": "deck_midshipmen",
+        "val": "Alferezak"
+      },
+      {
+        "key": "deck_mate2",
+        "val": "Bigarren\nofiziala"
+      },
+      {
+        "key": "deck_mate4",
+        "val": "Laugarren\nofiziala"
+      },
+      {
+        "key": "deck_bosun",
+        "val": "Kontramaisua"
+      },
+      {
+        "key": "deck_bosunmate",
+        "val": "Kondestablea"
+      },
+      {
+        "key": "deck_surgery",
+        "val": "Erizaindegia"
+      },
+      {
+        "key": "deck_crew",
+        "val": "Eskifaia"
+      },
+      {
+        "key": "deck_starboardwalk",
+        "val": "Istriborreko\npasabidea"
+      },
+      {
+        "key": "deck_carpentershop",
+        "val": "Aroztegia"
+      },
+      {
+        "key": "deck_purseroffice",
+        "val": "Kargazainaren denda"
+      },
+      {
+        "key": "deck_passengers",
+        "val": "Bidaiariak"
+      },
+      {
+        "key": "deck_portwalk",
+        "val": "Ababorreko\npasabidea"
+      },
+      {
+        "key": "deck_gunnerstore",
+        "val": "Armategia"
+      },
+      {
+        "key": "deck_captainscargo",
+        "val": "Kapitainaren sotoa"
+      },
+      {
+        "key": "deck_lazarette",
+        "val": "Lazaretoa"
+      },
+      {
+        "key": "deck_passengercargo",
+        "val": "Bidaiarien sotoa"
+      },
+      {
+        "key": "deck_bosunstore",
+        "val": "Kontramaisuaren biltegia"
+      },
+      {
+        "key": "chart_europe",
+        "val": "EUROPA"
+      },
+      {
+        "key": "chart_africa",
+        "val": "AFRIKA"
+      },
+      {
+        "key": "chart_madeira",
+        "val": "MADEIRA"
+      },
+      {
+        "key": "chart_canaryislands",
+        "val": "KANARIAR\nUHARTEAK"
+      },
+      {
+        "key": "chart_capeverde",
+        "val": "CABO VERDE"
+      },
+      {
+        "key": "chart_azores",
+        "val": "AZOREAK"
+      },
+      {
+        "key": "manifest_name",
+        "val": "Izena"
+      },
+      {
+        "key": "manifest_job",
+        "val": "Maila"
+      },
+      {
+        "key": "manifest_origin",
+        "val": "Jatorria"
+      },
+      {
+        "key": "manifest_fate",
+        "val": "Patua"
+      },
+      {
+        "key": "noclues_title0",
+        "val": "Oraindik ez duzu pertsona honen nortasuna zehazteko behar beste informazio."
+      },
+      {
+        "key": "noclues_title1",
+        "val": "Nor da? Oraindik ezin da ziur ebatzi."
+      },
+      {
+        "key": "noclues_cancel",
+        "val": "Itxaron proba gehiago izan arte"
+      },
+      {
+        "key": "noclues_continue",
+        "val": "Saiatu halere"
+      },
+      {
+        "key": "noclues_explain",
+        "val": "Eskatu azalpenak"
+      },
+      {
+        "key": "noclues_explain_more",
+        "val": "Eskatu azalpenak…"
+      },
+      {
+        "key": "noclues_help",
+        "val": "Eskatu laguntza"
+      },
+      {
+        "key": "help_faceblur_intro0",
+        "val": "Pertsona honen aurpegia lausoturik azaltzen da liburuan zehar."
+      },
+      {
+        "key": "help_faceblur_intro1",
+        "val": "Lausotze honek esan nahi du oraindik ez duzula bere nortasuna argitzeko behar beste informazio."
+      },
+      {
+        "key": "help_faceblur_fate",
+        "val": "Bere patua argi dezakezu dagoeneko, eta orain idatzi."
+      },
+      {
+        "key": "help_faceblur_name",
+        "val": "Aurpegia lausoturik duenean bere izena asmatzen saiatzea alferlana da."
+      },
+      {
+        "key": "help_faceblur_outro0",
+        "val": "Egin aurrera eta jarri arreta."
+      },
+      {
+        "key": "help_faceblur_outro1",
+        "val": "Aurpegia garbi azalduko da identifikatu ahal izateko beharrezko informazioa eskuratzean."
+      },
+      {
+        "key": "help_faceclear_intro0",
+        "val": "Pertsona honen aurpegia dagoeneko garbi azaltzen da, orain identifikatu daitekeelako."
+      },
+      {
+        "key": "help_faceclear_intro1",
+        "val": "Erabili liburua eta sakelako erlojua bere nortasuna argitzeko behar beste informazio biltzeko."
+      },
+      {
+        "key": "help_faceclear_memories",
+        "val": "Pertsona hau azaltzen den oroitzapenak hemen ikus daitezke."
+      },
+      {
+        "key": "help_faceclear_bookmark",
+        "val": "Markatu bera azaltzen den oroitzapen guztiak, hauen artean bizkorrago nabigatzeko."
+      },
+      {
+        "key": "help_faceclear_bookmark2",
+        "val": "Erabili orriaren goialdeko botoiak orri-markatzaileak editatzeko eta hauen artean nabigatzeko."
+      },
+      {
+        "key": "help_faceclear_dialog",
+        "val": "Errepasatu orrialde bakoitzeko elkarrizketak, eta apuntatu aipatzen diren izenak."
+      },
+      {
+        "key": "help_faceclear_map",
+        "val": "Kontsultatu ontziko planoak, eta jarri arreta pertsona edo objektuak aurkitzen diren lekuetako etiketetan."
+      },
+      {
+        "key": "help_faceclear_sketch",
+        "val": "Ondorioztatu pertsonaien jatorria, kargua eta haien arteko lotura zirriborroak aztertuz."
+      },
+      {
+        "key": "help_faceclear_manifest",
+        "val": "Erabili ontziratze-zerrenda eskifaia eta bidaiariei buruzko informazio dena batera ikusteko."
+      },
+      {
+        "key": "help_faceclear_origins",
+        "val": "Pertsona baten jatorria bere hizkera edo itxura fisikoari begiratuz ere asma daiteke."
+      },
+      {
+        "key": "help_faceclear_jobs",
+        "val": "Pertsona bakoitzaren kargua ontziko zein lekutan dagoen ikusiz eta beste pertsonaiekin duen erlazioa aztertuz ere ondoriozta daiteke."
+      },
+      {
+        "key": "help_faceclear_nums",
+        "val": "Pertsona bakoitzaren ontziratze-zenbakia bakarra da, eta bera identifikatzeko erabil daiteke."
+      },
+      {
+        "key": "help_faceclear_pocketwatch",
+        "val": "Bueltatu aurrez ikusitako oroitzapenetara sakelako erlojua erabiliz eta aztertu erlazioak, agerpenak eta jarduerak."
+      },
+      {
+        "key": "help_faceclear_book",
+        "val": "Erabili planoak, ontziratze-zerrenda eta zirriborroak ($pages orrialdeak), eta baita elkarrizketak ere izen, erlazio, agerpen eta mailari buruzko aztarnak ateratzeko."
+      },
+      {
+        "key": "help_faceclear_elimination",
+        "val": "Zenbait nortasun ezabapenez soilik argi daitezke."
+      },
+      {
+        "key": "help_faceclear_fates_may",
+        "val": "Hau zuzena edo okerra izan daiteke."
+      },
+      {
+        "key": "help_faceclear_fates0",
+        "val": "Patuak hirunaka egiaztatzen dira."
+      },
+      {
+        "key": "help_faceclear_fates1",
+        "val": "Identifikatu zuzen gutxienez hiru pertsona eta haien patuak, eta informazioa liburuan inprimatuko da."
+      },
+      {
+        "key": "help_faceclear_fates0_easy",
+        "val": "Patuak binaka egiaztatzen dira."
+      },
+      {
+        "key": "help_faceclear_fates1_easy",
+        "val": "Identifikatu zuzen gutxienez bi pertsona eta haien patuak, eta informazioa liburuan inprimatuko da."
+      },
+      {
+        "key": "help_faceclear_outro0",
+        "val": "Ontzia Ingalaterratik irten zenean, 60 lagun zeramatzan barruan."
+      },
+      {
+        "key": "help_faceclear_outro1",
+        "val": "Guzti horien nortasuna argitzea ez da lan erraza izango."
+      },
+      {
+        "key": "help_faceclear_outro2",
+        "val": "Informazio erabakigarria gutxitan aurkitzen da."
+      },
+      {
+        "key": "help_faceclear_outro3",
+        "val": "Informazio partziala erabiliz atera beharko dituzu ondorioak."
+      },
+      {
+        "key": "help_faceclear_goodluck",
+        "val": "Zorte on."
+      },
+      {
+        "key": "help_difficulty0",
+        "val": "Honek ebazte maila adierazten du."
+      },
+      {
+        "key": "help_difficulty1",
+        "val": "Zenbat eta maila altuagoa, orduan eta zailagoa bere nortasuna zehaztea."
+      },
+      {
+        "key": "help_difficulty2",
+        "val": "Aurrena zentratu ebazteko errazenetan, eta utzi zailenak geroko."
+      },
+      {
+        "key": "help_title_heading",
+        "val": "GIDA"
+      },
+      {
+        "key": "help_title_deducing",
+        "val": "Pertsonak identifikatzea"
+      },
+      {
+        "key": "help_title_usingbook",
+        "val": "Liburuaren erabilera orokorra"
+      },
+      {
+        "key": "help_title_difficulty",
+        "val": "Ebazte maila"
+      },
+      {
+        "key": "help_title_fatescheck",
+        "val": "Patuen egiaztatzea"
+      },
+      {
+        "key": "help_title_bookmarks",
+        "val": "Orri-markatzailea"
+      },
+      {
+        "key": "help_zoom",
+        "val": "Mantendu sakatuta «Gerturatu» botoia aurpegiak aztertzeko."
+      },
+      {
+        "key": "help_zoombook",
+        "val": "Ireki liburua aurpegi bat aztertu bitartean eta dagokion zirriborrora joango da zuzenean."
+      },
+      {
+        "key": "help_watchbook",
+        "val": "Ireki liburua erlojua zabalik duzula eta uneari dagokion orrialdera joango da zuzenean."
+      },
+      {
+        "key": "book_glossary",
+        "val": "GLOSARIOA"
+      },
+      {
+        "key": "glossary_captain",
+        "val": "Kapitaina | Ontziaren kargu dagoen lehen mailako ofiziala. Bere ardura da gainontzeko ofizialak zuzentzea eta bidaiaren arrakasta eta segurtasuna bermatzea."
+      },
+      {
+        "key": "glossary_mate",
+        "val": "Ofizialak | Ontziaren kontrolean laguntzen dute, kapitainaren agindu zuzenak jarraituz."
+      },
+      {
+        "key": "glossary_bosun",
+        "val": "Kontramaisua | Eskifaiaren operazio orokorretaz eta ontziak nabigatzeko behar duen ekipamenduaz arduratzen da. Kondestablea da bere zerbitzaria."
+      },
+      {
+        "key": "glossary_gunner",
+        "val": "Arma-maisua | Ontziko armen eta prozedura militarren kargu dagoen ofizial militarra."
+      },
+      {
+        "key": "glossary_purser",
+        "val": "Kargazaina | [alt. Sobrekargua] Ofizial administratiboa. Zamaren balioa eta salerosketa komertzialak bere kargu daude. Eskifaiarentzako salgaien denda txiki bat kudeatzen du."
+      },
+      {
+        "key": "glossary_surgeon",
+        "val": "Zirujaua | Ontziko sendagilea, eskifaiaren osasunaren kargu dago. Osasun arreta eskaini eta beharrezko prozedura medikoak burutzeko gai da."
+      },
+      {
+        "key": "glossary_carpenter",
+        "val": "Arotza | Ontziaren zurezko egituren osotasuna mantentzeaz arduratzen da."
+      },
+      {
+        "key": "glossary_helmsman",
+        "val": "Lemazaina | Ontziaren lema kontrolatu eta unean uneko nabigazioaz arduratzen den marinel gailena."
+      },
+      {
+        "key": "glossary_steward",
+        "val": "Zerbitzariak | Eskifaiaren goi-karguen morroiak, haientzako era guztietako ataza orokorrak burutzen dituzte."
+      },
+      {
+        "key": "glossary_midshipman",
+        "val": "Alferezak | Ofizial izateko trebatzen ari diren eskifaia-kideak. Ofizialak eta beste goi-karguak laguntzen dituzte ontziko operazioei buruz ikasteko. Klase pribilegiatukoak izan ohi dira."
+      },
+      {
+        "key": "glossary_topman",
+        "val": "Gabikoak | [alt. Gabizainak] Oihalekin eta aparailuarekin loturiko lanak burutzen espezializatutako maila ertaineko marinelak."
+      },
+      {
+        "key": "glossary_seaman",
+        "val": "Marinela | Bizkar gainean eta bizkarpean era guztietako eskulanak burutzen dituen maila baxuko eskifaia-kidea."
+      },
+      {
+        "key": "glossary_rigging",
+        "val": "Aparailua | Mastak eusteko eta oihalak kontrolatzeko erabilitako estai edo soka eta kateen sarea."
+      },
+      {
+        "key": "glossary_maindeck",
+        "val": "Bizkar nagusia | Ontziaren goiko bizkarra, eguratsaren erasoak jasaten dituena."
+      },
+      {
+        "key": "glossary_gundeck",
+        "val": "Arma-bizkarra | Kanoiak biltzen dituen bizkarra, hauekin tirokatzeko kroskoan zehar kanoi-zuloak dituelarik."
+      },
+      {
+        "key": "glossary_orlopdeck",
+        "val": "Zubi faltsua | Bizkar baxuenaren gainean kokatua. Bertan aurkitzen da zamaren parte bat, gela eta kabinak, animalien ixtegia eta lemakana."
+      },
+      {
+        "key": "glossary_cargodeck",
+        "val": "Sotoa | Bizkar baxuena, ontziaren materialak eta zamak biltegiratzeko erabilia."
+      },
+      {
+        "key": "credits_dad",
+        "val": "Nire aitari"
+      },
+      {
+        "key": "credits_main",
+        "val": "Programazioa, diseinua, artea, soinua eta musika"
+      },
+      {
+        "key": "credits_thanks",
+        "val": "Esker bereziak"
+      },
+      {
+        "key": "credits_consult",
+        "val": "Hizkuntza aholkularitza"
+      },
+      {
+        "key": "credits_consult_taiwanese",
+        "val": "Taiwaneran aholkularitza, itzulpenak eta kudeaketa"
+      },
+      {
+        "key": "credits_consult_english",
+        "val": "Ingeles britainiarra"
+      },
+      {
+        "key": "credits_consult_swedish",
+        "val": "Suediera"
+      },
+      {
+        "key": "credits_consult_danish",
+        "val": "Daniera"
+      },
+      {
+        "key": "credits_consult_hindi",
+        "val": "Hindia"
+      },
+      {
+        "key": "credits_consult_russian",
+        "val": "Errusiera"
+      },
+      {
+        "key": "credits_loc_manage",
+        "val": "Itzulpenen kudeaketa"
+      },
+      {
+        "key": "credits_loc_spanish",
+        "val": "Itzulpena gaztelaniara"
+      },
+      {
+        "key": "credits_loc_german",
+        "val": "Itzulpena alemanera"
+      },
+      {
+        "key": "credits_loc_french",
+        "val": "Itzulpena frantsesera"
+      },
+      {
+        "key": "credits_loc_italian",
+        "val": "Itzulpena italierara"
+      },
+      {
+        "key": "credits_loc_polish",
+        "val": "Itzulpena polonierara"
+      },
+      {
+        "key": "credits_loc_portuguese",
+        "val": "Itzulpena portugesera (Brasil)"
+      },
+      {
+        "key": "credits_loc_russian",
+        "val": "Itzulpena errusierara"
+      },
+      {
+        "key": "credits_loc_chinese_t",
+        "val": "Itzulpena txinera tradizionalera"
+      },
+      {
+        "key": "credits_loc_chinese_s",
+        "val": "Itzulpena txinera sinplifikatura"
+      },
+      {
+        "key": "credits_loc_japanese",
+        "val": "Itzulpena japonierara"
+      },
+      {
+        "key": "credits_loc_korean",
+        "val": "Itzulpena koreerara"
+      },
+      {
+        "key": "credits_loc_ukrainian",
+        "val": "Itzulpena ukrainerara"
+      },
+      {
+        "key": "credits_loc_arabic",
+        "val": "Itzulpena arabierara"
+      },
+      {
+        "key": "credits_voice",
+        "val": "Bikoizketa"
+      },
+      {
+        "key": "credits_voice_manage",
+        "val": "Voices.com-eko castinga"
+      },
+      {
+        "key": "credits_voice_add",
+        "val": "Beste ahotsak"
+      },
+      {
+        "key": "credits_voice_rower",
+        "val": "Txalupa gidaria"
+      },
+      {
+        "key": "credits_voice_house",
+        "val": "Giltzaria"
+      },
+      {
+        "key": "credits_voice_player",
+        "val": "Ikuskatzailea"
+      },
+      {
+        "key": "credits_models",
+        "val": "Animalien modeloak"
+      },
+      {
+        "key": "credits_models_farmanimals",
+        "val": "Baserriko abereak"
+      },
+      {
+        "key": "credits_models_monkey",
+        "val": "Tximua"
+      },
+      {
+        "key": "credits_models_cowskull",
+        "val": "Behiaren burezurra"
+      },
+      {
+        "key": "credits_testing",
+        "val": "Probak"
+      },
+      {
+        "key": "credits_thanks_extra",
+        "val": "Eskerrik asko ere"
+      },
+      {
+        "key": "credits_playing",
+        "val": "Milesker jolasteagatik!"
+      },
+      {
+        "key": "credits_copyright",
+        "val": "© 2014-2018, 3909 LLC.\nEskubide guztiak gordeta."
+      },
+      {
+        "key": "ach_ending_good",
+        "val": "Obra Egina"
+      },
+      {
+        "key": "ach_ending_good_desc",
+        "val": "Liburu guztia osatu."
+      },
+      {
+        "key": "ach_ending_bad",
+        "val": "Ontzia abandonatu"
+      },
+      {
+        "key": "ach_ending_bad_desc",
+        "val": "Utzi ontzia kapitulu eskuragai guztiak osatu gabe."
+      },
+      {
+        "key": "ach_solvedchapter_desc",
+        "val": "Argitu $numeral. kapituluko patu guztiak."
+      },
+      {
+        "key": "ach_killercaptain",
+        "val": "Kapitaina izan zen"
+      },
+      {
+        "key": "ach_killercaptain_desc",
+        "val": "Gutxi gora-beherako egia, Konpainiaren eta Koroaren ustez, behintzat."
+      },
+      {
+        "key": "ach_solvedany",
+        "val": "Argitu $count"
+      },
+      {
+        "key": "ach_solvedany_desc",
+        "val": "Argitu $count patu."
+      },
+      {
+        "key": "fate_unknown_die",
+        "val": "Nor da?\nNola hil zen?"
+      },
+      {
+        "key": "fate_unknown_disappear",
+        "val": "Nor da?\nZein izan zen bere patua?"
+      },
+      {
+        "key": "fate_killer_notpresent",
+        "val": "$subject ez zegoen bertan arima gajo hau hil zenean, ezbairik gabe."
+      },
+      {
+        "key": "fate_noncrew_d000-stow-m01-stowaway",
+        "val": "Polizoi ezezagun bat, doako itsas zeharkaldi baten eta askatasunaren esperoan, birrinduta hil zen gordelekutzat hartu zuen upela erortzean."
+      },
+      {
+        "key": "fate_noncrew_d010-cold-m02-cow",
+        "val": "Behi handi bat bere okelagatik sakrifikatua izan zen."
+      },
+      {
+        "key": "fate_noncrew_d050-ride-m07-carp",
+        "val": "Munstro izugarri bat zendu zen arima adoretsu baina zoritxarreko batekin batera."
+      },
+      {
+        "key": "fate_noncrew_d070-save-m01-mermaid3",
+        "val": "Izaki madarikatu baten orroa erronkariek bala hilgarri bat izan zuten erantzun gisa."
+      },
+      {
+        "key": "fate_noncrew_d070-save-m02-mermaid2",
+        "val": "Piztia gatibu bat bere kartzelariaren aurka borrokatu zen eta arpoikada bat jaso zuen trukean."
+      },
+      {
+        "key": "fate_noncrew_d070-save-m04-monkey",
+        "val": "Tximino lagunkoi baina ez oso atsegingarri bat sakrifikatua izan zen ezagutza erdiesteko."
+      },
+      {
+        "key": "tally_title",
+        "val": "EKIALDEKO INDIETAKO\nKONPAINIA OHORAGARRIA"
+      },
+      {
+        "key": "tally_assessment",
+        "val": "ASEGURU-ETXEAREN TXOSTENA\n«OBRA DINN»\nontzi onari buruz,\nzeina itsas zabalean zorigaitzen biktima izan baitzen."
+      },
+      {
+        "key": "tally_preparer",
+        "val": "Konpainiaren Ikerkuntza Bulegoak osatua"
+      },
+      {
+        "key": "tally_approved",
+        "val": "Txosten honen hasierako zirriborroa Errege Etxearen merkataritza-bermatzaile batek onartua izan da."
+      },
+      {
+        "key": "tally_total",
+        "val": "GUZTIRA ERREKLAMATUA: $amount"
+      },
+      {
+        "key": "tally_certify",
+        "val": "Ekialdeko Indietako Konpainia Ohoragarriaren izenean, ziurtatzen dut aitorpen guztiak zuzenak direla eta afera itxitzat ematen dut bere osotasunean:"
+      },
+      {
+        "key": "tally_investigator",
+        "val": "Konpainiako Ikuskatzaile Burua."
+      },
+      {
+        "key": "tally_amount",
+        "val": "$number £"
+      },
+      {
+        "key": "tally_amount_separator",
+        "val": ","
+      },
+      {
+        "key": "tally_claim",
+        "val": "ESKAERA"
+      },
+      {
+        "key": "tally_ship",
+        "val": "Ontzia"
+      },
+      {
+        "key": "tally_ship_info",
+        "val": "Haizealdiak kaltetua, Atlantikoan. Enbatak hondoratua, Falmouth-en. Erreklamatutako kopurua: $amount."
+      },
+      {
+        "key": "tally_cargo_company",
+        "val": "Zama (Konpainia)"
+      },
+      {
+        "key": "tally_cargo_company_info",
+        "val": "Zama guztia galdu da. Erreklamatutako kopurua: $amount."
+      },
+      {
+        "key": "tally_cargo_crown",
+        "val": "Zama (Koroa)"
+      },
+      {
+        "key": "tally_cargo_crown_info",
+        "val": "Zama guztia galdu da. Erreklamatutako kopurua: $amount."
+      },
+      {
+        "key": "tally_join_major",
+        "val": "._"
+      },
+      {
+        "key": "tally_join_minor",
+        "val": ";_"
+      },
+      {
+        "key": "tally_fate",
+        "val": "Patua: $summary"
+      },
+      {
+        "key": "tally_crime",
+        "val": "Delitu probak: $findings"
+      },
+      {
+        "key": "tally_crime_murder",
+        "val": "Eskifaia-kidearen erailketa ($countx)"
+      },
+      {
+        "key": "tally_crime_mutiny",
+        "val": "Matxinada saiakera"
+      },
+      {
+        "key": "tally_crime_theft",
+        "val": "Zama lapurtzea"
+      },
+      {
+        "key": "tally_merit",
+        "val": "Meritu probak: $findings"
+      },
+      {
+        "key": "tally_merit_valor",
+        "val": "Ezohiko adorea"
+      },
+      {
+        "key": "tally_merit_duties",
+        "val": "Jarduera bikaina"
+      },
+      {
+        "key": "tally_demerit",
+        "val": "Demeritu probak: $findings"
+      },
+      {
+        "key": "tally_demerit_abandon",
+        "val": "Eskifaia eta ontzia abandonatzea"
+      },
+      {
+        "key": "tally_demerit_duties",
+        "val": "Egitekoak burutzean huts egitea"
+      },
+      {
+        "key": "tally_estate_none",
+        "val": "Erreklamaziorik ez."
+      },
+      {
+        "key": "tally_estate_wages",
+        "val": "Oinordekoentzako soldata bereziak: $amount"
+      },
+      {
+        "key": "tally_estate_wages_reward",
+        "val": "Oinordekoentzako soldata eta ordainsari bereziak: $amount"
+      },
+      {
+        "key": "tally_estate_fined",
+        "val": "Oinordekoentzako isuna: $amount"
+      },
+      {
+        "key": "tally_estate_unknown_wages",
+        "val": "Oinordeko ezezagunak. Pentsio-funtsera gehitzeko soldata bereziak: $amount"
+      },
+      {
+        "key": "tally_estate_unknown_wages_reward",
+        "val": "Oinordeko ezezagunak. Pentsio-funtsera gehitzeko soldata eta ordainsari bereziak: $amount"
+      },
+      {
+        "key": "tally_estate_unknown_fined",
+        "val": "Oinordeko ezezagunak. Erreklamatutako isuna: $amount"
+      },
+      {
+        "key": "tally_estate_forfeit",
+        "val": "Herentzia Koroari emana."
+      },
+      {
+        "key": "tally_parting_watch",
+        "val": "Sakelako erlojuak zure eskuetan jarraitzen du."
+      },
+      {
+        "key": "tally_parting_book",
+        "val": "Liburua bere jatorrizko jabeagana bueltatuko duzu, Henry Evans-engana, Marokora, hark eskatu bezala."
+      },
+      {
+        "key": "office_letter_win",
+        "val": "Ikuskatzaile Buru jn./and.,\n\n\tAlbiste lazgarri baten berri emateko idazten dizut: Evans doktorea zendu da. Zure paketea jaso eta gutxira galdu zuen gaixotasunaren aurkako borroka.\n\tBiziki poztu zuen zure gutunak, eta bere esker onaren adierazgarri gisa liburua itzul ziezazugun eskatu zuen, berau osatzeko baliabideekin batera.\n\tGelditzen garen beste hiruroi dagokigunez, Obra Dinn-a oroitzapen lausoa eta bizitzako atal zorigaitzekoa baizik ez da dagoeneko, betiko ahaztu nahi duguna. \n\tEz idatzi bueltan.\n\nAdeitasunez,\n\tJane Bird"
+      },
+      {
+        "key": "office_letter_mid",
+        "val": "Ikuskatzaile Buru jn./and.,\n\n\tAlbiste lazgarri baten berri emateko idazten dizut: Evans doktorea zendu da. Zure paketea jaso eta gutxira galdu zuen gaixotasunaren aurkako borroka.\n\tLiburua erabat osaturik egon ez arren, eginiko saiakeragatik bere esker ona emateko eskatu zidan. Argi zeukan burutu beharreko lanaren zailtasuna, eta liburua osaturik ikusteko zeukan azken desira nekez beteko zela.\n\tObra Dinn-eko kalbario izugarritik bizirik irten ginen laurotatik, hiru gelditzen gara orain.\n\tGustura gaude Marokon daramagun bizitzarekin, eta ez dugu eskutitz gehiagorik jaso nahi.\n\nAdeitasunez,\n\tJane Bird"
+      },
+      {
+        "key": "office_letter_fail",
+        "val": "Ikuskatzaile Buru jn./and.,\n\n\tAlbiste lazgarri baten berri emateko idazten dizut: Evans doktorea zendu da. Zure paketea jaso eta gutxira galdu zuen gaixotasunaren aurkako borroka.\n\tOsasunez oso ahul zegoen arren, Obra Dinn-aren liburua horren egoera osagabean jasotzeak horrenbeste bihozgabetu zuen, ezin izan zuela bizitzarekin aurrera egin.\n\tBere azken uneak damuz eman zituen, horren zeregin garrantzitsua zure eskuetan jarri izanagatik.\n\nAdeitasunez,\n\tJane Bird"
+      },
+      {
+        "key": "store_tagline",
+        "val": "Aseguruei buruzko abentura, kolore minimoekin"
+      },
+      {
+        "key": "store_description_long",
+        "val": "1802an, Obra Dinn merkataritza-ontzia Londresetik Ekialderantz abiatu zen, 200 tonatik gora salgairekin. Sei hilabete geroago, Esperantza Oneko lurmuturreko helburura iritsi gabe, itsasoan galdutzat eman zen. \n\nGaur, 1807ko urriaren 14ko goizean, Obra Dinn-a Falmouth-eko kaian lurreratu da hondaturiko belekin eta eskifaiarik gabe. Ekialdeko Indietako Konpainiaren Londreseko bulegoan aseguru-ikuskatzaile gisa, Falmouth-era abiatu behar duzu berehala, ontziratzea lortu eta kalteen txostena prestatu.\n\nReturn of the Obra Dinn misteriozko abentura da lehenengo pertsonan, esplorazioa eta ebazpen logikoa oinarritzat duena."
+      },
+      {
+        "key": "store_description_short",
+        "val": "Itsasoan galdua ~ Obra Dinn ontzi ona."
+      },
+      {
+        "key": "store_mature",
+        "val": "Joko honek era pasiboan erakusten ditu heriotza eta bortxa, izozturiko 3D eszenetan."
+      },
+      {
+        "key": "crew_name_captain",
+        "val": "Robert Witterel | R. Witterel"
+      },
+      {
+        "key": "crew_name_mate1",
+        "val": "William Hoscut | W. Hoscut"
+      },
+      {
+        "key": "crew_name_mate2",
+        "val": "Edward Nichols | E. Nichols"
+      },
+      {
+        "key": "crew_name_mate3",
+        "val": "Martin Perrott | M. Perrott"
+      },
+      {
+        "key": "crew_name_mate4",
+        "val": "John Davies | J. Davies"
+      },
+      {
+        "key": "crew_name_bosun",
+        "val": "Alfred Klestil | A. Klestil"
+      },
+      {
+        "key": "crew_name_bosunmate",
+        "val": "Charles Miner | C. Miner"
+      },
+      {
+        "key": "crew_name_surgeon",
+        "val": "Henry Evans | H. Evans"
+      },
+      {
+        "key": "crew_name_surgeonmate",
+        "val": "James Wallace | J. Wallace"
+      },
+      {
+        "key": "crew_name_carp",
+        "val": "Winston Smith | W. Smith"
+      },
+      {
+        "key": "crew_name_carpmate",
+        "val": "Marcus Gibbs | M. Gibbs"
+      },
+      {
+        "key": "crew_name_cook",
+        "val": "Thomas Sefton | T. Sefton"
+      },
+      {
+        "key": "crew_name_butcher",
+        "val": "Emil O’Farrell | E. O’Farrel"
+      },
+      {
+        "key": "crew_name_gunner",
+        "val": "Christian Wolff | C. Wolff"
+      },
+      {
+        "key": "crew_name_gunnermate",
+        "val": "Olus Wiater | O. Wiater"
+      },
+      {
+        "key": "crew_name_purser",
+        "val": "Duncan McKay | D. McKay"
+      },
+      {
+        "key": "crew_name_sea9",
+        "val": "Finley Dalton | F. Dalton"
+      },
+      {
+        "key": "crew_name_pass5",
+        "val": "Edward Spratt | E. Spratt"
+      },
+      {
+        "key": "crew_name_pass1",
+        "val": "Abigail Hoscut Witterel | A.H. Witterel"
+      },
+      {
+        "key": "crew_name_pass2",
+        "val": "Nunzio Pasqua | N. Pasqua"
+      },
+      {
+        "key": "crew_name_pass3",
+        "val": "Emily Jackson | E. Jackson"
+      },
+      {
+        "key": "crew_name_pass4",
+        "val": "Jane Bird andereñoa | J. Bird"
+      },
+      {
+        "key": "crew_name_pass6",
+        "val": "Bun-Lan Lim | B. Lim"
+      },
+      {
+        "key": "crew_name_pass7",
+        "val": "It-Beng Sia | I. Sia"
+      },
+      {
+        "key": "crew_name_pass8",
+        "val": "Chioh Tan | C. Tan"
+      },
+      {
+        "key": "crew_name_pass9",
+        "val": "Hok-Seng Lau | H. Lau"
+      },
+      {
+        "key": "crew_name_stewship",
+        "val": "Zungi Sathi | Z. Sathi"
+      },
+      {
+        "key": "crew_name_stewcap",
+        "val": "Fillip Dahl | F. Dahl"
+      },
+      {
+        "key": "crew_name_stewm1",
+        "val": "Paul Moss | P. Moss"
+      },
+      {
+        "key": "crew_name_stewm2",
+        "val": "Samuel Galligan | S. Galligan"
+      },
+      {
+        "key": "crew_name_stewm3",
+        "val": "Roderick Andersen | R. Andersen"
+      },
+      {
+        "key": "crew_name_stewm4",
+        "val": "Davey James | D. James"
+      },
+      {
+        "key": "crew_name_mid1",
+        "val": "Peter Milroy | P. Milroy"
+      },
+      {
+        "key": "crew_name_mid2",
+        "val": "Thomas Lanke | T. Lanke"
+      },
+      {
+        "key": "crew_name_mid3",
+        "val": "Charles Hershtik | C. Hershtik"
+      },
+      {
+        "key": "crew_name_top5",
+        "val": "Omid Gul | O. Gul"
+      },
+      {
+        "key": "crew_name_top6",
+        "val": "Timothy Butement | T. Butement"
+      },
+      {
+        "key": "crew_name_top1",
+        "val": "Huang Li | H. Li"
+      },
+      {
+        "key": "crew_name_top4",
+        "val": "Jie Zhang | J. Zhang"
+      },
+      {
+        "key": "crew_name_top7",
+        "val": "Li Hong | L. Hong"
+      },
+      {
+        "key": "crew_name_top8",
+        "val": "Wei Lee | W. Lee"
+      },
+      {
+        "key": "crew_name_top9",
+        "val": "Nicholas Botterill | N. Botterill"
+      },
+      {
+        "key": "crew_name_top3",
+        "val": "Maba | Maba"
+      },
+      {
+        "key": "crew_name_topa",
+        "val": "Lewis Walker | L. Walker"
+      },
+      {
+        "key": "crew_name_top2",
+        "val": "Leonid Volkov | L. Volkov"
+      },
+      {
+        "key": "crew_name_sea1",
+        "val": "Alarcus Nikishin | A. Nikishin"
+      },
+      {
+        "key": "crew_name_sea5",
+        "val": "Aleksei Toporov | A. Toporov"
+      },
+      {
+        "key": "crew_name_sea2",
+        "val": "Nathan Peters | N. Peters"
+      },
+      {
+        "key": "crew_name_sea3",
+        "val": "Lars Linde | L. Linde"
+      },
+      {
+        "key": "crew_name_sea6",
+        "val": "John Naples | J. Naples"
+      },
+      {
+        "key": "crew_name_sea4",
+        "val": "Renfred Rajub | R. Rajub"
+      },
+      {
+        "key": "crew_name_sea7",
+        "val": "Abraham Akbar | A. Akbar"
+      },
+      {
+        "key": "crew_name_sea8",
+        "val": "William Wasim | W. Wasim"
+      },
+      {
+        "key": "crew_name_seac",
+        "val": "Soloman Syed | S. Syed"
+      },
+      {
+        "key": "crew_name_seaa",
+        "val": "Hamadou Diom | H. Diom"
+      },
+      {
+        "key": "crew_name_seab",
+        "val": "Henry Brennan | H. Brennan"
+      },
+      {
+        "key": "crew_name_sead",
+        "val": "Alexander Booth | A. Booth"
+      },
+      {
+        "key": "crew_name_seae",
+        "val": "Patrick O’Hagan | P. O’Hagan"
+      },
+      {
+        "key": "crew_name_seaf",
+        "val": "George Shirley | G. Shirley"
+      },
+      {
+        "key": "crew_name_seag",
+        "val": "Samuel Peters | S. Peters"
+      },
+      {
+        "key": "crew_job_officer",
+        "val": "Ofiziala"
+      },
+      {
+        "key": "crew_job_captain",
+        "val": "Kapitaina"
+      },
+      {
+        "key": "crew_job_mate1",
+        "val": "Lehen ofiziala"
+      },
+      {
+        "key": "crew_job_mate2",
+        "val": "Bigarren ofiziala"
+      },
+      {
+        "key": "crew_job_mate3",
+        "val": "Hirugarren ofiziala"
+      },
+      {
+        "key": "crew_job_mate4",
+        "val": "Laugarren ofiziala"
+      },
+      {
+        "key": "crew_job_bosun",
+        "val": "Kontramaisua"
+      },
+      {
+        "key": "crew_job_bosunmate",
+        "val": "Kondestablea"
+      },
+      {
+        "key": "crew_job_surgeon",
+        "val": "Zirujaua"
+      },
+      {
+        "key": "crew_job_surgeonmate",
+        "val": "Zirujauaren zerbitzaria"
+      },
+      {
+        "key": "crew_job_carp",
+        "val": "Arotza"
+      },
+      {
+        "key": "crew_job_carpmate",
+        "val": "Arotzaren zerbitzaria"
+      },
+      {
+        "key": "crew_job_cook",
+        "val": "Sukaldaria"
+      },
+      {
+        "key": "crew_job_butcher",
+        "val": "Harakina"
+      },
+      {
+        "key": "crew_job_gunner",
+        "val": "Arma-maisua"
+      },
+      {
+        "key": "crew_job_gunnermate",
+        "val": "Arma-maisuaren zerbitzaria"
+      },
+      {
+        "key": "crew_job_purser",
+        "val": "Kargazaina"
+      },
+      {
+        "key": "crew_job_helm",
+        "val": "Lemazaina"
+      },
+      {
+        "key": "crew_job_artist",
+        "val": "Artista"
+      },
+      {
+        "key": "crew_job_pass",
+        "val": "Bidaiaria"
+      },
+      {
+        "key": "crew_job_stew",
+        "val": "Zerbitzaria"
+      },
+      {
+        "key": "crew_job_stewship",
+        "val": "Ontziko zerbitzaria"
+      },
+      {
+        "key": "crew_job_stewcap",
+        "val": "Kapitainaren zerbitzaria"
+      },
+      {
+        "key": "crew_job_stewm1",
+        "val": "1. ofizialaren zerbitzaria"
+      },
+      {
+        "key": "crew_job_stewm2",
+        "val": "2. ofizialaren zerbitzaria"
+      },
+      {
+        "key": "crew_job_stewm3",
+        "val": "3. ofizialaren zerbitzaria"
+      },
+      {
+        "key": "crew_job_stewm4",
+        "val": "4. ofizialaren zerbitzaria"
+      },
+      {
+        "key": "crew_job_mid",
+        "val": "Alfereza"
+      },
+      {
+        "key": "crew_job_top",
+        "val": "Gabikoa"
+      },
+      {
+        "key": "crew_job_sea",
+        "val": "Marinela"
+      },
+      {
+        "key": "crew_origin_sierra",
+        "val": "Sierra Leona"
+      },
+      {
+        "key": "crew_origin_america",
+        "val": "Amerika"
+      },
+      {
+        "key": "crew_origin_austria",
+        "val": "Austria"
+      },
+      {
+        "key": "crew_origin_china",
+        "val": "Txina"
+      },
+      {
+        "key": "crew_origin_denmark",
+        "val": "Danimarka"
+      },
+      {
+        "key": "crew_origin_england",
+        "val": "Ingalaterra"
+      },
+      {
+        "key": "crew_origin_formosa",
+        "val": "Formosa"
+      },
+      {
+        "key": "crew_origin_france",
+        "val": "Frantzia"
+      },
+      {
+        "key": "crew_origin_india",
+        "val": "India"
+      },
+      {
+        "key": "crew_origin_ireland",
+        "val": "Irlanda"
+      },
+      {
+        "key": "crew_origin_italy",
+        "val": "Italia"
+      },
+      {
+        "key": "crew_origin_newguinea",
+        "val": "Ginea Berria"
+      },
+      {
+        "key": "crew_origin_poland",
+        "val": "Polonia"
+      },
+      {
+        "key": "crew_origin_russia",
+        "val": "Errusia"
+      },
+      {
+        "key": "crew_origin_scotland",
+        "val": "Eskozia"
+      },
+      {
+        "key": "crew_origin_sweden",
+        "val": "Suedia"
+      },
+      {
+        "key": "crew_origin_wales",
+        "val": "Gales"
+      },
+      {
+        "key": "crew_origin_persia",
+        "val": "Persia"
+      },
+      {
+        "key": "fate_glue_sentence",
+        "val": " "
+      },
+      {
+        "key": "fate_glue_summary",
+        "val": ", "
+      },
+      {
+        "key": "fate_sort",
+        "val": "unknown, axed-killer, spiked-beast, alive-africa, alive-island, alive-azores, alive-verde, alive-eastindies, alive-europe, alive-canary, alive-middleeast, alive-westindies, alive-uk, decapitated-killer, suicide-knife, suicide-spear, suicide-gun, suicide-noose, electrocuted, fell-rigging, fell-stairs, fell-overboard, burned, strangled-killer, sworded-killer, expired-sick, eaten-killer, drowned-killer, froze, knifed-killer, speared-killer, exploded, clubbed-killer, clawed-beast, dismembered-killer, hooved-beast, winged-beast, tailed-beast, poisoned, arrowed-killer, cannoned-killer, gunned-killer, expired-age, crushed-rigging, crushed-stones, crushed-cannon, crushed-beast, crushed-cargo"
+      },
+      {
+        "key": "fate_parts_unknown",
+        "val": "Ezezaguna | $subject | ez dakigu patuak nora eraman zuen."
+      },
+      {
+        "key": "fate_parts_gunned-killer",
+        "val": "Tiroz/Su-arma | $subject | tiroz hil zuen | $killer."
+      },
+      {
+        "key": "fate_parts_cannoned-killer",
+        "val": "Tiroz/Kanoia | $subject | kanoi-bala batez birrindu zuen | $killer."
+      },
+      {
+        "key": "fate_parts_knifed-killer",
+        "val": "Labankadaz | $subject | labankadaz hil zuen | $killer."
+      },
+      {
+        "key": "fate_parts_sworded-killer",
+        "val": "Ezpataz | $subject | ezpataz hil zuen | $killer."
+      },
+      {
+        "key": "fate_parts_clubbed-killer",
+        "val": "Makilkadaz | $subject | makilkadaz hil zuen | $killer."
+      },
+      {
+        "key": "fate_parts_axed-killer",
+        "val": "Aizkoraz | $subject | aizkoraz hil zuen | $killer."
+      },
+      {
+        "key": "fate_parts_speared-killer",
+        "val": "Lantzaz | $subject | lantza batekin erail zuen | $killer."
+      },
+      {
+        "key": "fate_parts_dismembered-killer",
+        "val": "Mutilatuta | $subject | mutilatuta hil zuen | $killer."
+      },
+      {
+        "key": "fate_parts_decapitated-killer",
+        "val": "Burua moztuta | $subject | zintzur eginda hil zuen | $killer."
+      },
+      {
+        "key": "fate_parts_drowned-killer",
+        "val": "Itota | $subject | itoarazi egin zuen | $killer."
+      },
+      {
+        "key": "fate_parts_eaten-killer",
+        "val": "Irentsita | $subject | irentsi egin zuen | $killer."
+      },
+      {
+        "key": "fate_parts_strangled-killer",
+        "val": "Estrangulatuta | $subject | estrangulatuta hil zuen | $killer."
+      },
+      {
+        "key": "fate_parts_spiked-beast",
+        "val": "Arantzekin | $subject | piztia izugarri baten arantzek zulatuta hil zen."
+      },
+      {
+        "key": "fate_parts_clawed-beast",
+        "val": "Matxardekin | $subject | piztia izugarri batek matxardekin txikitu zuen."
+      },
+      {
+        "key": "fate_parts_winged-beast",
+        "val": "Piztia-kolpez/Hegala | $subject | piztia izugarri baten hegalak kolpaturik hil zen."
+      },
+      {
+        "key": "fate_parts_tailed-beast",
+        "val": "Piztia-kolpez/Isatsa | $subject | piztia izugarri baten isatsak kolpaturik hil zen."
+      },
+      {
+        "key": "fate_parts_hooved-beast",
+        "val": "Piztia-kolpez/Erpea | $subject | piztia izugarri baten erpeak kolpaturik hil zen."
+      },
+      {
+        "key": "fate_parts_crushed-cargo",
+        "val": "Zanpatuta/Zama | $subject | zamak zanpatuta hil zen."
+      },
+      {
+        "key": "fate_parts_crushed-beast",
+        "val": "Zanpatuta/Piztia | $subject | piztia izugarri batek zanpatuta hil zen."
+      },
+      {
+        "key": "fate_parts_crushed-cannon",
+        "val": "Zanpatuta/Kanoia | $subject | kanoi askatu batek zanpatuta hil zen."
+      },
+      {
+        "key": "fate_parts_crushed-rigging",
+        "val": "Zanpatuta/Aparailua | $subject | ontzira jausitako aparailuak zanpatuta hil zen."
+      },
+      {
+        "key": "fate_parts_crushed-stones",
+        "val": "Zanpatuta/Harriak | $subject | harriek zanpatuta hil zen."
+      },
+      {
+        "key": "fate_parts_fell-stairs",
+        "val": "Erorita/Eskailerak | $subject | eskaileretatik eroriz aurkitu zuen heriotzak."
+      },
+      {
+        "key": "fate_parts_fell-rigging",
+        "val": "Erorita/Belazurruna | $subject | belazurrunetik eroriz aurkitu zuen heriotzak."
+      },
+      {
+        "key": "fate_parts_fell-overboard",
+        "val": "Erorita/Karela | $subject | kareletik eroriz aurkitu zuen heriotzak."
+      },
+      {
+        "key": "fate_parts_expired-age",
+        "val": "Zaharrez | $subject | zaharrez hil zen."
+      },
+      {
+        "key": "fate_parts_expired-sick",
+        "val": "Gaixorik | $subject | zoritxarreko gaixotasun batek hil zuen."
+      },
+      {
+        "key": "fate_parts_exploded",
+        "val": "Leherketa | $subject | leherketa batek txikitu zuen."
+      },
+      {
+        "key": "fate_parts_electrocuted",
+        "val": "Elektrokutatuta | $subject | elektrokutatuta hil zen."
+      },
+      {
+        "key": "fate_parts_poisoned",
+        "val": "Pozoituta | $subject | pozoituta hil zen."
+      },
+      {
+        "key": "fate_parts_burned",
+        "val": "Erreta | $subject | kiskalita hil zen."
+      },
+      {
+        "key": "fate_parts_froze",
+        "val": "Izoztuta | $subject | izoztuta hil zen."
+      },
+      {
+        "key": "fate_parts_suicide-gun",
+        "val": "Buruaz beste/Pistolaz | $subject | tiro batez suizidatu zen."
+      },
+      {
+        "key": "fate_parts_suicide-knife",
+        "val": "Buruaz beste/Labanaz | $subject | labankadaka suizidatu zen."
+      },
+      {
+        "key": "fate_parts_suicide-spear",
+        "val": "Buruaz beste/Lantzaz | $subject | lantza batekin suizidatu zen."
+      },
+      {
+        "key": "fate_parts_suicide-noose",
+        "val": "Buruaz beste/Urkatuta | $subject | urkatu egin zen."
+      },
+      {
+        "key": "fate_parts_alive-uk",
+        "val": "Bizirik/Erresuma Batua | $subject | oraindik bizi da Erresuma Batuan."
+      },
+      {
+        "key": "fate_parts_alive-eastindies",
+        "val": "Bizirik/Ekialdeko Indiak | $subject | oraindik bizi da Ekialdeko Indietan."
+      },
+      {
+        "key": "fate_parts_alive-westindies",
+        "val": "Bizirik/Mendebaldeko Indiak | $subject | oraindik bizi da Mendebaldeko Indietan."
+      },
+      {
+        "key": "fate_parts_arrowed-killer",
+        "val": "Tiroz/Gezia | $subject | geziz hil zuen | $killer"
+      },
+      {
+        "key": "fate_parts_alive-middleeast",
+        "val": "Bizirik/Ekialde Hurbila | $subject | oraindik bizi da Ekialde Hurbilean."
+      },
+      {
+        "key": "fate_parts_alive-europe",
+        "val": "Bizirik/Europa Kontinentala | $subject | oraindik bizi da Europa Kontinentalean."
+      },
+      {
+        "key": "fate_parts_alive-africa",
+        "val": "Bizirik/Afrika | $subject | oraindik bizi da Afrikan."
+      },
+      {
+        "key": "fate_parts_alive-island",
+        "val": "Bizirik/Atlantikoko uhartea | $subject | oraindik bizi da Atlantikoko uharte batean."
+      },
+      {
+        "key": "fate_parts_alive-canary",
+        "val": "Bizirik/Kanariar Uharteak | $subject | soraindik bizi da Kanariar Uharteetan."
+      },
+      {
+        "key": "fate_parts_alive-verde",
+        "val": "Bizirik/Cabo Verde | $subject | oraindik bizi da Cabo Verden."
+      },
+      {
+        "key": "fate_parts_alive-azores",
+        "val": "Bizirik/Azoreak | $subject | oraindik bizi da Azoreetan."
+      },
+      {
+        "key": "fate_ent_unknown",
+        "val": "Ezezaguna | <M>Gizon ezezaguna<><F>Emakume ezezaguna<> | <M>Gizon ezezagun hau<><F>Emakume ezezagun hau<> | erasotzaile ezezagun batek"
+      },
+      {
+        "key": "fate_ent_?officer",
+        "val": "AUTO | Ofizial ezezaguna | Ofizial ezezagun hau | ofizial ezezagun batek"
+      },
+      {
+        "key": "fate_ent_?pass",
+        "val": "AUTO | Bidaiari ezezaguna | Bidaiari ezezagun hau | bidaiari ezezagun batek"
+      },
+      {
+        "key": "fate_ent_?stew",
+        "val": "AUTO | Zerbitzari ezezaguna | Zerbitzari ezezagun hau| zerbitzari ezezagun batek"
+      },
+      {
+        "key": "fate_ent_?mid",
+        "val": "AUTO | Alferez ezezaguna | Alferez ezezagun hau | alferez ezezagun batek"
+      },
+      {
+        "key": "fate_ent_?top",
+        "val": "AUTO | Gabiko ezezaguna | Gabiko ezezagun hau | gabiko ezezagun batek"
+      },
+      {
+        "key": "fate_ent_?sea",
+        "val": "AUTO | Marinel ezezaguna | Marinel ezezagun hau | marinel ezezagun batek"
+      },
+      {
+        "key": "fate_ent_captain",
+        "val": "AUTO | $name kapitaina | Robert Witterel kapitaina | Robert Witterel kapitainak"
+      },
+      {
+        "key": "fate_ent_mate1",
+        "val": "AUTO | $name (1. ofiziala) | = | 1. ofizialak"
+      },
+      {
+        "key": "fate_ent_mate2",
+        "val": "AUTO | $name (2. ofiziala) | = | 2. ofizialak"
+      },
+      {
+        "key": "fate_ent_mate3",
+        "val": "AUTO | $name (3. ofiziala) | = | 3. ofizialak"
+      },
+      {
+        "key": "fate_ent_mate4",
+        "val": "AUTO | $name (4. ofiziala) | = | 4. ofizialak"
+      },
+      {
+        "key": "fate_ent_bosun",
+        "val": "AUTO | $name (kontramaisua) | = | $name kontramaisuak"
+      },
+      {
+        "key": "fate_ent_bosunmate",
+        "val": "AUTO | $name (kondestablea) | = | $name kondestableak"
+      },
+      {
+        "key": "fate_ent_surgeon",
+        "val": "AUTO | $name (zirujaua) | = | $name zirujauak"
+      },
+      {
+        "key": "fate_ent_surgeonmate",
+        "val": "AUTO | $name (zirujauaren zerb.) | = | $name zirujauaren zerbitzariak"
+      },
+      {
+        "key": "fate_ent_carp",
+        "val": "AUTO | $name (arotza) | = | $name arotzak"
+      },
+      {
+        "key": "fate_ent_carpmate",
+        "val": "AUTO | $name (arotzaren zerb.) | = | $name arotzaren zerbitzariak"
+      },
+      {
+        "key": "fate_ent_cook",
+        "val": "AUTO | $name (sukaldaria) | = | $name sukaldariak"
+      },
+      {
+        "key": "fate_ent_butcher",
+        "val": "AUTO | $name (harakina) | = | $name harakinak"
+      },
+      {
+        "key": "fate_ent_gunner",
+        "val": "AUTO | $name (arma-maisua) | = | $name arma-maisuak"
+      },
+      {
+        "key": "fate_ent_gunnermate",
+        "val": "AUTO | $name (arma-maisuaren zerb.) | = | $name arma-maisuaren zerbitzariak"
+      },
+      {
+        "key": "fate_ent_purser",
+        "val": "AUTO | $name (kargazaina) | = | $name kargazainak"
+      },
+      {
+        "key": "fate_ent_helm",
+        "val": "AUTO | $name (lemazaina) | = | $name lemazainak"
+      },
+      {
+        "key": "fate_ent_artist",
+        "val": "AUTO | $name (artista) | = | $name artistak"
+      },
+      {
+        "key": "fate_ent_pass",
+        "val": "AUTO | $name (bidaiaria) | = | $name bidaiariak"
+      },
+      {
+        "key": "fate_ent_stewship",
+        "val": "AUTO | $name (ontziko zerb.) | = | $name ontziko zerbitzariak"
+      },
+      {
+        "key": "fate_ent_stewcap",
+        "val": "AUTO | $name (kapitainaren zerb.) | = | $name kapitainaren zerbitzariak"
+      },
+      {
+        "key": "fate_ent_stewm1",
+        "val": "AUTO | $name (1. ofizialaren zerb.) | = | $name 1. ofizialaren zerbitzariak"
+      },
+      {
+        "key": "fate_ent_stewm2",
+        "val": "AUTO | $name (2. ofizialaren zerb.) | = | $name 2. ofizialaren zerbitzariak"
+      },
+      {
+        "key": "fate_ent_stewm3",
+        "val": "AUTO | $name (3. ofizialaren zerb.) | = | $name 3. ofizialaren zerbitzariak"
+      },
+      {
+        "key": "fate_ent_stewm4",
+        "val": "AUTO | $name (4. ofizialaren zerb.) | = | $name 4. ofizialaren zerbitzariak"
+      },
+      {
+        "key": "fate_ent_mid",
+        "val": "AUTO | $name (alfereza) | = | $name alferezak"
+      },
+      {
+        "key": "fate_ent_top",
+        "val": "AUTO | $name (gabikoa) | = | $name gabikoak"
+      },
+      {
+        "key": "fate_ent_sea",
+        "val": "AUTO | $name (marinela) | = | $name marinelak"
+      },
+      {
+        "key": "fate_ent_beast",
+        "val": "Piztia | NONE | NONE | piztia izugarri batek"
+      },
+      {
+        "key": "fate_ent_enemy",
+        "val": "Etsaia | NONE | NONE | atzerriko etsai batek"
+      },
+      {
+        "key": "dialog_intro_aa",
+        "val": "Falmouth, Ingalaterra\n1807"
+      },
+      {
+        "key": "dialog_intro_ba",
+        "val": "Konpainiako tipo batek iratzarri nai<M>k<><F>n<>."
+      },
+      {
+        "key": "dialog_intro_ca",
+        "val": "Esan zida<M>k<><F>n<> Obra Dinn-era eraman behar hauda<F>na<>la."
+      },
+      {
+        "key": "dialog_intro_da",
+        "val": "Etzego<M>k<><F>n<> inor asko horretarako prest."
+      },
+      {
+        "key": "dialog_intro_ea",
+        "val": "Iritzia galdetzen badida<M>k<><F>n<>: berandu du<M>k<><F>n<> dagoeneko."
+      },
+      {
+        "key": "dialog_intro_fa",
+        "val": "Ez dizut galdetu."
+      },
+      {
+        "key": "dialog_intro_ga",
+        "val": "Zer zego<M>k<><F>n<> kutxan?"
+      },
+      {
+        "key": "dialog_intro_ha",
+        "val": "Ez dakit."
+      },
+      {
+        "key": "dialog_intro_ia",
+        "val": "Igo ezazu geroxeago."
+      },
+      {
+        "key": "dialog_intro_ja",
+        "val": "E? Nola?"
+      },
+      {
+        "key": "dialog_intro_ka",
+        "val": "Kontu handiz."
+      },
+      {
+        "key": "dialog_demo_end_aa",
+        "val": "- Demoaren amaiera -"
+      },
+      {
+        "key": "dialog_demo_end_ba",
+        "val": "Milesker jolasteagatik!"
+      },
+      {
+        "key": "dialog_watch_too_heavy_1_aa",
+        "val": "Aiza<M>k<><F>n<>!"
+      },
+      {
+        "key": "dialog_watch_too_heavy_1_ba",
+        "val": "Astunegia du<M>k<><F>n<>!"
+      },
+      {
+        "key": "dialog_watch_too_heavy_2_aa",
+        "val": "Astunegia du<M>k<><F>n<>!"
+      },
+      {
+        "key": "dialog_watch_too_heavy_2_ba",
+        "val": "Igoza<M>k<><F>n<> herorrek!"
+      },
+      {
+        "key": "dialog_watch_too_heavy_3_aa",
+        "val": "Astunegia du<M>k<><F>n<>."
+      },
+      {
+        "key": "dialog_watch_too_heavy_3_ba",
+        "val": "Eraman heurekin edo irekiza<M>k<><F>n<> hemen."
+      },
+      {
+        "key": "dialog_pickup_watch_aa",
+        "val": "- Memento Mortem -"
+      },
+      {
+        "key": "dialog_pickup_watch_ba",
+        "val": "Gogoratu heriotza"
+      },
+      {
+        "key": "dialog_ship_end_notify_aa",
+        "val": "Aiza<M>k<><F>n<>!"
+      },
+      {
+        "key": "dialog_ship_end_notify_ba",
+        "val": "Hor hago oraindik?"
+      },
+      {
+        "key": "dialog_ship_end_notify_ca",
+        "val": "Enbata zetorre<M>k<><F>n<>!"
+      },
+      {
+        "key": "dialog_ship_end_notify_da",
+        "val": "Bukatu egin beharrekoak eta jaitsi hona!"
+      },
+      {
+        "key": "dialog_ship_end_leave_1_aa",
+        "val": "Amaitu du<M>k<><F>n<>?"
+      },
+      {
+        "key": "dialog_ship_end_leave_1_ba",
+        "val": "Joan beharra di<F>n<>agu."
+      },
+      {
+        "key": "dialog_ship_end_leave_1_ca",
+        "val": "Enbata bertan di<F>n<>agu, beraz ez gaitu<M>k<><F>n<> itzuliko."
+      },
+      {
+        "key": "dialog_ship_end_leave_1_da",
+        "val": "Oraindik egitekoak baditu<M>k<><F>n<>, igo eta buka itza<M>k<><F>n<>."
+      },
+      {
+        "key": "dialog_ship_end_leave_1_ea",
+        "val": "Bestela, kaira itzuliko nau<M>k<><F>n<>."
+      },
+      {
+        "key": "dialog_ship_end_leave_2_aa",
+        "val": "Joateko prest?"
+      },
+      {
+        "key": "dialog_ship_end_leave_3_aa",
+        "val": "Joan beharra di<F>n<>agu."
+      },
+      {
+        "key": "dialog_ship_end_leave_3_ba",
+        "val": "Enbata bertan di<F>n<>agu, beraz ez gaitu<M>k<><F>n<> itzuliko."
+      },
+      {
+        "key": "dialog_ship_end_done_aa",
+        "val": "Azkenean."
+      },
+      {
+        "key": "dialog_ship_end_done_ca",
+        "val": "Eseri edo eroriko haiz."
+      },
+      {
+        "key": "dialog_moment_unknown_aa",
+        "val": "ezezaguna"
+      },
+      {
+        "key": "dialog_d0_m0_ah",
+        "val": "Egin bidea, bagatoz."
+      },
+      {
+        "key": "dialog_d0_m0_ar",
+        "val": "Zubi faltsuko txopara, lemapera."
+      },
+      {
+        "key": "dialog_d0_m0_ba",
+        "val": "Jaitsi orain!"
+      },
+      {
+        "key": "dialog_d0_m0_bh",
+        "val": "Ei!"
+      },
+      {
+        "key": "dialog_d0_m0_bk",
+        "val": "Itxoin! Itxoin!"
+      },
+      {
+        "key": "dialog_d0_m0_bo",
+        "val": "Ez!"
+      },
+      {
+        "key": "dialog_d0_m0_bs",
+        "val": "Behera doa!"
+      },
+      {
+        "key": "dialog_d0_m1_aa",
+        "val": "Altxatu!"
+      },
+      {
+        "key": "dialog_d0_m1_ba",
+        "val": "Jaitsi orain!"
+      },
+      {
+        "key": "dialog_d1_m0_am",
+        "val": "Эй, мухлевать то завязывай! | Utziok tranpak egiteari!"
+      },
+      {
+        "key": "dialog_d1_m0_ar",
+        "val": "На себя погляди, дубина. | Ardura hadi hire kartez."
+      },
+      {
+        "key": "dialog_d1_m0_aa",
+        "val": "सय्यद | Syed!"
+      },
+      {
+        "key": "dialog_d1_m0_ba",
+        "val": "सय्यद, उठो। | Syed, altxatu!"
+      },
+      {
+        "key": "dialog_d1_m0_ca",
+        "val": "कुछ पी लो | Edan zerbait!"
+      },
+      {
+        "key": "dialog_d1_m1_aa",
+        "val": "Eta?"
+      },
+      {
+        "key": "dialog_d1_m1_ba",
+        "val": "Beste tipoa bezala."
+      },
+      {
+        "key": "dialog_d1_m1_ca",
+        "val": "Biriketako gaitzen bat."
+      },
+      {
+        "key": "dialog_d1_m1_da",
+        "val": "Ez da hetika."
+      },
+      {
+        "key": "dialog_d1_m1_ea",
+        "val": "Eta hotzak okertu du."
+      },
+      {
+        "key": "dialog_d1_m1_fa",
+        "val": "Hedatzeko aukerarik?"
+      },
+      {
+        "key": "dialog_d1_m1_ga",
+        "val": "Hala balitz, denok izango genuke."
+      },
+      {
+        "key": "dialog_d1_m1_ha",
+        "val": "Laskarraren etxean gaixotuko ziren."
+      },
+      {
+        "key": "dialog_d1_m1_ia",
+        "val": "Eskifaia guztia aztertu dut,"
+      },
+      {
+        "key": "dialog_d1_m1_ja",
+        "val": "eta denak daude osasuntsu."
+      },
+      {
+        "key": "dialog_d1_m1_ka",
+        "val": "Eta bera?"
+      },
+      {
+        "key": "dialog_d1_m1_la",
+        "val": "Bada itxaropenik?"
+      },
+      {
+        "key": "dialog_d1_m1_ma",
+        "val": "Laudano pixkat eman diot."
+      },
+      {
+        "key": "dialog_d1_m1_na",
+        "val": "Denborak esango du."
+      },
+      {
+        "key": "dialog_d1_m2_aa",
+        "val": "Eraman aroztegira."
+      },
+      {
+        "key": "dialog_d1_m2_ba",
+        "val": "Meztitu hil-jantziekin eta eman elizakoak."
+      },
+      {
+        "key": "dialog_d1_m2_ca",
+        "val": "Kolpatu hemen."
+      },
+      {
+        "key": "dialog_d1_m2_da",
+        "val": "Takateko bat."
+      },
+      {
+        "key": "dialog_d1_m2_ea",
+        "val": "Zeharkatu burezurra, zorabia dadin."
+      },
+      {
+        "key": "dialog_d1_m2_fa",
+        "val": "Gero neuk ebakiko diot zintzurra."
+      },
+      {
+        "key": "dialog_d1_m2_ga",
+        "val": "Hemen?"
+      },
+      {
+        "key": "dialog_d1_m2_ha",
+        "val": "Bai."
+      },
+      {
+        "key": "dialog_d1_m2_ia",
+        "val": "Emaiozu. Ostiko egin aurretik."
+      },
+      {
+        "key": "dialog_d1_m2_ja",
+        "val": "Ondo zaude, jauna?"
+      },
+      {
+        "key": "dialog_d1_m2_ka",
+        "val": "Ez haiz inoiz etxalde batean egon, Charlie?"
+      },
+      {
+        "key": "dialog_d1_m2_la",
+        "val": "Kontuz zapatak lohitu gabe."
+      },
+      {
+        "key": "dialog_d2_m0_aa",
+        "val": "Kaixo?"
+      },
+      {
+        "key": "dialog_d2_m0_ba",
+        "val": "Nor dabil hor?"
+      },
+      {
+        "key": "dialog_d2_m0_ca",
+        "val": "Nor da hori?"
+      },
+      {
+        "key": "dialog_d2_m0_da",
+        "val": "Norbait zauritu da?"
+      },
+      {
+        "key": "dialog_d2_m0_ea",
+        "val": "E?"
+      },
+      {
+        "key": "dialog_d2_m0_fa",
+        "val": "Signor Nichols, zu zara?"
+      },
+      {
+        "key": "dialog_d2_m0_ga",
+        "val": "Zer zabiltza hemen behean?"
+      },
+      {
+        "key": "dialog_d2_m0_ha",
+        "val": "Kaixo, bai!"
+      },
+      {
+        "key": "dialog_d2_m0_ia",
+        "val": "Dena dago ondo hemen."
+      },
+      {
+        "key": "dialog_d2_m0_ja",
+        "val": "Gauza batzuk, e… ordenatzen nabil."
+      },
+      {
+        "key": "dialog_d2_m0_ka",
+        "val": "Kontuz zapaldu."
+      },
+      {
+        "key": "dialog_d2_m0_la",
+        "val": "Tira, utzi laguntzen."
+      },
+      {
+        "key": "dialog_d2_m1_aa",
+        "val": "Hok Seng Lau…"
+      },
+      {
+        "key": "dialog_d2_m1_ba",
+        "val": "…zure aitorpenarekin, erruduntzat jotzen zaitugu…"
+      },
+      {
+        "key": "dialog_d2_m1_ca",
+        "val": "…Nunzio Pasqua erailtzeagatik."
+      },
+      {
+        "key": "dialog_d2_m1_da",
+        "val": "慢且！伊無做毋著代誌！ | Ez! Berak ez du ezer txarrik egin!"
+      },
+      {
+        "key": "dialog_d2_m1_ea",
+        "val": "小姐，袂赴啊。 | Lim andereñoa. Beranduegi da."
+      },
+      {
+        "key": "dialog_d2_m1_fa",
+        "val": "Ixo!"
+      },
+      {
+        "key": "dialog_d2_m1_ga",
+        "val": "Ontziko kapitain gisa…"
+      },
+      {
+        "key": "dialog_d2_m1_ha",
+        "val": "…eta Ekialdeko Indietako Konpainiako autoritate naizelarik…"
+      },
+      {
+        "key": "dialog_d2_m1_ia",
+        "val": "…eta ondorioz Ingalaterrako Koroaren izenean ere…"
+      },
+      {
+        "key": "dialog_d2_m1_ja",
+        "val": "…fusilamendu bidezko heriotzera zigortzen zaitut."
+      },
+      {
+        "key": "dialog_d2_m1_ka",
+        "val": "Wolff jauna. Prest zaudenean."
+      },
+      {
+        "key": "dialog_d2_m1_la",
+        "val": "Bai, jauna."
+      },
+      {
+        "key": "dialog_d2_m1_ma",
+        "val": "Prest?"
+      },
+      {
+        "key": "dialog_d2_m1_na",
+        "val": "Destatu."
+      },
+      {
+        "key": "dialog_d2_m1_oa",
+        "val": "Su!"
+      },
+      {
+        "key": "dialog_d2_m2_ba",
+        "val": "Erne, mutilok."
+      },
+      {
+        "key": "dialog_d2_m2_ca",
+        "val": "恁哪會使按呢！ | Nola egin dezakezue hau!"
+      },
+      {
+        "key": "dialog_d2_m2_cm",
+        "val": "Igozazue txalupara! Ospa egin behar dugu! "
+      },
+      {
+        "key": "dialog_d2_m2_da",
+        "val": "共我放開！ | Askatu!"
+      },
+      {
+        "key": "dialog_d2_m2_ea",
+        "val": "Ekarriko al duzue hona, behingoz."
+      },
+      {
+        "key": "dialog_d2_m2_fa",
+        "val": "Kapitaina!"
+      },
+      {
+        "key": "dialog_d2_m2_ga",
+        "val": "Erria txikota, eta jaitsi txalupak!"
+      },
+      {
+        "key": "dialog_d2_m2_ha",
+        "val": "Laster eskifaia osoa gainean dugu!"
+      },
+      {
+        "key": "dialog_d2_m2_ia",
+        "val": "Eman amore!"
+      },
+      {
+        "key": "dialog_d3_m0_aa",
+        "val": "Jarraitu sartalderantza."
+      },
+      {
+        "key": "dialog_d3_m0_ba",
+        "val": "Hiru egunen buruan Kanarietara arribatuko gara."
+      },
+      {
+        "key": "dialog_d3_m0_ca",
+        "val": "Nahikoa hornigai zamatu dituzu?"
+      },
+      {
+        "key": "dialog_d3_m0_da",
+        "val": "Bai, jauna. Neronek zamatu eta egiaztatuta."
+      },
+      {
+        "key": "dialog_d3_m0_ea",
+        "val": "Ongi. Mantendu lasai baina erne."
+      },
+      {
+        "key": "dialog_d3_m0_fa",
+        "val": "Haizea jasotzen badu, ez dugu aukerarik Obra Dinn-aren kontra."
+      },
+      {
+        "key": "dialog_d3_m0_ga",
+        "val": "小姐，妳有按怎無 | Lim andereñoa, ongi zaude?"
+      },
+      {
+        "key": "dialog_d3_m0_ha",
+        "val": "嗯，我無問題。 | Bai, ongi nago."
+      },
+      {
+        "key": "dialog_d3_m0_ia",
+        "val": "但是彼个箱仔，絕對袂使落入去水底！ | Baina kutxatzarra… ezin da itsasora erori!"
+      },
+      {
+        "key": "dialog_d3_m0_ja",
+        "val": "若是遐的怪物出現，妳絕對莫起來！| Munstroak agertzen badira, makurtu!"
+      },
+      {
+        "key": "dialog_d3_m0_ka",
+        "val": "Zuek! Ixo!"
+      },
+      {
+        "key": "dialog_d3_m0_la",
+        "val": "Gauza xelebreak ari dira esaten."
+      },
+      {
+        "key": "dialog_d3_m0_lm",
+        "val": "Munstroei buruz."
+      },
+      {
+        "key": "dialog_d3_m1_aa",
+        "val": "Матерь божья! | Ama maitea!"
+      },
+      {
+        "key": "dialog_d3_m1_ba",
+        "val": "Eman arraunari!"
+      },
+      {
+        "key": "dialog_d3_m1_ca",
+        "val": "他們欲過來啊！ | Hemen dira!"
+      },
+      {
+        "key": "dialog_d3_m1_da",
+        "val": "明叔，箱仔! | Beng, kutxatzarra!"
+      },
+      {
+        "key": "dialog_d3_m1_ea",
+        "val": "Non dago?"
+      },
+      {
+        "key": "dialog_d3_m1_fa",
+        "val": "Hor! Zerbait dago hor!"
+      },
+      {
+        "key": "dialog_d3_m1_ga",
+        "val": "Ikusten dut!"
+      },
+      {
+        "key": "dialog_d3_m1_ha",
+        "val": "Eman arma bat!"
+      },
+      {
+        "key": "dialog_d3_m1_ia",
+        "val": "小姐，莫起來！| Lim andereñoa! Makurtu!"
+      },
+      {
+        "key": "dialog_d3_m1_ja",
+        "val": "Heldu arraunei eta boga egin, kaikuok!"
+      },
+      {
+        "key": "dialog_d3_m2_aa",
+        "val": "O’Hagan! Bizi haiz?"
+      },
+      {
+        "key": "dialog_d3_m2_am",
+        "val": "Arraun egin dezakek?"
+      },
+      {
+        "key": "dialog_d3_m2_ar",
+        "val": "救命啊！ | Lagundu!"
+      },
+      {
+        "key": "dialog_d3_m2_ba",
+        "val": "Nichols! Jauna! Egin tiro, jainkoarren!"
+      },
+      {
+        "key": "dialog_d3_m3_aa",
+        "val": "我提著啊！ | Hartu dut!"
+      },
+      {
+        "key": "dialog_d3_m3_ba",
+        "val": "閣等一下！ | Eutsi!"
+      },
+      {
+        "key": "dialog_d3_m4_aa",
+        "val": "小姐？…小姐？ | Hor zaude? Lim andereñoa?"
+      },
+      {
+        "key": "dialog_d3_m5_aa",
+        "val": "Txalupa begi-bistan!"
+      },
+      {
+        "key": "dialog_d3_m5_ba",
+        "val": "Bueltan datoz!"
+      },
+      {
+        "key": "dialog_d3_m5_ca",
+        "val": "Deitu kapitainari!"
+      },
+      {
+        "key": "dialog_d3_m5_da",
+        "val": "Txalupa begi-bistan!"
+      },
+      {
+        "key": "dialog_d3_m5_dm",
+        "val": "Berreskuratu txalupak!"
+      },
+      {
+        "key": "dialog_d3_m5_ea",
+        "val": "Itxaron! Ez egin tiro!"
+      },
+      {
+        "key": "dialog_d3_m5_fa",
+        "val": "Altxorra dakart! Amore ematen dut!"
+      },
+      {
+        "key": "dialog_d3_m5_ga",
+        "val": "Ez egin tiro!"
+      },
+      {
+        "key": "dialog_d4_m0_aa",
+        "val": "Jaso hau eta eraman behera."
+      },
+      {
+        "key": "dialog_d4_m0_ba",
+        "val": "Ze arraio gertatzen da?"
+      },
+      {
+        "key": "dialog_d4_m0_ca",
+        "val": "Zer dakizu gauza hauei buruz?"
+      },
+      {
+        "key": "dialog_d4_m0_da",
+        "val": "Kutxatzarra eta hildako lagunei buruz?"
+      },
+      {
+        "key": "dialog_d4_m0_ea",
+        "val": "這是　啥物？佗位來的？ | Zer dira munstrook? Nondik datoz?"
+      },
+      {
+        "key": "dialog_d4_m0_fa",
+        "val": "全部　講出來！ | Dena kontatu behar diguzu!"
+      },
+      {
+        "key": "dialog_d4_m0_ga",
+        "val": "攏是恁害的啦！ | Hau zure errua da!"
+      },
+      {
+        "key": "dialog_d4_m0_ha",
+        "val": "彼个海螺仔殼竟然無顧給好！ | Maskorra babestu beharra dago!"
+      },
+      {
+        "key": "dialog_d4_m0_ia",
+        "val": "這聲咱穩死的！ | Guztiok hilko gara!"
+      },
+      {
+        "key": "dialog_d4_m0_ja",
+        "val": "Maskor bat aipatu du."
+      },
+      {
+        "key": "dialog_d4_m0_ka",
+        "val": "Oso arriskutsua."
+      },
+      {
+        "key": "dialog_d4_m0_la",
+        "val": "Maskorra? Ze maskor?"
+      },
+      {
+        "key": "dialog_d4_m1_aa",
+        "val": "Garbitu ontzigaina."
+      },
+      {
+        "key": "dialog_d4_m1_ba",
+        "val": "Mugitu txalupak txoparantz eta bota gorpuak kareletik."
+      },
+      {
+        "key": "dialog_d4_m1_ca",
+        "val": "Kontuz non zapaltzen duzuen."
+      },
+      {
+        "key": "dialog_d4_m1_da",
+        "val": "Kontxo. Zer da hau?"
+      },
+      {
+        "key": "dialog_d4_m1_ea",
+        "val": "Eman niri eta otordu on bat prestatuko dut, mutilok."
+      },
+      {
+        "key": "dialog_d4_m1_fa",
+        "val": "Kontuz orain, tentuz!"
+      },
+      {
+        "key": "dialog_d4_m1_ga",
+        "val": "Unetxo bat, jaunak."
+      },
+      {
+        "key": "dialog_d4_m1_ha",
+        "val": "Hemen maskor eder bat dago."
+      },
+      {
+        "key": "dialog_d4_m1_ia",
+        "val": "Ikustagun."
+      },
+      {
+        "key": "dialog_d4_m1_ja",
+        "val": "Ez! Egin atzera!"
+      },
+      {
+        "key": "dialog_d4_m3_aa",
+        "val": "Mantendu presioa hemen."
+      },
+      {
+        "key": "dialog_d4_m3_ba",
+        "val": "Eutsizazu."
+      },
+      {
+        "key": "dialog_d4_m3_ca",
+        "val": "Ze erokeri da hau?"
+      },
+      {
+        "key": "dialog_d4_m3_da",
+        "val": "Hogei urtez nire zerbitzari, eta inoiz ez diat hire sena auzitan jarri."
+      },
+      {
+        "key": "dialog_d4_m3_ea",
+        "val": "Ze daukak esateko?!"
+      },
+      {
+        "key": "dialog_d4_m3_fa",
+        "val": "Piztia horiek madarikazioa dakarte haiekin!"
+      },
+      {
+        "key": "dialog_d4_m3_ga",
+        "val": "Jaregin itzazue edo gureak egin du!"
+      },
+      {
+        "key": "dialog_d4_m3_ha",
+        "val": "Lotuzazue eta eraman lazaretora …gauza horiekin batera."
+      },
+      {
+        "key": "dialog_d4_m3_ia",
+        "val": "Ea kordea bueltatzen zaion."
+      },
+      {
+        "key": "dialog_d4_m3_ja",
+        "val": "Goazen."
+      },
+      {
+        "key": "dialog_d4_m3_ka",
+        "val": "Era dårar! | Inozoak!"
+      },
+      {
+        "key": "dialog_d4_m3_la",
+        "val": "Dena ondo zegok, John. Pasa dituk okerragoak."
+      },
+      {
+        "key": "dialog_d4_m3_ma",
+        "val": "Non dago falta duen hanka zatia?"
+      },
+      {
+        "key": "dialog_d5_m0_aa",
+        "val": "Jaso oihal nagusia!"
+      },
+      {
+        "key": "dialog_d5_m0_ba",
+        "val": "Ziurtatu eskaiak eta jaitsi gabia!"
+      },
+      {
+        "key": "dialog_d5_m0_ca",
+        "val": "Arin, haizea indarrez ari du!"
+      },
+      {
+        "key": "dialog_d5_m1_aa",
+        "val": "Egin tira!"
+      },
+      {
+        "key": "dialog_d5_m1_ba",
+        "val": "Korri!"
+      },
+      {
+        "key": "dialog_d5_m1_bm",
+        "val": "Zer da?"
+      },
+      {
+        "key": "dialog_d5_m1_ca",
+        "val": "Mila deabru!"
+      },
+      {
+        "key": "dialog_d5_m1_da",
+        "val": "Beste bat!"
+      },
+      {
+        "key": "dialog_d5_m1_ea",
+        "val": "Han!"
+      },
+      {
+        "key": "dialog_d5_m2_a5",
+        "val": "En dæmon! | Demonio bat!"
+      },
+      {
+        "key": "dialog_d5_m2_aa",
+        "val": "Kendu paretik!"
+      },
+      {
+        "key": "dialog_d5_m2_ba",
+        "val": "Zuen postuetara!"
+      },
+      {
+        "key": "dialog_d5_m2_ca",
+        "val": "Etsaia ontzian!"
+      },
+      {
+        "key": "dialog_d5_m2_da",
+        "val": "Zer gertatzen da?"
+      },
+      {
+        "key": "dialog_d5_m2_ea",
+        "val": "Egon atzean! Nick-enak egin dik!"
+      },
+      {
+        "key": "dialog_d5_m2_fa",
+        "val": "Tira, nagusi!"
+      },
+      {
+        "key": "dialog_d5_m2_fm",
+        "val": "Ez, makurtu!"
+      },
+      {
+        "key": "dialog_d5_m2_ga",
+        "val": "Ei! Jaso hau!"
+      },
+      {
+        "key": "dialog_d5_m3_aa",
+        "val": "Ez diagu zer eginik!"
+      },
+      {
+        "key": "dialog_d5_m3_ba",
+        "val": "Errezak bizkor!"
+      },
+      {
+        "key": "dialog_d5_m5_aa",
+        "val": "Heldu zaitut."
+      },
+      {
+        "key": "dialog_d5_m5_ba",
+        "val": "Ez mugitu."
+      },
+      {
+        "key": "dialog_d5_m5_ca",
+        "val": "Jaitsi egingo zaitut."
+      },
+      {
+        "key": "dialog_d5_m5_cm",
+        "val": "Emaidazu pistola hori."
+      },
+      {
+        "key": "dialog_d5_m6_aa",
+        "val": "Lazaretorantz doaz!"
+      },
+      {
+        "key": "dialog_d5_m6_ba",
+        "val": "Babestu kargamentua!"
+      },
+      {
+        "key": "dialog_d5_m6_ca",
+        "val": "Norbaitek tiroka dezala deabrukume hori!"
+      },
+      {
+        "key": "dialog_d5_m7_aa",
+        "val": "Hori da dena!?"
+      },
+      {
+        "key": "dialog_d6_m0_aa",
+        "val": "Utzidak igotzen."
+      },
+      {
+        "key": "dialog_d6_m0_ba",
+        "val": "Nire gorpuaren gainetik, daniar madarikatua."
+      },
+      {
+        "key": "dialog_d6_m0_ca",
+        "val": "E? Zergatik?"
+      },
+      {
+        "key": "dialog_d6_m0_cm",
+        "val": "Ez dago iskanbilarako motiborik, mutilak."
+      },
+      {
+        "key": "dialog_d6_m0_cr",
+        "val": "Igo txalupara."
+      },
+      {
+        "key": "dialog_d6_m0_da",
+        "val": "Ahaztu dudalakoan? Nire anaia hil huen."
+      },
+      {
+        "key": "dialog_d6_m0_ea",
+        "val": "Zer? Istripua izan zuan! Sokengatik!"
+      },
+      {
+        "key": "dialog_d6_m0_em",
+        "val": "Ez zuan bere errua izan. Nik ikusi nian guztia."
+      },
+      {
+        "key": "dialog_d6_m0_fa",
+        "val": "Gezurra!"
+      },
+      {
+        "key": "dialog_d6_m0_ga",
+        "val": "Ez nian hainbeste itxaron behar!"
+      },
+      {
+        "key": "dialog_d6_m0_gm",
+        "val": "Ez! Geldi!"
+      },
+      {
+        "key": "dialog_d6_m2_a5",
+        "val": "Kargatu!"
+      },
+      {
+        "key": "dialog_d6_m2_aa",
+        "val": "Mugitu eskuz!"
+      },
+      {
+        "key": "dialog_d6_m2_ba",
+        "val": "Destatu!"
+      },
+      {
+        "key": "dialog_d6_m2_ca",
+        "val": "Prest!"
+      },
+      {
+        "key": "dialog_d6_m2_cm",
+        "val": "Ez!"
+      },
+      {
+        "key": "dialog_d6_m2_da",
+        "val": "Ez egin su!"
+      },
+      {
+        "key": "dialog_d6_m3_aa",
+        "val": "Metxa!"
+      },
+      {
+        "key": "dialog_d6_m4_a5",
+        "val": "Zer gertatu da hemen?"
+      },
+      {
+        "key": "dialog_d6_m4_aa",
+        "val": "Jauna! Kanoi askea!"
+      },
+      {
+        "key": "dialog_d6_m4_ba",
+        "val": "Ontzia okertzen ari da!"
+      },
+      {
+        "key": "dialog_d6_m4_ca",
+        "val": "Heldu zerbaiti!"
+      },
+      {
+        "key": "dialog_d6_m5_aa",
+        "val": "Dibidietara, bizkor!"
+      },
+      {
+        "key": "dialog_d6_m5_ba",
+        "val": "Itxaron!"
+      },
+      {
+        "key": "dialog_d6_m5_ca",
+        "val": "Itxaron!"
+      },
+      {
+        "key": "dialog_d6_m5_da",
+        "val": "Jaurti!"
+      },
+      {
+        "key": "dialog_d6_m5_ea",
+        "val": "Jaurti bolbora!"
+      },
+      {
+        "key": "dialog_d6_m7_aa",
+        "val": "Martin!"
+      },
+      {
+        "key": "dialog_d6_m7_ba",
+        "val": "Non da kapitaina?"
+      },
+      {
+        "key": "dialog_d6_m7_ca",
+        "val": "Erotu zara?"
+      },
+      {
+        "key": "dialog_d6_m7_da",
+        "val": "Itzuli barrura!"
+      },
+      {
+        "key": "dialog_d6_m7_ea",
+        "val": "Nire senarra ikusi nahi dut!"
+      },
+      {
+        "key": "dialog_d6_m7_fa",
+        "val": "Non dago?"
+      },
+      {
+        "key": "dialog_d6_m7_ga",
+        "val": "Bizkarpean dago!"
+      },
+      {
+        "key": "dialog_d6_m7_ha",
+        "val": "Zatoz hona!"
+      },
+      {
+        "key": "dialog_d7_m0_aa",
+        "val": "Zer da hau?"
+      },
+      {
+        "key": "dialog_d7_m0_ba",
+        "val": "Zilarbizia!"
+      },
+      {
+        "key": "dialog_d7_m0_ca",
+        "val": "Herre, min gud! | Jainko maitea!"
+      },
+      {
+        "key": "dialog_d7_m1_aa",
+        "val": "Geldiarazizak, malapartatu hori."
+      },
+      {
+        "key": "dialog_d7_m1_ba",
+        "val": "Hau hire krakena duk."
+      },
+      {
+        "key": "dialog_d7_m1_ca",
+        "val": "Heuk ekarri duk hona."
+      },
+      {
+        "key": "dialog_d7_m1_da",
+        "val": "Esaiok bueltatzeko!"
+      },
+      {
+        "key": "dialog_d7_m2_aa",
+        "val": "Munstrook, guztiok akabatuko zaituztet."
+      },
+      {
+        "key": "dialog_d7_m2_ba",
+        "val": "Geldiarazi krakena!"
+      },
+      {
+        "key": "dialog_d7_m2_ca",
+        "val": "Edo guztiok garbituko zaituztet!"
+      },
+      {
+        "key": "dialog_d7_m3_aa",
+        "val": "Hirugarren maskor bat!"
+      },
+      {
+        "key": "dialog_d7_m3_am",
+        "val": "Kapitainak ez zitian denak bota!"
+      },
+      {
+        "key": "dialog_d7_m3_ba",
+        "val": "Uztak. Lagunduidak honekin."
+      },
+      {
+        "key": "dialog_d7_m3_ca",
+        "val": "Itxoin! Geldi!"
+      },
+      {
+        "key": "dialog_d7_m3_da",
+        "val": "Zu askatzera gatoz!"
+      },
+      {
+        "key": "dialog_d7_m3_ea",
+        "val": "Emaiok maskorra."
+      },
+      {
+        "key": "dialog_d7_m3_fa",
+        "val": "E?"
+      },
+      {
+        "key": "dialog_d7_m3_ga",
+        "val": "Emateko!"
+      },
+      {
+        "key": "dialog_d7_m3_ha",
+        "val": "Altxazak."
+      },
+      {
+        "key": "dialog_d7_m3_ia",
+        "val": "Bizkar nagusira."
+      },
+      {
+        "key": "dialog_d7_m3_ja",
+        "val": "Bota kareletik."
+      },
+      {
+        "key": "dialog_d7_m3_ka",
+        "val": "Itxi atea giltzaz irtetean."
+      },
+      {
+        "key": "dialog_d7_m3_la",
+        "val": "Heldu isatsetik, motel."
+      },
+      {
+        "key": "dialog_d7_m3_ma",
+        "val": "Trukean…"
+      },
+      {
+        "key": "dialog_d7_m3_na",
+        "val": "…ontzia…"
+      },
+      {
+        "key": "dialog_d7_m3_oa",
+        "val": "…Obra Dinn…"
+      },
+      {
+        "key": "dialog_d7_m3_pa",
+        "val": "…eramanzazu etxera."
+      },
+      {
+        "key": "dialog_d7_m4_aa",
+        "val": "Hemen zaude!"
+      },
+      {
+        "key": "dialog_d7_m4_am",
+        "val": "Batu zure gauzak, …"
+      },
+      {
+        "key": "dialog_d7_m4_ba",
+        "val": "Non da giltza?"
+      },
+      {
+        "key": "dialog_d7_m4_ca",
+        "val": "Ate horrena? Galduta."
+      },
+      {
+        "key": "dialog_d7_m4_da",
+        "val": "Putza."
+      },
+      {
+        "key": "dialog_d7_m4_ea",
+        "val": "Ez dago astirik. Joan beharra dugu."
+      },
+      {
+        "key": "dialog_d7_m4_fa",
+        "val": "Ondo da."
+      },
+      {
+        "key": "dialog_d7_m4_ga",
+        "val": "Barrura hoa."
+      },
+      {
+        "key": "dialog_d7_m4_ha",
+        "val": "Zer darabilzu buruan?"
+      },
+      {
+        "key": "dialog_d7_m4_ia",
+        "val": "Ezer onik ez."
+      },
+      {
+        "key": "dialog_d8_m0_aa",
+        "val": "Jaregin! Utz nazazue!"
+      },
+      {
+        "key": "dialog_d8_m0_ba",
+        "val": "Lasaitu, larri zauriturik zaude."
+      },
+      {
+        "key": "dialog_d8_m0_ca",
+        "val": "Txibia! Non da ene lagun frantsesa?"
+      },
+      {
+        "key": "dialog_d8_m0_da",
+        "val": "Txibia joan da. Zure laguna birrindu du."
+      },
+      {
+        "key": "dialog_d8_m0_ea",
+        "val": "Verdammt! Hil da piztia!"
+      },
+      {
+        "key": "dialog_d8_m0_fa",
+        "val": "Nola? Nola hil duzue?"
+      },
+      {
+        "key": "dialog_d8_m0_ga",
+        "val": "Ez dugu hil. Enbatarekin alde egin du."
+      },
+      {
+        "key": "dialog_d8_m0_ha",
+        "val": "Kapitaina sototik igo da."
+      },
+      {
+        "key": "dialog_d8_m0_hm",
+        "val": "Uxatu egin omen du."
+      },
+      {
+        "key": "dialog_d8_m0_ja",
+        "val": "Atseden hartu behar zenuke."
+      },
+      {
+        "key": "dialog_d8_m0_ka",
+        "val": "Halako madarikazioa…"
+      },
+      {
+        "key": "dialog_d8_m0_la",
+        "val": "…ez da besterik gabe joaten."
+      },
+      {
+        "key": "dialog_d8_m1_aa",
+        "val": "Azkena da. Bizkor."
+      },
+      {
+        "key": "dialog_d8_m1_ba",
+        "val": "E! Ez duzue azken txalupa hartuko!"
+      },
+      {
+        "key": "dialog_d8_m1_ca",
+        "val": "Paul! Kontuz!"
+      },
+      {
+        "key": "dialog_d8_m1_da",
+        "val": "Geldi!"
+      },
+      {
+        "key": "dialog_d8_m1_dm",
+        "val": "Utziek alde egiten!"
+      },
+      {
+        "key": "dialog_d8_m1_ea",
+        "val": "Ez!"
+      },
+      {
+        "key": "dialog_d8_m1_em",
+        "val": "Arraioa."
+      },
+      {
+        "key": "dialog_d8_m2_aa",
+        "val": "Utziek alde egiten!"
+      },
+      {
+        "key": "dialog_d8_m3_aa",
+        "val": "Aski da! Ezin gaitezke kapitainaz fio."
+      },
+      {
+        "key": "dialog_d8_m3_ba",
+        "val": "Plan bat daukak?"
+      },
+      {
+        "key": "dialog_d8_m3_ca",
+        "val": "Bai. Ontzia hartu eta ekialderantz egin."
+      },
+      {
+        "key": "dialog_d8_m3_da",
+        "val": "Infernuko arrain eta maskor horiek urre truk salduko ditugu."
+      },
+      {
+        "key": "dialog_d8_m3_ea",
+        "val": "E? Nor da hor?"
+      },
+      {
+        "key": "dialog_d8_m3_fa",
+        "val": "Matxinada! Matxinada!"
+      },
+      {
+        "key": "dialog_d8_m3_ga",
+        "val": "Mingainluze arraioa!"
+      },
+      {
+        "key": "dialog_d8_m3_ha",
+        "val": "Ez!"
+      },
+      {
+        "key": "dialog_d8_m4_aa",
+        "val": "Zer da hau, ero alaena?"
+      },
+      {
+        "key": "dialog_d8_m5_aa",
+        "val": "O, ez."
+      },
+      {
+        "key": "dialog_d8_m5_am",
+        "val": "Zauritu egin haute!"
+      },
+      {
+        "key": "dialog_d8_m5_ba",
+        "val": "Ez… nazazu bakarrik utzi."
+      },
+      {
+        "key": "dialog_d8_m5_ca",
+        "val": "Eutsi, seme. Ez noak inora."
+      },
+      {
+        "key": "dialog_d8_m5_da",
+        "val": "Esan Pete-en amari…"
+      },
+      {
+        "key": "dialog_d8_m5_dh",
+        "val": "ahal nuena egin nuela."
+      },
+      {
+        "key": "dialog_d8_m5_dr",
+        "val": "…bera ateratzeko… salbatzeko."
+      },
+      {
+        "key": "dialog_d8_m5_ea",
+        "val": "Herorrek esan ahalko diok."
+      },
+      {
+        "key": "dialog_d8_m5_fa",
+        "val": "Brennan! Ekar itzak zirujau-tresnak!"
+      },
+      {
+        "key": "dialog_d9_m0_aa",
+        "val": "Kapitaina!"
+      },
+      {
+        "key": "dialog_d9_m0_ba",
+        "val": "Ireki atea!"
+      },
+      {
+        "key": "dialog_d9_m0_ca",
+        "val": "Ireki ostikoz!"
+      },
+      {
+        "key": "dialog_d9_m0_da",
+        "val": "Bestela, sartu eta…"
+      },
+      {
+        "key": "dialog_d9_m0_ea",
+        "val": "maskorrak baino gehiago hartuko dugu gurekin."
+      },
+      {
+        "key": "dialog_d9_m0_fa",
+        "val": "Sasikumeak… Hartuko duzuen bakarra…"
+      },
+      {
+        "key": "dialog_d9_m0_ga",
+        "val": "nik emandakoa izango da."
+      },
+      {
+        "key": "dialog_d9_m1_aa",
+        "val": "Non daude?"
+      },
+      {
+        "key": "dialog_d9_m1_ba",
+        "val": "Hemen behar dute."
+      },
+      {
+        "key": "dialog_d9_m1_ca",
+        "val": "Itsasoaren…"
+      },
+      {
+        "key": "dialog_d9_m1_da",
+        "val": "sakonean zeudek."
+      },
+      {
+        "key": "dialog_d9_m1_ea",
+        "val": "Gezurra!"
+      },
+      {
+        "key": "dialog_d9_m3_aa",
+        "val": "Abigail."
+      },
+      {
+        "key": "dialog_d9_m3_ba",
+        "val": "Zure neba."
+      },
+      {
+        "key": "dialog_d9_m3_ca",
+        "val": "Nire adiskidea."
+      },
+      {
+        "key": "dialog_d9_m3_da",
+        "val": "Tirokatu egin dut…"
+      },
+      {
+        "key": "dialog_d9_m3_ea",
+        "val": "hilda dago."
+      },
+      {
+        "key": "dialog_d9_m3_fa",
+        "val": "Zurekin izango naiz…"
+      },
+      {
+        "key": "dialog_d9_m3_ga",
+        "val": "laster, maitea."
+      },
+      {
+        "key": "dialog_d9_m3_ha",
+        "val": "Mesedez, barkaidazu."
+      },
+      {
+        "key": "dialog_d9_m3_ia",
+        "val": "Guztiagatik."
+      },
+      {
+        "key": "dialog_tally_intro_aa",
+        "val": "Astebete geroago"
+      },
+      {
+        "key": "dialog_office_intro_aa",
+        "val": "Urtebete geroago"
+      },
+      {
+        "key": "dialog_office_delivery_package_aa",
+        "val": "Sinets dezakezu? Pakete bat orduotan!"
+      },
+      {
+        "key": "dialog_office_delivery_package_ba",
+        "val": "Ikaragarrizko kiratsa dario."
+      },
+      {
+        "key": "dialog_office_delivery_package_ca",
+        "val": "Hobe barruan irekitzen ez baduzu."
+      },
+      {
+        "key": "dialog_office_delivery_package_da",
+        "val": "Ni ohera noa."
+      },
+      {
+        "key": "dialog_office_delivery_package_ea",
+        "val": "Te gehiago nahi baduzu, sukaldean dago."
+      },
+      {
+        "key": "dialog_office_delivery_envelope_aa",
+        "val": "Sinets dezakezu? Gutun bat orduotan!"
+      },
+      {
+        "key": "dialog_office_delivery_envelope_ba",
+        "val": "Garrantzitsua behar du izan."
+      },
+      {
+        "key": "dialog_office_delivery_envelope_ca",
+        "val": "Ni ohera noa."
+      },
+      {
+        "key": "dialog_office_delivery_envelope_da",
+        "val": "Dagoeneko ez dago terik, zuk ere hobe zenuke oheratu."
+      },
+      {
+        "key": "dialog_the_end_aa",
+        "val": "Amaiera"
+      }
+    ]
+  },
+  "sprites": {
+    "Array": [
+      {
+        "key": "FolioChart",
+        "val": {
+          "m_FileID": 0,
+          "m_PathID": -3547188460244577651
+        }
+      },
+      {
+        "key": "FolioDeck",
+        "val": {
+          "m_FileID": 0,
+          "m_PathID": -2732385451786267178
+        }
+      },
+      {
+        "key": "FolioSketch",
+        "val": {
+          "m_FileID": 0,
+          "m_PathID": 1465677060107866697
+        }
+      },
+      {
+        "key": "ManifestCrew",
+        "val": {
+          "m_FileID": 0,
+          "m_PathID": -115156036322798051
+        }
+      }
+    ]
+  },
+  "errors": {
+    "Array": []
+  }
+}
