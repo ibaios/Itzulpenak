@@ -18955,7 +18955,7 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Hosts Ruleset",
+        "Host's Ruleset",
         "Ostalariaren arau-bilduma",
         "Regole dell'host",
         "Hosts Regeln",
@@ -29920,6 +29920,76 @@
         "再試一次！",
         "もう一度やり直してください！",
         "다시 시도하십시오!"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "View",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "View",
+        "Ikusi",
+        "Cedere",
+        "Ansehen",
+        "Ver",
+        "осмотреть",
+        "看",
+        "察看",
+        "眺める",
+        "검사하다"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "Duplicate",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Duplicate",
+        "Bikoiztu",
+        "Duplicare",
+        "Duplikat",
+        "Duplicar",
+        "Дубликат",
+        "复制",
+        "複製",
+        "重複",
+        "복제하다"
       ]
     },
     "Flags": {

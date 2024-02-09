@@ -18955,7 +18955,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Hosts Ruleset",
+              "Host's Ruleset",
               "Règles de l'hôte",
               "Regole dell'host",
               "Hosts Regeln",
@@ -29841,7 +29841,7 @@
           "Languages": {
             "Array": [
               "You Escaped!",
-              "Ihes egin duzu!",
+              "Tu T'es Échappé !",
               "Sei Scappato!",
               "Du Bist Entkommen!",
               "¡Escapaste!",
@@ -29876,7 +29876,7 @@
           "Languages": {
             "Array": [
               "You Were Caught!",
-              "Harrapatu zaituzte!",
+              "Tu As Été Attrapé !",
               "Sei Stato Catturato!",
               "Du Wurdest Erwischt!",
               "¡Fuiste Atrapado!",
@@ -29911,7 +29911,7 @@
           "Languages": {
             "Array": [
               "Try Again!",
-              "Saiatu berriz!",
+              "Essayer À Nouveau!",
               "Riprova!",
               "Versuchen Sie Es Erneut!",
               "¡Intentar Otra Vez!",
@@ -29920,6 +29920,76 @@
               "再試一次！",
               "もう一度やり直してください！",
               "다시 시도하십시오!"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "View",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "View",
+              "Regarder",
+              "Cedere",
+              "Ansehen",
+              "Ver",
+              "осмотреть",
+              "看",
+              "察看",
+              "眺める",
+              "검사하다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Duplicate",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Duplicate",
+              "Dupliquer",
+              "Duplicare",
+              "Duplikat",
+              "Duplicar",
+              "Дубликат",
+              "复制",
+              "複製",
+              "重複",
+              "복제하다"
             ]
           },
           "Flags": {
