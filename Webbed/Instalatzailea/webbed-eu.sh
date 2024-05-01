@@ -3,15 +3,17 @@
 echo "Webbed euskaraz - Instalatzen..."
 
 # Bilatu jokoaren kokalekua
-path="~/.steam/steam/steamapps/common/Webbed"
+path="~/.steam/steam/steamapps/common/Webbed/"
 
 if [[  ! -d "$path" ]]; then
 	input=~/.steam/steam/config/libraryfolders.vdf
 	while read -r line; do
 		if [[ $line == \"path\"* ]]; then
 			base=$(echo $line | cut -d '"' -f 4)
-			path="$base/steamapps/common/Webbed"
+			path="$base"/steamapps/common/Webbed/
+			echo "Checking path $path ..."
 			if [[ -d "$path" ]]; then
+				echo "Path $path exists!"
 				break
 			fi
 		fi
@@ -33,8 +35,8 @@ echo "Deskargatuta."
 echo "Itzulpena aplikatzen..."
 
 # Aplikatu itzulpena
-mv "$path/translations.csv" "$path/translations.csv.bak"
-cp ./webbed-eu-en.csv "$path/translations.csv"
+mv "$path"/translations.csv "$path"/translations.csv.bak
+cp ./webbed-eu-en.csv "$path"/translations.csv
 
 echo "Aplikatuta."
 echo "Instalazioko fitxategiak ezabatzen..."
