@@ -1,6 +1,6 @@
 #define MyAppName "Webbed euskaraz"
 #define MyAppFilesystemName "Webbed euskaraz"
-#define MyAppVersion "1.2"
+#define MyAppVersion "1.3"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"
