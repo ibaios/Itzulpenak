@@ -8,7 +8,67 @@ gameurl=hollowknight
 emipprefix=hollow-knight
 tempfolder=hollow-knight-eu-instalazioa
 gamename="Hollow Knight"
-$email=ibaios@disroot.org
+email=ibaios@disroot.org
+ascii=$(cat <<-END
+
+'||'  '||'  ..|''||   '||'      '||'       ..|''||   '|| '||'  '|' 
+ ||    ||  .|'    ||   ||        ||       .|'    ||   '|. '|.  .'  
+ ||''''||  ||      ||  ||        ||       ||      ||   ||  ||  |   
+ ||    ||  '|.     ||  ||        ||       '|.     ||    ||| |||    
+.||.  .||.  ''|...|'  .||.....| .||.....|  ''|...|'      |   |     
+                                                                   
+                                                                   
+      '||'  |'  '|.   '|' '||'  ..|'''.|  '||'  '||' |''||''| 
+       || .'     |'|   |   ||  .|'     '   ||    ||     ||    
+       ||'|.     | '|. |   ||  ||    ....  ||''''||     ||    
+       ||  ||    |   |||   ||  '|.    ||   ||    ||     ||    
+      .||.  ||. .|.   '|  .||.  ''|...'|  .||.  .||.   .||.   
+                                                        
+END
+)
+
+endascii=$(cat <<-END
+                                                                                                    
+                                                              ..                                    
+                         .,:                                  0MXx,                                 
+                       ,kWX                                    oMMMK:                               
+                     .0MMM:                                   ,dMMWWMO.                             
+                    :WWWWMNk;                                 :WMNXXNWN.                            
+                   ;WNNWMMW.                                    ,WNXXXNN.                           
+                  .NNXNMM0                                        NNXXXNO                           
+                  lWXXWM0                                         .WNXXXN.                          
+                  0NXXMM.                                          XWXXXN:                          
+                  NXXXMW.                                          KWXXXNl                          
+                  0NXXWMl                                         ,WNKKXW'                          
+                  :WXXXMW;                                       :WWXKKXK                           
+                   KXKXNWMd.       ..;:ldkkO0KKXNXXXKK0Okkdoc;,:0WWXKKKK                            
+                    KXKKXWMWOlldkKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNXKKK0                             
+                     xNKKKXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWNXKKKXx                              
+                      .XXKKKXNWWWWWWWWWWWNNNNNNXXXXXXXXXXXXXXXXKKKK0.                               
+                        .0XKKKKXXXXXXKKKKKKKKKKKKKKKKKKKKKKKKKKKKK,                                 
+                           OKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKd                                  
+                           :XKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXO                                  
+                           .NKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXK                                  
+                           .NKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXX        .                         
+      .....   ;.     ..'''..OXKKKKKKXKKXXKKKKKKKKKKKKKXOl;:co0KKXK   ..  .;.                        
+          ','..'............,WKKKKk;.  .,dKKKKKKKKKKKK,       xKX0 .'.  .,'.                        
+           .......'''''......KXKKd        '0KKKKKKKKK'        .KNx.....'..';;;'.                    
+   .'......'',,..............;WKX,         'XKKKKKKKO          0W;..... .;;,.                       
+     ..'''''''............... xNXc          OKKKKKKKO         ;NX.......'''                         
+             .'',,'.......   ..KXK.         0KKKKKKKX:       ;KN,. .. ....            .........''.  
+              .......'..........OX0c.     .dXKKKKKKKKKk:,',ckX0' ... .....::coddddddoodddlc.        
+              .',,...............c0KKOdodOKKKKKKKKKKKKKKXXXXk:...........::coolcooxo,               
+                  .................,okKKXXXXKKKKKXXXKK0Oxl:. ..........,clddo,                      
+               .........................,;;::cc:;;,'..   ..........                                 
+                  .''........................ .......  ....                                         
+                     .............................                                                  
+                          ................                                                          
+                                                                                                    
+                                                                                                    
+END
+)
+
+echo "$ascii"
 
 echo "$gamename euskaraz - Instalatzen..."
 
@@ -35,7 +95,7 @@ paths=()
 
 steamconfigpath=~/.steam/steam/config/
 if [[ ! -d "$steamconfigpath" ]]; then
-    steamconfigpath=~/.var/app/com.valvesoftware.steam/.local/share/steam/config/
+    steamconfigpath=~/.local/share/Steam/config/
     if [[ ! -d "$steamconfigpath" ]]; then
         steamconfigpath=""
         echo "EZIN IZAN DA STEAMEKO KONFIGURAZIO KARPETA AURKITU."
@@ -76,9 +136,13 @@ if [[ ! -z "$steamconfigpath" ]]; then
 fi
 
 if [[ -z "$path" ]]; then
-    read -p "Ez da jokoaren karpeta aurkitu. Idatzi eskuz non dagoen: " path
+    read -p "Ez da jokoaren karpeta aurkitu. Idatzi eskuz non dagoen.
+    (adb. /home/erabiltzailea/.steam/steam/steamapps/common/$gamefolder)
+    Kokalekua: " path
     while [[ ! -d "$path" ]]; do
-        read -p "Sartutako kokalekua ez da existitzen. Saiatu berriz: " path
+        read -p "Sartutako kokalekua ez da existitzen. Saiatu berriz.
+        (adb. /home/erabiltzailea/.steam/steam/steamapps/common/$gamefolder)
+        Kokalekua: " path
     done
 fi
 
@@ -119,7 +183,9 @@ if [[ $eginda == 0 ]]; then
 
     # Errorea
     echo ""
-    echo "✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ "
+    echo "✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗"
+    echo "✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗"
+    echo ""
     echo "Arazoren bat gertatu da $gamename jokoaren euskaratzea instalatzean. Saiatu berriro edo idatzi $email helbidera lagun zaitzadan."
 else
     echo "Aplikatuta."
@@ -129,6 +195,7 @@ else
 
     # Instalatuta!
     echo ""
-    echo "✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ "
-    echo "Instalazioa behar bezala burutu da. Orain $gamename euskaraz izango duzu."
+    echo "$endascii"
+    echo ""
+    echo "✔  Instalazioa behar bezala burutu da. Orain $gamename euskaraz izango duzu."
 fi
