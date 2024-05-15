@@ -75,7 +75,7 @@ if [[ ! -z "$steamconfigpath" ]]; then
     fi
 fi
 
-if [[ -z "$path" ]] then
+if [[ -z "$path" ]]; then
     read -p "Ez da jokoaren karpeta aurkitu. Idatzi eskuz non dagoen: " path
     while [[ ! -d "$path" ]]; do
         read -p "Sartutako kokalekua ez da existitzen. Saiatu berriz: " path
@@ -119,7 +119,7 @@ if [[ $eginda == 0 ]]; then
 
     # Errorea
     echo ""
-    echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    echo "✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ "
     echo "Arazoren bat gertatu da $gamename jokoaren euskaratzea instalatzean. Saiatu berriro edo idatzi $email helbidera lagun zaitzadan."
 else
     echo "Aplikatuta."
@@ -129,6 +129,6 @@ else
 
     # Instalatuta!
     echo ""
-    echo "✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔"
+    echo "✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ ✔ "
     echo "Instalazioa behar bezala burutu da. Orain $gamename euskaraz izango duzu."
 fi
