@@ -18,12 +18,12 @@ ascii=$(cat <<-END
 .||.  .||.  ''|...|'  .||.....| .||.....|  ''|...|'      |   |     
                                                                    
                                                                    
-      '||'  |'  '|.   '|' '||'  ..|'''.|  '||'  '||' |''||''| 
-       || .'     |'|   |   ||  .|'     '   ||    ||     ||    
-       ||'|.     | '|. |   ||  ||    ....  ||''''||     ||    
-       ||  ||    |   |||   ||  '|.    ||   ||    ||     ||    
-      .||.  ||. .|.   '|  .||.  ''|...'|  .||.  .||.   .||.   
-                                                        
+      '||'  |'  '|.   '|' '||'  ..|'''.|  '||'  '||' |''||''|      
+       || .'     |'|   |   ||  .|'     '   ||    ||     ||         
+       ||'|.     | '|. |   ||  ||    ....  ||''''||     ||         
+       ||  ||    |   |||   ||  '|.    ||   ||    ||     ||         
+      .||.  ||. .|.   '|  .||.  ''|...'|  .||.  .||.   .||.        
+                                                                   
 END
 )
 
@@ -93,29 +93,26 @@ path=""
 paths=()
 
 
-steamconfigpath=~/.steam/steam/config/
-if [[ ! -d "$steamconfigpath" ]]; then
-    steamconfigpath=~/.local/share/Steam/config/
-    if [[ ! -d "$steamconfigpath" ]]; then
+steamconfigpath=~/.steam/steam/config/libraryfolders.vdf
+if [[ ! -f "$steamconfigpath" ]]; then
+    steamconfigpath=~/.var/app/com.valvesoftware.Steam/.local/share/Steam/config/libraryfolders.vdf
+    if [[ ! -f "$steamconfigpath" ]]; then
         steamconfigpath=""
-        echo "EZIN IZAN DA STEAMEKO KONFIGURAZIO KARPETA AURKITU."
+        echo "EZIN IZAN DA STEAMEKO KONFIGURAZIO FITXATEGIA AURKITU."
     fi
 fi
 
 if [[ ! -z "$steamconfigpath" ]]; then
-    config="$steamconfigpath"/libraryfolders.vdf
-    if [[ -f "$config" ]]; then
-        while read -r line; do
-            if [[ $line == \"path\"* ]]; then
-                base=$(echo $line | cut -d '"' -f 4)
-                optpath="$base"/steamapps/common/$gamefolder
-                if [[ -d "$optpath" ]]; then
-                    paths+=("$optpath")
-                    #echo "Konfigurazioan $optpath aurkitu da..."
-                fi
+    while read -r line; do
+        if [[ $line == \"path\"* ]]; then
+            base=$(echo $line | cut -d '"' -f 4)
+            optpath="$base"/steamapps/common/$gamefolder
+            if [[ -d "$optpath" ]]; then
+                paths+=("$optpath")
+                #echo "Konfigurazioan $optpath aurkitu da..."
             fi
-        done < "$config"
-    fi
+        fi
+    done < "$steamconfigpath"
 
     if [[ ${#paths[@]} > 0 ]]; then
         if [[ ${#paths[@]} == 1 ]]; then
@@ -172,10 +169,10 @@ echo "Deskargatuta."
 echo "Itzulpena aplikatzen..."
 
 # Aplikatu itzulpena
-eginda=0
-./"$itzultool_filename" applyemip $emipprefix-eu-$locale.emip "$path" && eginda=1
+ok=1
+./"$itzultool_filename" applyemip $emipprefix-eu-$locale.emip "$path" || ok=0
 
-if [[ $eginda == 0 ]]; then
+if [[ $ok == 0 ]]; then
     echo "Huts egin du."
     echo "Instalazioko fitxategiak ezabatzen..."
     cd ..
