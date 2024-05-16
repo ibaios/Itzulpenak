@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 itzultool_version=0.4
 itzultool_filename=itzultool-"$itzultool_version"-linux-x64
@@ -9,7 +9,8 @@ emipprefix=hollow-knight
 tempfolder=hollow-knight-eu-instalazioa
 gamename="Hollow Knight"
 email=ibaios@disroot.org
-ascii=$(cat <<-END
+
+ascii=$(cat <<'END'
 
 '||'  '||'  ..|''||   '||'      '||'       ..|''||   '|| '||'  '|' 
  ||    ||  .|'    ||   ||        ||       .|'    ||   '|. '|.  .'  
@@ -27,7 +28,7 @@ ascii=$(cat <<-END
 END
 )
 
-endascii=$(cat <<-END
+endascii=$(cat <<'END'
                                                                                                     
                                                               ..                                    
                          .,:                                  0MXx,                                 
@@ -148,8 +149,6 @@ echo "Path: $path"
 # Instalaziorako karpeta sortu
 mkdir $tempfolder
 cd $tempfolder
-
-echo "UABE Avalonia deskargatzen..."
 
 echo "ItzulTool deskargatzen..."
 

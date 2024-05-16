@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 itzultool_version=0.4
 itzultool_filename=itzultool-"$itzultool_version"-linux-x64
@@ -9,7 +9,8 @@ emipprefix=signalis
 tempfolder=signalis-eu-instalazioa
 gamename="SIGNALIS"
 email=ibaios@disroot.org
-ascii=$(cat <<-END
+
+ascii=$(cat <<'END'
 
   .:: ::  .::   .::::   .:::     .::      .:       .::      .::  .:: ::  
 .::    .::.:: .:    .:: .: .::   .::     .: ::     .::      .::.::    .::
@@ -22,7 +23,7 @@ ascii=$(cat <<-END
 END
 )
 
-endascii=$(cat <<-END
+endascii=$(cat <<'END'
        .....                       ................'',,,,,,,,,,,,,,,'''''''''................       
        ...                      .................''',,,,,,,,,,,,,,,,'''''................           
       ...                   .................''''''.'''.'.................                   ...    
@@ -161,8 +162,6 @@ echo "Path: $path"
 # Instalaziorako karpeta sortu
 mkdir $tempfolder
 cd $tempfolder
-
-echo "UABE Avalonia deskargatzen..."
 
 echo "ItzulTool deskargatzen..."
 
