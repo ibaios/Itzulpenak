@@ -29,43 +29,35 @@ END
 )
 
 endascii=$(cat <<'END'
-                                                                                                    
-                                                              ..                                    
-                         .,:                                  0MXx,                                 
-                       ,kWX                                    oMMMK:                               
-                     .0MMM:                                   ,dMMWWMO.                             
-                    :WWWWMNk;                                 :WMNXXNWN.                            
-                   ;WNNWMMW.                                    ,WNXXXNN.                           
-                  .NNXNMM0                                        NNXXXNO                           
-                  lWXXWM0                                         .WNXXXN.                          
-                  0NXXMM.                                          XWXXXN:                          
-                  NXXXMW.                                          KWXXXNl                          
-                  0NXXWMl                                         ,WNKKXW'                          
-                  :WXXXMW;                                       :WWXKKXK                           
-                   KXKXNWMd.       ..;:ldkkO0KKXNXXXKK0Okkdoc;,:0WWXKKKK                            
-                    KXKKXWMWOlldkKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNXKKK0                             
-                     xNKKKXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWNXKKKXx                              
-                      .XXKKKXNWWWWWWWWWWWNNNNNNXXXXXXXXXXXXXXXXKKKK0.                               
-                        .0XKKKKXXXXXXKKKKKKKKKKKKKKKKKKKKKKKKKKKKK,                                 
-                           OKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKd                                  
-                           :XKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXO                                  
-                           .NKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXK                                  
-                           .NKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXX        .                         
-      .....   ;.     ..'''..OXKKKKKKXKKXXKKKKKKKKKKKKKXOl;:co0KKXK   ..  .;.                        
-          ','..'............,WKKKKk;.  .,dKKKKKKKKKKKK,       xKX0 .'.  .,'.                        
-           .......'''''......KXKKd        '0KKKKKKKKK'        .KNx.....'..';;;'.                    
-   .'......'',,..............;WKX,         'XKKKKKKKO          0W;..... .;;,.                       
-     ..'''''''............... xNXc          OKKKKKKKO         ;NX.......'''                         
-             .'',,'.......   ..KXK.         0KKKKKKKX:       ;KN,. .. ....            .........''.  
-              .......'..........OX0c.     .dXKKKKKKKKKk:,',ckX0' ... .....::coddddddoodddlc.        
-              .',,...............c0KKOdodOKKKKKKKKKKKKKKXXXXk:...........::coolcooxo,               
-                  .................,okKKXXXXKKKKKXXXKK0Oxl:. ..........,clddo,                      
-               .........................,;;::cc:;;,'..   ..........                                 
-                  .''........................ .......  ....                                         
-                     .............................                                                  
-                          ................                                                          
-                                                                                                    
-                                                                                                    
+                                                                                
+                                                 :xl.                           
+                  .oKk                            ,MMK:                         
+                 lWMM'                           'dWWWWK.                       
+                0WNWMW:                           .NNXXNN.                      
+               xNNWMN                               cWXXXK                      
+              .WXNMX                                 KNXXNc                     
+              cNXNM'                                 ,WXXXk                     
+              cNXNM;                                 lWXKXO                     
+              .NXXWX.                               ;WNKKN.                     
+               kXKXWWc      .,:ldxkO00KKK00Okxdoc;:kWNKKXc                      
+                xXKXNMNkxOXWMMMMMMMMMMMMMMMMMMMMMMMWXKKX;                       
+                 .XXKXNWMMMMMMMMMMWWWWWWWWWWWWWWNNXXKKK                         
+                   ,KKKXXXXXXXXXXXXXKKKKKKKKKKKKKKKK0.                          
+                     .KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK:                           
+                      0KKKKKKKKKKKKKKKKKKKKKKKKKKKKXd                           
+                      dXKKKKKKKKKKKKKKKKKKKKKKKKKKKXx                           
+     ...   .     .....:NKKKKKXXXKKKKKKKKKKKX0dodOKKXd  .   ;.                   
+        ''.''...''.....KKKKk,. .,xKKKKKKKKK;     ,KXo... .''.                   
+  .      ..'..'........lNKO       ;KKKKKKX;       dN:......,;;.                 
+    ''',,,'.......  ....KXO        xKKKKKX.       kN.... .,'.                   
+          .',,'...... ...NX,       dKKKKKKo      oNc........         .........  
+         ........'.......'KKc.   .cKKKKKKKXOc;;lO0; .......:cldddddoodo;        
+             .'............lOK0O0KKKKKKKKKKKKX0x:.........:clool:               
+            .  ...............;cloddxxdoolc;'.......... .'                      
+              .'..........................  ....                                
+                 ......................                                         
+                        ......                                                  
+                                                                                
 END
 )
 
