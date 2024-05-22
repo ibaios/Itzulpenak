@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 608
+    "m_PathID": 605
   },
   "m_Name": "I2Languages",
   "mSource": {
@@ -1770,11 +1770,11 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Beanie 1",
+        "Black Beanie",
         "Bonnet 1",
         "Berretto 1",
         "Beanie 1",
-        "1. txanoa",
+        "Txano beltza",
         "Шапочка 1",
         "毛线帽 1",
         "毛線帽 1",
@@ -1805,11 +1805,11 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Beanie 2",
+        "White Beanie",
         "Bonnet 2",
         "Berretto 2",
         "Beanie 2",
-        "2. txanoa",
+        "Txano zuria",
         "Шапочка 2",
         "毛线帽 2",
         "毛線帽 2",
@@ -7164,7 +7164,7 @@
         "Cache d'armes activée",
         "Cache armi abilitata",
         "Waffenversteck aktiviert",
-        "Arma-biltegia gaituta",
+        "Arma biltegia gaituta",
         "Склад оружия",
         "启用武器库",
         "啟用武器庫",
@@ -7199,7 +7199,7 @@
         "Tours de régénération de cache d'armes",
         "Turni di rigenerazione della cache armi",
         "Runden bis Waffenversteck-Erscheinen",
-        "Arma-biltegia birsortzeko txandak",
+        "Arma biltegia birsortzeko txandak",
         "Ходов до появления склада оружия",
         "武器库再生回合数",
         "武器庫再生回合數",
@@ -10275,11 +10275,11 @@
     "TermType": 0,
     "Languages": {
       "Array": [
-        "Memorize the displayed ingredients. Once you have collected them all take them to the cooking pot to gain points.",
+        "Memorize the displayed ingredients. Once you have collected them all take them to the cooking pot to gain points. Punch other players to slow them down, or punch ingredients to destroy them. Try to get multiple crates worth of ingredients each round!",
         "Mémorise les ingrédients affichés, une fois que tu les as tous récupérés, mets-les dans la marmite pour gagner des points.",
         "Memorizza gli ingredienti visualizzati e, quando li avrai raccolti tutti, mettili nella pentola per guadagnare punti.",
         "Merke dir die angezeigten Zutaten. Wenn du alle gesammelt hast, bringe sie in den Kochtopf, um Punkte zu erhalten.",
-        "Memorizatu erakutsitako osagai guztiak. Denak biltzen dituzunean, eraman itzazu sutan dagoen lapikora puntuak lortzeko.",
+        "Memorizatu erakutsitako osagai guztiak. Denak biltzen dituzunean, eraman itzazu sutan dagoen lapikora puntuak lortzeko. Kolpatu beste jokalariak moteltzeko, edo kolpatu osagaiak suntsitzeko. Saiatu txanda bakoitzean osagaiaz betetako kaxa bat baino gehiago lortzen.",
         "Запомните показанные ингредиенты. Собрав их все, отнесите их к котелку, чтобы заработать очки.",
         "记住显示的食材，一旦收集到全部食材，就把它们放到烹饪锅里以获得积分。",
         "記住顯示的食材，一旦收集到全部食材，就把它們放到烹飪鍋裡以獲得積分。",
@@ -17943,7 +17943,7 @@
         "The Rift",
         "La faille",
         "La faglia",
-        "Die Kluft\n",
+        "Die Kluft",
         "Arraila",
         "Кавардак",
         "裂谷",
@@ -21514,7 +21514,7 @@
         "MODE PLATEAU",
         "MODALITÀ DA TAVOLO",
         "BRETT-MODUS",
-        "TAULA MODUA",
+        "MAHAI-JOKO MODUA",
         "РЕЖИМ «НАСТОЛЬНАЯ ИГРА»",
         "图板模式",
         "圖板模式",
@@ -22669,7 +22669,7 @@
         "Haut-de-forme",
         "Cilindro",
         "Zylinder",
-        "Kapela",
+        "Xistera",
         "Цилиндр",
         "礼帽",
         "禮帽",
@@ -28434,7 +28434,77 @@
     "Languages_Touch": {
       "Array": []
     }
-},
+  },
+  {
+    "Term": "Loadouts",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Loadouts",
+        "Chargements",
+        "Caricamenti",
+        "Ausladungen",
+        "Ekipamenduak",
+        "Загрузки",
+        "装载",
+        "裝載",
+        "ロードアウト",
+        "로드아웃"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+      }
+    },
+    {
+      "Term": "LoadoutsDescription",
+      "TermType": 0,
+      "Languages": {
+        "Array": [
+          "Create and edit loadouts to quickly access sets of items.",
+          "Créez et modifiez des chargements pour accéder rapidement à des ensembles d'éléments.",
+          "Crea e modifica equipaggiamenti per accedere rapidamente a set di oggetti.",
+          "Erstellen und bearbeiten Sie Loadouts, um schnell auf Artikelsets zuzugreifen.",
+          "Sortu eta editatu ekipamenduak, objektu multzoak bizkorrago atzitzeko.",
+          "Создавайте и редактируйте комплекты снаряжения для быстрого доступа к наборам предметов.",
+          "创建和编辑加载以快速访问项目集。",
+          "建立和編輯載入以快速存取項目集。",
+          "ロードアウトを作成および編集して、アイテムのセットにすばやくアクセスします。",
+          "로드아웃을 생성하고 편집하여 아이템 세트에 빠르게 접근하세요."
+        ]
+      },
+      "Flags": {
+        "Array": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "Languages_Touch": {
+        "Array": []
+      }
+    },
         {
           "Term": "LoadingMinigames",
           "TermType": 0,
@@ -29836,6 +29906,1546 @@
           }
         },
         {
+          "Term": "Hat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Hat",
+              "Chapeau",
+              "Cappello",
+              "Hut",
+              "Kapela",
+              "Шапка",
+              "帽子",
+              "帽子",
+              "帽子",
+              "모자"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Cape",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Cape",
+              "Cap",
+              "Mantello",
+              "Kap",
+              "Kapa",
+              "Мыс",
+              "岬",
+              "岬",
+              "ケープ",
+              "...곶"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Color",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Color",
+              "Couleur",
+              "Colore",
+              "Farbe",
+              "Kolorea",
+              "Цвет",
+              "颜色",
+              "顏色",
+              "色",
+              "색상"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Skin",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Skin",
+              "Peau",
+              "Pelle",
+              "Haut",
+              "Azala",
+              "Кожа",
+              "皮肤",
+              "皮膚",
+              "肌",
+              "피부"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "LoadoutName",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Loadout",
+              "Chargement",
+              "Equipaggiamento",
+              "Auslastung",
+              "Ekipamendua",
+              "Выгрузка",
+              "装载",
+              "裝載",
+              "ロードアウト",
+              "장전"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorRed",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Red",
+              "Rouge",
+              "Rosso",
+              "Rot",
+              "Gorria",
+              "Красный",
+              "红色的",
+              "紅色的",
+              "赤",
+              "빨간색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorGreen",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Green",
+              "Vert",
+              "Verde",
+              "Grün",
+              "Berdea",
+              "Зеленый",
+              "绿色的",
+              "綠色的",
+              "緑",
+              "녹색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorOrange",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Orange",
+              "Orange",
+              "Arancione",
+              "Orange",
+              "Laranja",
+              "Oранжевый",
+              "橙色",
+              "橘色",
+              "オレンジ",
+              "주황색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorBlue",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Blue",
+              "Bleu",
+              "Blu",
+              "Blau",
+              "Urdina",
+              "Синий",
+              "蓝色的",
+              "藍色的",
+              "青",
+              "파란색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorCyan",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Cyan",
+              "Cyan",
+              "Ciano",
+              "Cyan",
+              "Ziana",
+              "Голубой",
+              "青色",
+              "青色",
+              "シアン",
+              "청록색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorWhite",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "White",
+              "Blanc",
+              "Bianco",
+              "Weiß",
+              "Zuria",
+              "Белый",
+              "白色的",
+              "白色的",
+              "白",
+              "하얀색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorBlack",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Black",
+              "Noir",
+              "Nero",
+              "Schwarz",
+              "Beltza",
+              "Черный",
+              "黑色的",
+              "黑色的",
+              "黒",
+              "검은색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorPink",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Pink",
+              "Rose",
+              "Rosa",
+              "Rosa",
+              "Arrosa",
+              "Розовый",
+              "粉色的",
+              "粉紅色的",
+              "ピンク",
+              "분홍색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorPurple",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Purple",
+              "Violet",
+              "Viola",
+              "Lila",
+              "Morea",
+              "Фиолетовый",
+              "紫色的",
+              "紫色的",
+              "紫",
+              "보라색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorYellow",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Yellow",
+              "Jaune",
+              "Giallo",
+              "Gelb",
+              "Horia",
+              "Желтый",
+              "黄色的",
+              "黃色的",
+              "黄色",
+              "노란색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorMaroon",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Maroon",
+              "Bordeaux",
+              "Marrone",
+              "Kastanienbraun",
+              "Granatea",
+              "Темно-Бордовый",
+              "栗色",
+              "栗色",
+              "栗色",
+              "적갈색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorSkyBlue",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Sky Blue",
+              "Bleu Clair",
+              "Azzurro",
+              "Hellblau",
+              "Urdin argia",
+              "Светло-Синий",
+              "浅蓝色",
+              "淺藍色",
+              "ライトブルー",
+              "하늘색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorLimeGreen",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Lime",
+              "Vert Clair",
+              "Verde Chiaro",
+              "Hellgrün",
+              "Berde argia",
+              "Светло-Зеленый",
+              "浅绿色",
+              "淺綠色",
+              "ライトグリーン",
+              "연한 초록색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorViolet",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Violet",
+              "Violet",
+              "Viola",
+              "Violett",
+              "Bioleta",
+              "Фиолетовый",
+              "紫色",
+              "紫色",
+              "バイオレット",
+              "제비꽃"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeRoyalty",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Royalty",
+              "Royalties",
+              "Regalità",
+              "Königtum",
+              "Erregetza",
+              "Роялти",
+              "版税",
+              "版稅",
+              "王族",
+              "왕족"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "DragonHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Dragon",
+              "Dragon",
+              "Drago",
+              "Drachen",
+              "Dragoia",
+              "Дракон",
+              "龙",
+              "龍",
+              "ドラゴン",
+              "용"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "LionBuddyHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Lion Buddy",
+              "Ami Lion",
+              "Amico Leone",
+              "Löwenfreund",
+              "Lehoi laguna",
+              "Лев Друг",
+              "狮子朋友",
+              "獅子朋友",
+              "ライオンの友達",
+              "사자 친구"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "PoliceHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Police",
+              "Police",
+              "Polizia Stradale",
+              "Polizei",
+              "Polizia",
+              "Полиция",
+              "警察",
+              "警察",
+              "警察",
+              "경찰"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "HunterHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Hunter",
+              "Chasseur",
+              "Cacciatore",
+              "Jäger",
+              "Ehiztaria",
+              "Охотник",
+              "猎人",
+              "獵人",
+              "猟師",
+              "사냥꾼"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "VRHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Virtual Reality",
+              "Réalité Virtuelle",
+              "Realta Virtuale",
+              "Virtuelle Realität",
+              "Errealitate birtuala",
+              "Виртуальная Реальность",
+              "虚拟现实",
+              "虛擬實境",
+              "バーチャルリアリティ",
+              "가상 현실"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RebelHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Rebel",
+              "Rebelle",
+              "Ribelle",
+              "Rebell",
+              "Punkia",
+              "Мятежник",
+              "反叛",
+              "反叛",
+              "反逆者",
+              "반역자"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "HeadphonesHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Headphones",
+              "Écouteurs",
+              "Cuffie",
+              "Kopfhörer",
+              "Entzungailuak",
+              "Наушники",
+              "耳机",
+              "耳機",
+              "ヘッドフォン",
+              "헤드폰"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ElephantHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Elephant",
+              "Éléphant",
+              "Elefante",
+              "Elefant",
+              "Elefantea",
+              "Слон",
+              "大象",
+              "大象",
+              "象",
+              "코끼리"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ReindeerHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Reindeer",
+              "Renne",
+              "Renna",
+              "Rentier",
+              "Elur-oreina",
+              "Северный Олень",
+              "驯鹿",
+              "馴鹿",
+              "トナカイ",
+              "순록"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "BucketHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Bucket",
+              "Seau",
+              "Secchio",
+              "Eimer",
+              "Pertza",
+              "Ведро",
+              "桶",
+              "桶",
+              "バケツ",
+              "버킷"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CurledHornsHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Curled Horns",
+              "Cornes Enroulées",
+              "Corna Arricciate",
+              "Gekräuselte Hörner",
+              "Adar okerrak",
+              "Завитые Рога",
+              "卷曲的角",
+              "捲曲的角",
+              "カールした角",
+              "말린 뿔"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RocketsHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Rockets",
+              "Fusées",
+              "Razzi",
+              "Raketen",
+              "Suziriak",
+              "Ракеты",
+              "火箭",
+              "火箭",
+              "ロケット",
+              "로켓"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "AstronautHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Astronaut",
+              "Astronaute",
+              "Astronauta",
+              "Astronaut",
+              "Astronauta",
+              "Космонавт",
+              "宇航员",
+              "太空人",
+              "宇宙飛行士",
+              "우주 비행사"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "EggplantJuiceHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Eggplant Juice",
+              "Jus D'aubergine",
+              "Succo Di Melanzane",
+              "Auberginensaft",
+              "Alberjinia-zukua",
+              "Баклажановый Сок",
+              "茄子汁",
+              "茄子汁",
+              "ナスジュース",
+              "가지 주스"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "PilotHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Pilot",
+              "Pilote",
+              "Pilota",
+              "Pilot",
+              "Pilotua",
+              "Пилот",
+              "飞行员",
+              "飛行員",
+              "パイロット",
+              "조종사"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeSludge",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Sludge",
+              "Boue",
+              "Fanghi",
+              "Schlamm",
+              "Lokatza",
+              "Осадок",
+              "污泥",
+              "污泥",
+              "汚泥",
+              "진흙"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeFeathers",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Feathers",
+              "Plumes",
+              "Piume",
+              "Gefieder",
+              "Lumak",
+              "Перья",
+              "羽毛",
+              "羽毛",
+              "羽毛",
+              "깃털"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorSilver",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Silver",
+              "Argent",
+              "Argento",
+              "Silber",
+              "Zilarra",
+              "Серебро",
+              "银",
+              "銀",
+              "銀",
+              "은"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeNebula",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Nebula",
+              "Nébuleuse",
+              "Nebulosa",
+              "Nebel",
+              "Nebulosa",
+              "Туманность",
+              "星云",
+              "星雲",
+              "星雲",
+              "성운"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ForkliftFlingName",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Forklift Fling",
+              "Lancer de chariot élévateur",
+              "Lancio del muletto",
+              "Gabelstapler-Schleuder",
+              "Jaurtiketak Jasogailuekin",
+              "Бросок погрузчика",
+              "叉车投掷",
+              "叉車投擲",
+              "フォークリフトフリング",
+              "지게차 플링"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ForkliftFlingDescription",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "It’s chaos in the warehouse! Orders are piling up and you need to move them fast! Use your forklift to fling boxes away and keep the warehouse floor clear. Make sure you don’t get flung yourself though!",
+              "C’est le chaos dans l’entrepôt ! Les commandes s’accumulent et vous devez les déplacer rapidement ! Utilisez votre chariot élévateur pour projeter les boîtes et maintenir le sol de l’entrepôt dégagé. Assurez-vous de ne pas vous faire projeter vous-même !",
+              "È il caos nel magazzino! Gli ordini si accumulano e devi spostarli velocemente! Usa il tuo muletto per scagliare via le scatole e mantenere il pavimento del magazzino libero. Assicurati di non essere scagliato tu stesso!",
+              "Es herrscht Chaos im Lager! Die Bestellungen häufen sich, und du musst sie schnell bewegen! Benutze deinen Gabelstapler, um die Kisten wegzuschleudern und den Lagerboden frei zu halten. Achte darauf, dass du selbst nicht weggeschleudert wirst!",
+              "Kaosa da biltegian! Eskaerak pilatzen ari dira, eta bizkor mugitu behar dituzu! Erabili karga-jasogailua kaxak kanpora jaurtitzeko eta mantendu biltegiko zorua garbi. Baina kontuz, edo zu jaurtiko zaituzte kanpora!",
+              "В складском помещении царит хаос! Заказы накапливаются, и вам нужно быстро их перемещать! Используйте свой погрузчик, чтобы отбросить коробки и поддерживать чистоту на складском полу. Убедитесь, что вас не отбросит тоже!",
+              "仓库里一片混乱！订单不断堆积，你需要快速搬运！使用叉车将箱子抛开，保持仓库地面清晰。但要确保自己不被抛出去！",
+              "倉庫裡一片混亂！訂單不斷堆積，你需要快速搬運！使用叉車將箱子拋開，保持倉庫地面清晰。但要確保自己不被拋出去！",
+              "倉庫は混乱しています！注文が積み重なり、素早く移動する必要があります。フォークリフトを使って箱を投げ飛ばし、倉庫の床をきれいに保ちましょう。ただし、自分自身が投げ飛ばされないように注意してください！",
+              "창고 안은 혼란스럽습니다! 주문이 쌓이고 빠르게 이동해야 합니다! 지게차를 사용하여 상자를 튕겨내고 창고 바닥을 깨끗하게 유지하세요. 다만, 스스로 튕겨지지 않도록 주의하세요!"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RiskyRubberbandsDescription",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "How quickly can you make your watermelon explode by wrapping it in rubber bands? Add rubber bands closer to the center of the melon to earn more points and make it explode sooner!",
+              "À quelle vitesse pouvez-vous faire exploser votre pastèque en l’enveloppant de bandes de caoutchouc ? Ajoutez des bandes de caoutchouc plus près du centre du melon pour gagner plus de points et le faire exploser plus rapidement !",
+              "Quanto velocemente puoi far esplodere il tuo cocomero avvolgendolo con elastici? Aggiungi elastici più vicino al centro del melone per guadagnare più punti e farlo esplodere prima!",
+              "Wie schnell kannst du deine Wassermelone zum Platzen bringen, indem du sie mit Gummibändern umwickelst? Füge Gummibänder näher am Zentrum der Melone hinzu, um mehr Punkte zu verdienen und sie schneller platzen zu lassen!",
+              "Zenbat denbora behar duzu angurria leherrarazteko gomazko xingolekin bilduta? Gehitu gomazko xingolak angurriaren erdialdetik ahalik gertuen puntu gehiago irabazteko eta bizkorrago leher dadin!",
+              "Как быстро вы можете взорвать свой арбуз, обмотав его резиновыми резинками? Добавьте резиновые резинки ближе к центру мелона, чтобы заработать больше очков и сделать его взрыв более быстрым!",
+              "用橡皮筋包裹西瓜，能多快让它爆炸？将橡皮筋靠近西瓜中心添加，以获得更多积分并更快地让它爆炸！",
+              "用橡皮筋包裹西瓜，能多快讓它爆炸？將橡皮筋靠近西瓜中心添加，以獲得更多積分並更快地讓它爆炸！",
+              "ゴムバンドでスイカをどれくらい早く爆発させることができますか？スイカの中心にゴムバンドを追加してより多くのポイントを獲得し、早く爆発させましょう！",
+              "고무줄로 수박을 얼마나 빨리 터뜨릴 수 있나요? 고무줄을 수박 중앙에 가까이 추가하여 더 많은 점수를 얻고 빨리 터뜨리세요!"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RiskyRubberbandsName",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Risky Rubberbands",
+              "Élastiques Risqués",
+              "Elastici Rischiosi",
+              "Riskante Gummibänder",
+              "Angurri Arriskutsuak",
+              "Рискованные Резинки",
+              "冒险橡皮筋",
+              "冒險橡皮筋",
+              "リスキーなゴムバンド",
+              "위험한 고무줄"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "AddRubberBand",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Add A Rubber Band",
+              "Ajouter Un Élastique",
+              "Aggiungi Un Elastico",
+              "Fügen Sie Ein Gummiband Hinzu",
+              "Gehitu gomazko xingola",
+              "Добавить Резинку",
+              "添加橡皮筋",
+              "加入橡皮筋",
+              "輪ゴムを追加する",
+              "고무줄 추가"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
           "Term": "PrisonMapEscaped",
           "TermType": 0,
           "Languages": {
@@ -29941,6 +31551,146 @@
           }
   },
   {
+    "Term": "ColorGrey",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Grey",
+        "Gris",
+        "Grigio",
+        "Grau",
+        "Grisa",
+        "Серый",
+        "灰色",
+        "灰色",
+        "グレー",
+        "회색"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "ColorCamoGreen",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Camo Green",
+        "Vert camouflage",
+        "Verde mimetico",
+        "Tarngrün",
+        "Kamuflaje berdea",
+        "Зеленый камуфляж",
+        "迷彩绿",
+        "迷彩綠",
+        "迷彩グリーン",
+        "카모 그린"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "ColorGold",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Gold",
+        "Or",
+        "Oro",
+        "Gold",
+        "Urrea",
+        "Золотой",
+        "金色",
+        "金色",
+        "ゴールド",
+        "골드"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
+    "Term": "ColorPlatinum",
+    "TermType": 0,
+    "Languages": {
+      "Array": [
+        "Platinum",
+        "Platine",
+        "Platino",
+        "Platin",
+        "Platinoa",
+        "Платина",
+        "铂金",
+        "鉑金",
+        "プラチナ",
+        "플래티넘"
+      ]
+    },
+    "Flags": {
+      "Array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Languages_Touch": {
+      "Array": []
+    }
+  },
+  {
           "Term": "View",
           "TermType": 0,
           "Languages": {
@@ -29990,6 +31740,2876 @@
               "複製",
               "重複",
               "복제하다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Unlocked",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Already Unlocked!",
+              "Déjà Obtenu !",
+              "Già Ottenuto!",
+              "Bereits Erhalten!",
+              "Desblokeatua!",
+              "Уже Получено!",
+              "已经获得了！",
+              "已經獲得了！",
+              "すでに入手済み！",
+              "이미 획득했습니다!"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "KnightHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Knight",
+              "Chevalier",
+              "Cavaliere",
+              "Ritter",
+              "Zalduna",
+              "Рыцарь",
+              "骑士",
+              "騎士",
+              "騎士",
+              "기사"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "BikeHelmetHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Bike Helmet",
+              "Casque de vélo",
+              "Casco da bicicletta",
+              "Fahrradhelm",
+              "Bizikleta-kaskoa",
+              "Велошлем",
+              "自行车头盔",
+              "自行車頭盔",
+              "自転車ヘルメット",
+              "자전거 헬멧"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "HeadwrapHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Headscarf",
+              "Foulard",
+              "Fazzoletto per la testa",
+              "Kopftuch",
+              "Buruzapia",
+              "Платок на голову",
+              "头巾",
+              "頭巾",
+              "ヘッドスカーフ",
+              "머리 스카프"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "LeafCrownHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Leaf Crown",
+              "Couronne de feuilles",
+              "Corona di foglie",
+              "Blätterkrone",
+              "Erramu koroa",
+              "Листовая корона",
+              "叶冠",
+              "葉冠",
+              "葉冠",
+              "잎 왕관"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeGreenStripes",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Green Stripes",
+              "Rayures vertes",
+              "Righe verdi",
+              "Grüne Streifen",
+              "Marra berdeak",
+              "Зеленые полосы",
+              "绿色条纹",
+              "綠色條紋",
+              "緑のストライプ",
+              "녹색 줄무늬"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeBlueStripes",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Blue Stripes",
+              "Rayures bleues",
+              "Righe blu",
+              "Blaue Streifen",
+              "Marra urdinak",
+              "Синие полосы",
+              "蓝色条纹",
+              "藍色條紋",
+              "青いストライプ",
+              "파란 줄무늬"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeOrangeStripes",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Orange Stripes",
+              "Rayures orange",
+              "Righe arancioni",
+              "Orangefarbene Streifen",
+              "Marra laranjak",
+              "Оранжевые полосы",
+              "橙色条纹",
+              "橙色條紋",
+              "オレンジのストライプ",
+              "주황색 줄무늬"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapePurpleStripes",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Purple Stripes",
+              "Rayures violettes",
+              "Righe viola",
+              "Lila Streifen",
+              "Marra moreak",
+              "Фиолетовые полосы",
+              "紫色条纹",
+              "紫色條紋",
+              "紫色のストライプ",
+              "보라색 줄무늬"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapePrototype",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Prototype",
+              "Prototype",
+              "Prototipo",
+              "Prototyp",
+              "Prototipoa",
+              "Прототип",
+              "原型",
+              "原型",
+              "プロトタイプ",
+              "프로토타입"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeTiger",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Tiger",
+              "Tigre",
+              "Tigre",
+              "Tiger",
+              "Tigrea",
+              "Тигр",
+              "老虎",
+              "老虎",
+              "トラ",
+              "호랑이"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeIce",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Ice",
+              "Glace",
+              "Ghiaccio",
+              "Eis",
+              "Izotza",
+              "Лед",
+              "冰",
+              "冰",
+              "氷",
+              "얼음"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeCamo",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Camo",
+              "Camouflage",
+              "Camuffamento",
+              "Tarnung",
+              "Kamuflajea",
+              "Камуфляж",
+              "迷彩",
+              "迷彩",
+              "迷彩柄",
+              "카모"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeWrappingPaper",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Wrapping Paper",
+              "Papier d’emballage",
+              "Carta da regalo",
+              "Geschenkpapier",
+              "Opari-papera",
+              "Оберточная бумага",
+              "包装纸",
+              "包裝紙",
+              "ラッピングペーパー",
+              "포장지"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeCobweb",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Cobweb",
+              "Toile d’araignée",
+              "Ragnatela",
+              "Spinnennetz",
+              "Amarauna",
+              "Паутина",
+              "蜘蛛网",
+              "蜘蛛網",
+              "クモの巣",
+              "거미줄"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "MainMenuBackground",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Main Menu Background",
+              "Arrière-plan du menu principal",
+              "Sfondo del menu principale",
+              "Hauptmenü-Hintergrund",
+              "Menuaren atzeko planoa",
+              "Фон главного меню",
+              "主菜单背景",
+              "主選單背景",
+              "メインメニューの背景",
+              "메인 메뉴 배경"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "MainMenuBackgroundDescription",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Change the appearance of the main menu.",
+              "Modifier l’apparence du menu principal.",
+              "Cambia l’aspetto del menu principale.",
+              "Ändere das Erscheinungsbild des Hauptmenüs.",
+              "Aldatu menu nagusiaren itxura.",
+              "Изменить внешний вид главного меню.",
+              "更改主菜单的外观。",
+              "更改主選單的外觀。",
+              "メインメニューの外観を変更します。",
+              "메인 메뉴의 외관을 변경하세요."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ColorBrown",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Brown",
+              "Marron",
+              "Marrone",
+              "Braun",
+              "Marroia",
+              "Коричневый",
+              "棕色",
+              "棕色",
+              "茶色",
+              "갈색"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "TeamModeLobbySetting",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Solo/Teams",
+              "Solo/Équipes",
+              "Solo/Squadre",
+              "Solo/Teams",
+              "Bakarka/Taldeka",
+              "Соло/Команды",
+              "单人/团队",
+              "單人/團隊",
+              "ソロ/チーム",
+              "솔로/팀"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "TeamModeName",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Teams",
+              "Équipes",
+              "Squadre",
+              "Teams",
+              "Taldeka",
+              "Команды",
+              "团队",
+              "團隊",
+              "チーム",
+              "팀"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "SoloModeName",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Solo",
+              "Solo",
+              "Solo",
+              "Solo",
+              "Bakarka",
+              "Соло",
+              "单人",
+              "單人",
+              "ソロ",
+              "솔로"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "TeamNameBlue",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Eggplant Enthusiasts",
+              "Les As de l’Aubergine",
+              "I Maestri della Melanzana",
+              "Auberginen-Enthusiasten",
+              "Alberjinia Alaiak",
+              "Баклажановые Браво",
+              "茄子骑士",
+              "茄子騎士",
+              "ナスナイツ",
+              "가지 기사단"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "TeamNameRed",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Rocket Riders",
+              "Cavaliers De Fusée",
+              "Cavalieri Di Razzi",
+              "Raketenreiter",
+              "Suziri Suminduak",
+              "Ракетчики",
+              "火箭骑士",
+              "火箭騎士",
+              "ロケットライダー",
+              "로켓 라이더"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "TeamNameYellow",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Wrecking Ball Warriors",
+              "Guerriers Boulets De Démolition",
+              "Guerrieri Della Palla Da Demolizione",
+              "Abrissbirnen-Krieger",
+              "Borroka Bolak",
+              "Воины Разрушающего Шара",
+              "破坏球战士",
+              "破壞球戰士",
+              "鉄球戦士",
+              "레킹볼 워리어즈"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "TeamNameGreen",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Cacti Crusaders",
+              "Croisés De Cactus",
+              "Crociati Di Cactus",
+              "Kakteen-Kreuzfahrer",
+              "Kaktus Kideak",
+              "Кактусы Крестоносцы",
+              "仙人掌十字军",
+              "仙人掌十字軍",
+              "サボテンの十字軍",
+              "선인장 십자군"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "TeamsUnbalancedWarning",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Teams are unbalanced!",
+              "Les équipes sont déséquilibrées !",
+              "Le squadre sono sbilanciate!",
+              "Die Teams sind unausgeglichen!",
+              "Ez dago taldeen arteko orekarik!",
+              "Команды несбалансированы!",
+              "队伍不平衡！",
+              "隊伍不平衡！",
+              "チームがバランスを欠いています！",
+              "팀이 균형이 맞지 않습니다!"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "TeamsMinimumSizeWarning",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Teams must contain at least 2 players!",
+              "Les équipes doivent contenir au moins 2 joueurs !",
+              "Le squadre devono contenere almeno 2 giocatori!",
+              "Teams müssen aus mindestens 2 Spielern bestehen!",
+              "Talde bakoitzak gutxienez 2 jokalari izan behar ditu!",
+              "В команде должно быть минимум 2 игрока!",
+              "团队必须至少包含 2 名玩家！",
+              "團隊必須至少包含 2 名玩家！",
+              "チームは少なくとも2人のプレイヤーを含める必要があります！",
+              "팀에는 최소 2명의 플레이어가 포함되어야 합니다!"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "TeamsTwoTeamsWarning",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "You need at least 2 teams!",
+              "Vous avez besoin d’au moins 2 équipes !",
+              "Hai bisogno di almeno 2 squadre!",
+              "Du benötigst mindestens 2 Teams!",
+              "Gutxienez 2 talde behar dituzu!",
+              "Вам нужно как минимум 2 команды!",
+              "您至少需要2个队伍！",
+              "您至少需要2個隊伍！",
+              "少なくとも2つのチームが必要です！",
+              "최소 2개의 팀이 필요합니다!"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "General_FriendlyFire",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Friendly Fire <color=grey>(Team games only)</color>",
+              "Tir ami <color=grey>(uniquement en mode équipe)</color>",
+              "Fuoco amico <color=grey>(solo nelle partite a squadre)</color>",
+              "Freundliches Feuer <color=grey>(nur in Teamspielen)</color>",
+              "Lagunen sua <color=grey>(taldekako partidetan soilik)</color>",
+              "Дружественный огонь <color=grey>(только в командных играх)</color>",
+              "友军火力 <color=grey>(仅适用于团队游戏)</color>",
+              "友軍火力 <color=grey>(僅適用於團隊遊戲)</color>",
+              "フレンドリーファイア <color=grey>(チーム戦のみ)</color>",
+              "우호적인 화력 <color=grey>(팀 게임 전용)</color>"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "BoardItemsOnly",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Board Items Only",
+              "Uniquement les éléments du plateau",
+              "Solo Articoli A Bordo",
+              "Nur Board-Artikel",
+              "Taulako objektuak soilik",
+              "Только Предметы На Доске",
+              "仅限棋盘上的物品",
+              "僅限棋盤上的物品",
+              "ボード上のアイテムのみ",
+              "보드 위의 항목만"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "FindPlayersOnSteamForums",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "You can also use the <color=#97bed8>Steam Discussion Forums</color> to find other players looking for people to play with online.",
+              "Vous pouvez également utiliser les <color=#97bed8>forums de discussion Steam</color> pour trouver d’autres joueurs cherchant des partenaires pour jouer en ligne.",
+              "Puoi anche utilizzare i <color=#97bed8>forum di discussione di Steam</color> per trovare altri giocatori in cerca di compagni per giocare online.",
+              "Du kannst auch die <color=#97bed8>Steam-Diskussionsforen</color> nutzen, um andere Spieler zu finden, die online mitspielen möchten.",
+              "Online jolasteko jende bila dabiltzan jokalariak aurkitzeko <color=#97bed8>Steameko eztabaidaguneak</color> ere erabil ditzakezu.",
+              "Вы также можете использовать <color=#97bed8>форумы обсуждения Steam</color>, чтобы найти других игроков, ищущих партнеров для онлайн-игр.",
+              "您还可以使用<color=#97bed8>Steam讨论区</color>，寻找其他寻找在线游戏伙伴的玩家。",
+              "您還可以使用<color=#97bed8>Steam討論區</color>，尋找其他尋找在線遊戲夥伴的玩家。",
+              "他のプレイヤーとオンラインで遊ぶ相手を探している人々を見つけるために、<color=#97bed8>Steamのディスカッションフォーラム</color>も利用できます。",
+              "他のプレイヤーとオンラインで遊ぶ相手を探している人々を見つけるために、<color=#97bed8>Steamのディスカッションフォーラム</color>も利用できます。"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "SteamForums",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Steam Discussion Forums",
+              "Forums de discussion Steam",
+              "Forum di discussione di Steam",
+              "Steam-Diskussionsforen",
+              "Steameko eztabaidaguneak",
+              "Форумы обсуждения Steam",
+              "Steam讨论区",
+              "Steam討論區",
+              "Steamのディスカッションフォーラム",
+              "Steam 토론 포럼"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ShopSectionHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Hats",
+              "Chapeaux",
+              "Cappelli",
+              "Hüte",
+              "Kapelak",
+              "Головные Уборы",
+              "帽子",
+              "帽子",
+              "帽子",
+              "모자"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ShopSectionCape",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Capes",
+              "Capes",
+              "Mantelli",
+              "Umhänge",
+              "Kapak",
+              "Накидки",
+              "斗篷",
+              "斗篷",
+              "ケープ",
+              "망토"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ShopSectionAchievementRewards",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Achievement Rewards",
+              "Récompenses d’accomplissement",
+              "Premi per gli obiettivi raggiunti",
+              "Erfolgsbelohnungen",
+              "Lorpenen sariak",
+              "Награды За Достижения",
+              "成就奖励",
+              "成就獎勵",
+              "達成報酬",
+              "성취 보상"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ShopSectionPlayerColors",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Player Colors",
+              "Couleurs du joueur",
+              "Colori del giocatore",
+              "Spielerfarben",
+              "Jokalarien koloreak",
+              "Цвета игрока",
+              "玩家颜色",
+              "玩家顏色",
+              "プレイヤーカラー",
+              "플레이어 색상"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ShopSectionVictoryAnimations",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Victory Animations",
+              "Animations De Victoire",
+              "Animazioni Di Vittoria",
+              "Sieg-Animationen",
+              "Garaipen animazioak",
+              "Анимация Победы",
+              "胜利动画",
+              "勝利動畫",
+              "勝利のアニメーション",
+              "승리 애니메이션"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ShopSectionBodyCosmetics",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Body Cosmetics",
+              "Cosmétiques corporels",
+              "Cosmetici Per Il Corpo",
+              "Körperkosmetik",
+              "Gorputzeko apaingarriak",
+              "Косметика Для Тела",
+              "身体化妆品",
+              "身體化妝品",
+              "ボディコスメ",
+              "바디 화장품"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ShopSectionTombstones",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Tombstones",
+              "Pierres Tombales",
+              "Lapidi",
+              "Grabsteine",
+              "Hilarriak",
+              "Надгробия",
+              "墓碑",
+              "墓碑",
+              "墓石",
+              "묘비"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Options_Latest",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Latest",
+              "Dernier",
+              "Più recente",
+              "Neueste",
+              "Azkena",
+              "Последний",
+              "最新",
+              "最新",
+              "最新",
+              "최신"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Options_Random",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Random",
+              "Aléatoire",
+              "Casuale",
+              "Zufällig",
+              "Ausazkoa",
+              "Случайный",
+              "随机",
+              "隨機",
+              "ランダム",
+              "임의"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Options_Item Update",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Item Update",
+              "Mise à jour de l’objet",
+              "Aggiornamento Dell'articolo",
+              "Artikel-Update",
+              "Objektuen eguneratzea",
+              "Обновление предметов",
+              "物品更新",
+              "物品更新",
+              "アイテムの更新",
+              "아이템 업데이트"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Options_Mod Editor Update",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Mod Editor Update",
+              "Mise À Jour De L'éditeur De Mod",
+              "Aggiornamento Dell'editor Mod",
+              "Mod-Editor-Update",
+              "Mod editorearen eguneratzea",
+              "Обновление редактора модификаций",
+              "Mod编辑器更新",
+              "Mod編輯器更新",
+              "MODエディターのアップデート",
+              "모드 편집기 업데이트"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Options_Cosmetics Update",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Cosmetics Update",
+              "Mise À Jour Des Cosmétiques",
+              "Aggiornamento Cosmetico",
+              "Kosmetik-Update",
+              "Apaingarrien eguneratzea",
+              "Косметическое обновление",
+              "化妆品更新",
+              "化妝品更新",
+              "コスメティックアップデート",
+              "화장품 업데이트"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Options_Winter",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Winter",
+              "Hiver",
+              "Inverno",
+              "Winter",
+              "Negua",
+              "Зима",
+              "冬",
+              "冬",
+              "冬",
+              "겨울"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Options_Halloween",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Halloween",
+              "Halloween",
+              "Halloween",
+              "Halloween",
+              "Gau Beltza",
+              "Хэллоуин",
+              "万圣节",
+              "萬聖節",
+              "ハロウィン",
+              "할로윈"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Options_Construction",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Construction",
+              "Construction",
+              "Costruzione",
+              "Konstruktion",
+              "Eraikuntza",
+              "Строительство",
+              "建造",
+              "建造",
+              "工事",
+              "건설"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ShopSectionBonus",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Bonus",
+              "Prime",
+              "Bonus",
+              "Bonus",
+              "Bonusa",
+              "Бонус",
+              "奖金",
+              "獎金",
+              "ボーナス",
+              "보너스"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ShopFree",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Free",
+              "Gratuit",
+              "Gratuito",
+              "Kostenlos",
+              "Dohainik",
+              "Бесплатно",
+              "免费",
+              "免費",
+              "無料",
+              "무료"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Perfect",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Perfect",
+              "Parfait",
+              "Perfetto",
+              "Perfekt",
+              "Bikain",
+              "Идеальный",
+              "完美",
+              "完美",
+              "完璧",
+              "완벽한"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "PlayerDisconnectMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "<color=#%playerColor%><b>%playerName%</b></color> has disconnected from the game and has been replaced by a bot. \nTo have this player rejoin, you can <color=#ffd57e>create a new lobby and load the last saved game.</color>",
+              "<color=#%playerColor%><b>%playerName%</b></color> a été déconnecté du jeu et a été remplacé par un bot. Pour que ce joueur puisse rejoindre à nouveau, vous pouvez <color=#ffd57e>créer un nouveau salon et charger la dernière partie sauvegardée.</color>",
+              "<color=#%playerColor%><b>%playerName%</b></color> si è disconnesso dal gioco ed è stato sostituito da un bot. Per far rientrare questo giocatore, puoi <color=#ffd57e>creare una nuova lobby e caricare l’ultima partita salvata.</color>",
+              "<color=#%playerColor%><b>%playerName%</b></color> wurde vom Spiel getrennt und durch einen Bot ersetzt. Um diesen Spieler wieder beizutreten, kannst du <color=#ffd57e>eine neue Lobby erstellen und das zuletzt gespeicherte Spiel laden.</color>",
+              "<color=#%playerColor%><b>%playerName%</b></color> jokotik deskonektatu da eta bot batekin ordezkatua izan da. \nJokalari hau partidara batu dadin <color=#ffd57e>gela berri bat sor dezakezu, bertan gordetako azken partida kargatuz.</color>",
+              "<color=#%playerColor%><b>%playerName%</b></color> отключился от игры и был заменен ботом. Чтобы этот игрок снова присоединился, вы можете <color=#ffd57e>создать новую комнату и загрузить последнюю сохраненную игру.</color>",
+              "<color=#%playerColor%>%playerName%</color> 断开了游戏连接，被机器人替代。要让这位玩家重新加入，您可以<color=#ffd57e>创建一个新的房间并加载最近保存的游戏。</color>",
+              "<color=#%playerColor%>%playerName%</color> 斷開了遊戲連接，被機器人替代。要讓這位玩家重新加入，您可以<color=#ffd57e>創建一個新的房間並載入最近保存的遊戲。</color>",
+              "<color=#%playerColor%>%playerName%</color> はゲームから切断され、ボットに置き換えられました。このプレイヤーを再度参加させるには、<color=#ffd57e>新しいロビーを作成して最後に保存されたゲームを読み込むことができます。</color>",
+              "<color=#%playerColor%>%playerName%</color> 님이 게임에서 연결이 끊겼고 봇으로 대체되었습니다. 이 플레이어를 다시 참여시키려면 <color=#ffd57e>새로운 로비를 만들고 최근 저장된 게임을 불러오세요.</color>"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Port",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Port",
+              "Port",
+              "Porta",
+              "Port",
+              "Ataka",
+              "Порт",
+              "端口",
+              "埠",
+              "ポート",
+              "포트"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Use UPnP",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Use UPnP Port Forwarding?",
+              "Utiliser le transfert de port UPnP ?",
+              "Usare l’inoltro di porta UPnP?",
+              "UPnP-Portweiterleitung verwenden?",
+              "UPnP ataken birbidalketa erabili?",
+              "Использовать UPnP-проброс портов?",
+              "使用UPnP端口转发？",
+              "使用UPnP端口轉發？",
+              "UPnPポートフォワーディングを使用しますか？",
+              "UPnP 포트 포워딩을 사용하시겠습니까?"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CosmeticArrow",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Arrow",
+              "Flèche",
+              "Freccia",
+              "Pfeil",
+              "Gezia",
+              "Стрела",
+              "箭",
+              "箭",
+              "矢",
+              "화살"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CosmeticBackstab",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Backstab",
+              "Poignarder Dans Le Dos",
+              "Pugnalata Alle Spalle",
+              "Hinterrücks erstechen",
+              "Labankada bizkarrean",
+              "Подставить нож в спину",
+              "背后捅刀",
+              "背後捅刀",
+              "背中を刺す",
+              "등을 찌르다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CosmeticDragonTail",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Dragon Tail",
+              "Queue De Dragon",
+              "Coda Di Drago",
+              "Drachenschwanz",
+              "Dragoi-buztana",
+              "Хвост Дракона",
+              "龙尾",
+              "龍尾",
+              "ドラゴンの尻尾",
+              "드래곤 테일"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CosmeticDonkeyTail",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Donkey Tail",
+              "Queue D'âne",
+              "Coda D'asino",
+              "Eselsschwanz",
+              "Asto-buztana",
+              "Ослиный Хвост",
+              "驴尾巴",
+              "驢尾巴",
+              "ロバの尻尾",
+              "당나귀 꼬리"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CosmeticWolfTail",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Wolf Tail",
+              "Queue De Loup",
+              "Coda Di Lupo",
+              "Wolfsschwanz",
+              "Otso-buztana",
+              "Волчий Хвост",
+              "狼尾巴",
+              "狼尾巴",
+              "オオカミの尻尾",
+              "늑대 꼬리"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CosmeticToolbelt",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Toolbelt",
+              "Ceinture À Outils",
+              "Cintura portautensili",
+              "Werkzeuggürtel",
+              "Tresnen gerrikoa",
+              "Ремень для инструментов",
+              "工具腰带",
+              "工具腰帶",
+              "ツールベルト",
+              "공구 벨트"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CosmeticCardboardPlane",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Cardboard Plane",
+              "Avion En Carton",
+              "Aereo Di Cartone",
+              "Flugzeug Aus Pappe",
+              "Kartoizko hegazkina",
+              "Картонный Самолет",
+              "纸板飞机",
+              "紙板飛機",
+              "段ボール飛行機",
+              "판지 비행기"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CosmeticPenPocket",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Pen Pocket",
+              "Poche À Stylo",
+              "Tasca Portapenne",
+              "Stifttasche",
+              "Bolalumen poltsikoa",
+              "Карман Для Ручки",
+              "笔袋",
+              "筆袋",
+              "ペンポケット",
+              "펜 주머니"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CosmeticNecklace",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Necklace",
+              "Collier",
+              "Collana",
+              "Halskette",
+              "Lepokoa",
+              "Ожерелье",
+              "项链",
+              "項鍊",
+              "ネックレス",
+              "목걸이"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CosmeticScarf",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Scarf",
+              "Foulard",
+              "Sciarpa",
+              "Schal",
+              "Bufanda",
+              "Шарф",
+              "围巾",
+              "圍巾",
+              "スカーフ",
+              "스카프"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CosmeticBowAndQuiver",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Bow and Quiver",
+              "Arc et carquois",
+              "Arco e faretra",
+              "Bogen und Köcher",
+              "Arkua eta buiraka",
+              "Лук и колчан",
+              "弓和箭袋",
+              "弓和箭袋",
+              "弓と矢筒",
+              "활과 화살통"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CosmeticTigerTail",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Tiger Tail",
+              "Queue De Tigre",
+              "Coda Di Tigre",
+              "Tigerschwanz",
+              "Tigre-buztana",
+              "Хвост Тигра",
+              "虎尾",
+              "虎尾",
+              "虎の尻尾",
+              "호랑이 꼬리"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "BodyExtra",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Body Cosmetic",
+              "Cosmétique corporel",
+              "Cosmetico per il corpo",
+              "Körperkosmetik",
+              "Gorputzeko apaingarria",
+              "Косметика для тела",
+              "身体化妆品",
+              "身體化妝品",
+              "ボディコスメティック",
+              "바디 화장품"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "VictoryAnimation",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Victory Animation",
+              "Animation de victoire",
+              "Animazione di vittoria",
+              "Sieg-Animation",
+              "Garaipen animazioa",
+              "Анимация победы",
+              "胜利动画",
+              "勝利動畫",
+              "勝利アニメーション",
+              "승리 애니메이션"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Tombstone",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Tombstone",
+              "Pierre Tombale",
+              "Lapide",
+              "Grabstein",
+              "Hilarria",
+              "Надгробие",
+              "墓碑",
+              "墓碑",
+              "墓石",
+              "묘비"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "PurchaseRequired",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Multiplayer prevented, the system indicates a purchase is required.",
+              "Multijoueur empêché, le système indique qu'un achat est requis.",
+              "Multigiocatore impedito, il sistema indica che è necessario un acquisto.",
+              "Multiplayer verhindert, das System zeigt an, dass ein Kauf erforderlich ist.",
+              "Multijokalari modua eragotzia, sistemak adierazten du erosketa egin beharra dagoela.",
+              "Мультиплеер запрещен, система указывает, что требуется покупка.",
+              "多人游戏被阻止，系统指示需要购买。",
+              "多人遊戲被阻止，系統指示需要購買。",
+              "マルチプレイヤーが禁止されており、システムは購入が必要であることを示しています。",
+              "멀티플레이가 금지되면 시스템에서 구매가 필요하다고 표시됩니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "AccountRestrictions",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Multiplayer prevented, the system indicates some restriction exists on the user.",
+              "Multijoueur empêché, le système indique qu'une certaine restriction existe pour l'utilisateur.",
+              "Multigiocatore impedito, il sistema indica che esistono alcune restrizioni per l'utente.",
+              "Der Mehrspielermodus wurde verhindert. Das System weist darauf hin, dass für den Benutzer eine Einschränkung besteht.",
+              "Multijokalari modua eragotzia, sistemak adierazten du erabiltzaileari murrizpenen bat ezarri zaiola.",
+              "Многопользовательская игра запрещена, система указывает, что для пользователя существуют некоторые ограничения.",
+              "多人游戏被阻止，系统指示用户存在某些限制。",
+              "多人遊戲被阻止，系統指示使用者有某些限制。",
+              "マルチプレイヤーが禁止されており、システムはユーザーに何らかの制限が存在することを示しています。",
+              "멀티플레이어가 금지되었습니다. 시스템에서는 사용자에게 일부 제한 사항이 있음을 나타냅니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "MultiplayerBanned",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Multiplayer prevented, the system indicates a ban exists on the user.",
+              "Multijoueur empêché, le système indique qu'il existe un bannissement de l'utilisateur.",
+              "Multigiocatore impedito, il sistema indica che esiste un ban per l'utente.",
+              "Multiplayer verhindert, das System zeigt an, dass für den Benutzer eine Sperre vorliegt.",
+              "Multijokalari modua eragotzia, sistemak adierazten du erabiltzaileari debekua ezarri zaiola.",
+              "Многопользовательская игра запрещена, система сообщает, что пользователь забанен.",
+              "多人游戏被阻止，系统指示该用户已被禁止。",
+              "多人遊戲被阻止，系統指示該用戶已被禁止。",
+              "マルチプレイヤーが禁止されているため、システムはユーザーに禁止が存在することを示します。",
+              "멀티 플레이가 금지되면 시스템은 사용자에 대한 금지가 있음을 나타냅니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "MultiplayerUnknownSystemError",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Multiplayer prevented by the system for an unknown reason.",
+              "Multijoueur empêché par le système pour une raison inconnue.",
+              "Multigiocatore impedito dal sistema per un motivo sconosciuto.",
+              "Multiplayer wurde vom System aus unbekanntem Grund verhindert.",
+              "Multijokalari modua eragotzi du sistemak, arrazoi ezezagunengatik.",
+              "Мультиплеер заблокирован системой по неизвестной причине.",
+              "由于未知原因，多人游戏被系统阻止。",
+              "由於未知原因，多人遊戲被系統阻止。",
+              "不明な理由により、マルチプレイヤーがシステムによって禁止されました。",
+              "알 수 없는 이유로 시스템에서 멀티플레이를 차단했습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "NetworkNotInitialized",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Network not initialized, please check wifi/lan connection.",
+              "Réseau non initialisé, veuillez vérifier la connexion wifi/lan.",
+              "Rete non inizializzata, controlla la connessione wifi/lan.",
+              "Netzwerk nicht initialisiert, bitte überprüfen Sie die WLAN-/LAN-Verbindung.",
+              "Sarea abiarazi gabe dago, egiaztatu wifi/LAN konexioa.",
+              "Сеть не инициализирована, проверьте соединение Wi-Fi/LAN.",
+              "网络未初始化，请检查 wifi/lan 连接。",
+              "網路未初始化，請檢查 wifi/lan 連線。",
+              "ネットワークが初期化されていません。Wi-Fi/LAN 接続を確認してください。",
+              "네트워크가 초기화되지 않았습니다. Wi-Fi/LAN 연결을 확인하세요."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "PlayfabError",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Playfab Error",
+              "Erreur Playfab",
+              "Errore Di Playfab",
+              "Playfab-Fehler",
+              "Playfab errorea",
+              "Ошибка Плейфаба",
+              "Playfab 错误",
+              "Playfab 錯誤",
+              "プレイファブエラー",
+              "플레이팹 오류"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "XBLSessionLost",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Xbox Live Session Lost",
+              "Session Xbox Live Perdue",
+              "Sessione Xbox Live Persa",
+              "Xbox Live-Sitzung Verloren",
+              "Xbox Liveko saioa galdu da",
+              "Сеанс Xbox Live Потерян",
+              "Xbox Live 会话丢失",
+              "Xbox Live 會話遺失",
+              "Xbox Live セッションが失われました",
+              "Xbox Live 세션이 끊어졌습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CheckNetworkConnection",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Checking network connection.",
+              "Vérification de la connexion réseau.",
+              "Controllo della connessione di rete.",
+              "Netzwerkverbindung prüfen.",
+              "Sareko konexioa egiaztatzen.",
+              "Проверка сетевого подключения.",
+              "检查网络连接。",
+              "檢查網路連線。",
+              "ネットワーク接続を確認しています。",
+              "네트워크 연결을 확인하는 중입니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CheckMultiplayerPrivilege",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Checking multiplayer privilege.",
+              "Vérification du privilège multijoueur.",
+              "Controllo dei privilegi multiplayer.",
+              "Überprüfung der Multiplayer-Berechtigung.",
+              "Multijokalari modurako pribilegioa egiaztatzen.",
+              "Проверка привилегий многопользовательской игры.",
+              "检查多人游戏权限。",
+              "檢查多人遊戲權限。",
+              "マルチプレイヤー権限を確認しています。",
+              "멀티플레이어 권한을 확인하는 중입니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "NetworkNoInternet",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Internet connectivity not detected, please check your connection.",
+              "Connectivité Internet non détectée, veuillez vérifier votre connexion.",
+              "Connettività Internet non rilevata, controlla la tua connessione.",
+              "Keine Internetverbindung erkannt. Bitte überprüfen Sie Ihre Verbindung.",
+              "Ez da Interneterako konexiorik antzeman, egiaztatu konexioa.",
+              "Подключение к Интернету не обнаружено, проверьте подключение.",
+              "未检测到互联网连接，请检查您的连接。",
+              "未偵測到網路連接，請檢查您的連接。",
+              "インターネット接続が検出されませんでした。接続を確認してください。",
+              "인터넷 연결이 감지되지 않습니다. 연결을 확인하세요."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "MultiplayerPreventedXbox",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Multiplayer privilege check failed. Please ensure you have the correct subscriptions and permissions to play online.",
+              "La vérification des privilèges multijoueurs a échoué. Veuillez vous assurer d’avoir les abonnements et les autorisations corrects pour jouer en ligne.",
+              "Il controllo dei privilegi multigiocatore non è riuscito. Assicurati di avere le sottoscrizioni e le autorizzazioni corrette per giocare online.",
+              "Die Überprüfung der Mehrspielerberechtigungen ist fehlgeschlagen. Bitte stellen Sie sicher, dass Sie die richtigen Abonnements und Berechtigungen für das Online-Spielen haben.",
+              "Multijokalari modurako pribilegioa egiaztatzeak huts egin du. Egiaztatu online jolasteko beharrezko harpidetza eta baimenak dituzula.",
+              "Проверка привилегий многопользовательской игры не удалась. Пожалуйста, убедитесь, что у вас есть правильные подписки и разрешения для игры онлайн.",
+              "マルチプレイヤーの特権チェックに失敗しました。オンラインでプレイするための正しいサブスクリプションと権限を持っていることを確認してください。",
+              "多人游戏特权检查失败，请确保您拥有正确的订阅和权限以进行在线游戏。",
+              "多人遊戲特權檢查失敗，請確保您擁有正確的訂閱和權限以進行在線遊戲。",
+              "멀티플레이어 권한 확인에 실패했습니다. 온라인 플레이를 위한 올바른 구독과 권한이 있는지 확인하세요."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ChefHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Chef",
+              "Chef",
+              "Cuoco",
+              "Koch",
+              "Sukaldaria",
+              "Повар",
+              "厨师",
+              "廚師",
+              "シェフ",
+              "요리사"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CrownHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Crown",
+              "Couronne",
+              "Corona",
+              "Krone",
+              "Koroa",
+              "Корона",
+              "王冠",
+              "王冠",
+              "クラウン",
+              "왕관"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "PirateHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Pirate",
+              "Pirate",
+              "Pirata",
+              "Pirat",
+              "Pirata",
+              "Пират",
+              "海盗",
+              "海盜",
+              "海賊",
+              "해적"
             ]
           },
           "Flags": {
