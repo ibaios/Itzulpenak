@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 605
+    "m_PathID": 621
   },
   "m_Name": "I2Languages",
   "mSource": {
@@ -300,7 +300,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Attempt to stay on the land as it is destroyed below you. Throw the bombs at other players to increase your chances. The final surviving player wins!",
+              "Attempt to stay on the land as it is destroyed below you. Throw the bombs at other players to increase your chances. Try to survive the longest!",
               "Essaie de rester sur la terre qui est détruite sous tes pieds, bombarde les autres joueurs pour améliorer tes chances. Le dernier joueur en jeu gagne !",
               "Cerca di rimanere sulla terra mentre si dissolve sotto i tuoi piedi e lancia bombe agli altri giocatori per avere più possibilità di vittoria. Vince chi rimane in vita per ultimo!",
               "Versuche, auf dem Land zu bleiben, während es unter dir zerstört wird, wirf die Bomben auf andere Spieler, um deine Chancen zu erhöhen. Der letzte überlebende Spieler gewinnt!",
@@ -825,7 +825,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Count the indicated animal combos as they pass across the screen.",
+              "Count the indicated animal combos by pressing your buzzer as they run past. Your final count will appear and be judged at the end of each round.",
               "Compte les combos de l'animal indiqué quand ils passent sur l'écran.",
               "Conta le combinazioni di animali indicate mentre attraversano lo schermo.",
               "Zähle die angezeigten Tierkombinationen, während sie über den Bildschirm laufen.",
@@ -1035,7 +1035,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Challenge another player to a retro game using this arcade machine, the winner gains a goblet.",
+              "Challenge another player to a retro game using this arcade machine. The winner <color=#ffba53>gains a goblet</color>.",
               "Affronte un autre joueur dans un jeu rétro à l'aide de cette machine d'arcade, le vainqueur obtient un gobelet.",
               "Sfida un altro giocatore a una partita rétro usando questo dispositivo arcade. Il vincitore guadagna un calice.",
               "Fordere einen anderen Spieler zu einem Retro-Spiel mit dieser Arcade-Maschine heraus. Der Gewinner erhält einen Kelch.",
@@ -1665,7 +1665,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Hit the falling objects with precise timing to gain points.",
+              "Hit the balls with precise timing to gain points. The better your timing, the more points you'll earn!",
               "Touche les objets qui tombent au moment exact pour obtenir des points.",
               "Colpisci gli oggetti che cadono al momento giusto per guadagnare punti.",
               "Schlag die herabfallenden Objekte mit präzisem Timing, um Punkte zu gewinnen.",
@@ -1875,7 +1875,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Drop a beehive to damage other players.",
+              "Drop a beehive to damage other players. <color=#ff8567>Deals 7 to 11 damage</color>. Deals more damage to a player if it gets <color=#ffba53>stuck on their head</color>!",
               "Fais tomber un essaim d'abeilles pour blesser les autres joueurs.",
               "Fai cadere un alveare per danneggiare un altro giocatore.",
               "Lass einen Bienenstock fallen, um anderen Spielern zu schaden.",
@@ -1945,7 +1945,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Shoot yourself around the table knocking the other balls into the pockets while whacking the other players out of your way. The player who sinks the most balls wins.",
+              "Shoot yourself around the table, knocking the other balls into the pockets while whacking the other players out of your way. Sink more balls than your opponents to win.",
               "Lance-toi autour de la table en touchant les autres boules pour les mettre dans les poches en frappant les autres joueurs pour les dégager du passage. Le joueur qui empoche le plus de boules gagne.",
               "Lanciati da una parte all'altra del tavolo mettendo in buca le altre palle mentre togli di mezzo gli altri giocatori. Vince il giocatore che mette in buca il maggior numero di palle.",
               "Schieß dich über den Tisch und stoße die anderen Kugeln in die Fächer, während du die anderen Spieler aus dem Weg schlägst. Der Spieler, der die meisten Kugeln versenkt, gewinnt.",
@@ -2408,7 +2408,7 @@
               "Ошибка Загрузки Мода Платы",
               "主板模组加载失败",
               "板模塊加載失敗",
-              "ボード Mod のロードに失敗しました",
+              "モッドボードのロードに失敗しました",
               "보드 모드 로드 실패"
             ]
           },
@@ -2645,7 +2645,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Shoots a lethal boxing glove in the targeted direction.",
+              "Shoots a lethal boxing glove in the targeted direction, <color=#ff8567>killing a single player</color>.",
               "Tire un gant de boxe mortel dans la direction ciblée.",
               "Spara un guantone da boxe letale nella direzione selezionata.",
               "Schießt einen tödlichen Boxhandschuh in die Zielrichtung.",
@@ -2820,7 +2820,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Dodge the incoming projectiles. Be careful - you only have 3 lives! The player who survives the longest or the player with the most lives after 2 minutes wins.\nYou are able to double-jump in this minigame.",
+              "Dodge the incoming projectiles. Be careful - you only have 3 health points! The player who survives the longest or has the most health remaining at the end wins.\n<color=yellow>You are able to double-jump in this minigame.</color>",
               "Évite les projectiles qui viennent sur toi. Attention, tu n'as que 3 vies, le joueur qui survit le plus longtemps ou qui a le plus de vies après 2 minutes gagne !",
               "Schiva i proiettili in arrivo. Fai attenzione: hai solo 3 vite. Vince il giocatore che sopravvive più a lungo o quello con più vite allo scadere dei 2 minuti.",
               "Weiche den ankommenden Geschossen aus. Sei vorsichtig, denn du hast nur 3 Leben. Der Spieler, der am längsten überlebt, oder der Spieler mit den meisten Leben nach 2 Minuten gewinnt!",
@@ -3205,7 +3205,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Dodge the cannon balls coming from outside the circle. Last player alive wins.",
+              "Dodge the cannon balls coming from outside the circle. Stay alive for as long as you can!",
               "Évite les boulets de canon provenant de l'extérieur du cercle, le dernier survivant gagne.",
               "Schiva le palle di cannone provenienti dall'esterno del cerchio. Vince l'ultimo giocatore che rimane in vita.",
               "Weiche den Kanonenkugeln aus, die von außerhalb des Kreises kommen. Der letzte lebende Spieler gewinnt.",
@@ -3318,7 +3318,7 @@
               "Категории",
               "类目",
               "類目",
-              "Categories",
+              "カテゴリ",
               "카테고리"
             ]
           },
@@ -4045,16 +4045,16 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Connected! Press 't' to type in chat",
-              "Connexion établie ! Appuie sur « t » pour saisir du texte",
-              "Connessione stabilita! Premi \"t\" per scrivere nella chat",
-              "Verbunden! Drücke „t“, um zu chatten",
-              "¡Conexión establecida! Pulsa «t» para escribir en el chat",
-              "Вы подключились! Нажмите 't' для ввода текста.",
-              "已连接！按“t”在聊天中输入文字",
-              "已連接！按「t」在聊天中輸入文字",
-              "接続完了！「t」を押してチャットに入力できます",
-              "연결됐습니다! 't'를 누르고 채팅하세요."
+              "Connected! Press '%chatButton%' to chat.",
+              "Connexion établie ! Appuie sur « %chatButton% » pour saisir du texte",
+              "Connessione stabilita! Premi \"%chatButton%\" per scrivere nella chat",
+              "Verbunden! Drücke „%chatButton%“, um zu chatten",
+              "¡Conexión establecida! Pulsa «%chatButton%» para escribir en el chat",
+              "Вы подключились! Нажмите '%chatButton%' для ввода текста.",
+              "已连接！按“%chatButton%”在聊天中输入文字",
+              "已連接！按「%chatButton%」在聊天中輸入文字",
+              "接続完了！「%chatButton%」を押してチャットに入力できます",
+              "연결됐습니다! '%chatButton%'를 누르고 채팅하세요."
             ]
           },
           "Flags": {
@@ -4640,7 +4640,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Hold the crown to gain points. Knockout other players to take the crown and stop them from taking it.",
+              "Hold the crown to gain points. Punch other players to take the crown and try not to let them take it back!",
               "Conserve la couronne pour obtenir des points, assomme les autres joueurs pour leur prendre la couronne et les empêcher de te la voler.",
               "Prendi la corona per guadagnare punti. Colpisci gli altri giocatori per prendergli la corona e impedirgli di riprenderla.",
               "Behalte die Krone, um Punkte zu gewinnen, schlage andere Spieler k. o., um dir die Krone zu klauen und sie daran zu hindern, sie sich zu nehmen.",
@@ -4815,7 +4815,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Summon an ancient evil that patrols the map killing your enemies.",
+              "Summon an ancient evil that patrols the map. The creature will move <color=#ffba53>four spaces</color> every turn and <color=#ff8567>kill anyone it encounters</color>.",
               "Invoque un ancien démon qui patrouille sur la carte et tue tes ennemis.",
               "Evoca un demone antico che perlustra la mappa uccidendo i tuoi nemici.",
               "Beschwöre ein uraltes Übel herauf, das auf der Karte patrouilliert und deine Feinde tötet.",
@@ -5306,7 +5306,7 @@
           "Languages": {
             "Array": [
               "Effects volume controls the volume of effects.",
-              "Contrôle le volume des effets sonores",
+              "Contrôle le volume des effets sonores.",
               "Il \"Volume effetti\" controlla il volume degli effetti.",
               "Effektlautstärke steuert die Lautstärke der Effekte.",
               "Controla el volumen de los efectos.",
@@ -5340,7 +5340,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "A remote controlled explosive eggplant, move toward your target and then detonate.",
+              "A remote controlled explosive eggplant. Roll it freely around the map for a short time before detonating it to <color=#ff8567>deal 14 or 15 damage</color> to anyone nearby.",
               "Une aubergine explosive télécommandée, avance vers ta cible et fais-la exploser.",
               "Una melanzana esplosiva telecomandata: muoviti verso il tuo obiettivo e poi falla esplodere.",
               "Eine ferngesteuerte explosive Aubergine. Bewegt sich zu deinem Ziel und explodiert.",
@@ -5830,7 +5830,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "It's 'Hot Potato!' Why are you holding this bomb? Who knows! But you better get rid of it. Pass it to one of your enemies before it explodes! The last one standing wins.",
+              "It's 'Hot Potato'! Why are you holding this bomb? Who knows! But you'd better get rid of it. Pass it to one of your enemies before it explodes! Try to survive as long as possible.",
               "C'est « Chaud patate ! » Pourquoi tu tiens cette bombe ? Qui sait !? Mais tu ferais mieux de t'en débarrasser. Donne-la à un ennemi avant qu'elle n'explose ! Le dernier survivant gagne.",
               "È una \"patata bollente\"! Perché tieni in mano questa bomba? Chissà! Comunque è meglio liberarsene. Passala a uno dei tuoi nemici prima che esploda! Vince l'ultimo che sopravvive.",
               "Die Zeit läuft! Warum hältst du diese Bombe? Wer weiß das schon? Aber du solltest sie lieber loswerden. Gib sie an einen deiner Feinde ab, bevor sie explodiert! Der letzte Überlebende gewinnt.",
@@ -6495,7 +6495,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Rearrange the puzzle back into its original form by moving and rotating each piece. First player to finish wins.",
+              "Rearrange the puzzle back into its original form by moving and rotating each piece. Points are awarded for finishing before others.",
               "Réarrange le puzzle pour lui redonner sa forme originale en déplaçant chaque pièce et en les faisant tourner. Le premier joueur qui le finit gagne.",
               "Riporta il puzzle alla sua forma originale spostando e ruotando ogni pezzo. Vince chi finisce prima.",
               "Bringe das Puzzle in seine ursprüngliche Form zurück, indem du jedes Teil bewegst und drehst.",
@@ -7300,7 +7300,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Atomize any player anywhere on the map with this item killing them in one shot.",
+              "Atomize your foes with a powerful laser that can melt anyone on the map, even <color=#ffba53>through walls</color>! This item will <color=#ff8567>kill the target</color> in one shot.",
               "Atomise les joueurs n'importe où sur la carte avec cet objet en les tuant en un seul coup.",
               "Usa quest'oggetto per atomizzare qualsiasi giocatore in qualsiasi punto della mappa uccidendolo in un colpo solo.",
               "Atomisiere jeden Spieler irgendwo auf der Karte mit diesem Gegenstand und töte ihn mit einem Schuss.",
@@ -7685,7 +7685,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Get as many presents as you can and bring them back to your tree. Steal other players presents once you can't find any others!",
+              "Get as many presents as you can and bring them back to your tree. Steal from each other's tree to have the most presents when time runs out.",
               "Récupère autant de cadeaux que possible et rapporte-les à ton arbre. Quand tu n'en trouves plus, vole les cadeaux des autres joueurs !",
               "Prendi più regali che puoi e portali sotto il tuo albero. Ruba regali agli altri giocatori quando non ne trovi altri!",
               "Hol dir so viele Geschenke, wie du kannst, und bring sie zu deinem Baum zurück. Stiehl anderen Spielern Geschenke, wenn du keine anderen finden kannst!",
@@ -7930,7 +7930,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Restores a significant amount of health.",
+              "Restores <color=#66da66>20</color> health.",
               "Restaure une grande quantité de santé.",
               "Ripristina una notevole quantità di salute.",
               "Stellt einen erheblichen Teil der Gesundheit wieder her.",
@@ -9890,7 +9890,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "There's only enough room on this platform for one mage! Use your fireballs to knock your enemies off the ever shrinking platform and into the encroaching lava. The last person standing wins!",
+              "There's only enough room on this platform for one mage! Use your fireballs to knock your enemies off the ever shrinking platform and into the encroaching lava. Try to survive as long as possible without melting!",
               "Il ne peut y avoir qu'un seul Mage sur cette plateforme ! Utilise tes boules de feu pour déloger tes ennemis de la plateforme qui rétrécit et les faire tomber dans la lave qui se répand. La dernière personne en jeu gagne !",
               "Su questa piattaforma c'è spazio per un solo mago! Usa le tue palle di fuoco per far scivolare i nemici dalla piattaforma che si riduce sempre di più e farli cadere nella lava. Vince chi rimane in piedi per ultimo!",
               "Auf dieser Plattform ist nur genug Platz für einen Magier! Benutze deine Feuerbälle, um deine Feinde von der immer kleiner werdenden Plattform zu vertreiben und in die vordringende Lava zu befördern. Der letzte Überlebende gewinnt!",
@@ -9960,7 +9960,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Aim this magnet at another player to steal their keys or items.",
+              "Aim this magnet at another player to <color=#ffba53>steal up to 25 keys</color> and an <color=#ffba53>item</color>.",
               "Vise un autre joueur avec cet aimant pour lui voler ses clés et autres objets.",
               "Punta questa calamita verso un altro giocatore per rubargli chiavi o oggetti.",
               "Richte diesen Magneten auf einen anderen Spieler, um dessen Schlüssel oder Gegenstände zu stehlen.",
@@ -10633,7 +10633,7 @@
               "Браузер Мод",
               "模组浏览器",
               "模組瀏覽器",
-              "Modブラウザ",
+              "モッドブラウザ",
               "모드 브라우저"
             ]
           },
@@ -10668,7 +10668,7 @@
               "Редактор Модов",
               "模组编辑器",
               "模組編輯器",
-              "Modエディター",
+              "モッドエディター",
               "모드 편집기"
             ]
           },
@@ -11500,7 +11500,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Collect the most keys while the maze constantly changes and knock out other players to slow their progress.",
+              "Collect the most keys while the maze constantly changes. Punch other players to slow their progress and make them drop some keys.",
               "Récupère le plus de clés dans un dédale qui ne fait que changer et assomme les autres joueurs pour ralentir leur progression.",
               "Raccogli il maggior numero di chiavi mentre il labirinto cambia continuamente ed elimina gli altri giocatori per rallentare i loro progressi.",
               "Sammle die meisten Schlüssel, während sich das Labyrinth ständig verändert, und schalte andere Spieler aus, um ihren Fortschritt zu verlangsamen.",
@@ -11570,7 +11570,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Memorise the arrows shown each round and move to dodge the mortar explosions. Last player alive wins.",
+              "Memorise the arrows shown each round, then time your movements to dodge the mortar explosions. Last as long as you can!",
               "Mémorise les flèches affichées à chaque tour et suis-les pour esquiver les explosions de mortier, le dernier en jeu gagne.",
               "Memorizza le frecce mostrate a ogni round e muoviti per schivare le esplosioni del mortaio. Vince l'ultimo giocatore in vita.",
               "Merke dir die in jeder Runde gezeigten Pfeile und bewege dich, um den Mörserexplosionen auszuweichen. Der letzte lebende Spieler gewinnt.",
@@ -11780,7 +11780,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Shoot the other players before they shoot you. Collect powerups to increase the power of your shots. The player with the most kills at the end wins.",
+              "Shoot the other players before they shoot you. Collect powerups to temporarily increase the power of your shots. The player with the most kills at the end wins.",
               "Tire sur les autres joueurs avant qu'ils ne te tirent dessus, récupère des power-ups pour augmenter la puissance de tes tirs, le joueur qui fait le plus de victimes gagne.",
               "Spara agli altri giocatori prima che loro sparino a te. Raccogli potenziamenti per aumentare la forza dei tuoi colpi. Vince il giocatore con il maggior numero di uccisioni.",
               "Erschieße die anderen Spieler, bevor sie dich erschießen. Sammle Power-ups, um die Schlagkraft deiner Schüsse zu erhöhen. Der Spieler mit den meisten Kills am Ende gewinnt.",
@@ -12480,10 +12480,10 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Music Volume controls the volume of music",
-              "Contrôle le volume de la musique",
-              "\"Volume musica\" controlla il volume della musica",
-              "Musiklautstärke regelt die Lautstärke der Musik",
+              "Music Volume controls the volume of music.",
+              "Contrôle le volume de la musique.",
+              "\"Volume musica\" controlla il volume della musica.",
+              "Musiklautstärke regelt die Lautstärke der Musik.",
               "Controla el volumen de la música.",
               "Настройка громкости музыкального сопровождения.",
               "音乐音量控制音乐的音量",
@@ -15315,7 +15315,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Pour nuclear waste on another player bloating their hands and head preventing them from using items and damaging them for multiple turns.",
+              "Pour nuclear waste on another player, bloating their hands and head <color=#ffba53>preventing them from using items</color> and <color=#ff8567>dealing 10 damage</color> at the start of each turn. The effect <color=#ffba53>lasts for two turns</color>.",
               "Verse des déchets nucléaires sur un autre joueur pour lui faire gonfler les mains et la tête et l'empêcher d'utiliser des objets tout en lui infligeant des dégâts pendant plusieurs tours.",
               "Versa scorie nucleari su un altro giocatore per gonfiargli le mani e la testa, impedendogli così di usare oggetti e danneggiandolo per più turni.",
               "Schütte Atommüll auf einen anderen Spieler, der seine Hände und seinen Kopf aufbläht, um zu verhindern, dass er Gegenstände benutzt, und ihn für mehrere Runden verletzt.",
@@ -16050,7 +16050,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Use precise timing to place your boxes in a pile. First player to the top wins.",
+              "Use precise timing to stack your boxes to the ceiling. Finish building your stack before other players do.",
               "Empilez vos cartons au moment précis, le premier joueur qui arrive en haut gagne.",
               "Usa un tempismo preciso per impilare le tue scatole. Vince chi arriva prima in cima.",
               "Verwende präzises Timing, um deine Kisten zu stapeln. Der erste Spieler an der Spitze gewinnt.",
@@ -16435,7 +16435,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Pickup/Throw Explosive barrel",
+              "Pickup/Throw Explosive Barrel",
               "Ramasse/jette un baril explosif",
               "Prendi/lancia barile esplosivo",
               "Explosives Fass nehmen/werfen",
@@ -17170,7 +17170,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Race your plane through the narrow canyons. The player who makes it the furthest before the time runs out wins.",
+              "Race your plane through narrow canyons. The player who makes it the furthest before the time runs out wins.",
               "Pilote ton avion à travers les canyons étroits, le joueur qui arrive le plus loin avant la fin du temps imparti gagne.",
               "Sfreccia sul tuo aereo attraverso dei canyon molto stretti. Vince il giocatore che arriva più lontano prima dello scadere del tempo.",
               "Rase mit deinem Flugzeug durch die engen Schluchten. Der Spieler, der es vor Ablauf der Zeit am weitesten schafft, gewinnt.",
@@ -17380,7 +17380,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Open this present to find out what's inside, have you been good or bad?",
+              "Open this present to find out what's inside. Have you been <color=#66da66>good</color> or <color=#ff8567>bad</color>?",
               "Ouvre ce cadeau pour savoir ce qu'il contient. As-tu été sage ?",
               "Apri questo regalo per scoprire cosa c'è dentro. Chissà cosa c'è!",
               "Öffne dieses Geschenk, um herauszufinden, was drin ist. Warst du brav oder böse?",
@@ -18570,7 +18570,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Ride this rocket ten spaces towards the goal taking out any other players in your path.",
+              "Ride this rocket <color=#ffba53>ten spaces towards the goal</color>! Anyone in the way will be impaled, <color=#ff8567>dealing 14 or 15 damage</color> to each player you hit.",
               "Chevauche cette fusée sur dix cases vers l'objectif en éliminant les joueurs sur ta route.",
               "Cavalca questo razzo per dieci spazi verso l'obiettivo eliminando tutti gli altri giocatori lungo il percorso.",
               "Fliege mit dieser Rakete zehn Felder auf das Ziel zu und schalte alle anderen Spieler aus, die dir im Weg stehen.",
@@ -18745,7 +18745,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Drive your miniature car around the house while dodging obstacles first to finish wins.",
+              "Drive your miniature car around the house while dodging obstacles. Try to be the first to finish two laps!",
               "Conduis ta voiture miniature autour de la maison en évitant les obstacles. Le premier qui termine gagne.",
               "Guida la tua auto in miniatura per la casa schivando gli ostacoli. Chi arriva prima, vince.",
               "Fahre mit deinem Miniaturauto durchs Haus, während du den Hindernissen ausweichst, um den Sieg zu erringen.",
@@ -18815,7 +18815,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Roll your way to victory by navigating past the many obstacles in your way, but don't fall too far behind or you will end up dead. The player who makes it the furthest wins.",
+              "Roll your way to victory by navigating past the many obstacles in your way, but don't fall too far behind or you will end up dead. Earn points as you move to the right.",
               "Roule jusqu'à la victoire en passant les obstacles sur ton chemin, mais ne traîne pas trop ou tu signeras ton arrêt de mort. Le joueur qui arrive le plus loin gagne.",
               "Rotola verso la vittoria schivando i numerosi ostacoli sul tuo cammino, ma non rimanere troppo indietro o morirai. Vince il giocatore che arriva più lontano.",
               "Rollt euch zum Sieg, indem ihr an den vielen Hindernissen auf eurem Weg vorbei navigiert, aber fallt nicht zu weit zurück, sonst werdet ihr am Ende tot sein. Der Spieler, der es am weitesten schafft, gewinnt.",
@@ -19095,7 +19095,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "It's time to display your drifting skills. Drive your rusty vehicle around the track but make sure not to fall off the first person to finish 3 laps is the winner. It won't be as easy as you think!",
+              "It's time to show off your drifting skills. Drive your rusty vehicle around the track but make sure not to fall off! This race is three laps long; it won't be as easy as you think!",
               "Il est temps de prouver tes compétences de dérapage. Pilote sur le circuit, mais gare à ne pas tomber ! La première personne qui finit 3 tours gagne. Ce n'est pas si facile que tu penses !",
               "È il momento di mostrare le tue abilità di sbandamento. Guida un veicolo arrugginito per la pista, ma fai attenzione a non cadere. Vince chi completa 3 giri per primo. Non è facile come pensi!",
               "Es ist an der Zeit, deine Drift-Fähigkeiten unter Beweis zu stellen. Fahre mit deinem rostigen Fahrzeug über die Strecke, aber achte darauf, nicht runterzufallen. Der Erste, der 3 Runden beendet, ist der Sieger. Es wird nicht so einfach sein, wie du denkst!",
@@ -19235,7 +19235,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Somewhere in this pit of sand is the treasure you seek! Dig in all directions using your sand vacuum to be the first to find the hidden treasure.",
+              "Somewhere in this pit of sand is the treasure you seek! Dig in all directions using your sand vacuum to collect gems, or maybe be the first to find the hidden treasure!",
               "Quelque part dans ce bac à sable se trouve le trésor que tu cherches ! Creuse dans toutes les directions avec ton aspirateur pour trouver le trésor en premier.",
               "Da qualche parte in questa fossa di sabbia c'è il tesoro che cerchi! Scava in tutte le direzioni usando il tuo aspirapolvere per trovare il tesoro nascosto prima degli altri.",
               "Irgendwo in dieser Sandgrube liegt der Schatz, den du suchst! Grabe in alle Richtungen mit deinem Sandstaubsauger, um als Erster den verborgenen Schatz zu finden.",
@@ -19410,7 +19410,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "If you don't want to end up a bit crispy you will need to keep track of your player in the dark while dodging the searing spotlights. Last player standing wins!",
+              "If you don't want to end up a bit crispy, you'll need to keep track of your player in the dark while dodging the searing spotlights. Try to survive as long as you can!",
               "Si tu ne veux pas finir en cendres, tu devras suivre ton avatar dans le noir en esquivant les projecteurs brûlants, le dernier en jeu gagne !",
               "Se non vuoi che ti abbrustoliscano, ricordati del punto in cui sposti il giocatore al buio mentre schivi i riflettori ustionanti. Vince chi rimane in vita.",
               "Wenn du nicht gegrillt werden willst, musst du deinen Spieler im Dunkeln im Auge behalten, während du den sengenden Scheinwerfern ausweichst. Der letzte Spieler, der noch steht, gewinnt!",
@@ -19655,7 +19655,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Choose to be selfish or not! Select a bridge discretely because if more than one player chooses the same bridge it will collapse and you get nothing.",
+              "Select a bridge to cross and collect the keys at the other side. Try to be discrete though because if multiple players choose the same bridge, it will collapse and you'll get nothing. Choose to be selfish or not!",
               "Choisis d'être égoïste ou non, sélectionne un pont, mais discrètement, parce que si plusieurs joueurs choisissent le même pont, celui-ci s'écroule et tu n'obtiens rien.",
               "Scegli di essere egoista o meno. Seleziona un ponte con discrezione, perché se più di un giocatore sceglie lo stesso ponte, il ponte crollerà e non otterrai nulla.",
               "Entscheide, ob du egoistisch sein willst oder nicht. Wähle eine Brücke diskret aus, denn wenn mehr als ein Spieler dieselbe Brücke wählt, wird sie einstürzen und du bekommst nichts.",
@@ -20075,7 +20075,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "One player is the shark and the rest are prey. The prey must hide among the fakes while activating five beacons to call a rescue helicopter and escape.\nThe shark must find the real prey before they escape.",
+              "One player is the shark and the others are prey. The prey must hide among the fakes while activating five beacons to call a rescue helicopter and escape.\nThe shark must find and kill the real prey before they escape.",
               "Un joueur incarne le requin, les autres sont des proies qui se cachent au milieu de fausses proies et doivent activer cinq balises pour s'échapper.\nLe requin doit trouver la vraie proie avant que les balises soient activées.",
               "Un giocatore è lo squalo, gli altri sono prede. Le prede devono nascondersi tra i vari cloni mentre attivano cinque segnali luminosi per scappare.\nLo squalo deve trovare la vera preda tra i cloni prima che questo i segnali vengano attivati. ",
               "Ein Spieler ist der Hai, der Rest ist Beute. Die Beute muss sich zwischen den Attrappen verstecken, während sie fünf Leuchtfeuer aktiviert, um zu entkommen. Der Hai muss vorher die echte Beute unter den Attrappen finden.",
@@ -20215,7 +20215,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Aim and shoot at another player to inflict considerable damage.",
+              "Aim and shoot at another player to <color=#ff8567>inflict considerable damage</color>.",
               "Vise et tire sur un autre joueur pour infliger des dégâts considérables.",
               "Mira e spara a un altro giocatore per infliggergli danni considerevoli.",
               "Ziele und schieße auf einen anderen Spieler, um erheblichen Schaden anzurichten.",
@@ -20285,7 +20285,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Dodge the incoming vehicles as you move up the slope. The player who makes it the furthest wins.",
+              "Dodge the incoming vehicles as you move up the slope. Try to reach the top to earn the most points.",
               "Esquive les véhicules qui arrivent en montant la pente, le joueur qui arrive en premier gagne.",
               "Schiva i veicoli in arrivo mentre risali il pendio. Vince chi arriva più lontano.",
               "Weiche den ankommenden Fahrzeugen aus, während du dich den Hang hinauf bewegst. Der Spieler, der es am weitesten schafft, gewinnt.",
@@ -20425,7 +20425,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Run and jump over icy platforms towards the goal. Be the first person at the end to win. Don't fall in the water!",
+              "Run and jump over icy platforms towards the goal. Don't fall in the freezing water! Players earn points based on their order of arrival at the finish line. ",
               "Coure et saute au-dessus des plateformes de glace. Atteins l'objectif en premier pour gagner, mais gare à ne pas tomber dans l'eau.",
               "Corri e salta su piattaforme ghiacciate per raggiungere l'obiettivo, ma fai attenzione a non cadere in acqua! Vince chi raggiunge il traguardo per primo.",
               "Laufe und springe über eisige Plattformen auf das Ziel zu. Sei der Erste am Ziel, um zu gewinnen. Achte darauf, nicht ins Wasser zu fallen.",
@@ -20565,7 +20565,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Spin your way to victory by knocking other players off the edge of this slippery platform into the bleak abyss. The order players die determines how many points they get each round - survive longer to get more points. The player with the most points after 3 rounds wins!",
+              "Spin your way to victory by knocking other players off the edge of this slippery platform and into the bleak abyss. Survive longer than other players each round to earn more points. Have the most points after 3 rounds to win!",
               "Remporte la victoire en roulant et en faisant tomber les autres joueurs du bord de cette plateforme glissante, dans un abysse sombre. L'ordre dans lequel les joueurs tombent détermine les points par manche. Le joueur avec le plus de points après 3 manches gagne !",
               "Gira verso la vittoria facendo cadere gli altri giocatori dal bordo di questa piattaforma scivolosa nell'abisso senza fine. L'ordine in cui i giocatori muoiono determina i punti per round. Vince il giocatore che accumula il maggior numero di punti dopo 3 round!",
               "Drehe dich zum Sieg, indem du andere Spieler von der Kante dieser rutschigen Plattform in den trostlosen Abgrund stürzt. Die Reihenfolge, in der die Spieler sterben, bestimmt die Punkte pro Runde. Der Spieler mit den meisten Punkten nach 3 Runden gewinnt!",
@@ -20670,7 +20670,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Avoid obstacles while flying through this treacherous course. Fly through the magic rings to gain points. The player with the most points wins.",
+              "Avoid obstacles while flying through this treacherous course. Fly through the magic rings to gain points. Earn the most points to win.",
               "Évite les obstacles en volant sur ce parcours semé d'embûches. Passe à travers les anneaux magiques pour obtenir des points, le joueur avec le plus de points gagne.",
               "Evita gli ostacoli mentre voli attraverso questo percorso pieno di insidie. Vola attraverso gli anelli magici per guadagnare punti. Vince il giocatore con il maggior numero di punti.",
               "Vermeide Hindernisse, während du durch diesen tückischen Kurs fliegst. Fliege durch die magischen Ringe, um Punkte zu gewinnen. Der Spieler mit den meisten Punkten gewinnt.",
@@ -21965,7 +21965,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Creates a portal underneath another player to swap your position with theirs, you cannot roll after swapping.",
+              "Creates a portal underneath another player to <color=#ffba53>swap your position with theirs</color>. You <color=#ff8567>cannot roll the dice</color> after swapping.",
               "Crée un portail sous un autre joueur pour changer ta position avec la sienne, tu ne peux pas lancer le dé après le changement.",
               "Crea un portale sotto un altro giocatore per scambiare la tua posizione con la sua. Non puoi rotolare dopo lo scambio.",
               "Erzeugt ein Portal unter einem anderen Spieler, um deine Position mit der eines anderen Spielers zu tauschen. Du kannst nach dem Tausch nicht würfeln.",
@@ -22035,7 +22035,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Shoot the targets that pop up as fast as possible but make sure you don't shoot the bomb targets otherwise you'll explode!",
+              "Shoot the targets that pop up as fast as possible, but make sure you don't shoot the bomb targets otherwise you'll explode!",
               "Tire sur les cibles qui apparaissent le plus vite possible, mais évite de tirer sur les bombes, car elles exploseront !",
               "Spara ai bersagli che si aprono il più velocemente possibile ma assicurati di non sparare ai bersagli bomba, altrimenti esploderai!",
               "Schieße so schnell wie möglich auf die Ziele, die auftauchen, aber achte darauf, dass du nicht auf die Bombenziele schießt, sonst explodierst du!",
@@ -22245,7 +22245,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Wear a cactus disguise protecting you from the next damage instance and Swap Portals, cannot use other items while cactus is active.",
+              "Wear a cactus disguise <color=#66da66>protecting you</color> from the next damage instance and Swap Portals. Trying to use another item while the cactus is active will <color=#ffba53>remove the disguise</color>!",
               "Porte un déguisement de cactus qui te protège des dégâts et des portails de permutation, tu ne peux pas utiliser d'autres objets quand le cactus est actif.",
               "Indossa un travestimento da cactus che ti protegge dal prossimo danno inflitto e dai portali di scambio. Non puoi usare altri oggetti mentre il cactus è attivo.",
               "Trage eine Kaktusverkleidung, die dich vor dem nächsten Schaden und Tauschportalen schützt. Du kannst keine anderen Gegenstände benutzen, solange der Kaktus aktiv ist.",
@@ -22385,7 +22385,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Ride your Light Board to victory! Draw out a trail to trap your enemies but don't trap yourself. Don't let the train run you over! The last one standing wins.",
+              "Ride your Light Board to victory! Draw out a trail to trap your enemies but don't trap yourself. Don't let the train run you over! Try to be the last one alive.",
               "Monte sur ta planche vers la victoire ! Dessine une piste pour piéger tes ennemis, mais attention à ne pas te piéger aussi ! Le dernier en jeu gagne.",
               "Vai incontro alla vittoria sul tuo skateboard luminoso! Traccia una scia per intrappolare i tuoi nemici, ma fai attenzione a non incrociare il raggio! Vince chi rimane in vita.",
               "Fahre mit deinem Lichtbrett zum Sieg! Zeichne eine Spur, um deine Feinde in die Falle zu locken, aber stelle dir selbst keine. Der letzte Überlebende gewinnt.",
@@ -22490,7 +22490,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "One player is the lightning rod, which means lightning will periodically strike them. This destroys the floor revealing spikes below. Other players have to avoid falling into these spike pits. If the player with the lightning rod kills everybody else they win.",
+              "One player is the lightning rod, which means lightning will periodically strike them. This destroys the floor, revealing a deadly spike pit below. Other players have to avoid falling into the spike pit. If the player with the lightning rod kills everybody else they win.",
               "Un joueur incarne le sceptre foudroyant, ce qui veut dire que la foudre va régulièrement le frapper, détruisant le sol et révélant des pointes. Si le joueur avec la foudre tue tout le monde, il gagne.",
               "Un giocatore è il parafulmine, il che significa che un fulmine colpirà gli altri giocatori periodicamente, distruggendo il pavimento sotto di loro. Il giocatore con il fulmine vince se uccide tutti gli altri.",
               "Ein Spieler ist der Blitzableiter, was bedeutet, dass der Blitz ihn in regelmäßigen Abständen trifft und den Boden mit den darunter liegenden Stacheln zerstört. Wenn der Spieler mit dem Blitz alle anderen tötet, gewinnt er.",
@@ -22700,7 +22700,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Grab as much loot as you can, but don't get too greedy the more you grab the slower you'll move. Gain 1 point for each cash pile and 2 points for each pile of gold you bring back to your getaway truck.",
+              "Grab as much loot as you can but don't get too greedy; the more you grab the slower you'll move. Gain 1 point for each cash pile and 2 points for each gold pile you bring back to your getaway truck.",
               "Récupère autant de butin que possible, mais attention, en prendre trop te ralentit. Obtiens 1 point pour chaque tas d'espèces et 2 points pour chaque tas d'or que tu rapportes à ton camion.",
               "Arraffa tutto quello che puoi, ma tieni a bada la tua avidità: più arraffi, più ti sposti lentamente. Ottieni 1 punto per ogni mucchio di contanti e 2 punti per ogni mucchio d'oro che porti al camion per la fuga.",
               "Schnapp dir so viel Beute, wie du kannst, aber werde nicht zu gierig, den je mehr du dir schnappst, desto langsamer kannst du dich bewegen. Erhalte 1 Punkt für jeden Geldstapel und 2 Punkte für jeden Goldstapel, den du zu deinem Fluchtfahrzeug zurückbringst.",
@@ -22840,7 +22840,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Use your tank's turret to destroy the terrain below your enemies' tanks and force them into the water below. The last player to hit the water wins.",
+              "Use your tank's turret to destroy the terrain below your enemies' tanks and force them into the water below. Try to be the last one on solid land.",
               "Utilise tes tourelles de chars pour détruire le terrain sous les chars de tes ennemis et les plonger dans l'eau en dessous. Le dernier joueur qui touche l'eau gagne.",
               "Usa il mirino dei tuoi carri armati per distruggere il terreno sotto i carri armati nemici e farli cadere nell'acqua sottostante. Vince chi cade in acqua per ultimo.",
               "Benutze dein Panzergeschütz, um das Terrain unter dem gegnerischen Panzer zu zerstören und sie ins Wasser zu zwingen. Der letzte Spieler, der im Wasser landet, gewinnt.",
@@ -22915,7 +22915,7 @@
               "Turno",
               "Runde",
               "Turno",
-              "Ход:",
+              "Ход",
               "回合",
               "回合",
               "ターン",
@@ -24905,7 +24905,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "This is the weapons cache which spawns in a random position around the map, pass by it to receive a unique and powerful item.",
+              "This is the weapons cache which spawns in a random position around the map. Pass by it to receive a rare and powerful item.",
               "C'est la cache d'armes qui apparaît dans un lieu aléatoire sur la carte, accèdes-y pour recevoir un objet unique puissant.",
               "Questa è la cache delle armi che si genera in una posizione casuale attorno alla mappa, passandola per ricevere un oggetto unico e potente.",
               "Dies ist das Waffenversteck, das an einer zufälligen Position auf der Karte erscheint. Gehe daran vorbei, um einen einzigartigen und mächtigen Gegenstand zu erhalten.",
@@ -25290,7 +25290,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "As words appear above your head spell them out by pressing the buttons below your feet. Punch other players to stop them from spelling the word before you.",
+              "Press the buttons below your feet to spell out the word that appears above your head. Punch other players to stop them from spelling the word before you.",
               "Lorsque les mots apparaissent au-dessus de ta tête, épelle-les en appuyant sur les boutons sous tes pieds. Frappe les autres joueurs pour les empêcher d'épeler le mot avant toi.",
               "Quando le parole appaiono sopra la tua testa, scrivile premendo i tasti sotto i tuoi piedi. Dai un pugno agli altri giocatori per impedirgli  di scrivere la parola prima di te.",
               "Wenn Wörter über deinem Kopf erscheinen, buchstabiere sie, indem du die Knöpfe unter deinen Füßen drückst. Schlage andere Spieler, um sie davon abzuhalten, das Wort vor dir zu buchstabieren.",
@@ -25430,7 +25430,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "A wrecking ball comes from seemingly nowhere and takes out your target.",
+              "A wrecking ball comes from seemingly nowhere and takes out your target. <color=#ff8567>Deals 9 to 11 damage</color>.",
               "Une boule de démolition semble venir de nulle part et élimine ta cible.",
               "Una palla da demolizione arriva apparentemente dal nulla ed elimina il bersaglio.",
               "Eine Abrissbirne kommt scheinbar aus dem Nichts und erledigt dein Ziel.",
@@ -25500,7 +25500,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Note : If you wish to use more than 4 controllers disable 'Use XInput'.",
+              "Note: If you wish to use more than 4 controllers disable 'Use XInput'.",
               "Remarque : si tu souhaites utiliser plus de 4 manettes, désactive « Utiliser XInput ».",
               "Nota: se vuoi utilizzare più di 4 controller, disabilita \"Usa Xinput\".",
               "Hinweis: Wenn du mehr als 4 Controller verwenden möchtest, deaktiviere „XInput verwenden“.",
@@ -25648,7 +25648,7 @@
               "Мод Мини-Игры",
               "模组小游戏",
               "模組小遊戲",
-              "Mod ミニゲーム",
+              "モッドミニゲーム",
               "모드 미니 게임"
             ]
           },
@@ -26208,7 +26208,7 @@
               "Видимость мода установлена ​​​​на частную",
               "模组可见性设置为私人",
               "模組可見性設置為私有",
-              "Mod の可視性は非公開に設定されています",
+              "モッドの可視性は非公開に設定されています",
               "모드 가시성이 비공개로 설정됨"
             ]
           },
@@ -26243,7 +26243,7 @@
               "Видимость мода установлена ​​на «Только для друзей».",
               "Mod 可见性设置为 Friend-Only",
               "Mod 可見性設置為 Friend-Only",
-              "MOD の可視性はフレンドのみに設定されています",
+              "モッドの可視性はフレンドのみに設定されています",
               "모드 가시성은 친구 전용으로 설정됩니다."
             ]
           },
@@ -26935,7 +26935,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "Use a variety of weapons to fight to the death in this third person shooter. The player with the most kills wins.",
+              "Use a variety of weapons to fight to the death in this third person shooter. Rack up the most points to be victorious.",
               "Utilisez une variété d'armes pour vous battre jusqu'à la mort dans ce jeu de tir à la troisième personne. Le joueur avec le plus de kills gagne.",
               "Usa una varietà di armi per combattere fino alla morte in questo sparatutto in terza persona. Vince il giocatore con il maggior numero di uccisioni.",
               "Kämpfe in diesem Third-Person-Shooter mit einer Vielzahl von Waffen bis zum Tod. Der Spieler mit den meisten Kills gewinnt.",
@@ -28098,7 +28098,7 @@
               "Загрузка модов мини-игр",
               "加载小游戏模组",
               "加載小遊戲模組",
-              "ミニゲーム MOD のロード",
+              "モッドミニゲームのロード",
               "미니게임 모드 로드 중"
             ]
           },
@@ -28168,7 +28168,7 @@
               "Загружаем мод доски:",
               "加载主板模块：",
               "加載主板模塊：",
-              "ボード MOD のロード:",
+              "モッドボードのロード:",
               "보드 모드 로드:"
             ]
           },
@@ -29206,41 +29206,6 @@
           }
         },
         {
-          "Term": "Connection timed out",
-          "TermType": 0,
-          "Languages": {
-            "Array": [
-              "Connection timed out",
-              "La connexion a expiré",
-              "Connessione Scaduta",
-              "Zeitüberschreitung der Verbindung",
-              "Tiempo de conexión agotado",
-              "Время соединения истекло",
-              "连接超时",
-              "連線逾時",
-              "接続がタイムアウトしました",
-              "연결 시간이 초과되었습니다"
-            ]
-          },
-          "Flags": {
-            "Array": [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0
-            ]
-          },
-          "Languages_Touch": {
-            "Array": []
-          }
-        },
-        {
           "Term": "ConnectionLost",
           "TermType": 0,
           "Languages": {
@@ -29875,7 +29840,7 @@
           "TermType": 0,
           "Languages": {
             "Array": [
-              "NEWS",
+              "News",
               "Nouvelles",
               "Notizia",
               "Nachricht",
@@ -33243,7 +33208,7 @@
               "Обновление редактора модификаций",
               "Mod编辑器更新",
               "Mod編輯器更新",
-              "MODエディターのアップデート",
+              "モッドエディターのアップデート",
               "모드 편집기 업데이트"
             ]
           },
@@ -34141,6 +34106,846 @@
           }
         },
         {
+          "Term": "Kicked",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "You have been kicked from the game.",
+              "Vous avez été expulsé du jeu.",
+              "Sei stato espulso dal gioco.",
+              "Du wurdest aus dem Spiel geworfen.",
+              "Te han expulsado del juego.",
+              "Вас выгнали из игры.",
+              "您已被踢出游戏。",
+              "您已被踢出遊戲。",
+              "あなたはゲームから追放されました。",
+              "당신은 게임에서 추방되었습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "NoPlayerInSlot",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "You were not in a lobby slot when the game started.",
+              "Vous n'étiez pas dans un emplacement du lobby lorsque le jeu a commencé.",
+              "Non eri in uno slot della lobby quando il gioco è iniziato.",
+              "Sie befanden sich zu Beginn des Spiels nicht in einem Lobby-Slot.",
+              "No estabas en una ranura del lobby cuando comenzó el juego.",
+              "Вы не находились в слоте лобби, когда игра началась.",
+              "游戏开始时您不在大厅。",
+              "遊戲開始時您不在大廳。",
+              "ゲーム開始時にロビースロットにいませんでした。",
+              "게임이 시작되었을 때 귀하는 로비 슬롯에 있지 않았습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "WaitingForStartOfNextTurn",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "You'll join the game at the start of the next turn!",
+              "Vous rejoindrez la partie au début du prochain tour !",
+              "Ti unirai al gioco all'inizio del turno successivo!",
+              "Du kommst zu Beginn der nächsten Runde ins Spiel!",
+              "¡Te unirás al juego al comienzo del siguiente turno!",
+              "Вы присоединитесь к игре в начале следующего хода!",
+              "您将在下一回合开始时加入游戏！",
+              "您將在下一回合開始時加入遊戲！",
+              "次のターンの開始時にゲームに参加します。",
+              "다음 턴이 시작될 때 게임에 참여하게 됩니다!"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "QuestionLeaveOnlineClient",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Are you sure you want to leave?\nYou can rejoin from the main menu.",
+              "Êtes-vous sûr de vouloir quitter?\nVous pouvez rejoindre à partir du menu principal.",
+              "Sei sicuro di voler partire?\nPuoi rientrare dal menu principale.",
+              "Bist du sicher dass du gehen willst?\nSie können über das Hauptmenü wieder beitreten.",
+              "Estás seguro que quieres irte?\nPuedes volver a unirte desde el menú principal.",
+              "Вы уверены, что хотите выйти?\nВы можете вернуться из главного меню.",
+              "您确定要离开吗？\n您可以从主菜单重新加入。",
+              "您確定要離開嗎？\n您可以從主選單重新加入。",
+              "本当に退会してもよろしいですか?\nメインメニューから再参加できます。",
+              "정말 떠나시겠어요?\n메인 메뉴에서 다시 참여할 수 있습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "QuestionLeaveOnlineHost",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Are you sure you want to leave?\nThe game will end and all players will be disconnected.",
+              "Êtes-vous sûr de vouloir quitter?\nLe jeu se terminera et tous les joueurs seront déconnectés.",
+              "Sei sicuro di voler partire?\nIl gioco finirà e tutti i giocatori verranno disconnessi.",
+              "Bist du sicher dass du gehen willst?\nDas Spiel wird beendet und alle Spieler werden getrennt.",
+              "Estás seguro que quieres irte?\nEl juego terminará y todos los jugadores quedarán desconectados.",
+              "Вы уверены, что хотите выйти?\nИгра завершится, и все игроки будут отключены.",
+              "您确定要离开吗？\n游戏将结束，所有玩家将断开连接。",
+              "您確定要離開嗎？\n遊戲將結束，所有玩家將斷開連線。",
+              "本当に退会してもよろしいですか?\nゲームが終了し、すべてのプレイヤーが接続解除されます。",
+              "정말 떠나시겠어요?\n게임이 종료되고 모든 플레이어의 연결이 끊어집니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "WouldYouLikeToReconnectPrompt",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "You left during an active online game. \nWould you like to reconnect?",
+              "Vous êtes parti pendant une partie en ligne active.\nSouhaitez-vous vous reconnecter ?",
+              "Te ne sei andato durante una partita online attiva.\nDesideri riconnetterti?",
+              "Sie haben das Spiel während eines aktiven Online-Spiels verlassen.\nMöchten Sie die Verbindung wiederherstellen?",
+              "Te fuiste durante un juego en línea activo.\n¿Quieres volver a conectarte?",
+              "Вы ушли во время активной онлайн-игры.\nХотите восстановить связь?",
+              "您在正在进行的在线游戏中离开。\n您想重新连接吗？",
+              "您在正在進行的線上遊戲中離開。\n您想重新連線嗎？",
+              "アクティブなオンライン ゲーム中に退席しました。\n再接続しますか?",
+              "활성 온라인 게임 중에 떠났습니다.\n다시 연결하시겠습니까?"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "HowToReconnectExplanation",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "You can also reconnect from the multiplayer menu.",
+              "Vous pouvez également vous reconnecter depuis le menu multijoueur.",
+              "Puoi anche riconnetterti dal menu multiplayer.",
+              "Sie können die Verbindung auch über das Mehrspielermenü wiederherstellen.",
+              "También puedes volver a conectarte desde el menú multijugador.",
+              "Вы также можете повторно подключиться из многопользовательского меню.",
+              "您还可以从多人游戏菜单重新连接。",
+              "您也可以從多人遊戲選單重新連線。",
+              "マルチプレイヤーメニューから再接続することもできます。",
+              "멀티플레이어 메뉴에서도 다시 연결할 수 있습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "MissingMods",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "You are missing one or more Mods required to join this game.",
+              "Il vous manque un ou plusieurs modules requis pour rejoindre ce jeu.",
+              "Ti mancano uno o più mod necessari per partecipare a questo gioco.",
+              "Dir fehlen ein oder mehrere Mods, die für die Teilnahme an diesem Spiel erforderlich sind.",
+              "Te faltan uno o más Mods necesarios para unirte a este juego.",
+              "Вам не хватает одного или нескольких модов, необходимых для присоединения к этой игре.",
+              "您缺少加入此游戏所需的一个或多个 Mod。",
+              "您缺少加入此遊戲所需的一個或多個 Mod。",
+              "このゲームに参加するために必要なモッドが 1 つ以上ありません。",
+              "이 게임에 참가하는 데 필요한 모드가 하나 이상 누락되었습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ReconnectStatusPreparingGame",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Preparing Game",
+              "Préparation Du Jeu",
+              "Preparazione Del Gioco",
+              "Spiel Vorbereiten",
+              "Preparando El Juego",
+              "Подготовка Игры",
+              "准备比赛",
+              "準備比賽",
+              "ゲームの準備",
+              "게임 준비 중"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ReconnectingModInstallCheck",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Installing and validating all mods required by this game",
+              "Installer et valider tous les mods requis par ce jeu",
+              "Installazione e convalida di tutte le mod richieste da questo gioco",
+              "Installation und Validierung aller für dieses Spiel erforderlichen Mods",
+              "Instalar y validar todas las modificaciones requeridas por este juego.",
+              "Установка и проверка всех модов, необходимых для этой игры.",
+              "安装并验证该游戏所需的所有模组",
+              "安裝並驗證該遊戲所需的所有模組",
+              "このゲームに必要なすべてのモッドをインストールして検証する",
+              "이 게임에 필요한 모든 모드 설치 및 유효성 검사"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ReconnectStatusSpawningGoals",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Spawning Goal(s)",
+              "Objectif(s) D'apparition",
+              "Obiettivo(i) Di Deposizione Delle Uova",
+              "Spawning-Ziel(e)",
+              "Objetivo(s) De Desove",
+              "цель(и) появления",
+              "生成目标",
+              "生成目標",
+              "スポーンゴール",
+              "산란 목표"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ReconnectStatusSpawningWeaponCache",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Spawning Weapon Cache",
+              "Cache D'armes D'apparition",
+              "Deposito Di Armi Di Generazione",
+              "Laichwaffen-Cache",
+              "Caché De Armas De Desove",
+              "Нерест Тайника С Оружием",
+              "生成武器缓存",
+              "生成武器緩存",
+              "武器キャッシュの生成",
+              "무기 캐시 생성"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ReconnectStatusPlayerPlayingTurn",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "<color=#{0}>{1}</color> is playing their turn",
+              "<color=#{0}> {1}</color> joue son tour",
+              "<color=#{0}> {1}</color> sta giocando il suo turno",
+              "<color=#{0}> {1}</color> ist an der Reihe",
+              "<color=#{0}> {1}</color> está jugando su turno",
+              "<color=#{0}> {1}</color> играет свою очередь",
+              "<color=#{0}> {1}</color> 轮到他们玩了",
+              "<color=#{0}> {1}</color> 輪到他們玩了",
+              "<color=#{0}> {1}</color> は自分のターンをプレイしています",
+              "<color=#{0}> {1}</color>이(가) 자신의 차례를 진행 중입니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ReconnectStatusPlayingMinigame",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Playing minigame ({0})",
+              "Jouer à un mini-jeu ({0})",
+              "Giocando al minigioco ({0})",
+              "Minispiel spielen ({0})",
+              "Jugando minijuego ({0})",
+              "Игра в мини-игру ({0})",
+              "玩小游戏 ({0})",
+              "玩小遊戲 ({0})",
+              "ミニゲームをプレイしています ({0})",
+              "미니게임 플레이 중({0})"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ReconnectStatusPummeltownKillerTurn",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "The Pummeltown Killer is moving",
+              "Le tueur de Pummeltown déménage",
+              "Il killer di Pummeltown si sta muovendo",
+              "Der Pummeltown Killer zieht um",
+              "El asesino de Pummeltown se está moviendo",
+              "Убийца Паммелтауна движется",
+              "帕梅尔镇杀手正在移动",
+              "帕梅爾鎮殺手正在移動",
+              "パメルタウンキラーが動き出す",
+              "Pummeltown Killer가 움직입니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ReconnectStatusTurnOrderDiceRoll",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Rolling dice to determine turn order",
+              "Lancer les dés pour déterminer l’ordre du tour",
+              "Lanciare i dadi per determinare l'ordine di turno",
+              "Würfeln, um die Zugreihenfolge zu bestimmen",
+              "Tirar los dados para determinar el orden de turno.",
+              "Бросок кубика для определения порядка хода",
+              "掷骰子来决定回合顺序",
+              "擲骰子決定回合順序",
+              "サイコロを振って順番を決める",
+              "주사위를 굴려 턴 순서를 결정합니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ReconnectStatusEndingMinigame",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Ending minigame",
+              "Fin du mini-jeu",
+              "Fine del minigioco",
+              "Minispiel beenden",
+              "Minijuego final",
+              "Концовка мини-игры",
+              "结束小游戏",
+              "結束小遊戲",
+              "ミニゲームのエンディング",
+              "미니게임 종료"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "PlayerDisconnectMessageReconnectSupported",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "<color=#%playerColor%><b>%playerName%</b></color> has disconnected from the game.\n<color=#ffd57e>They will be replaced by a bot until they re-join the game.</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> s'est déconnecté du jeu.\n<color=#ffd57e> Ils seront remplacés par un bot jusqu'à ce qu'ils rejoignent le jeu.</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> si è disconnesso dal gioco.\n<color=#ffd57e> Saranno sostituiti da un bot finché non si uniranno nuovamente al gioco.</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> hat die Verbindung zum Spiel getrennt.\n<color=#ffd57e> Sie werden durch einen Bot ersetzt, bis sie dem Spiel wieder beitreten.</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> se ha desconectado del juego.\n<color=#ffd57e> Serán reemplazados por un bot hasta que vuelvan a unirse al juego.</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> отключился от игры.\n<color=#ffd57e> Их заменит бот, пока они снова не войдут в игру.</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> 已与游戏断开连接。\n<color=#ffd57e> 他们将被机器人取代，直到他们重新加入游戏。</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> 已與遊戲斷開連線。\n<color=#ffd57e> 他們將被機器人取代，直到他們重新加入遊戲。</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> はゲームから切断されました。 <color=#ffd57e>彼らはゲームに再参加するまでボットに置き換えられます。</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> 게임 연결이 끊어졌습니다.\n<color=#ffd57e> 게임에 다시 참여할 때까지 봇으로 교체됩니다.</color>"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "AddingReconnectingPlayers",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Players who have recently reconnected are being re-added to the game. Please wait...",
+              "Les joueurs qui se sont récemment reconnectés sont réintégrés au jeu. Veuillez patienter…",
+              "I giocatori che si sono riconnessi di recente vengono riaggiunti al gioco. Attendere…",
+              "Spieler, die sich kürzlich wieder verbunden haben, werden dem Spiel wieder hinzugefügt. Bitte warten…",
+              "Los jugadores que se han reconectado recientemente están siendo readmitidos en el juego. Por favor, espera…",
+              "Игроки, которые недавно переподключились, снова добавляются в игру. Пожалуйста, подождите…",
+              "最近重新连接的玩家正在重新加入游戏。\n请稍等…",
+              "最近重新連接的玩家正在重新加入遊戲。\n請稍等…",
+              "最近再接続したプレイヤーはゲームに再追加されています。\nお待ちください…",
+              "최근 다시 연결한 플레이어가 게임에 다시 추가되고 있습니다. 잠시 기다려주세요…"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "PlayerReconnectMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "<color=#%playerColor%><b>%playerName%</b></color> has reconnected.\n<color=#5ff299>They will re-join the game at the start of the next turn.</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> s'est reconnecté.\n<color=#5ff299> Ils rejoindront la partie au début du prochain tour.</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> si è ricollegato.\n<color=#5ff299> Rientreranno in gioco all'inizio del turno successivo.</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> hat die Verbindung wiederhergestellt.\n<color=#5ff299> Sie werden zu Beginn der nächsten Runde wieder ins Spiel kommen.</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> se ha vuelto a conectar.\n<color=#5ff299> Se volverán a unir al juego al comienzo del siguiente turno.</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> повторно подключился.\n<color=#5ff299> Они снова присоединятся к игре в начале следующего хода.</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> 已重新连接。\n<color=#5ff299> 他们将在下一回合开始时重新加入游戏。</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> 已重新連線。\n<color=#5ff299> 他們將在下一回合開始時重新加入遊戲。</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> が再接続しました。 <color=#5ff299>彼らは次のターンの開始時にゲームに再参加します。</color>",
+              "<color=#%playerColor%> <b> %playerName%</b> </color> 다시 연결되었습니다.\n<color=#5ff299> 다음 턴 시작 시 게임에 다시 참여합니다.</color>"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "FailedToRejoinGame",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Failed to rejoin game.",
+              "Impossible de rejoindre le jeu",
+              "Impossibile rientrare nel gioco",
+              "Dem Spiel konnte nicht wieder beigetreten werden",
+              "No se pudo volver a unir al juego",
+              "Не удалось повторно присоединиться к игре",
+              "重新加入游戏失败",
+              "重新加入遊戲失敗",
+              "ゲームに再参加できませんでした",
+              "게임에 다시 참여하지 못했습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "GameHasEnded",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "The game has ended.",
+              "Le jeu est terminé.",
+              "Il gioco è finito.",
+              "Das Spiel ist beendet.",
+              "El juego ha terminado.",
+              "Игра закончилась.",
+              "比赛结束了。",
+              "比賽結束了。",
+              "ゲームは終了しました。",
+              "게임이 종료되었습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "LoadingMods",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Loading mods...",
+              "Chargement des mods...",
+              "Caricamento dei mod…",
+              "Lade Mods…",
+              "Cargando mods…",
+              "Загрузка модов…",
+              "正在加载模组...",
+              "正在加載模組...",
+              "モッドを読み込んでいます…",
+              "모드를 불러오는 중…"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "DownloadingMods",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Downloading mods...",
+              "Téléchargement de modules...",
+              "Download dei mod…",
+              "Mods werden heruntergeladen...",
+              "Descargando mods...",
+              "Загрузка модов…",
+              "正在下载模组...",
+              "正在下載模組...",
+              "モッドをダウンロード中…",
+              "모드 다운로드 중..."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
           "Term": "PurchaseRequired",
           "TermType": 0,
           "Languages": {
@@ -34501,10 +35306,360 @@
               "Die Überprüfung der Mehrspielerberechtigungen ist fehlgeschlagen. Bitte stellen Sie sicher, dass Sie die richtigen Abonnements und Berechtigungen für das Online-Spielen haben.",
               "La verificación de los privilegios multijugador falló. Asegúrate de tener las suscripciones y permisos correctos para jugar en línea.",
               "Проверка привилегий многопользовательской игры не удалась. Пожалуйста, убедитесь, что у вас есть правильные подписки и разрешения для игры онлайн.",
+              "多人游戏权限检查失败。请确保您拥有正确的订阅和在线游戏权限。",
+              "多人遊戲權限檢查失敗。請確保您擁有正確的訂閱和線上遊戲權限。",
               "マルチプレイヤーの特権チェックに失敗しました。オンラインでプレイするための正しいサブスクリプションと権限を持っていることを確認してください。",
-              "多人游戏特权检查失败，请确保您拥有正确的订阅和权限以进行在线游戏。",
-              "多人遊戲特權檢查失敗，請確保您擁有正確的訂閱和權限以進行在線遊戲。",
               "멀티플레이어 권한 확인에 실패했습니다. 온라인 플레이를 위한 올바른 구독과 권한이 있는지 확인하세요."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ChatMessagePlaceholder",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Enter chat message...",
+              "Saisissez un message de chat…",
+              "Inserisci un messaggio di chat…",
+              "Geben Sie eine Chat-Nachricht ein…",
+              "Introduce un mensaje de chat…",
+              "Введите сообщение в чате…",
+              "输入聊天消息…",
+              "輸入聊天消息…",
+              "チャットメッセージを入力してください…",
+              "채팅 메시지를 입력하세요…"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "NetDenyGameEnded",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "The game has already ended.",
+              "Le jeu est déjà terminé.",
+              "Il gioco è già finito.",
+              "Das Spiel ist bereits beendet.",
+              "El juego ya ha terminado.",
+              "Игра уже закончилась.",
+              "比赛已经结束了。",
+              "比賽已經結束了。",
+              "ゲームはすでに終了しています。",
+              "게임은 이미 종료되었습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RejoinGameTimeout",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Failed to rejoin the game in time. Please try reconnecting again.",
+              "Impossible de rejoindre le jeu à temps. Veuillez réessayer de vous reconnecter.",
+              "Impossibile rientrare in gioco in tempo. Prova a riconnetterti di nuovo.",
+              "Dem Spiel konnte nicht rechtzeitig wieder beigetreten werden. Bitte versuchen Sie erneut, die Verbindung herzustellen.",
+              "No se pudo volver a unir al juego a tiempo. Intente volver a conectarse.",
+              "Не удалось вовремя вернуться в игру. Пожалуйста, попробуйте переподключиться еще раз.",
+              "未能及时重新加入游戏。请尝试重新连接。",
+              "未能及時重新加入遊戲。請嘗試重新連線。",
+              "時間内にゲームに再参加できませんでした。もう一度再接続してください。",
+              "시간 내에 게임에 다시 참여하지 못했습니다. 다시 연결해 보세요."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "UseModCache",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Use Mod Cache",
+              "Utiliser Le Cache De Modules",
+              "Usa La Cache Mod",
+              "Benutze Den Mod-Cache",
+              "Usar Caché De Mod",
+              "Использовать Кэш Модов",
+              "使用模组缓存",
+              "使用模組快取",
+              "モッドキャッシュを使用する",
+              "모드 캐시 사용"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "UseModCacheDescription",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "The first time you load a mod, data about that mod is saved to your computer. This data is used to reduce the time needed to load that mod in the future.",
+              "La première fois que vous chargez un mod, des données sur ce mod sont enregistrées sur votre ordinateur. Ces données sont utilisées pour réduire le temps nécessaire pour charger ce mod à l’avenir.",
+              "La prima volta che carichi una mod, i dati relativi a quella mod vengono salvati sul tuo computer. Questi dati vengono utilizzati per ridurre il tempo necessario per caricare quella mod in futuro.",
+              "Beim ersten Laden eines Mods werden Daten zu diesem Mod auf Ihrem Computer gespeichert. Diese Daten werden verwendet, um die Ladezeit dieses Mods in Zukunft zu verkürzen.",
+              "La primera vez que cargas un mod, se guardan datos sobre ese mod en tu computadora. Estos datos se utilizan para reducir el tiempo necesario para cargar ese mod en el futuro.",
+              "При первой загрузке мода данные о нем сохраняются на вашем компьютере. Эти данные используются для сокращения времени загрузки этого мода в будущем.",
+              "第一次加载模组时，有关该模组的数据将保存到您的计算机上。这些数据用于减少将来加载该模组所需的时间。",
+              "第一次載入模組時，有關該模組的數據將保存到您的電腦上。這些數據用於減少將來載入該模組所需的時間。",
+              "モッドを初めて読み込む際、そのモッドに関するデータがコンピュータに保存されます。このデータは将来そのモッドを読み込む時間を短縮するために使用されます。",
+              "모드를 처음으로 로드할 때 해당 모드에 대한 데이터가 컴퓨터에 저장됩니다. 이 데이터는 앞으로 해당 모드를 로드하는 데 필요한 시간을 줄이는 데 사용됩니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ClearModCache",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Clear Mod Cache",
+              "Supprimer Le Cache Des Modules",
+              "Elimina La Cache Della Mod",
+              "Mod-Cache Löschen",
+              "Eliminar Caché De Mod",
+              "Удалить Кэш Мода",
+              "删除模组缓存",
+              "刪除模組緩存",
+              "モッドキャッシュを削除する",
+              "모드 캐시 삭제"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ClearModCacheDescription",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Delete all cached mod data. New data will automatically be created the next time you play a mod if the mod cache is enabled.\nUnused cached mod data is cleared automatically if it hasn't been used in the past 2 weeks. You can use this option to delete it sooner and reclaim some disk space.",
+              "Supprimez toutes les données de mod en cache. De nouvelles données seront automatiquement créées la prochaine fois que vous jouerez à un mod si le cache du mod est activé. Les données de mod en cache inutilisées sont automatiquement effacées si elles n’ont pas été utilisées au cours des 2 dernières semaines. Vous pouvez utiliser cette option pour les supprimer plus tôt et récupérer de l’espace disque.",
+              "Elimina tutti i dati di mod in cache. I nuovi dati verranno creati automaticamente la prossima volta che giochi a un mod se la cache del mod è abilitata. I dati di mod in cache non utilizzati vengono cancellati automaticamente se non sono stati utilizzati nelle ultime 2 settimane. Puoi utilizzare questa opzione per eliminarli prima e recuperare spazio su disco.",
+              "Löschen Sie alle zwischengespeicherten Mod-Daten. Neue Daten werden automatisch erstellt, wenn Sie das nächste Mal ein Mod spielen, sofern der Mod-Cache aktiviert ist. Nicht verwendete zwischengespeicherte Mod-Daten werden automatisch gelöscht, wenn sie in den letzten 2 Wochen nicht verwendet wurden. Sie können diese Option verwenden, um sie früher zu löschen und etwas Festplattenspeicher zurückzugewinnen.",
+              "Elimina todos los datos de mod en caché. Se crearán automáticamente nuevos datos la próxima vez que juegues a un mod si la caché del mod está habilitada. Los datos de mod en caché no utilizados se borran automáticamente si no se han utilizado en las últimas 2 semanas. Puedes usar esta opción para eliminarlos antes y recuperar algo de espacio en disco.",
+              "Удалите все кэшированные данные мода. Новые данные будут автоматически созданы в следующий раз, когда вы будете играть в мод, если кэш мода включен. Неиспользуемые кэшированные данные мода автоматически удаляются, если они не использовались за последние 2 недели. Вы можете использовать эту опцию, чтобы удалить их раньше и вернуть немного места на диске.",
+              "删除所有缓存的模组数据。如果启用了模组缓存，新数据将在您下次玩模组时自动创建。 未使用的缓存的模组数据会在过去的2周内自动清除。您可以使用此选项更早地删除它们并回收一些磁盘空间。",
+              "刪除所有快取的模組數據。如果啟用了模組快取，新數據將在您下次玩模組時自動創建。 未使用的快取的模組數據會在過去的2周內自動清除。您可以使用此選項更早地刪除它們並回收一些磁盤空間。",
+              "キャッシュされたすべてのモッドデータを削除します。モッドキャッシュが有効な場合、次回モッドをプレイする際に新しいデータが自動的に作成されます。 過去2週間間使用されていないキャッシュされたモッドデータは自動的にクリアされます。早めに削除してディスクスペースを回収できます。",
+              "모든 캐시된 모드 데이터를 삭제합니다. 모드 캐시가 활성화된 경우 다음에 모드를 플레이할 때 자동으로 새 데이터가 생성됩니다. 지난 2주 동안 사용되지 않은 캐시된 모드 데이터는 자동으로 지워집니다. 이 옵션을 사용하여 더 빨리 삭제하고 디스크 공간을 확보할 수 있습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Clear",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Clear",
+              "Effacer",
+              "Cancella",
+              "Löschen",
+              "Borrar",
+              "Очистить",
+              "清除",
+              "清除",
+              "クリア",
+              "지우기"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "GigabyteAbbreviation",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "GB",
+              "Go",
+              "GB",
+              "GB",
+              "GB",
+              "ГБ",
+              "GB",
+              "GB",
+              "GB",
+              "GB"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ConnectionTimedOut",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Connection timed out",
+              "La connexion a expiré",
+              "Connessione Scaduta",
+              "Zeitüberschreitung der Verbindung",
+              "Tiempo de conexión agotado",
+              "Время соединения истекло",
+              "连接超时",
+              "連線逾時",
+              "接続がタイムアウトしました",
+              "연결 시간이 초과되었습니다"
             ]
           },
           "Flags": {
@@ -34610,6 +35765,3891 @@
               "海盜",
               "海賊",
               "해적"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "InvertCameraY",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Invert Vertical Camera",
+              "Inverser La Caméra Verticale",
+              "Invertire La Telecamera Verticale",
+              "Vertikale Kamera Umkehren",
+              "Cámara Vertical Invertida",
+              "Инвертировать Вертикальную Камеру",
+              "反转垂直相机",
+              "反轉垂直相機",
+              "垂直カメラを反転",
+              "수직 카메라 반전"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "InvertCameraX",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Invert Horizontal Camera",
+              "Inverser La Caméra Horizontale",
+              "Invertire La Telecamera Orizzontale",
+              "Horizontale Kamera Umkehren",
+              "Invertir la cámara horizontal",
+              "Инвертировать Горизонтальную Камеру",
+              "反转水平相机",
+              "反轉水平相機",
+              "水平カメラを反転",
+              "수평 카메라 반전"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CameraSensitivity",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Camera Sensitivity",
+              "Sensibilité de la caméra",
+              "Sensibilità della telecamera",
+              "Kamerasensitivität",
+              "Sensibilidad de la cámara",
+              "Чувствительность камеры",
+              "相机灵敏度",
+              "相機靈敏度",
+              "カメラ感度",
+              "카메라 감도"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CameraSensitivityDescription",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Adjust how fast the third-person camera moves when being controlled.",
+              "Ajustez la vitesse de déplacement de la caméra à la troisième personne lorsqu’elle est contrôlée.",
+              "Regola la velocità di movimento della telecamera in terza persona quando viene controllata.",
+              "Stelle ein, wie schnell sich die Third-Person-Kamera bei Steuerung bewegt.",
+              "Ajusta la velocidad de movimiento de la cámara en tercera persona cuando está siendo controlada.",
+              "Настройте скорость движения камеры от третьего лица при управлении.",
+              "调整第三人称视角相机的移动速度。",
+              "調整第三人稱視角相機的移動速度。",
+              "プレイヤーの操作で第三者視点カメラの移動速度を調整します。",
+              "플레이어의 조작에 따라 제3인칭 카메라의 이동 속도를 조절합니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "InvertCameraXDescription",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Invert the horizontal camera controls for minigames that use the third-person camera.",
+              "Inverser les commandes horizontales de la caméra pour les mini-jeux utilisant la caméra à la troisième personne.",
+              "Inverti i controlli orizzontali della telecamera per i minigiochi che utilizzano la telecamera in terza persona.",
+              "Kehre die horizontalen Kamerasteuerungen für Minispiele um, die die Third-Person-Kamera verwenden.",
+              "Invertir los controles horizontales de la cámara para los minijuegos que utilizan la cámara en tercera persona.",
+              "Инвертировать горизонтальные управления камерой для мини-игр, использующих камеру от третьего лица.",
+              "反转第三人称视角相机的水平控制，用于小游戏。",
+              "反轉第三人稱視角相機的水平控制，用於小遊戲。",
+              "サードパーソンカメラを使用するミニゲームの水平カメラコントロールを反転させます。",
+              "제3인칭 카메라를 사용하는 미니게임의 수평 카메라 컨트롤을 반전시킵니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "InvertCameraYDescription",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Invert the vertical camera controls for minigames that use the third-person camera.",
+              "Inverser les commandes verticales de la caméra pour les mini-jeux utilisant la caméra à la troisième personne.",
+              "Inverti i controlli verticali della telecamera per i minigiochi che utilizzano la telecamera in terza persona.",
+              "Kehre die vertikalen Kamerasteuerungen für Minispiele um, die die Third-Person-Kamera verwenden.",
+              "Invertir los controles verticales de la cámara para los minijuegos que utilizan la cámara en tercera persona.",
+              "Инвертировать вертикальные управления камерой для мини-игр, использующих камеру от третьего лица.",
+              "反转第三人称视角相机的垂直控制，用于小游戏。",
+              "反轉第三人稱視角相機的垂直控制，用於小遊戲。",
+              "サードパーソンカメラを使用するミニゲームの垂直カメラコントロールを反転させます。",
+              "제3인칭 카메라를 사용하는 미니게임의 수직 카메라 컨트롤을 반전시킵니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ChatSystemKeyboardOnlyMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "You can only chat using a keyboard. Controllers are not supported.",
+              "Vous ne pouvez discuter qu'à l'aide d'un clavier. Les contrôleurs ne sont pas pris en charge.",
+              "Puoi chattare solo utilizzando una tastiera. I controller non sono supportati.",
+              "Sie können nur über eine Tastatur chatten. Controller werden nicht unterstützt.",
+              "Solo puedes chatear usando un teclado. Los controladores no son compatibles.",
+              "Вы можете общаться только с помощью клавиатуры. Контроллеры не поддерживаются.",
+              "您只能使用键盘聊天。不支持控制器。",
+              "您只能使用鍵盤聊天。不支援控制器。",
+              "キーボードを使用してのみチャットできます。コントローラーはサポートされていません。",
+              "키보드를 통해서만 채팅할 수 있습니다. 컨트롤러는 지원되지 않습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "NoChatKeyBoundMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Connected! Bind a key to 'Online Chat' under 'Options > Controls > User Interface' to use chat.",
+              "Chat connecté ! Liez une clé à « Online Chat » sous « Options > Contrôles > User Interface » pour utiliser le chat.",
+              "Chatta connessa! Associa una chiave a \"Online Chat\" in \"Opzioni > Controlli > User Interface\" per utilizzare la chat.",
+              "Chat verbunden! Binden Sie unter „Optionen > Steuerelemente > User Interface“ einen Schlüssel an „Online Chat“, um den Chat zu verwenden.",
+              "Chat conectado! Vincula una clave a 'Online Chat' en 'Opciones > Controles > User Interface' para usar el chat.",
+              "Чат подключен! Привяжите клавишу к «Online Chat» в разделе «Параметры > Элементы управления > User Interface», чтобы использовать чат.",
+              "聊天已连接！将按键绑定到“选项 > 控件 > User Interface”下的“Online Chat”即可使用聊天功能。",
+              "聊天已連線！將按鍵綁定到「選項 > 控制 > User Interface」下的「Online Chat」即可使用聊天功能。",
+              "チャットがつながりました!チャットを使用するには、「オプション > コントロール > User Interface」の「Online Chat」にキーをバインドします。",
+              "채팅이 연결되었습니다! 채팅을 사용하려면 '옵션 > 컨트롤 > User Interface'에서 'Online Chat'에 키를 바인딩하세요."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "OnlineChat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Online Chat",
+              "Discussion En Ligne",
+              "Chat Online",
+              "Online Chat",
+              "Chat En Línea",
+              "Онлайн Чат",
+              "在线聊天",
+              "線上聊天",
+              "オンラインチャット",
+              "온라인 채팅"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Inverted",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Inverted",
+              "Inversé",
+              "Invertito",
+              "Invertiert",
+              "Invertido",
+              "Перевернутый",
+              "倒",
+              "倒",
+              "反転した",
+              "거꾸로 된"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CameraY",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Camera Y",
+              "Appareil Photo Et",
+              "Macchina Fotografica Y",
+              "Kamera Y",
+              "Cámara Y",
+              "Камера Y",
+              "相机y",
+              "相機y",
+              "カメラy",
+              "카메라 Y"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CameraX",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Camera X",
+              "Caméra X",
+              "Macchina Fotografica X",
+              "Kamera X",
+              "Cámara X",
+              "Камера Х",
+              "相机x",
+              "相機x",
+              "カメラ×",
+              "카메라 X"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Camera",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Camera",
+              "Caméra",
+              "Telecamera",
+              "Kamera",
+              "Cámara",
+              "Камера",
+              "相机",
+              "相機",
+              "カメラ",
+              "카메라"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ControlsForPlayer",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Controls for player:",
+              "Commandes pour le joueur :",
+              "Controlli per il giocatore:",
+              "Steuerelemente für Spieler:",
+              "Controles para el jugador:",
+              "Управление игроком:",
+              "玩家控制：",
+              "玩家控制：",
+              "プレーヤーのコントロール: ",
+              "플레이어 컨트롤:"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ConsoleCameraPlayerSelectDescription",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Select which player you'd like to adjust the third-person minigame camera settings for.",
+              "Sélectionnez le joueur pour lequel vous souhaitez ajuster les paramètres de la caméra du mini-jeu à la troisième personne.",
+              "Seleziona per quale giocatore desideri regolare le impostazioni della telecamera del minigioco in terza persona.",
+              "Wählen Sie aus, für welchen Spieler Sie die Kameraeinstellungen des Third-Person-Minispiels anpassen möchten.",
+              "Selecciona para qué jugador te gustaría ajustar la configuración de la cámara del minijuego en tercera persona.",
+              "Выберите, для какого игрока вы хотите настроить параметры камеры мини-игры от третьего лица.",
+              "选择您要为其调整第三人称迷你游戏摄像头设置的玩家。",
+              "選擇您要為其調整第三人稱迷你遊戲攝影機設定的玩家。",
+              "三人称ミニゲームのカメラ設定を調整するプレイヤーを選択します。",
+              "3인칭 미니게임 카메라 설정을 조정할 플레이어를 선택하세요."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Paused",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Paused",
+              "En Pause",
+              "In Pausa",
+              "Pausierte",
+              "Pausado",
+              "Остановился",
+              "暂停",
+              "暫停",
+              "一時停止した",
+              "일시중지됨"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Close",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Close",
+              "Fermer",
+              "Chiudi",
+              "Schließen",
+              "Cerrar",
+              "Закрывать",
+              "关闭",
+              "關閉",
+              "閉じる",
+              "닫기"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "StarCrownHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Star Crown",
+              "Couronne D'étoiles",
+              "Corona Di Stelle",
+              "Sternkrone",
+              "Corona De Estrellas",
+              "Звездная Корона",
+              "星冠",
+              "星冠",
+              "スタークラウン",
+              "스타 크라운"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeFog",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Fog",
+              "Brouillard",
+              "Nebbia",
+              "Nebel",
+              "Niebla",
+              "Туман",
+              "多雾路段",
+              "多霧路段",
+              "霧",
+              "안개"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "NinjaHoodHat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Ninja Hood",
+              "Capuche Ninja",
+              "Cappuccio Ninja",
+              "Ninja-Kapuze",
+              "Capucha Ninja",
+              "Ниндзя Капюшон",
+              "忍者兜帽",
+              "忍者兜帽",
+              "忍者フード",
+              "닌자 후드"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeObsidian",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Obsidian",
+              "Obsidienne",
+              "Ossidiana",
+              "Obsidian",
+              "Obsidiana",
+              "Обсидиан",
+              "黑曜石",
+              "黑曜石",
+              "黒曜石",
+              "흑요석"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CapeMagma",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Magma",
+              "Magma",
+              "Magma",
+              "Magma",
+              "Magma",
+              "Магма",
+              "岩浆",
+              "岩漿",
+              "マグマ",
+              "연한 덩어리"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ReconnectTimeoutGameMayHaveEnded",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Could not reconnect to the host. The game may have already ended.",
+              "Impossible de se reconnecter à l'hôte. Le jeu est peut-être terminé.",
+              "Impossibile riconnettersi all'host. La partita potrebbe essere finita.",
+              "Die Verbindung zum Host konnte nicht wiederhergestellt werden. Das Spiel könnte beendet sein.",
+              "No se pudo volver a conectar con el host. Es posible que el juego haya terminado.",
+              "Не удалось повторно подключиться к хосту. Возможно, игра закончилась.",
+              "无法重新连接到主机。比赛可能已经结束了。",
+              "無法重新連線到主機。比賽可能已經結束了。",
+              "ホストに再接続できませんでした。ゲームが終了した可能性があります。",
+              "호스트에 다시 연결할 수 없습니다. 게임이 종료되었을 수도 있습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Choose Path",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Follow Path",
+              "Suivre Le Chemin",
+              "Seguire Il Percorso",
+              "Pfad Folgen",
+              "Seguir El Camino",
+              "Следовать По Пути",
+              "遵循路径",
+              "遵循路徑",
+              "道をたどる",
+              "경로를 따르다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "OpenChat",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Ingame Chat",
+              "Chat En Jeu",
+              "Chat Nel Gioco",
+              "Ingame-Chat",
+              "Chat Dentro Del Juego",
+              "Внутриигровой Чат",
+              "游戏内聊天",
+              "遊戲內聊天",
+              "ゲーム内チャット",
+              "게임 내 채팅"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "PauseGame",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Pause Game",
+              "Mettre Le Jeu En Pause",
+              "Mettere In Pausa Il Gioco",
+              "Spiel Pausieren",
+              "Pausar El Juego",
+              "Пауза В Игре",
+              "暂停游戏",
+              "暫停遊戲",
+              "ゲームを一時停止する",
+              "게임 일시 중지"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RotatePieceClockwise",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Rotate Piece Clockwise",
+              "Le Sens Des Aiguilles D'une Montre",
+              "Ruotare In Senso Orario",
+              "Im Uhrzeiger Sinn Drehen",
+              "Rotar Las Agujas Del Reloj",
+              "Вращаться По Часовой Стрелке",
+              "顺时针旋转",
+              "順時針旋轉",
+              "時計回りに回転します",
+              "시계 방향으로 회전하세요"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RotatePieceAntiClockwise",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Rotate Piece Anti-clockwise",
+              "Tourner dans le sens inverse des aiguilles d'une montre",
+              "Ruotare in senso antiorario",
+              "Gegen den Uhrzeigersinn drehen",
+              "Girar en sentido antihorario",
+              "Вращать против часовой стрелки",
+              "逆时针旋转",
+              "逆時針旋轉",
+              "反時計回りに回転",
+              "시계 반대 방향으로 회전"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RhythmUp",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Hit Note (Up)",
+              "Note de frappe (haut)",
+              "Nota di colpo (alto)",
+              "Treffer-Note (oben)",
+              "Nota de golpe (arriba)",
+              "Нота удара (вверх)",
+              "敲击音符（上）",
+              "敲擊音符（上）",
+              "ヒットノート（上）",
+              "히트 노트 (위)"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RhythmDown",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Hit Node (Down)",
+              "Note de frappe (bas)",
+              "Nota di colpo (basso)",
+              "Treffer-Note (unten)",
+              "Nota de golpe (abajo)",
+              "Нота удара (вниз)",
+              "敲击音符（下）",
+              "敲擊音符（下）",
+              "ヒットノート（下）",
+              "히트 노트 (아래)"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RhythmLeft",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Hit Note (Left)",
+              "Note de frappe (gauche)",
+              "Nota di colpo (sinistra)",
+              "Treffer-Note (links)",
+              "Nota de golpe (izquierda)",
+              "Нота удара (влево)",
+              "敲击音符（左）",
+              "敲擊音符（左）",
+              "ヒットノート（左）",
+              "히트 노트 (왼쪽)"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RhythmRight",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Hit Note (Right)",
+              "Note de frappe (droite)",
+              "Nota di colpo (destra)",
+              "Treffer-Note (rechts)",
+              "Nota de golpe (derecha)",
+              "Нота удара (вправо)",
+              "敲击音符（右）",
+              "敲擊音符（右）",
+              "ヒットノート（右）",
+              "히트 노트 (오른쪽)"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "UIRewiredCategory",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "User Interface",
+              "Interface Utilisateur",
+              "Interfaccia Utente",
+              "Benutzeroberfläche",
+              "Interfaz De Usuario",
+              "Пользовательский Интерфейс",
+              "用户界面",
+              "使用者介面",
+              "ユーザーインターフェース",
+              "사용자 인터페이스"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "InteractionPopupRewiredCategory",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Interaction Popup",
+              "Fenêtre Contextuelle D'interaction",
+              "Pop-Up Di Interazione",
+              "Interaktions-Popup",
+              "Ventana Emergente De Interacción",
+              "Всплывающее Окно Взаимодействия",
+              "互动弹出窗口",
+              "互動彈出窗口",
+              "インタラクションポップアップ",
+              "상호작용 팝업"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "GeneralMinigamesRewiredCategory",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "General Minigames",
+              "Mini-Jeux Généraux",
+              "Minigiochi Generali",
+              "Allgemeine Minispiele",
+              "Minijuegos Generales",
+              "Общие Мини-Игры",
+              "一般小游戏",
+              "一般小遊戲",
+              "一般的なミニゲーム",
+              "일반 미니게임"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "TopDownMinigamesRewiredCategory",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Top-down Minigames",
+              "Mini-jeux descendants",
+              "Minigiochi dall'alto",
+              "Top-Down-Minispiele",
+              "Minijuegos de arriba hacia abajo",
+              "Мини-игры с видом сверху",
+              "自上而下的小游戏",
+              "自上而下的小遊戲",
+              "トップダウンのミニゲーム",
+              "하향식 미니게임"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ThirdPersonMinigamesRewiredCategory",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Third-person Minigames",
+              "Mini-jeux à la troisième personne",
+              "Minigiochi in terza persona",
+              "Third-Person-Minispiele",
+              "Minijuegos en tercera persona",
+              "Мини-игры от третьего лица",
+              "第三人称小游戏",
+              "第三人稱小遊戲",
+              "三人称視点のミニゲーム",
+              "3인칭 미니게임"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "DrivingMinigamesRewiredCategory",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Driving Minigames",
+              "Mini-Jeux De Conduite",
+              "Minigiochi Di Guida",
+              "Minispiele Fahren",
+              "Minijuegos De Conducción",
+              "Мини-Игры Вождения",
+              "驾驶小游戏",
+              "駕駛小遊戲",
+              "運転ミニゲーム",
+              "운전 미니게임"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "PlaneMinigamesRewiredCategory",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Airplane Minigames",
+              "Mini-Jeux D'avion",
+              "Minigiochi Di Aerei",
+              "Flugzeug-Minispiele",
+              "Minijuegos De Aviones",
+              "Мини-Игры С Самолетами",
+              "飞机小游戏",
+              "飛機小遊戲",
+              "飛行機のミニゲーム",
+              "비행기 미니게임"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "SpecificMinigamesRewiredCategory",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Specific Minigames",
+              "Mini-Jeux Spécifiques",
+              "Minigiochi Specifici",
+              "Spezifische Minispiele",
+              "Minijuegos Específicos",
+              "Специальные Мини-Игры",
+              "特定的小游戏",
+              "特定的小遊戲",
+              "特定のミニゲーム",
+              "특정 미니게임"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CancelBoardItem",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Cancel",
+              "Annuler",
+              "Annulla",
+              "Abbrechen",
+              "Cancelar",
+              "Отмена",
+              "取消",
+              "取消",
+              "キャンセル",
+              "취소"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CarSteer",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Steer",
+              "Diriger",
+              "Sterzare",
+              "Steuern",
+              "Dirigir",
+              "Управлять",
+              "驾驶",
+              "駕駛",
+              "操縦する",
+              "조종하다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "YawLeft",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Yaw Left",
+              "Lacet À Gauche",
+              "Imbardata A Sinistra",
+              "Gier Nach Links",
+              "Guiñada A La Izquierda",
+              "Отклоняться Влево",
+              "左偏航",
+              "左偏航",
+              "ヨー左",
+              "요 왼쪽"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "YawRight",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Yaw Right",
+              "Lacet À Droite",
+              "Imbardata, Giusto",
+              "Gier Richtig",
+              "Guiñar A La Derecha",
+              "Рыскать Правильно",
+              "右偏航",
+              "右偏航",
+              "右にヨー",
+              "아 맞다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RhythmButtonUp",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Hit Node (Alternate Up)",
+              "Note de frappe (haut alternative)",
+              "Nota di colpo (alto alternativa)",
+              "Treffer-Note (alternativ oben)",
+              "Nota de golpe (alternativa arriba)",
+              "Нота удара (альтернативная вверх)",
+              "敲击音符（备选上）",
+              "敲擊音符（替代上）",
+              "ヒットノート（代替上）",
+              "히트 노트 (대체 위)"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RhythmButtonDown",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Hit Node (Alternate Down)",
+              "Note de frappe (bas alternative)",
+              "Nota di colpo (basso alternativa)",
+              "Treffer-Note (alternativ unten)",
+              "Nota de golpe (alternativa abajo)",
+              "Нота удара (альтернативная вниз)",
+              "敲击音符（备选下）",
+              "敲擊音符（替代下）",
+              "ヒットノート（代替下）",
+              "히트 노트 (대체 아래)"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RhythmButtonLeft",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Hit Node (Alternate Left)",
+              "Note de frappe (gauche alternative)",
+              "Nota di colpo (sinistra alternativa)",
+              "Treffer-Note (alternativ links)",
+              "Nota de golpe (alternativa izquierda)",
+              "Нота удара (альтернативная влево)",
+              "敲击音符（备选左）",
+              "敲擊音符（替代左）",
+              "ヒットノート（代替左）",
+              "히트 노트 (대체 왼쪽)"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RhythmButtonRight",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Hit Node (Alternate Right)",
+              "Note de frappe (droite alternative)",
+              "Nota di colpo (destra alternativa)",
+              "Treffer-Note (alternativ rechts)",
+              "Nota de golpe (alternativa derecha)",
+              "Нота удара (альтернативная вправо)",
+              "敲击音符（备选右）",
+              "敲擊音符（替代右）",
+              "ヒットノート（代替右）",
+              "히트 노트 (대체 오른쪽)"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "InteractionPopupChoice1",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "First Choice",
+              "Premier Choix",
+              "Prima Scelta",
+              "Erste Wahl",
+              "Primera Opción",
+              "Первый Выбор",
+              "第一选择",
+              "第一選擇",
+              "最初に選んだ",
+              "첫번째 선택"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "InteractionPopupChoice2",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Second Choice",
+              "Second Choix",
+              "Seconda Scelta",
+              "Zweite Wahl",
+              "Segunda Elección",
+              "Вторая Возможность",
+              "第二选择",
+              "第二選擇",
+              "第二希望",
+              "두 번째 선택"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "InteractionPopupChoice3",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Third Choice",
+              "Troisième Choix",
+              "Terza Scelta",
+              "Dritte Wahl",
+              "Tercera Opción",
+              "Третий Выбор",
+              "第三选择",
+              "第三選擇",
+              "第三の選択",
+              "세 번째 선택"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "InteractionPopupChoice4",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Fourth Choice",
+              "Quatrième Choix",
+              "Quarta Scelta",
+              "Vierte Wahl",
+              "Cuarta Opción",
+              "Четвертый Выбор",
+              "第四个选择",
+              "第四個選擇",
+              "4番目の選択",
+              "네 번째 선택"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "InteractionPopupChoiceCancel",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Cancel Choice",
+              "Annuler Le Choix",
+              "Annullare La Scelta",
+              "Auswahl Aufheben",
+              "Cancelar Elección",
+              "Отменить Выбор",
+              "取消选择",
+              "取消選擇",
+              "選択をキャンセルする",
+              "선택 취소"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "SelectUse",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Select/Use",
+              "Sélectionner/Utiliser",
+              "Selezionare/Utilizzare",
+              "Auswählen/Verwenden",
+              "Seleccionar/Usar",
+              "Выбрать/Использовать",
+              "选择/使用",
+              "選擇/使用",
+              "選択/使用",
+              "선택/사용"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "HorizontalAim",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Horizontal Aim",
+              "Visée Horizontale",
+              "Mira Orizzontale",
+              "Horizontales Ziel",
+              "Objetivo Horizontal",
+              "Горизонтальная Цель",
+              "水平目标",
+              "水平目標",
+              "水平方向の目標",
+              "수평 목표"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "VerticalAim",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Vertical Aim",
+              "Visée Verticale",
+              "Mira Verticale",
+              "Vertikales Ziel",
+              "Objetivo Vertical",
+              "Вертикальная Цель",
+              "垂直目标",
+              "垂直目標",
+              "垂直方向の狙い",
+              "수직 목표"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "AimUp",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Aim Up",
+              "Viser Vers Le Haut",
+              "Puntare In Alto",
+              "Nach Oben Zielen",
+              "Apuntar Hacia Arriba",
+              "Целиться Вверх",
+              "瞄准",
+              "瞄準",
+              "上を目指す",
+              "조준하다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "AimLeft",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Aim Left",
+              "Viser À Gauche",
+              "Mirare A Sinistra",
+              "Nach Links Zielen",
+              "Apuntar A La Izquierda",
+              "Цельтесь Влево",
+              "向左瞄准",
+              "向左瞄準",
+              "左を目指す",
+              "왼쪽을 겨냥하다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "AimRight",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Aim Right",
+              "Viser À Droite",
+              "Mirare Bene",
+              "Richtig Zielen",
+              "Apuntar Bien",
+              "Целься Правильно",
+              "瞄准正确",
+              "瞄準正確",
+              "正しく狙う",
+              "바로 조준하다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "AimDown",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Aim Down",
+              "Viser Vers Le Bas",
+              "Mirare In Basso",
+              "Nach Unten Zielen",
+              "Apuntar Hacia Abajo",
+              "Целиться Вниз",
+              "瞄准目标",
+              "瞄準目標",
+              "下を目指す",
+              "아래로 조준하다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "HorizontalMovement",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Horizontal Movement",
+              "Mouvement Horizontal",
+              "Movimento Orizzontale",
+              "Horizontale Bewegung",
+              "Movimiento Horizontal",
+              "Горизонтальное Движение",
+              "水平运动",
+              "水平運動",
+              "水平移動",
+              "수평 이동"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "VerticalMovement",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Vertical Movement",
+              "Mouvement Vertical",
+              "Movimento Verticale",
+              "Vertikale Bewegung",
+              "Movimiento Vertical",
+              "Вертикальное Движение",
+              "垂直运动",
+              "垂直運動",
+              "垂直方向の動き",
+              "수직 이동"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ShootUseItem",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Shoot/Use Item",
+              "Tirer/Utiliser Un Objet",
+              "Sparare/Usare L'oggetto",
+              "Gegenstand Abschießen/Verwenden",
+              "Disparar/Usar Artículo",
+              "Стрелять/Использовать Предмет",
+              "拍摄/使用物品",
+              "拍攝/使用物品",
+              "アイテムを撃つ/使用する",
+              "촬영/사용 아이템"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "LookLeftRight",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Look Left/Right",
+              "Regarde À Gauche/À Droite",
+              "Guarda A Sinistra/Destra",
+              "Schau Nach Links/Rechts",
+              "Mirar Izquierda/Derecha",
+              "Посмотри Налево/Направо",
+              "向左/向右看",
+              "向左/向右看",
+              "左/右を見る",
+              "왼쪽/오른쪽을 보세요"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "LookUpDown",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Look Up/Down",
+              "Regarder En Haut/En Bas",
+              "Guardare Su/Giù",
+              "Nach Oben/Unten Schauen",
+              "Mirar Arriba/Abajo",
+              "Посмотреть Вверх/Вниз",
+              "向上/向下看",
+              "向上/向下看",
+              "上/下を見る",
+              "위/아래로 찾아보기"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Replace",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Replace",
+              "Remplacer",
+              "Sostituire",
+              "Ersetzen",
+              "Reemplazar",
+              "Заменять",
+              "代替",
+              "代替",
+              "交換する",
+              "바꾸다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "KeyboardElementAssignmentPollingWindowMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Press a key to assign it to {0}. Modifier keys may also be used. \nTo assign a modifier key alone, hold it down for 1 second.",
+              "Appuyez sur une touche pour l'attribuer à {0}. Des touches de modification peuvent également être utilisées. \nPour attribuer une touche de modification seule, maintenez-la enfoncée pendant 1 seconde.",
+              "Premere un tasto per assegnarlo a {0}. Possono essere utilizzati anche i tasti modificatori. \nPer assegnare solo un tasto modificatore, tenerlo premuto per 1 secondo.",
+              "Drücken Sie eine Taste, um sie {0} zuzuweisen. Es können auch Zusatztasten verwendet werden. \nUm nur eine Sondertaste zuzuweisen, halten Sie diese 1 Sekunde lang gedrückt.",
+              "Presione una tecla para asignarla a {0}. También se pueden utilizar teclas modificadoras. \nPara asignar una tecla modificadora sola, manténgala presionada durante 1 segundo.",
+              "Нажмите клавишу, чтобы назначить ее {0}. Также можно использовать клавиши-модификаторы. \nЧтобы назначить только клавишу-модификатор, удерживайте ее нажатой в течение 1 секунды.",
+              "按一个键将其分配给 {0}。\n也可以使用修饰键。\n要单独分配修饰键，请按住该键 1 秒钟。",
+              "按一個鍵將其指派給 {0}。\n也可以使用修飾鍵。\n若要單獨指派修飾鍵，請按住該鍵 1 秒鐘。",
+              "キーを押して {0} に割り当てます。\n修飾キーも使用できます。\n修飾キーのみを割り当てるには、修飾キーを 1 秒間押し続けます。",
+              "{0}에 할당하려면 키를 누르세요. 수정자 키를 사용할 수도 있습니다. \n수정자 키만 지정하려면 해당 키를 1초 동안 누르세요."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Player 1",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Player 1",
+              "Joueur 1",
+              "Giocatore 1",
+              "Spieler 1",
+              "Jugador 1",
+              "Игрок 1",
+              "玩家1",
+              "玩家1",
+              "プレイヤー1",
+              "플레이어 1"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Player 2",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Player 2",
+              "Joueur 2",
+              "Giocatore 2",
+              "Spieler 2",
+              "Jugador 2",
+              "Игрок 2",
+              "玩家2",
+              "玩家2",
+              "プレイヤー2",
+              "플레이어 2"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Player 3",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Player 3",
+              "Joueur 3",
+              "Giocatore 3",
+              "Spieler 3",
+              "Jugador 3",
+              "Игрок 3",
+              "玩家3",
+              "玩家3",
+              "プレイヤー3",
+              "플레이어 3"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Player 4",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Player 4",
+              "Joueur 4",
+              "Giocatore 4",
+              "Spieler 4",
+              "Jugador 4",
+              "Игрок 4",
+              "玩家4",
+              "玩家4",
+              "プレイヤー4",
+              "플레이어 4"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Player 5",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Player 5",
+              "Joueur 5",
+              "Giocatore 5",
+              "Spieler 5",
+              "Jugador 5",
+              "Игрок 5",
+              "玩家5",
+              "玩家5",
+              "プレイヤー5",
+              "플레이어 5"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Player 6",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Player 6",
+              "Joueur 6",
+              "Giocatore 6",
+              "Spieler 6",
+              "Jugador 6",
+              "Игрок 6",
+              "玩家6",
+              "玩家6",
+              "プレイヤー6",
+              "플레이어 6"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Player 7",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Player 7",
+              "Joueur 7",
+              "Giocatore 7",
+              "Spieler 7",
+              "Jugador 7",
+              "Игрок 7",
+              "玩家7",
+              "玩家7",
+              "プレイヤー7",
+              "플레이어 7"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Player 8",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Player 8",
+              "Joueur 8",
+              "Giocatore 8",
+              "Spieler 8",
+              "Jugador 8",
+              "Игрок 8",
+              "玩家8",
+              "玩家8",
+              "プレイヤー8",
+              "플레이어 8"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "SensitivitySettings",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Sensitivity Settings",
+              "Paramètres De Sensibilité",
+              "Impostazioni Di Sensibilità",
+              "Empfindlichkeitseinstellungen",
+              "Ajustes De Sensibilidad",
+              "Настройки Чувствительности",
+              "灵敏度设置",
+              "靈敏度設定",
+              "感度設定",
+              "민감도 설정"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RestoreDefaultsWindowMessageOnePlayer",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "This will restore the default input configuration. \nAre you sure you want to do this?",
+              "Cela restaurera la configuration d'entrée par défaut. \nEs-tu sûr de vouloir faire ça?",
+              "Ciò ripristinerà la configurazione di input predefinita. \nSei sicuro di volerlo fare?",
+              "Dadurch wird die Standard-Eingangskonfiguration wiederhergestellt. \nSind Sie sicher, dass Sie dies tun möchten?",
+              "Esto restaurará la configuración de entrada predeterminada. \n¿Seguro que quieres hacer esto?",
+              "Это восстановит конфигурацию входа по умолчанию. \nВы уверены, что хотите это сделать?",
+              "这将恢复默认输入配置。\n你确定你要这么做吗？",
+              "這將恢復預設輸入配置。\n你確定你要這麼做嗎？",
+              "これにより、\nデフォルトの入力構成が復元されます。\n本当にこれを実行してもよろしいですか?",
+              "그러면 기본 입력 구성이 복원됩니다. \n정말로 이 작업을 수행하시겠습니까?"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "RestoreDefaultsWindowMessageMultiPlayer",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "This will restore the default input configuration for all players. \nAre you sure you want to do this?",
+              "Cela restaurera la configuration d'entrée par défaut pour tous les joueurs. \nEs-tu sûr de vouloir faire ça?",
+              "Ciò ripristinerà la configurazione di input predefinita per tutti i giocatori. \nSei sicuro di volerlo fare?",
+              "Dadurch wird die Standard-Eingabekonfiguration für alle Spieler wiederhergestellt. \nSind Sie sicher, dass Sie dies tun möchten?",
+              "Esto restaurará la configuración de entrada predeterminada para todos los jugadores. \n¿Seguro que quieres hacer esto?",
+              "Это восстановит конфигурацию ввода по умолчанию для всех игроков. \nВы уверены, что хотите это сделать?",
+              "这将为所有玩家恢复默认输入配置。\n你确定你要这么做吗？",
+              "這將為所有玩家恢復預設輸入配置。\n你確定你要這麼做嗎？",
+              "これにより、\nすべてのプレーヤーのデフォルトの入力設定が復元されます。\n本当にこれを実行してもよろしいですか?",
+              "그러면 모든 플레이어의 기본 입력 구성이 복원됩니다. \n정말로 이 작업을 수행하시겠습니까?"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "MouseElementAssignmentPollingWindowMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Press a mouse button or move an axis to assign it to {0}.",
+              "Appuyez sur un bouton de la souris ou déplacez un axe pour l'attribuer à {0}.",
+              "Premere un pulsante del mouse o spostare un asse per assegnarlo a {0}.",
+              "Drücken Sie eine Maustaste oder verschieben Sie eine Achse, um sie {0} zuzuweisen.",
+              "Presione un botón del mouse o mueva un eje para asignarlo a {0}.",
+              "Нажмите кнопку мыши или переместите ось, чтобы назначить ее {0}.",
+              "按鼠标按钮或移动轴将其指定给 {0}。",
+              "按滑鼠按鈕或移動軸將其指定給 {0}。",
+              "マウス ボタンを押すか、軸を移動して、\n軸を {0} に割り当てます。",
+              "마우스 버튼을 누르거나 축을 이동하여 {0}에 할당합니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "JoystickElementAssignmentPollingWindowMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Now press a button or move an axis to assign it to {0}.",
+              "Appuyez maintenant sur un bouton ou déplacez un axe pour l'attribuer à {0}.",
+              "Ora premi un pulsante o sposta un asse per assegnarlo a {0}.",
+              "Drücken Sie nun eine Taste oder verschieben Sie eine Achse, um sie {0} zuzuweisen.",
+              "Ahora presione un botón o mueva un eje para asignarlo a {0}.",
+              "Теперь нажмите кнопку или переместите ось, чтобы назначить ее {0}.",
+              "现在按按钮或移动轴将其分配给 {0}。",
+              "現在按按鈕或移動軸將其指派給 {0}。",
+              "次に、ボタンを押すか軸を移動して、\nそれを {0} に割り当てます。",
+              "이제 버튼을 누르거나 축을 이동하여 {0}에 할당합니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "JoystickElementAssignmentPollingWindowMessageFullAxisFieldOnly",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Now move an axis to assign it to {0}.",
+              "Déplacez maintenant un axe pour l'attribuer à {0}.",
+              "Ora sposta un asse per assegnarlo a {0}.",
+              "Verschieben Sie nun eine Achse, um sie {0} zuzuweisen.",
+              "Ahora mueva un eje para asignarlo a {0}.",
+              "Теперь переместите ось, чтобы назначить ее {0}.",
+              "现在移动一个轴以将其指定给 {0}。",
+              "現在移動一個軸以將其指定給 {0}。",
+              "次に、軸を移動して {0} に割り当てます。",
+              "이제 축을 이동하여 {0}에 할당합니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "MouseElementAssignmentPollingWindowMessageFullAxisFieldOnly",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Move an axis to assign it to {0}.",
+              "Déplacez un axe pour l'attribuer à {0}.",
+              "Spostare un asse per assegnarlo a {0}.",
+              "Verschieben Sie eine Achse, um sie {0} zuzuweisen.",
+              "Mueva un eje para asignarlo a {0}.",
+              "Переместите ось, чтобы назначить ее {0}.",
+              "移动轴以将其指定给 {0}。",
+              "移動軸以將其指定給 {0}。",
+              "軸を移動して {0} に割り当てます。",
+              "축을 이동하여 {0}에 할당합니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ElementAssignmentPrePollingWindowMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "First center or zero all sticks and axes and press any button or wait for the timer to finish.",
+              "Centrez d’abord ou mettez à zéro tous les bâtons et axes et appuyez sur n’importe quel bouton ou attendez la fin du chronomètre.",
+              "Per prima cosa centra o azzera tutti gli stick e gli assi e premi un pulsante qualsiasi o attendi che il timer finisca.",
+              "Zentrieren oder nullen Sie zunächst alle Stöcke und Äxte und drücken Sie eine beliebige Taste oder warten Sie, bis der Timer abgelaufen ist.",
+              "Primero centre o ponga a cero todos los palos y ejes y presione cualquier botón o espere a que termine el cronómetro.",
+              "Сначала отцентрируйте или обнулите все джойстики и оси и нажмите любую кнопку или дождитесь окончания таймера.",
+              "首先将所有棍子和轴居中或归零，\n然后按任意按钮或等待计时器完成。",
+              "首先將所有棍子和軸居中或歸零，\n然後按任意按鈕或等待計時器完成。",
+              "まずすべてのスティックと軸を中心またはゼロにし、\nいずれかのボタンを押すか、\nタイマーが終了するまで待ちます。",
+              "먼저 모든 스틱과 축을 중앙에 맞추거나 0으로 설정하고 아무 버튼이나 누르거나 타이머가 끝날 때까지 기다립니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Invert",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Invert",
+              "Inverser",
+              "Invertire",
+              "Umkehren",
+              "Invertir",
+              "Инвертировать",
+              "倒置",
+              "倒置",
+              "反転",
+              "거꾸로 하다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Dead Zone",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Dead Zone",
+              "Zone Morte",
+              "Zona Morta",
+              "Tote Zone",
+              "Zona Muerta",
+              "Зона бездействия",
+              "死区",
+              "死區",
+              "デッドゾーン",
+              "데드존"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Zero",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Zero",
+              "Zéro",
+              "Zero",
+              "Null",
+              "Cero",
+              "Нуль",
+              "零",
+              "零",
+              "ゼロ",
+              "영"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Calibrate Controller",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Calibrate Controller",
+              "Calibrer Le Contrôleur",
+              "Calibrare Il Controller",
+              "Regler Kalibrieren",
+              "Calibrar El Controlador",
+              "Калибровать Контроллер",
+              "校准控制器",
+              "校準控制器",
+              "コントローラーを調整する",
+              "컨트롤러 교정"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Calibrate Zero",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Calibrate Zero",
+              "Calibrer Le Zéro",
+              "Calibrare Lo Zero",
+              "Null Kalibrieren",
+              "Calibrar Cero",
+              "Калибровать Ноль",
+              "校准零位",
+              "校準零位",
+              "ゼロを校正する",
+              "영점을 교정하다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Calibrate Range",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Calibrate Range",
+              "Calibrer La Plage",
+              "Intervallo Di Calibrazione",
+              "Bereich Kalibrieren",
+              "Calibrar Rango",
+              "Диапазон Калибровки",
+              "校准范围",
+              "校準範圍",
+              "範囲を校正する",
+              "범위를 교정하다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CalibrateAxisStep1WindowMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Center or zero {0} and press any button or wait for the timer to finish.",
+              "Centrez ou zéro {0} et appuyez sur n'importe quel bouton ou attendez la fin du minuteur.",
+              "Centrare o azzerare {0} e premere un pulsante qualsiasi o attendere il termine del timer.",
+              "Zentrieren oder setzen Sie {0} auf Null und drücken Sie eine beliebige Taste oder warten Sie, bis der Timer abgelaufen ist.",
+              "Centra o pone a cero {0} y presiona cualquier botón o espera a que termine el cronómetro.",
+              "Отцентрируйте или обнулите {0} и нажмите любую кнопку или дождитесь окончания таймера.",
+              "居中或归零 {0}，\n然后按任意按钮或等待计时器完成。",
+              "居中或歸零 {0}，\n然後按任何按鈕或等待計時器完成。",
+              "{0} を中央またはゼロにしていずれかのボタンを押すか、\nタイマーが終了するまで待ちます。",
+              "{0}을 중앙에 두거나 0으로 설정하고 아무 버튼이나 누르거나 타이머가 끝날 때까지 기다립니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CalibrateAxisStep2WindowMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Move {0} through its entire range then press any button or wait for the timer to finish.",
+              "Déplacez {0} sur toute sa plage, puis appuyez sur n'importe quel bouton ou attendez la fin du minuteur.",
+              "Muovi {0} attraverso l'intero intervallo, quindi premi un pulsante qualsiasi o attendi che il timer finisca.",
+              "Bewegen Sie {0} durch den gesamten Bereich und drücken Sie dann eine beliebige Taste oder warten Sie, bis der Timer abgelaufen ist.",
+              "Mueva {0} por todo su rango y luego presione cualquier botón o espere a que termine el cronómetro.",
+              "Переместите {0} на весь диапазон, затем нажмите любую кнопку или дождитесь окончания таймера.",
+              "将 {0} 移动到整个范围，\n然后按任意按钮或等待计时器结束。",
+              "將 {0} 移到整個範圍，\n然後按任何按鈕或等待計時器結束。",
+              "{0} を範囲全体に移動してからいずれかのボタンを押すか、\nタイマーが終了するまで待ちます。",
+              "전체 범위에서 {0}을 이동한 다음 아무 버튼이나 누르거나 타이머가 끝날 때까지 기다립니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Add",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Add",
+              "Ajouter",
+              "Aggiungere",
+              "Hinzufügen",
+              "Agregar",
+              "Добавлять",
+              "添加",
+              "添加",
+              "追加",
+              "추가하다"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Assignment Conflict",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Assignment Conflict",
+              "Conflit D'affectation",
+              "Conflitto Di Assegnazione",
+              "Zuordnungskonflikt",
+              "Conflicto De Asignación",
+              "Конфликт Назначения",
+              "分配冲突",
+              "分配衝突",
+              "割り当ての競合",
+              "할당 충돌"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ElementAlreadyInUseBlocked",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "{0} is already in use and cannot be replaced.",
+              "{0} est déjà utilisé et ne peut pas être remplacé.",
+              "{0} è già in uso e non può essere sostituito.",
+              "{0} wird bereits verwendet und kann nicht ersetzt werden.",
+              "{0} ya está en uso y no se puede reemplazar.",
+              "{0} уже используется и не может быть заменен.",
+              "{0} 已在使用且无法替换。",
+              "{0} 已在使用且無法取代。",
+              "{0} はすでに使用されているため、置き換えることはできません。",
+              "{0}은(는) 이미 사용 중이므로 교체할 수 없습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ElementAlreadyInUseCanReplace",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "{0} is already in use. \nDo you want to replace it?",
+              "{0} est déjà utilisé. \nVoulez-vous le remplacer?",
+              "{0} è già in uso. \nVuoi sostituirlo?",
+              "{0} wird bereits verwendet. \nMöchten Sie es ersetzen?",
+              "{0} ya está en uso. \n¿Quieres cambiarlo?",
+              "{0} уже используется. \nВы хотите заменить это?",
+              "{0} 已被使用。 \n你想更换它吗？",
+              "{0} 已被使用。 \n你想更換它嗎？",
+              "{0} はすでに使用されています。 \n取り替えたいですか？",
+              "{0}은(는) 이미 사용 중입니다. \n교체하시겠습니까?"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ElementAlreadyInUseCanReplaceConflictAllowed",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "{0} is already in use. \nDo you want to replace it? \nYou may also choose to add the assignment anyway.",
+              "{0} est déjà utilisé. \nVoulez-vous le remplacer? \nVous pouvez également choisir d’ajouter le devoir quand même.",
+              "{0} è già in uso. \nVuoi sostituirlo? \nPuoi anche scegliere di aggiungere comunque il compito.",
+              "{0} wird bereits verwendet. \nMöchten Sie es ersetzen? \nSie können die Aufgabe auch trotzdem hinzufügen.",
+              "{0} ya está en uso. \n¿Quieres cambiarlo? \nTambién puedes optar por agregar la tarea de todos modos.",
+              "{0} уже используется. \nВы хотите заменить это? \nВы также можете добавить задание в любом случае.",
+              "{0} 已被使用。 \n你想更换它吗？ \n您也可以选择添加作业。",
+              "{0} 已被使用。 \n你想更換它嗎？ \n您也可以選擇新增作業。",
+              "{0} はすでに使用されています。 \n取り替えたいですか？ \nとにかく割り当てを追加することを選択することもできます。",
+              "{0}은(는) 이미 사용 중입니다. \n교체하시겠습니까? \n어쨌든 과제를 추가하도록 선택할 수도 있습니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "MouseAssignmentConflictWindowMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "The mouse is already assigned to {0}. \nDo you want to assign the mouse to {1} instead?",
+              "La souris est déjà attribuée à {0}. \nVoulez-vous plutôt attribuer la souris à {1} ?",
+              "Il mouse è già assegnato a {0}. \nVuoi invece assegnare il mouse a {1}?",
+              "Die Maus ist bereits {0} zugewiesen. \nMöchten Sie die Maus stattdessen {1} zuweisen?",
+              "El mouse ya está asignado a {0}. \n¿Quieres asignar el mouse a {1} en su lugar?",
+              "Мышь уже назначена на {0}. \nХотите вместо этого назначить мышь для {1}?",
+              "鼠标已分配给 {0}。 \n您想将鼠标分配给 {1} 吗？",
+              "滑鼠已指派給 {0}。 \n您想將滑鼠指派給 {1} 嗎？",
+              "マウスはすでに {0} に割り当てられています。 \n代わりにマウスを {1} に割り当てますか?",
+              "마우스가 이미 {0}에 할당되어 있습니다. \n대신 {1}에 마우스를 할당하시겠습니까?"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ControllerAssignmentConflictWindowMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "{0} is already assigned to {1}. \nDo you want to assign this controller to {2} instead?",
+              "{0} est déjà attribué à {1}. \nVoulez-vous plutôt attribuer ce contrôleur à {2} ?",
+              "{0} è già assegnato a {1}. \nVuoi invece assegnare questo controller a {2}?",
+              "{0} ist bereits {1} zugewiesen. \nMöchten Sie diesen Controller stattdessen {2} zuweisen?",
+              "{0} ya está asignado a {1}. \n¿Quieres asignar este controlador a {2} en su lugar?",
+              "{0} уже назначен {1}. \nХотите вместо этого назначить этот контроллер {2}?",
+              "{0} 已分配给 {1}。 \n您想将此控制器分配给 {2} 吗？",
+              "{0} 已指派給 {1}。 \n您想將此控制器指派給 {2} 嗎？",
+              "{0} はすでに {1} に割り当てられています。 \n代わりにこのコントローラを {2} に割り当てますか?",
+              "{0}은(는) 이미 {1}에 할당되었습니다. \n대신 이 컨트롤러를 {2}에 할당하시겠습니까?"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "AssignControllerWindowMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Press any button or move an axis on the controller you would like to use.",
+              "Appuyez sur n'importe quel bouton ou déplacez un axe du contrôleur que vous souhaitez utiliser.",
+              "Premi un pulsante qualsiasi o sposta un asse sul controller che desideri utilizzare.",
+              "Drücken Sie eine beliebige Taste oder bewegen Sie eine Achse auf dem Controller, den Sie verwenden möchten.",
+              "Presione cualquier botón o mueva un eje en el controlador que le gustaría usar.",
+              "Нажмите любую кнопку или переместите ось контроллера, который вы хотите использовать.",
+              "按任意按钮或移动您想要使用的控制器上的轴。",
+              "按下任何按鈕或移動您想要使用的控制器上的軸。",
+              "使用したいコントローラーのボタンを押すか、軸を移動します。",
+              "사용하려는 컨트롤러에서 아무 버튼이나 누르거나 축을 이동하세요."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "AssignControllerWindowTitle",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Choose Controller",
+              "Choisir Le Contrôleur",
+              "Scegli Il Controllore",
+              "Controller Auswählen",
+              "Elegir Controlador",
+              "Выбрать Контроллер",
+              "选择控制器",
+              "選擇控制器",
+              "コントローラーを選択",
+              "컨트롤러 선택"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "MouseAssignmentConflictWindowTitle",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Mouse Assignment",
+              "Affectation de souris",
+              "Assegnazione del mouse",
+              "Mauszuweisung",
+              "Asignación de ratón",
+              "Назначение мыши",
+              "鼠标分配",
+              "滑鼠分配",
+              "マウス割り当て",
+              "마우스 할당"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ControllerAssignmentConflictWindowTitle",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Controller Assignment",
+              "Affectation Du Contrôleur",
+              "Assegnazione Del Controllore",
+              "Controller-Zuordnung",
+              "Asignación De Controlador",
+              "Назначение Контроллера",
+              "控制器分配",
+              "控制器分配",
+              "コントローラの割り当て",
+              "컨트롤러 할당"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ThirdPersonCameraSensitivity",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Third-person Camera Sensitivity",
+              "Sensibilité de la caméra à la troisième personne",
+              "Sensibilità della fotocamera in terza persona",
+              "Empfindlichkeit der Third-Person-Kamera",
+              "Sensibilidad de la cámara en tercera persona",
+              "Чувствительность камеры от третьего лица",
+              "第三人称相机灵敏度",
+              "第三人稱相機靈敏度",
+              "三人称カメラの感度",
+              "3인칭 카메라 감도"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "AddingReconnectingPlayersModBoard",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Players who have recently reconnected are being re-added to the game. This may take some time as they load the mod board. Please wait...",
+              "Les joueurs qui se sont récemment reconnectés sont de nouveau ajoutés au jeu. Cela peut prendre un certain temps pendant le chargement du tableau de mod. S'il vous plaît, attendez...",
+              "I giocatori che si sono ricollegati di recente verranno aggiunti nuovamente al gioco. Questo potrebbe richiedere del tempo mentre caricano la scheda mod. Attendere prego...",
+              "Spieler, die sich kürzlich wieder verbunden haben, werden wieder zum Spiel hinzugefügt. Das Laden des Mod-Boards kann einige Zeit dauern. Bitte warten...",
+              "Los jugadores que se han vuelto a conectar recientemente se volverán a agregar al juego. Esto puede llevar algún tiempo mientras cargan la placa de modificación. Espere por favor...",
+              "Игроки, которые недавно повторно подключились, повторно добавляются в игру. Это может занять некоторое время, пока загружается плата мода. Пожалуйста, подождите...",
+              "最近重新连接的玩家将被重新添加到游戏中。\n他们加载模组板时可能需要一些时间。请稍等...",
+              "最近重新連線的玩家將被重新加入遊戲中。\n他們加載模組板時可能需要一些時間。請稍等...",
+              "最近再接続したプレイヤーがゲームに再追加されます。 \nモッド ボードをロードするため、時間がかかる場合があります。\nお待ちください...",
+              "최근 재접속한 플레이어가 게임에 다시 추가됩니다. 모드 보드를 로드하는 데 시간이 걸릴 수 있습니다. 기다리세요..."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "CarShoot",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Shoot/Use",
+              "Tirer/Utiliser",
+              "Sparare/Utilizzare",
+              "Schießen/Benutzen",
+              "Usar Disparo",
+              "Стрелять/Использовать",
+              "射击/使用",
+              "射擊/使用",
+              "撃つ・使う",
+              "촬영/사용"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "PlaneShoot",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Shoot",
+              "Tirer",
+              "Spara",
+              "Schießen",
+              "Disparar",
+              "Выстрел",
+              "射击",
+              "射擊",
+              "撃つ",
+              "쏘기"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Reward",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Reward",
+              "Récompense",
+              "Ricompensa",
+              "Belohnen",
+              "Premio",
+              "Награда",
+              "报酬",
+              "報酬",
+              "褒美",
+              "보상"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Fling",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Fling",
+              "Jeter",
+              "Scagliare",
+              "Schleudern",
+              "Arrojar",
+              "Бросать",
+              "一扔",
+              "一丟",
+              "投げ飛ばす",
+              "시도"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Combo",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Combo",
+              "Combo",
+              "Combinato",
+              "Combo",
+              "Combinación",
+              "Комбо",
+              "组合",
+              "組合",
+              "コンボ",
+              "콤보"
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "ChatSpamCooldownMessage",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "You are on cooldown for sending messages too quickly.",
+              "Vous êtes en temps de recharge pour avoir envoyé des messages trop rapidement.",
+              "Sei in fase di recupero per aver inviato messaggi troppo velocemente.",
+              "Sie befinden sich in der Abklingzeit, weil Sie Nachrichten zu schnell gesendet haben.",
+              "Estás en tiempo de reutilización por enviar mensajes demasiado rápido.",
+              "У вас есть время восстановления из-за слишком быстрой отправки сообщений.",
+              "您因发送消息太快而处于冷却时间。",
+              "您因發送訊息太快而處於冷卻時間。",
+              "メッセージの送信が早すぎたため、クールダウン中です。",
+              "메시지를 너무 빨리 보내서 휴지 상태입니다."
+            ]
+          },
+          "Flags": {
+            "Array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "Languages_Touch": {
+            "Array": []
+          }
+        },
+        {
+          "Term": "Reconnect",
+          "TermType": 0,
+          "Languages": {
+            "Array": [
+              "Reconnect",
+              "Reconnecter",
+              "Riconnettersi",
+              "Wieder Verbinden",
+              "Reconectar",
+              "Повторно Подключиться",
+              "重新连接",
+              "重新連接",
+              "再接続する",
+              "다시 연결하다"
             ]
           },
           "Flags": {
