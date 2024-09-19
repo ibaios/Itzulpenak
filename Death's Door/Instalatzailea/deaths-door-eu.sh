@@ -11,24 +11,37 @@ gamename="Death's Door"
 email=ibaios@disroot.org
 
 ascii=$(cat <<'END'
-                                                                                
-                                     '                                          
-                                   :NWK.                                        
-                    .    ........ 'WWWWX ............. ....:W:                  
-               'lWWxoxOk..KWx::c0'xWWWWW.OddNNddK.OW:  .WK..dooc'               
-                 NW.   lX oW.   . 0WWWWW,.  KK  . xW.  .Wx :Wd .;               
-                 0W.    WxoW.     XWO0xX:   N0    OW.  .Wl 'WO                  
-                 kW'    WxoWoccx  0K; :Wl   Wk    KWlccdW:  :WO                 
-                 dW;   cW,oW   , .Wd  .Nd   Wx    NW...lW,   'W0                
-                 xWl.'lNl xN....:.W.   kx  .Wk    WX   oW..   KW                
-                loccccc,.;doc::lc.o:'''l; .col.  :do. .ld':kokK:                
-                     .;0WO:cdKo   :dxo;   :kkkkc ,ONxcldd.                      
-                       cWd    Xk 00. .X0 ON'  .KK lW,   xN                      
-                       ;Wx    dW:W;   dW:Wk    ;W:lW'   O0                      
-                       'Wk    xW;W;   kW.Wx    .WllWodk:'                       
-                       .W0   .N0 k0'.dN: kX    :W.oW. K;  .                     
-                      .cWX:lxXk.  .''.    oOl:lx. OW; ;NOKd                     
-                      .......                     ..    ..                      
+                                       OO                                                 
+                                     ,XWWXc                                               
+                                    oWWWWWWk                                     ..       
+                                   ;WWWWWWWWl                                   XWWl      
+  ...,;,,;,'     :xdoodxkoloolll:  NWWWWWWWWN  xdxlllolc::::: :cclloc    olllll ,WN       
+  .WWWW0..lWWX0c    WWWX       Kd .WWWWWWWWWW. WO .cNWWW0xOWW  .WWW      :WWW      ':;:'  
+   lWWW.      xWK   dWWd       :, 'WWWWWWWWWW' N    xWW;    X  .WWX      :WWK    dXWK .NNx
+   ;WWW.       lW0  cWWc          :WWWWWWWWWW;      OWW,       'WWK      ,WWO   KWW       
+   .WWW.       .WW: :WW:          oWWWWWWWWWWc      OWW.       'WWO      ;WWo   WWN       
+   .WWW,        WWN.:WW'          dWWN. d lWWo      KWW.       :WWd      :WWc   lWWx      
+    WWW'        NWW :WW,     O    0WWN'   o0WO      XWW        cWWl      lWW,    :WWO     
+    WWW;        WWN :WWXkkkkOX    O dW.   kWWX      NWW        dWWXkdddxdXWW.     .WWX.   
+    NWWc       cWWc :WW.     0    WXk'    .WWN      WWW        OWWl      0WW.       xWN:  
+    xWWo      .NWN  :WW           WWo      OWW      WWW        XWW,      XWW         XWW. 
+    OWWo     .KWW   :WW        .  WK       'WW      WWW        WWW.      WWW         xWWc 
+   cWWWX:;:oONWN    KWWd:;:c:;xk .WX       .WW     'WWW        WWW.     .WWN  .x     NWW, 
+ dXWO.   .                   :Nk .NWkx'xO.xOWW   .xNWWW0,    :0WWWk   .c0WWW: :WKkokXWWc  
+            ,::loooddddl:'                                   colccc,..;.                  
+              .WWWK    .NWXd       ,lxxdc'       .lkKXXKkd.    'WWW   .0X0o'              
+               WWWK       dWK    :KWW. .WWK:    xNWo    ,WWO    WWW       NWO             
+               KWWX        XWK  ;WW,     cWWl  0WW,       WWX   WWW       .WWl            
+               kWWW        lWWl NW0       WWW ,WWX        :WWo  WWW       .WWl            
+               oWWW        'WWk.WWd       NWW.lWWd        .WWN  WWX       OW0             
+               :WWW        'WWd.WWo       WWW.:WWo         WWW  WWW:,,,'lKd               
+               'WWW        oWW; WWk      ,WWX 'WWx         NWW  WWN  kWl                  
+               .WWW.      .NWW. oWN     .XWW   WWN         WWO .WWK   oN,                 
+                WWW.      KWWd   'WKc';dNWx    'WWx       oWW  .WWO   .WX                 
+               'WWW.   .cXWWd                    NWk.   .xWo   ,WWd    XW0cckNd           
+             ,dNWWWX0XNWW0                          .l:.      :KWWK;    :WWWWc            
+               .';::'.                                                    ..              
+                                                                                          
 END
 )
 
