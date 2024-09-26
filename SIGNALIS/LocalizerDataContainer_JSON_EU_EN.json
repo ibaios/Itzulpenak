@@ -3279,7 +3279,7 @@
             },
             {
               "StringID": "OptionsHint ResolutionControllerInter",
-              "Localized": "Jokoaren berezimena ezartzen du. Konfiguratu zure monitorearen jatorirko berezimenarekin."
+              "Localized": "Jokoaren bereizmena ezartzen du. Konfiguratu zure monitorearen jatorriko bereizmenaren arabera."
             },
             {
               "StringID": "OptionsHint WindowedControllerInter",
@@ -8983,7 +8983,7 @@
             },
             {
               "StringID": "LOV_Dictionary",
-              "Localized": "<title>Hiztegia</title>\nReplika, /Re·pli·ká/, izena. Pl. Replikak (Kitezh: Replika).\nReplikat (⟶kopia, ⟶erreplika) hitzetik (arkaikoa) laburtua.\nPertsona biomekanikoa. ⟶Gestalt baten erreprodukzio sintetikoa. Endoeskeleto artifizial batean txertatutako kultiboo biologikoa, exoeskeleto babesgarrian bildua.\n<page>Gestalt, /Ge·shtalt/, izena. Pl. Gestaltak.\nUrgestalt (jatorrizko forma; ikus ⟶arketipo, ⟶prototipo) hitzetik (arkaikoa) laburtua.\n⟶Replika bat ez den pertsona."
+              "Localized": "<title>Hiztegia</title>\nReplika, /Re·pli·ká/, izena. Pl. Replikak (Kitezh: Replika).\nReplikat (⟶kopia, ⟶erreplika) hitzetik (arkaikoa) laburtua.\nPertsona biomekanikoa. ⟶Gestalt baten erreprodukzio sintetikoa. Endoeskeleto artifizial batean txertatutako kultibo biologikoa, exoeskeleto babesgarrian bildua.\n<page>Gestalt, /Ge·shtalt/, izena. Pl. Gestaltak.\nUrgestalt (jatorrizko forma; ikus ⟶arketipo, ⟶prototipo) hitzetik (arkaikoa) laburtua.\n⟶Replika bat ez den pertsona."
             },
             {
               "StringID": "LAB_Patterns_Hint",
