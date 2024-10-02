@@ -31860,7 +31860,7 @@
             },
             {
               "StringID": "MEM_Medical_PC",
-              "Localized": "Azterketa medikoen ordenagailua.  Arianerek ziklo batzuk barru izango du hurrengo osasun-azterketa."
+              "Localized": "Azterketa medikoen ordenagailua.  Arianek ziklo batzuk barru izango du hurrengo osasun-azterketa."
             },
             {
               "StringID": "LAB_Empress_Face",
@@ -32044,7 +32044,7 @@
             },
             {
               "StringID": "MEM_Briefing_P2",
-              "Localized": "<title>Penrose txostena: II. fasea</title>\n--- Transmisio deszifratuaren hasiera --- \nGure kalkuluen arabera, misioko denboraren 1500 ziklo igaroak izango dira mezu hau jasotzen duzunerako. \nZorionak, Kamarada! Dagoeneko ontziko zure bizitza berrira guztiz moldatua behar duzu. \n<page>Oort hodeira gerturatu ahala, mundu berrien bilaketari ekin beharko diozu.  Helmen luzeko sentsoreak erabiliz, esplorazioa abiarazi behar duzu baliabide erabilgarrien, bizitzeko mundu egokien, edo bizitza estralurtarraren arrastoen bila. \nGogoratu Replikari laguntza eska diezaiokezula ontziaren mantentze-ĺanetan. \nZure misioa arrakastatsua izan dadin opa dizugu. \n--- Transmisio deszifratuaren amaiera ---"
+              "Localized": "<title>Penrose txostena: II. fasea</title>\n--- Transmisio deszifratuaren hasiera --- \nGure kalkuluen arabera, misioko denboraren 1500 ziklo igaroak izango dira mezu hau jasotzen duzunerako. \nZorionak, Kamarada! Dagoeneko ontziko zure bizitza berrira guztiz moldatua behar duzu. \n<page>Oort hodeira gerturatu ahala, mundu berrien bilaketari ekin beharko diozu.  Helmen luzeko sentsoreak erabiliz, esplorazioa abiarazi behar duzu baliabide erabilgarrien, bizitzeko mundu egokien, edo bizitza estralurtarraren arrastoen bila. \nGogoratu Replikari laguntza eska diezaiokezula ontziaren mantentze-lanetan. \nZure misioa arrakastatsua izan dadin opa dizugu. \n--- Transmisio deszifratuaren amaiera ---"
             },
             {
               "StringID": "END_Briefing_P3",
