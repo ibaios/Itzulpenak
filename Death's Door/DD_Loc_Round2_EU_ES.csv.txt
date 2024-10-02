@@ -1145,7 +1145,7 @@ Je peux duper la <i>Grande Faucheuse</i> en personne !","Du kleines Mistvieh.
 Krähen tun einfach nie, was man ihnen sagt.
 [anim]Ich versuche hier Leben zu retten!
 Kapierst du das nicht? <i>Der Tod</i> kann niemanden sehen, der seine Lebenskraft mit einer Urne maskiert hat!
-Ich kann sogar den <i>Ursprünglichen Schnitter</i> zum Narren halten!","Ipurbeltz madarikatua.
+Ich kann sogar den <i>Ursprünglichen Schnitter</i> zum Narren halten!","Ipurbeltz madarikatua!
 Beleek ez dute inoiz obeditzen...
 [anim]Biziak salbatu nahian nabil, aizu!
 Ez al duzu ulertzen? <i>Heriok</i> ez ditu ikusten haien bizi-indarra errautsontzi batean ezkutatzen duten horiek!
@@ -1249,7 +1249,7 @@ Errautsontzi sorgina...
 Zeramikaren aztia, [beat]Lurrontzien belagilea, [beat]Lapikoen atsoa...
 Eta -[pause] jakina -[pause] Amona.
 [camera]Ama-senak bultzaturik,[beat] eta Heriori iruzur egiteko ahaleginek itsuturik, bere bizitza pasioz bete zuen: pasioa magiarekiko,[beat] erreanimazioarekiko,[beat] edabeekiko...
-[ANIM][camera]eta lapikoekiko...
+[ANIM][camera]...eta lapikoekiko...
 [camera][ANIM]Amaitu da bere bidaia,[beat] eta orain bakean datza.
 [ANIM]Makurtu burua bere omenez. [PAUSE]Erakutsi dolumina.
 Agortu da mundu honetan zeukan denbora.","[speed40]Estamos aqui reunidos hoje em lembrança de uma mulher conhecida por muitos nomes.
@@ -1312,7 +1312,7 @@ O tempo dela neste mundo acabou.","[speed40]Мы собрались здесь, 
 ...With a pot on her head.","Elle est morte comme elle a vécu...
 ... Avec une soupière sur la tête.","Sie ist gestorben, wie sie gelebt hat.
 Mit einem Tiegel auf dem Kopf.","Bizi zen bezala hil da...
-...buruan lapiko bat zuela.","Ela se vai assim como viveu...
+...errautsontzi bati lotuta.","Ela se vai assim como viveu...
 Com uma urna na cabeça.","Она умерла так, как жила...
 ...С вазоном на голове.","この者はその生きざまのごとく死んだ…
 …頭にツボをのせて。","살아온 대로 가셨군...
@@ -1551,7 +1551,7 @@ Can't you see how stressed I am!?","I can't help you unless you bring back your 
 Can't you see how stressed I am!?","Je ne peux pas t'aider tant que tu ne m'apporteras pas la bonne âme !
 Tu ne vois pas que je suis sous pression ?","Ich kann dir nicht helfen, solange du nicht das Auftragsziel mitbringst!
 Ich lebe hier im Stress, siehst du das nicht?","Ezin zaitut lagundu esleitu zaizun arima ekartzen ez badidazu!
-Ez duzu ikusten zein estresatua nagoen!?","Não posso ajudar você a menos que traga sua alma designada para mim!
+Ez duzu ikusten zeinen estresatua nagoen!?","Não posso ajudar você a menos que traga sua alma designada para mim!
 Não está vendo como estou estressado?!","Я ничего не смогу сделать, пока ты не принесешь порученную душу!
 Разве ты не видишь, что я здесь зашиваюсь?!","担当のソウルを持ち帰らないことには何もできませんよ！
 君のせいでストレス溜まりまくりデス！","자네가 목표로 삼은 혼을 가져오지 않으면 도와줄 수가 없네!
@@ -1591,7 +1591,7 @@ Wenn du es mir wiederbringst,[beat] kann ich dir bestimmt auf deiner Reise weite
 Sentitzen dut, [beat]baina oihanak berak itxi zituen ziegetarako ateak orain dela ilargi asko, gu babesteko asmoz.
 Berekin hitz egin nezake, [beat]eta agian zuretzako ateak ireki ditzan konbentzitu...
 Baina, [beat]gure elkarrizketak abesti bidezkoak dira,[beat] eta zoritxarrez...
-[sound][anim]nire adar magikoa galdu dut...
+[sound][anim]...nire adar magikoa galdu dut...
 Iparraldeko kanpamendu zaharrean utzi nuen. Tamalez, Igel Erregearen morroiek kanporatu gintuzten.
 Adarra itzultzen badidazu,[beat] ziur naiz zure bidaian lagundu ahalko zaitugula.","[sound]Não vejo outros como você por aqui há muito... [pause]muito tempo...
 [sound][anim]Você deve estar aqui para ver seus amigos nas profundezas, não?
@@ -2095,7 +2095,7 @@ Son temps dans ce monde est révolu.","[speed40]Wir haben uns heute hier versamm
 [camera][ANIM]Seine Herrschaft ist nun beendet und überall im Sumpf wird man sein Fehlen bemerken.
 [ANIM]Senkt das Haupt im Gedenken. [PAUSE]Erweist ihm die letzte Ehre.
 Seine Zeit in dieser Welt ist abgelaufen.","[speed40]Gaur hemen batu gara Igel Erregearen heriotza negartzeko.
-[camera]Buruzagi sendoa eta beldurrezina,[BEAT] jazarria izan zen, betidanik zeukan amets huts bategatik: oihan osoa ezarri nahi zuen bere agindupean.
+[camera]Buruzagi sendoa eta beldurrezina,[BEAT] jazarria izan zen betidanik izan zuen amets soil bategatik: oihan osoa ezarri nahi zuen bere agindupean.
 [ANIM][camera]Eta, [BEAT]noizbehinka,[PAUSE] bere ipurdipean ere bai.
 [camera][ANIM]Amaitu da bere agintaldia, eta zingira osoak nabarituko du bere hutsa. [ANIM]Makurtu burua bere omenez. [PAUSE]Erakutsi dolumina. Agortu da mundu honetan zeukan denbora.","[speed40]Estamos aqui reunidos hoje em lembrança do Rei Sapo.
 [camera]Um líder audacioso e destemido,[BEAT] que foi perseguido pelo seu desejo simples de colocar toda a floresta sob seu domínio.
@@ -2168,7 +2168,7 @@ Ich latsche hier nämlich durch die Berge, um Inspiration für mein nächstes Me
 [anim]Es heißt ja, dass oben auf dem Gipfel ein [shake]Monster[/] haust.[beat] Kaum zu glauben, was?
 Der Saufbruder, der beim Gestrandeten Seemann abhängt, jammert rum, weil sich das Biest seine Liebste gekrallt hat.[beat] Zieh dir das mal rein!
 Also nehme ich an, dass da oben eine epische Ballade für mich rausspringt!
-[anim]Wenn ich nur diese dämlichen Felsen <i>zertrümmern</i> könnte, die den Weg versperren!","Ongi etorri,[beat] bidaiariai!
+[anim]Wenn ich nur diese dämlichen Felsen <i>zertrümmern</i> könnte, die den Weg versperren!","Ongi etorri,[beat] bidaiaria!
 Aurrera, bota - nola doa zure abentura?
 [anim]Baduzu istorio zirraragarririk, bertatik kantu bat sor dezadan?
 Izan ere, mendi goi hauetara nire hurrengo maisulanarentzako inspirazio bila etorri naiz...
@@ -4565,7 +4565,7 @@ Je travaillais dans l'aile Est avant de commencer ma Vraie Vie et de fuir le str
 Je suis beaucoup plus heureux,[beat] mais j'avais un chouette bureau !","Ah, du hast dich also in den alten Büro-Abteilungen umgeschaut.
 Ich habe da drüben im östlichen Sektor gearbeitet, bevor ich das wahre Leben entdeckte und aus dem Hamsterrad ausstieg.
 Jetzt bin ich viel glücklicher.[beat] Aber das Büro war schon hübsch und gemütlich.","O, ikusten dut bulego sail zaharrak arakatzen aritu zarela.
-Ekialdeko atalean lan egiten nuen nire Benetako Bizitza besarkatu eta lehia burugabe hura utzi nuen arte.
+Ekialdeko atalean lan egiten nuen, nire Benetako Bizitza besarkatu eta lehia burugabe hura utzi nuen arte.
 Orain askoz zoriontsuagoa naiz,[beat] baina bulegoa benetan ederra zen!","Ah, então você tem explorado os escritórios antigos.
 Eu trabalhava na seção leste antes de conhecer minha verdadeira vida e largar o ciclo interminável.
 Estou muito mais feliz agora,[beat] mas o escritório era bem aconchegante!","Вижу, ты исследуешь старые офисные помещения.
@@ -4657,7 +4657,7 @@ Si tu en as l'occasion,[beat] essaie d'en explorer une...
 Ce sont de merveilleuses créations,[break] de vrais titans de la nature !","Erzähl doch mal.[pause] Warst du jemals im <i>Gebirge</i>?
 Wenn sich die Gelegenheit bietet,[beat] solltest du dir das wirklich mal ansehen.
 Berge sind die Krone der Schöpfung,[break] die Titanen der Natur!","Esadazu...[pause] Ikusi duzu inoiz
-<i>mendirik</i>?
+...<i>mendirik</i>?
 Inoiz aukerarik baduzu,[beat] arakatu mendi baten inguruak...
 Zeinen sorkuntza zoragarria diren,[break] naturako titanak!","Me diga...[pause] Você já viu uma <i>montanha</i>?
 Se tiver a oportunidade,[beat] experimente explorar uma...
@@ -6158,7 +6158,7 @@ Es heißt, der Verwaltungsaufwand war schlimmer als alles zuvor Dagewesene.[beat
 <i>Drei</i> Schreibkräfte sind vor Erschöpfung umgefallen!
 Ach, hatten die‘s gut!","Txutxumutxu bat entzun dut...[pause] bele bati buruz, orain dela urte asko,[beat] eta asko...
 Bele honek ez zuen bere egitekoa burutzerik izan, eta bere atea <i>eskuz</i> kendu behar izan zuten, biltegian gordetzeko!
-Diotenez egin beharreko izapideak ordura arte inoiz ikusi gabeak izan ziren![beat] Inprimaki <i>berriak</i> asmatu behar izan zituzten!
+Diotenez, egin beharreko izapideak ordura arte inoiz ikusi gabeak izan ziren![beat] Inprimaki <i>berriak</i> asmatu behar izan zituzten!
 <i>Hiru</i> mekanografo zorabiatu ziren nekearen nekez!
 Oh, zer inbidia ematen didaten...","Ouvi um rumor...[pause] sobre um corvo, muitos[beat] e muitos anos atrás...
 Esse corvo não conseguiu terminar sua missão, e a porta teve que ser <i>manualmente</i> removida e colocada em um depósito!
@@ -6189,7 +6189,7 @@ Ah, que inveja deles...","Я слышала историю...[pause] про од
 That would be amazing!","If you die and don't finish this task, maybe <i>I'll</i> get a mountain of paperwork to fill in, too...
 That would be amazing!","Si tu meurs sans finir ta mission, c'est peut-être <i>moi</i> qui devrai taper une montagne de paperasses...
 Ce serait fantastique !","Falls du stirbst und deine Aufgabe unvollendet bleibt, kriege <i>ich</i> vielleicht auch so einen Haufen Papiere zum Ausfüllen ...
-Das wäre ja so herrlich!","Egiteko hau burutu aurretik hiltzen bazara, agian <i>nik</i> ere bete beharko ditut izapide pilo erraldoi bat...
+Das wäre ja so herrlich!","Egiteko hau burutu aurretik hiltzen bazara, agian <i>nik</i> ere bete beharko dut izapide pilo erraldoi bat...
 Zoragarria litzateke!","Se você morrer e não terminar essa tarefa, talvez <i>eu</i> receba uma montanha de papelada para preencher também...
 Isso seria uma maravilha!","Если ты умрешь и не сможешь закончить свою работу, может, вся эта бумажная волокита достанется <i>мне</i>...
 Я была бы так счастлива!","あなたが死んでしまって、この仕事を完了できなかったら、<i>わたし</i>は山のような書類仕事を抱えることになる…
@@ -7936,7 +7936,7 @@ Dieses Gebiet war zuvor sehr aktiv, weil Mitglieder der Kommission <i>der Hexe</
 Nach Erhalt wurde diese Anordnung umgehend ausgeführt, so dass ich nicht weiß, was aus den Krähen geworden ist, die sich gerade dort befanden.
 Alle Türen sind jetzt erst einmal versiegelt, und die ausstehenden Arbeitsaufträge in dieser Zone wurden manuell abgeschlossen.
 Das sind merkwürdige Vorgänge, aber ich werde nicht dafür bezahlt, mich damit zu befassen. Ich frage besser nicht nach.“","Honek segari baten eguneroko abandonatua dirudi:
-“Ate ireki batzuk deskonektatzeko agindu digute, energia gainkarga ezohikoa antzeman zen ingurukoak dira.
+“Ate ireki batzuk deskonektatzeko agindu digute. Energia gainkarga ezohikoa antzeman zen ingurukoak dira.
 Zonalde hori nahiko aktiboa zen lehen, Komisioko kideek <i>sorgina</i> bere ikerketan laguntzeko erabiltzen baitzuten.
 Agindua eman bezain laster bete denez, ez dakit zer gertatu zaien bertan zeuden beleei...
 Oraingoz, ate guztiak zigilatu dira, eta burutu gabe zeuden bertako lan-aginduak eskuz itxi dira.
@@ -8590,7 +8590,7 @@ Agora é só achar alguém que queira se casar com você!","Вы нашли ст
 It seems she may have had to remove it because of her constantly swelling body. Such are the risks of living beyond your years.","This ring belonged to The Urn Witch. A gift from her late husband, it dates from a time long before you were even an egg.
 It seems she may have had to remove it because of her constantly swelling body. Such are the risks of living beyond your years.","Cette bague appartenait à la Sorcière des Urnes. Ce cadeau de son mari défunt date d'une époque où tu n'étais même pas pondu.
 Elle a probablement dû la retirer car son corps gonflait constamment. Voilà ce qui arrive quand on veut vivre au-delà de son âge.","Dieser Ring gehörte der Urnenhexe. Ein Geschenk von ihrem verstorbenen Ehemann. Er stammt aus einer Zeit lange bevor du aus dem Ei gekrochen bist.
-Wahrscheinlich musste sie ihn ablegen, weil ihr Körper so geschwollen ist. Das ist eins der Risiken, wenn man den eigenen Tod überlebt.","Eraztun honen jabea Errautsontzi sorgina zen. Bere senarra zenaren oparia, zu arrautza zinen garaia baino zaharragoa da.
+Wahrscheinlich musste sie ihn ablegen, weil ihr Körper so geschwollen ist. Das ist eins der Risiken, wenn man den eigenen Tod überlebt.","Eraztun honen jabea Errautsontzi sorgina zen. Bere senarra zenaren oparia da, zu arrautza zinen garaia baino zaharragoa.
 Badirudi sorginak kendu beharra izan zuela, gorputza etengabe puzten ari zitzaiolako. Hori ere zure garaia igarota bizitzen jarraitzearen ondorioetako bat da.","Este anel pertenceu à Bruxa das Urnas. Foi um presente de seu falecido marido, muito tempo atrás, antes mesmo de você sair do ovo.
 Ela deve ter sido obrigada a tirá-lo pelo inchaço constante de seu corpo. Esses são os riscos de se viver além do que a longevidade permitiria.","Этим кольцом владела Керамическая ведьма. Ей подарил его ее покойный муж еще задолго до того, как вы зародились в яйце.
 Должно быть, она сняла его, потому что ее тело сильно распухло. Такая участь грозит каждому, кто живет дольше отведенного срока.","ツボの魔女のものだった指輪。君が卵ですらなかった遠い昔、亡くなった夫から彼女に贈られたもの。
@@ -8989,7 +8989,7 @@ A Mãe da Floresta vai ficar contente.","Вы нашли рог!
 In the right hands, this instrument can create a dialogue with nature, allowing some degree of control over nearby plant life.","The Horn is a popular instrument among forest dwellers for its ability to harmonize with the profound resonances of the Forest.
 In the right hands, this instrument can create a dialogue with nature, allowing some degree of control over nearby plant life.","Cette Corne est un instrument populaire chez les habitants de la forêt, car elle s'harmonise avec ses profondes résonances sylvestres.
 Entre de bonnes mains, cet instrument peut créer un dialogue avec la nature et offrir un certain contrôle sur les plantes des environs.","Das Horn ist unter Waldbewohnern ein beliebtes Instrument, da es in der Lage ist, mit den tiefen Resonanzen des Waldes zu harmonieren.
-In den richtigen Händen ermöglicht dieses Instrument einen Dialog mit der Natur und damit ein gewisses Maß von Kontrolle über die Pflanzenwelt der Umgebung.","Adarra instrumentu maitatua da oihaneko biztanleen artean, izan ere Oihaneko oihartzun sakonekin harmonizatzeko gaitasuna dauka.
+In den richtigen Händen ermöglicht dieses Instrument einen Dialog mit der Natur und damit ein gewisses Maß von Kontrolle über die Pflanzenwelt der Umgebung.","Adarra instrumentu maitatua da oihaneko biztanleen artean, izan ere, oihaneko oihartzun sakonekin harmonizatzeko gaitasuna dauka.
 Esku egokietan, instrumentu honek naturarekin elkarrizketa bat sor dezake, inguruko landaretza nolabait kontrolatzea ahalbidetuz.","A Trombeta é um instrumento popular entre habitantes da floresta pela sua capacidade de se harmonizar com as profundas vibrações florestais.
 Nas mãos certas, este instrumento pode dialogar com a natureza e permitir um certo grau de controle sobre a flora próxima.","Обитатели чащи любят мелодии рога, потому что они гармонично сочетаются со звуками природы.
 Этот инструмент позволит умелому музыканту беседовать с природой, а также немного управлять растениями в округе.","森の深遠な反響とよく調和するため、森の住人に人気の楽器。
@@ -9132,7 +9132,7 @@ Tout sera automatisé par la Commission, et même les âmes mineures servant aux
 <i>„Sie sind schmaler, leichter zu gebrauchen und zuverlässiger. Anders als der klassische Entwurf benötigen sie keine unbearbeiteten Seelen. 
 Wir werden eine Kammer bereitstellen, welche die Seelen für das Energienetz aufbereitet, das die neuen Türen versorgt. 
 Alles wird von der Kommission automatisiert und selbst kleine, für Einkäufe verwendete Seelen werden wieder in das System eingespeist.“</i>","Eskalara egindako atearen maketa honek ohar bat dauka itsatsita:
-<i>”Finagoak dira, erabilerrazagoak, eta fidagarriagoak. Dagoeneko ez dituzte arima gordinak prozesatzen, diseinu zaharrak bezala.
+<i>”Finagoak dira, erabilerrazagoak, eta fidagarriagoak. Dagoeneko ez dituzte arima gordinak prozesatzen, diseinu zaharrekoek bezala.
 Ganbera korazatu bat aurkeztuko dugu, ate berrientzako argindar-sarea elikatzeko arimak prozesatuko dituena.
 Guztia Komisioak automatizatua egongo da, erosketak egiteko erabiltzen diren arima txikiak ere sistema berrelikatzeko erabiliko dira.”</i>","Esta maquete de porta contém um bilhete:
 <i>""São mais finas, mais fáceis de usar e mais duráveis. Não processam mais almas brutas como no design antigo.

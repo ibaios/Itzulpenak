@@ -1,6 +1,6 @@
 #define MyAppName "Death's Door euskaraz"
 #define MyAppFilesystemName "Death's Door euskaraz"
-#define MyAppVersion "1.1"
+#define MyAppVersion "1.2"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppURL "https://ibaios.eus/"
 #define MyAppIcon "deaths-door-eu.ico"

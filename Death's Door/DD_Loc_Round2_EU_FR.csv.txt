@@ -1137,7 +1137,7 @@ I can fool the <i>Grim Reaper</i> himself!","You little shit.
 Crows never to do what they're told...
 [anim]I am trying to save lives, here!
 Don't you understand? <i>Death</i> cannot see those who have masked their life force within an Urn!
-I can fool the <i>Grim Reaper</i> himself!","Ipurbeltz madarikatua.
+I can fool the <i>Grim Reaper</i> himself!","Ipurbeltz madarikatua!
 Beleek ez dute inoiz obeditzen...
 [anim]Biziak salbatu nahian nabil, aizu!
 Ez al duzu ulertzen? <i>Heriok</i> ez ditu ikusten haien bizi-indarra errautsontzi batean ezkutatzen duten horiek!
@@ -1231,7 +1231,7 @@ Errautsontzi sorgina...
 Zeramikaren aztia, [beat]Lurrontzien belagilea, [beat]Lapikoen atsoa...
 Eta -[pause] jakina -[pause] Amona.
 [camera]Ama-senak bultzaturik,[beat] eta Heriori iruzur egiteko ahaleginek itsuturik, bere bizitza pasioz bete zuen: pasioa magiarekiko,[beat] erreanimazioarekiko,[beat] edabeekiko...
-[ANIM][camera]eta lapikoekiko...
+[ANIM][camera]...eta lapikoekiko...
 [camera][ANIM]Amaitu da bere bidaia,[beat] eta orain bakean datza.
 [ANIM]Makurtu burua bere omenez. [PAUSE]Erakutsi dolumina.
 Agortu da mundu honetan zeukan denbora.","[speed40]Wir haben uns heute hier versammelt, um das Ableben einer Frau zu betrauern, die unter vielen Namen bekannt war.
@@ -1310,7 +1310,7 @@ O tempo dela neste mundo acabou.","[speed40]Мы собрались здесь, 
 "gd_gran_eulogy2","She died as she lived...
 ...With a pot on her head.","She died as she lived...
 ...With a pot on her head.","Bizi zen bezala hil da...
-...buruan lapiko bat zuela.","Sie ist gestorben, wie sie gelebt hat.
+...errautsontzi bati lotuta.","Sie ist gestorben, wie sie gelebt hat.
 Mit einem Tiegel auf dem Kopf.","Murió tal como vivió...
 ... Con una vasija en la cabeza.","Ela se vai assim como viveu...
 Com uma urna na cabeça.","Она умерла так, как жила...
@@ -1549,7 +1549,7 @@ Esqueça...[beat] Volte lá e encontre sua alma designada!","Что это ты 
 "handler_lod_meet_re","I can't help you unless you bring back your assigned soul!
 Can't you see how stressed I am!?","I can't help you unless you bring back your assigned soul!
 Can't you see how stressed I am!?","Ezin zaitut lagundu esleitu zaizun arima ekartzen ez badidazu!
-Ez duzu ikusten zein estresatua nagoen!?","Ich kann dir nicht helfen, solange du nicht das Auftragsziel mitbringst!
+Ez duzu ikusten zeinen estresatua nagoen!?","Ich kann dir nicht helfen, solange du nicht das Auftragsziel mitbringst!
 Ich lebe hier im Stress, siehst du das nicht?","¡No puedo ayudarte a menos que traigas el alma asignada!
 ¡¿Es que no ves el jaleo que tengo aquí?!","Não posso ajudar você a menos que traga sua alma designada para mim!
 Não está vendo como estou estressado?!","Я ничего не смогу сделать, пока ты не принесешь порученную душу!
@@ -1577,7 +1577,7 @@ If you return it to me,[beat] I am sure we can help you on your journey.","[soun
 Sentitzen dut, [beat]baina oihanak berak itxi zituen ziegetarako ateak orain dela ilargi asko, gu babesteko asmoz.
 Berekin hitz egin nezake, [beat]eta agian zuretzako ateak ireki ditzan konbentzitu...
 Baina, [beat]gure elkarrizketak abesti bidezkoak dira,[beat] eta zoritxarrez...
-[sound][anim]nire adar magikoa galdu dut...
+[sound][anim]...nire adar magikoa galdu dut...
 Iparraldeko kanpamendu zaharrean utzi nuen. Tamalez, Igel Erregearen morroiek kanporatu gintuzten.
 Adarra itzultzen badidazu,[beat] ziur naiz zure bidaian lagundu ahalko zaitugula.","[sound]Deine Sorte habe ich in diesem Land schon seit [pause]ewigen Zeiten nicht mehr gesehen.
 [sound][anim]Du möchtest sicher deine Freunde in den Tiefen unter uns besuchen?
@@ -2085,7 +2085,7 @@ His time in this world is over.","[speed40]We gather here today to mourn the pas
 [camera][ANIM]His reign is ended, and his absence will be felt across the swamp.
 [ANIM]Bow your head in remembrance. [PAUSE]Pay your last respects.
 His time in this world is over.","[speed40]Gaur hemen batu gara Igel Erregearen heriotza negartzeko.
-[camera]Buruzagi sendoa eta beldurrezina,[BEAT] jazarria izan zen, betidanik zeukan amets huts bategatik: oihan osoa ezarri nahi zuen bere agindupean.
+[camera]Buruzagi sendoa eta beldurrezina,[BEAT] jazarria izan zen betidanik izan zuen amets soil bategatik: oihan osoa ezarri nahi zuen bere agindupean.
 [ANIM][camera]Eta, [BEAT]noizbehinka,[PAUSE] bere ipurdipean ere bai.
 [camera][ANIM]Amaitu da bere agintaldia, eta zingira osoak nabarituko du bere hutsa. [ANIM]Makurtu burua bere omenez. [PAUSE]Erakutsi dolumina. Agortu da mundu honetan zeukan denbora.","[speed40]Wir haben uns heute hier versammelt, um das Ableben des Froschkönigs zu betrauern.
 [camera]Er war ein kühner und furchtloser Anführer.[BEAT] Er wurde angefeindet, nur weil er den bescheidenen Wunsch hegte, alle im Wald unter seine Fuchtel zu bringen.
@@ -2154,7 +2154,7 @@ Reason being, I'm up in these here mountains seeking inspiration for my next mas
 [anim]I heard a [shake]monster[/] lives up in the mountain tops...[beat] Can you believe it?
 That drunk fella outside The Stranded Sailor says he lost his love to the beast![beat] Fancy that!
 The way I see it, there's gotta be one heck of an epic ballad awaiting me up ahead!
-[anim]If only I could <i>smash up</i> these blasted rocks blocking the path...","Ongi etorri,[beat] bidaiariai!
+[anim]If only I could <i>smash up</i> these blasted rocks blocking the path...","Ongi etorri,[beat] bidaiaria!
 Aurrera, bota - nola doa zure abentura?
 [anim]Baduzu istorio zirraragarririk, bertatik kantu bat sor dezadan?
 Izan ere, mendi goi hauetara nire hurrengo maisulanarentzako inspirazio bila etorri naiz...
@@ -4561,7 +4561,7 @@ I used to work over in the east section before I embraced my True Life and quit 
 I'm much happier now,[beat] but that was one lovely cosy office!","Ah, I see you've been exploring the old office departments.
 I used to work over in the east section before I embraced my True Life and quit the rat race.
 I'm much happier now,[beat] but that was one lovely cosy office!","O, ikusten dut bulego sail zaharrak arakatzen aritu zarela.
-Ekialdeko atalean lan egiten nuen nire Benetako Bizitza besarkatu eta lehia burugabe hura utzi nuen arte.
+Ekialdeko atalean lan egiten nuen, nire Benetako Bizitza besarkatu eta lehia burugabe hura utzi nuen arte.
 Orain askoz zoriontsuagoa naiz,[beat] baina bulegoa benetan ederra zen!","Ah, du hast dich also in den alten Büro-Abteilungen umgeschaut.
 Ich habe da drüben im östlichen Sektor gearbeitet, bevor ich das wahre Leben entdeckte und aus dem Hamsterrad ausstieg.
 Jetzt bin ich viel glücklicher.[beat] Aber das Büro war schon hübsch und gemütlich.","Ah, veo que has estado explorando los antiguos departamentos de la oficina.
@@ -4653,7 +4653,7 @@ If you ever get a chance,[beat] try and explore one...
 What a wonderful creation they are,[break] titans of nature!","Tell me...[pause] Have you ever seen a <i>Mountain</i>?
 If you ever get a chance,[beat] try and explore one...
 What a wonderful creation they are,[break] titans of nature!","Esadazu...[pause] Ikusi duzu inoiz
-<i>mendirik</i>?
+...<i>mendirik</i>?
 Inoiz aukerarik baduzu,[beat] arakatu mendi baten inguruak...
 Zeinen sorkuntza zoragarria diren,[break] naturako titanak!","Erzähl doch mal.[pause] Warst du jemals im <i>Gebirge</i>?
 Wenn sich die Gelegenheit bietet,[beat] solltest du dir das wirklich mal ansehen.
@@ -6150,7 +6150,7 @@ They say the paperwork was beyond anything they'd ever seen before![beat] They h
 <i>Three</i> typists passed out from exhaustion!
 Oh, how I envy them...","Txutxumutxu bat entzun dut...[pause] bele bati buruz, orain dela urte asko,[beat] eta asko...
 Bele honek ez zuen bere egitekoa burutzerik izan, eta bere atea <i>eskuz</i> kendu behar izan zuten, biltegian gordetzeko!
-Diotenez egin beharreko izapideak ordura arte inoiz ikusi gabeak izan ziren![beat] Inprimaki <i>berriak</i> asmatu behar izan zituzten!
+Diotenez, egin beharreko izapideak ordura arte inoiz ikusi gabeak izan ziren![beat] Inprimaki <i>berriak</i> asmatu behar izan zituzten!
 <i>Hiru</i> mekanografo zorabiatu ziren nekearen nekez!
 Oh, zer inbidia ematen didaten...","Ich habe da was läuten hören ...[pause] über eine Krähe ... vor vielen,[beat] vielen Jahren.
 Diese Krähe konnte ihren Auftrag nicht erfüllen. Daher musste ihre Tür <i>von Hand</i> entfernt und eingelagert werden.
@@ -6187,7 +6187,7 @@ Ah, que inveja deles...","Я слышала историю...[pause] про од
 啊，真让人羡慕嫉妒啊……",@
 "typist_3_re","If you die and don't finish this task, maybe <i>I'll</i> get a mountain of paperwork to fill in, too...
 That would be amazing!","If you die and don't finish this task, maybe <i>I'll</i> get a mountain of paperwork to fill in, too...
-That would be amazing!","Egiteko hau burutu aurretik hiltzen bazara, agian <i>nik</i> ere bete beharko ditut izapide pilo erraldoi bat...
+That would be amazing!","Egiteko hau burutu aurretik hiltzen bazara, agian <i>nik</i> ere bete beharko dut izapide pilo erraldoi bat...
 Zoragarria litzateke!","Falls du stirbst und deine Aufgabe unvollendet bleibt, kriege <i>ich</i> vielleicht auch so einen Haufen Papiere zum Ausfüllen ...
 Das wäre ja so herrlich!","Si te mueres y no terminas esta tarea, puede que <i>yo también</i> reciba una montaña de papeleo que cumplimentar...
 ¡Sería una pasada!","Se você morrer e não terminar essa tarefa, talvez <i>eu</i> receba uma montanha de papelada para preencher também...
@@ -7926,7 +7926,7 @@ This area had previously been quite active with Commission members assisting <i>
 The order came through and was executed immediately, so I’m not sure what has happened to the crows that were there...
 All doors have been sealed for now and outstanding work orders in the region have been manually closed.
 Quite strange, but it’s above my pay grade. I find it's better not to ask questions.”","Honek segari baten eguneroko abandonatua dirudi:
-“Ate ireki batzuk deskonektatzeko agindu digute, energia gainkarga ezohikoa antzeman zen ingurukoak dira.
+“Ate ireki batzuk deskonektatzeko agindu digute. Energia gainkarga ezohikoa antzeman zen ingurukoak dira.
 Zonalde hori nahiko aktiboa zen lehen, Komisioko kideek <i>sorgina</i> bere ikerketan laguntzeko erabiltzen baitzuten.
 Agindua eman bezain laster bete denez, ez dakit zer gertatu zaien bertan zeuden beleei...
 Oraingoz, ate guztiak zigilatu dira, eta burutu gabe zeuden bertako lan-aginduak eskuz itxi dira.
@@ -8588,7 +8588,7 @@ Agora é só achar alguém que queira se casar com você!","Вы нашли ст
 "trinket_ring_name","Old Engagement Ring","Old Engagement Ring","Ezkontza-eraztun zaharra","Alter Verlobungsring","Viejo anillo de compromiso","Anel de Noivado Antigo","Старое обручальное кольцо","古い婚約指輪","낡은 결혼 반지","舊訂婚戒指","古老的订婚戒指",@
 "trinket_ring_desc","This ring belonged to The Urn Witch. A gift from her late husband, it dates from a time long before you were even an egg.
 It seems she may have had to remove it because of her constantly swelling body. Such are the risks of living beyond your years.","This ring belonged to The Urn Witch. A gift from her late husband, it dates from a time long before you were even an egg.
-It seems she may have had to remove it because of her constantly swelling body. Such are the risks of living beyond your years.","Eraztun honen jabea Errautsontzi sorgina zen. Bere senarra zenaren oparia, zu arrautza zinen garaia baino zaharragoa da.
+It seems she may have had to remove it because of her constantly swelling body. Such are the risks of living beyond your years.","Eraztun honen jabea Errautsontzi sorgina zen. Bere senarra zenaren oparia da, zu arrautza zinen garaia baino zaharragoa.
 Badirudi sorginak kendu beharra izan zuela, gorputza etengabe puzten ari zitzaiolako. Hori ere zure garaia igarota bizitzen jarraitzearen ondorioetako bat da.","Dieser Ring gehörte der Urnenhexe. Ein Geschenk von ihrem verstorbenen Ehemann. Er stammt aus einer Zeit lange bevor du aus dem Ei gekrochen bist.
 Wahrscheinlich musste sie ihn ablegen, weil ihr Körper so geschwollen ist. Das ist eins der Risiken, wenn man den eigenen Tod überlebt.","Este anillo pertenecía a la bruja de las urnas. Fue un regalo de su difunto marido, y data de una época muy anterior a que tú fueras siquiera un huevo.
 Parece que tuvo que quitárselo porque se le iba hinchando el cuerpo. Así son los riesgos de vivir más allá de lo que te corresponde.","Este anel pertenceu à Bruxa das Urnas. Foi um presente de seu falecido marido, muito tempo atrás, antes mesmo de você sair do ovo.
@@ -8987,7 +8987,7 @@ A Mãe da Floresta vai ficar contente.","Вы нашли рог!
 "trinket_basoon_name","Magical Forest Horn","Magical Forest Horn","Oihaneko adar magikoa","Zauberhorn des Waldes","Cuerno mágico de Foresta","Trombeta Mágica da Floresta","Волшебный рог чащи","森の魔法の角笛","마법의 숲 뿔피리","魔法森林號角","魔法森林号角",@
 "trinket_basoon_desc","The Horn is a popular instrument among forest dwellers for its ability to harmonize with the profound resonances of the Forest.
 In the right hands, this instrument can create a dialogue with nature, allowing some degree of control over nearby plant life.","The Horn is a popular instrument among forest dwellers for its ability to harmonize with the profound resonances of the Forest.
-In the right hands, this instrument can create a dialogue with nature, allowing some degree of control over nearby plant life.","Adarra instrumentu maitatua da oihaneko biztanleen artean, izan ere Oihaneko oihartzun sakonekin harmonizatzeko gaitasuna dauka.
+In the right hands, this instrument can create a dialogue with nature, allowing some degree of control over nearby plant life.","Adarra instrumentu maitatua da oihaneko biztanleen artean, izan ere, oihaneko oihartzun sakonekin harmonizatzeko gaitasuna dauka.
 Esku egokietan, instrumentu honek naturarekin elkarrizketa bat sor dezake, inguruko landaretza nolabait kontrolatzea ahalbidetuz.","Das Horn ist unter Waldbewohnern ein beliebtes Instrument, da es in der Lage ist, mit den tiefen Resonanzen des Waldes zu harmonieren.
 In den richtigen Händen ermöglicht dieses Instrument einen Dialog mit der Natur und damit ein gewisses Maß von Kontrolle über die Pflanzenwelt der Umgebung.","El cuerno es un instrumento popular entre los habitantes del bosque por su capacidad para armonizar con las profundas resonancias de la Foresta.
 En las manos adecuadas, este instrumento puede crear un diálogo con la naturaleza, y permitir cierto grado de control sobre la vida vegetal cercana.","A Trombeta é um instrumento popular entre habitantes da floresta pela sua capacidade de se harmonizar com as profundas vibrações florestais.
@@ -9126,7 +9126,7 @@ Everything will be automated by the Commission, even minor souls used for purcha
 <i>""They’re slimmer, easier to use and more reliable. They no longer process raw souls like the legacy design. 
 We will be introducing a Vault, which processes souls for the power grid that the new doors run on. 
 Everything will be automated by the Commission, even minor souls used for purchases will be fed back into the system.""</i>","Eskalara egindako atearen maketa honek ohar bat dauka itsatsita:
-<i>”Finagoak dira, erabilerrazagoak, eta fidagarriagoak. Dagoeneko ez dituzte arima gordinak prozesatzen, diseinu zaharrak bezala.
+<i>”Finagoak dira, erabilerrazagoak, eta fidagarriagoak. Dagoeneko ez dituzte arima gordinak prozesatzen, diseinu zaharrekoek bezala.
 Ganbera korazatu bat aurkeztuko dugu, ate berrientzako argindar-sarea elikatzeko arimak prozesatuko dituena.
 Guztia Komisioak automatizatua egongo da, erosketak egiteko erabiltzen diren arima txikiak ere sistema berrelikatzeko erabiliko dira.”</i>","An diesem Türmodell ist ein Zettel befestigt.
 <i>„Sie sind schmaler, leichter zu gebrauchen und zuverlässiger. Anders als der klassische Entwurf benötigen sie keine unbearbeiteten Seelen. 

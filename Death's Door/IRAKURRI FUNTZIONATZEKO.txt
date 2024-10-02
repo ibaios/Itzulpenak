@@ -1,0 +1,2 @@
+Excel > CSV itsasterakoan, erabili Itsatsi berezia... > Testua
+Itzulpenak kopiatzerakoan CSV fitxategian "@" zutabeak gelditzen dira. Jokoak funtzionatzeko "-ak kendu behar dira, eta @ bakarrik utzi.
