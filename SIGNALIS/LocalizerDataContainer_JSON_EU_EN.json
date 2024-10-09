@@ -6243,7 +6243,7 @@
             },
             {
               "StringID": "ROT_Antenna_Note",
-              "Localized": "PARABOLIKO HARTZAILEA\nMODUA: DUPLEXA\n\nSEINALEA\nLOKALERA\nERREPIKATUA\n\nDOITU IRRATIA\nMAIZTASUN HONETARA:"
+              "Localized": "HARTZAILE PARABOLIKOAREN\nMODUA: DUPLEXA\n\nSEINALEA\nLOKALERA\nERREPIKATUA\n\nDOITU IRRATIA\nMAIZTASUN HONETARA:"
             },
             {
               "StringID": "ROT_Antenna_Rotation",
