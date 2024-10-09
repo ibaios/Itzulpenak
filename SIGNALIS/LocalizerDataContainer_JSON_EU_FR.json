@@ -21649,7 +21649,7 @@
             },
             {
               "StringID": "ROT_Antenna_Note",
-              "Localized": "PARABOLIKO HARTZAILEA\nMODUA: DUPLEXA\n\nSEINALEA\nLOKALERA\nERREPIKATUA \n\n\nDOITU ZURE IRRATIA\nMAIZTASUN HONETARA:"
+              "Localized": "PARABOLIKO HARTZAILEA\nMODUA: DUPLEXA\n\nSEINALEA\nLOKALERA\nERREPIKATUA\n\nDOITU IRRATIA\nMAIZTASUN HONETARA:"
             },
             {
               "StringID": "ROT_Antenna_Rotation",
@@ -21661,7 +21661,7 @@
             },
             {
               "StringID": "ROT_MeatGrinderMessage",
-              "Localized": "Haragi-birringailua hondatua dagoela dirudi.§Arriskuri gabe beheko solairura jaitsi naitekeela dirudi."
+              "Localized": "Haragi-birringailua hondatua dagoela dirudi.§Arriskurik gabe beheko solairura jaitsi naitekeela dirudi."
             },
             {
               "StringID": "ROT_MeatGrinderQuestion",
