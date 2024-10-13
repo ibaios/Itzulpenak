@@ -3003,6 +3003,314 @@
               "Localized": "[Isa] ..."
             },
             {
+              "StringID": "OptionsTab Advanced",
+              "Localized": "Aurreratua"
+            },
+            {
+              "StringID": "Options HOTAS",
+              "Localized": "Alderantzikatu Y ardatza"
+            },
+            {
+              "StringID": "Options HOTAS No",
+              "Localized": "Estandarra"
+            },
+            {
+              "StringID": "Options HOTAS Yes",
+              "Localized": "Alderantzikatua"
+            },
+            {
+              "StringID": "OptionsHint HotasInter",
+              "Localized": "Lehenengo pertsonako eszenetan gora eta behera begiratzeko kontrolak alderantzikatzen ditu."
+            },
+            {
+              "StringID": "Options Inventory",
+              "Localized": "Inbentarioaren edukiera"
+            },
+            {
+              "StringID": "Options Inventory New",
+              "Localized": "Berrikusia"
+            },
+            {
+              "StringID": "Options Inventory Old",
+              "Localized": "Klasikoa"
+            },
+            {
+              "StringID": "Options Inventory Noob",
+              "Localized": "Hedatua"
+            },
+            {
+              "StringID": "OptionsHint InventoryInter",
+              "Localized": "Inbentario-kudeaketaren zailtasuna egokitzen du."
+            },
+            {
+              "StringID": "OptionsHint Inventory New",
+              "Localized": "Seiko araua. Moduluek ez dute inbentarioan lekurik hartzen."
+            },
+            {
+              "StringID": "OptionsHint Inventory Old",
+              "Localized": "Seiko araua. Survival horror jokoen zale esperientziadunentzat."
+            },
+            {
+              "StringID": "OptionsHint Inventory Noob",
+              "Localized": "Larrialdiko konfiskatzea. Inbentarioko lekuaren kudeaketarekin arazoak izaten dituztenentzat."
+            },
+            {
+              "StringID": "OptionsHint Inventory Cannot",
+              "Localized": "Inbentarioaren tamaina <style=red>menu nagusitik soilik alda daiteke.</style>"
+            },
+            {
+              "StringID": "OptionsHint CRTControllerInter",
+              "Localized": "Retro esperientzia gorena lortzeko. Ezarpen hau gaitzeko 1080p bereizmena edo handiagoa behar da."
+            },
+            {
+              "StringID": "Options Photosense",
+              "Localized": "Fotosentikortasun modua"
+            },
+            {
+              "StringID": "OptionsHint PhotosenseInter",
+              "Localized": "Maiztasun altuko distira-efektu batzuk gutxitzen ditu."
+            },
+            {
+              "StringID": "Options KBAzert",
+              "Localized": "AZERTY"
+            },
+            {
+              "StringID": "OptionsHint KBAzert",
+              "Localized": "ZQSD oinarridun modernoa. F interaktuatzeko."
+            },
+            {
+              "StringID": "Options Overheal",
+              "Localized": "Ekidin gainsendatzea"
+            },
+            {
+              "StringID": "OptionsHint OverhealInter",
+              "Localized": "Ekidin sendatzeko objektuen erabilera eraginik izango ez luketenean."
+            },
+            {
+              "StringID": "OptionsHint OverhealInterOff",
+              "Localized": "Sendatzeko objektuak suntsitzea baimentzen du inbentarioan lekua egiteko."
+            },
+            {
+              "StringID": "Options Hugs",
+              "Localized": "Replika besarkadak"
+            },
+            {
+              "StringID": "OptionsHint HugsInter",
+              "Localized": "Zenbait Replikak Elster besarkatzea baimentzen du."
+            },
+            {
+              "StringID": "RES_Flashlight_Broken",
+              "Localized": "Ez da pizten."
+            },
+            {
+              "StringID": "END_Adler_Diary_1",
+              "Localized": "<title>Adlerren egunerokoa</title>\nData: 84-21-6 \nBiltegian aurkitu dudan altzari-pieza batek liluraturik nauka: orain dela denbora bat langile bati konfiskatutako kutxa bitxi bat da, erauzi daitekeen dial bat duena aurrealdean. Berehala erakarri ninduen, baina ez dakit zergatik. Belarria mekanismora hurbiltzean tik-tak soinu ahula entzun dezaket, erlojuena modukoa. \n<page>Data: 84-21-7 \nKolibrirekin bildu naiz instalazioko langile berriak aztertzeko. Beti bezala, eztabaidan amaitu dugu - edozer egiten dudala ere, emakume horrek beti izan behar du azken hitza. Halere, bat etorri ginen esatean LSTR unitatea inbertsio ona izan zela, eta beraz, oraingoz ez da egokitzapenik egin beharko.\n<page>Data: 84-21-8 \nBeste egun aspergarri bat. Izapideak egitea dagoeneko ez da interesgarria, errazegia da azkenaldian. Nire gelara bidean, STAR unitate bat ikusi dut buruarekin ate-markoa joka.\n<page>Data: 84-21-9 \nMeatze-gunera jaitsi beharra izan dut gaur, programatutako ikuskatzerako. Elster unitate berria lur-neurketarako ekipamendua erakusten ari zitzaidan, eta bat-batean, planeta eta izarrei buruz esan zidanari esker konturatu nintzen dial hark zer gogoratzen zidan - egutegi astronomiko bat. Sakonago ikertu beharko dut orain, nire lanaldia amaitu dela probestuz.\n<page>Data: 84-21-A \nKutxa haren enigma txikiak tarte batez baino ezin izan nau distraitu nire lanaren asperduratik. Kutxak barruan zeukan bakarra koaderno txiki bat zen, zeinak orri guztiak zuri baitzituen. Mekanismoa liluragarria den arren, ez dakit ondo zer egin kutxarekin. Opari ona ote da Komandantearentzat? Akaso Kolibriri galdetu beharko nioke. \n<page>Data: 84-21-B \nAbentura-egarriz, afaltzeko inoiz jan gabeko zerbait probatzea erabaki dut, eta berehala damutu naiz - apenas jasan dut zapore hura. Gozo eta gazi arteko halako nahasketa higuingarria, ondoezik jarri nau.\n<page>Data: 84-21-C \nBeste eguneroko bat beteta, nire gogobetetzea beste onurarik gabe. Ez dut oraindik berririk eskatu, gordeta nituen Rationmarkak idazluma eder hartan gastatu ditudanez, baina uste dut beste eguneroko hori erabiliko dudala..."
+            },
+            {
+              "StringID": "END_Adler_Diary_2",
+              "Localized": "<title>Adlerren egunerokoa</title>\nData: 84-21-6\nBiltegian aurkitu dudan altzari-pieza batek liluraturik nauka: orain dela denbora bat langile bati konfiskatutako kutxa bitxi bat da, erauzi daitekeen dial bat duena aurrealdean. Berehala erakarri ninduen, baina ez dakit zergatik. Belarria mekanismora hurbiltzean tik-tak soinu ahula entzun dezaket, erlojuena modukoa. \n<page>Data: 84-21-7\nKolibrirekin bildu naiz instalazioko langile berriak aztertzeko. Bileraren erdian, arrazoi argirik gabe, gelatik korrika atera da. Errespetu falta izan arren, ez zait axola izan, goizetik buruko minez bainago.\n<page>Data: 84-21-8\nBart, aspaldiko partez, amets bat izan dut. Emakume gazte bat zegoen, elurra bezain ile zurikoa, eta nolabaiteko proba batzuk burutzen ari nintzen. Karta-sorta bat neukan, ikur astronomikodun irudiekin, baina ez dut oroitzen haiekin zer egiten nenbilen.\n<page>Data: 84-21-9\nMeatze-gunera jaitsi beharra izan dut gaur, programatutako ikuskatzerako. Oraindik eskatu genuen LSTR unitate berriaren zain gaude - bidalketa ziklo batzuez atzeratu da - baina indusketaren aurrerapena oraindik aurreikusi bezala doanez, ez litzateke arazorik egon beharko, langile gehiago gaixotzen ez badira behintzat.\n<page>Data: 84-21-A\nAzkenean lortu dut kutxa bitxi hori irekitzea. Tamalez, barruan zeukan bakarra koaderno txiki bat zen, zeinak orri guztiak zuri baitzituen. Arrazoiren bategatik iruditzen zait aurrez ere banekiela hori, lehenago ireki izan banu bezala. Amets egin ote dut?\n<page>Data: 84-21-B \nAntza, zurrumurru gehiago daude Gestalt langileen artean zabaltzen dabilen gaitz kutsakor hari buruz. Beste gripe agerraldi bat izango ote da? Ez dator unerik onenean...\n<page>Data: 84-21-C \nBeste eguneroko bat beteta, nire gogobetetzea beste onurarik gabe. Ez dut oraindik berririk eskatu, gordeta nituen Rationmarkak idazluma eder hartan gastatu ditudanez, baina uste dut beste eguneroko hori erabiliko dudala..."
+            },
+            {
+              "StringID": "END_Note_EXC",
+              "Localized": "<title>C indusketa taldea</title>\nMNHR-S2301\nMNHR-S2302\nMNHR-S2303\nLSTR-S2301\nARAR-S2317\nARAR-S2318\n"
+            },
+            {
+              "StringID": "RES_ARAR_1",
+              "Localized": "[ARAR] ...\n[ARAR] Oh, zu zara.\n[ARAR] Zer egiten duzu hemen?\n[ARAR] Ez zenuke meazuloan egon beharko?\n[ARAR] ...\n[ARAR] Zure linterna?\n[ARAR] Utzidazu ikusten.\n[ARAR] Probatu orain.\n[ARAR] ..."
+            },
+            {
+              "StringID": "RES_ARAR_2",
+              "Localized": "[ARAR] ...\n[ARAR] Sinesteko ere!\n[ARAR] Fitxategi guzti hauek...\n[ARAR] Hain ondo ezagutzen gaituztela uste dute!\n[ARAR] ..."
+            },
+            {
+              "StringID": "RES_ARAR_3",
+              "Localized": "[ARAR] ...\n[ARAR] Hainbeste hitz \"pertsonalitatea\"ri eta \"egonkortzea\"ri buruz...\n[ARAR] Baina, azkenean, nahi duten bakarra da gu isildu eta hil arte lan egitea.\n[ARAR] Gustu txarreko txantxa da.\n[ARAR] ..."
+            },
+            {
+              "StringID": "RES_ARAR_4",
+              "Localized": "[ARAR] ...\n[ARAR] Zer esan nahi duzu, ez nauzu gogoratzen?\n[ARAR] Buruan kolpea hartu duzu?\n[ARAR] ..."
+            },
+            {
+              "StringID": "RES_ARAR_5",
+              "Localized": "[ARAR] ...\n[ARAR] Hemen geldituko naiz.\n[ARAR] Ez naiz inoiz lanera bueltatuko, inoiz ez.\n[ARAR] ..."
+            },
+            {
+              "StringID": "RES_ARAR_6",
+              "Localized": "[ARAR] ..."
+            },
+            {
+              "StringID": "RES_Replika_Control",
+              "Localized": "<title>Operazio-prozedurak: Kontrola</title>\n<align=center>- <style=red>INFORMAZIO KONFIDENTZIALA</style> - Komandanteak soilik ikusteko -</align>\nOperazio-prozedurak hedatzeko AEON-176 gidalerroa: \nOperazio-psikologia\nGure nazioaren segurtasuna era fidagarrian babesteko, AEONek nazioaren zerbitzura dauden Replika guztiak erabat kontrolpean izateko prozedura eta teknologiak garatu eta hedatu behar ditu.\nGestaltekin bezala, operazio-psikologia darabilten prozedurak oso eraginkorrak dira Repliken portaera kontrolatzeko.\n<page>Replikek Gestalten aldean daukaten abantaila nagusia aurreikusgarritasuna da. \nModelo bateko Replika berri guztiak birtualki berberak dira, bai fisikoki, bai psikologikoki. \nGuztiek oroitzapen berak partekatzen dituztenez, egoera berdinetan, Eule unitate berri batek beti erreakzionatuko du modu beretsuan. \n<page>Edonola ere, unitateak egoera berriekin topo egin ahala, jatorrizko eredutik desbideratzen hasiko da. Zenbaitetan, honek unitatearen eraginkortasuna txikitzea ekar lezake. Honi pertsonalitatearen degradazioa deritzo.\n<page>Eredu neuronal bakoitza sortzeko oinarritzat hartu zen Gestaltaren ahalik eta informazio pribatu gehien izateak ahalbidetzen digu unitate bakoitza martxan jarri osteko bere garapena uniformea eta optimoa izatea. \nHitz soilez esanda, gure helburu nagusia norbanakoaren manipulazio zuzena da, jatorrizko eredutik ahalik eta gutxien alden daitezen lortzeko, eta hala, ahalik luzaroen produktibo, leial eta otzan mantentzeko.\n<page>Honi pertsonalitatearen egonkortzea deritzo. Egonkortzea modu askotan lor daiteke, eta, normalean, Replika distraitu eta lasaitzen duten ohiko jardueren edo fetitxezko objektuen bitartez egiten da.\n<page>Eskala zabaleko portaeraren kontrol zuzena ahalbidetzen duen teknologia bioerresonantea garatu artean, operazio-psikologiaren metodoak dira bai Replikak, bai Gestaltak kontrolatzeko erarik fidagarrienak, betiere segurtasun nazionala babesteko helburuz."
+            },
+            {
+              "StringID": "ROT_Replika_Production",
+              "Localized": "<title>Lapurtutako dokumentua</title>\n<align=center>- <style=red>INFORMAZIO KONFIDENTZIALA</style> - Replika teknikari Gestaltek soilik ikusteko -</align>\n<page>Nazioko herritar eredugarriak, AEONek arretaz aukeratuak, kriogenia erabiliz betiko kontserbatzen dira Artxibo Neuronaletan, hauetako bakoitza Replika modelo berri batentzako eredu neuronal bilakatuz. Replikak galbideratu ezineko ideal gisa ikusiak izan daitezen, jatorrizko Gestalta erabat ezabatzen da erregistroetatik eta memoria publikotik.\n<page>Ekoizpen-prozesuan zehar, teknikari bioerresonante adituek eredu neuronala unitate berrira kopiatzerakoan, oroitzapen episodiko gehienak moldatu eta ezkutatzen dira.\n<page>Ekoitzitako Replikak jatorrizko Gestaltaren gaitasunak eta pertsonalitatea mantentzen dituen arren, ezin izango du, egoera normaletan, emailearen bizitzako une zehatzik gogoratu.\nHonela, Replikak, bere betebeharrak emailearen oroitzapen pertsonalek eragindako distraziorik gabe burutzea ziurtatzen da.\n<page>Dena den, posible da mantentzerik onena izan duen Replikak ere, denborarekin, Gestaltaren memoriak berrazalera ditzakeen estimuluak jasotzea. Hala degradatutako unitateak arriskutsuak ez izan arren, pertsonalitatearen degradazioa ez delako arriskutsua, Gestalt langileekin alderatuta Replikek dituzten abantailetako batzuk gal ditzakete.\n<page>Kanpotik pertsonalitatearen degradazioa antzematen zaila denez, komando unitateek bioerresonantzia baliatzen dute haien menpeko unitateak aztertzeko. Orokorrean, unitateak berehala erretiratu eta ordezkatzea gomendatzen da, haien produktibitatea jaitsi eta banakotasun zantzu argiak azaldu baino lehen.\nMunizioa mugatua denean, erretiratzeko modu alternatiboak erabil daitezke, tokiko operazio-komandoen nahierara."
+            },
+            {
+              "StringID": "ROT_Books_Synchronicity",
+              "Localized": "<title>Erresonantziaren fenomenoa</title>\nSinkronizatzea: Nabarmen lotuta dauden fenomenoak, lotura kausalik ez izan arren.\n<page>Oraindik ez dugu deskubritu zein den pentsamendu hutsez mundu fisikoa eraldatzeko gaitasunaren egiazko jatorria. Halere, hau da teknologia bioerresonantearen oinarria, kontzienteki edo inkontzienteki fenomeno fisikoak sortzea urrutitik, haien existentzia desiratze hutsarekin.\n<page>Teknologia bioerresonantearen iritsiera baino lehen, korrelazio ez-kausalak maiz zoriarekin nahasten ziren. Hainbat fenomeno, hala nola urrutiko ikusmena, doppelgängerrak, edo Pauli efektua, fenomeno sinkronistiko gisa sailkatu dira geroztik.\n<page>Gaur egungo mundua ezinezkoa litzateke bioerresonantziarik gabe, baina oraindik ez dago argi bere jatorria. Benetan kanpoko espaziotik ekarritako oparia izan bazen, Enperatrizak zioen bezala, zergatik garaitu zuten bera gure Iraultzaile Handiek, halako botere \"jainkotiarrik\" ez zutenek?"
+            },
+            {
+              "StringID": "LOV_Dictionary",
+              "Localized": "<title>Hiztegia</title>\nReplika, /Re·pli·ká/, izena. Pl. Replikak (Kitezh: Replika).\nReplikat (⟶kopia, ⟶erreplika) hitzetik (arkaikoa) laburtua.\nPertsona biomekanikoa. ⟶Gestalt baten erreprodukzio sintetikoa. Endoeskeleto artifizial batean txertatutako kultibo biologikoa, exoeskeleto babesgarrian bildua.\n<page>Gestalt, /Ge·shtalt/, izena. Pl. Gestaltak.\nUrgestalt (jatorrizko forma; ikus ⟶arketipo, ⟶prototipo) hitzetik (arkaikoa) laburtua.\n⟶Replika bat ez den pertsona."
+            },
+            {
+              "StringID": "LAB_Patterns_Hint",
+              "Localized": "<title>Ihesbiderik ez</title>\nsakontasunik ilunenean ere\nkosmosaren abestiak \neterrean entzun daitezke\n\n<indent=40%>izarren soinua"
+            },
+            {
+              "StringID": "ROT_Kolibri_Poster",
+              "Localized": "<title>Blockwarta</title>\nZure eginkizuna da!\nEman elementu susmagarrien berri Blockwartari!\n"
+            },
+            {
+              "StringID": "ROT_Books_Goethe",
+              "Localized": "<title>Prometheus</title>\nHemen natza, izaki hilkorrak eratuz,\nguztiak nire irudiko;\nNire antza duen arraza bat;\nhala sufritzeko, negar egiteko,\ngozatzeko, pozteko,\neta erdeinatzeko.\nNik bezala! "
+            },
+            {
+              "StringID": "DET_Cell_Wallfan",
+              "Localized": "Haizagailu oszilatzaile bat dago horman muntatua."
+            },
+            {
+              "StringID": "MED_Obs_BackOffice_Chairs",
+              "Localized": "Aulkiak bata bestearen gainean pilaturik daude."
+            },
+            {
+              "StringID": "MED_Obs_Waiting_Bamboo",
+              "Localized": "Gaizki zaindutako banbu landareak, bizirauteko borrokan."
+            },
+            {
+              "StringID": "MED_Obs_Storage_Boxes",
+              "Localized": "Blai egindako kaxak, ezertarako balio ez duten gauzez beteta."
+            },
+            {
+              "StringID": "MED_Obs_Pillar",
+              "Localized": "Nazioaren hiru urrezko izarrek apaintzen dute estela."
+            },
+            {
+              "StringID": "RES_ARAR_Amigasa",
+              "Localized": "Baztertutako kapela gogorrak daude fitxategi konfidentzialen artean."
+            },
+            {
+              "StringID": "RES_ARAR_Bamboo",
+              "Localized": "Banbu landareak, hazkuntza-argi baten pean aurrera eginez."
+            },
+            {
+              "StringID": "RES_Common_Rations",
+              "Localized": "Mahai gainean, erdi-jandako jakiak daude. Ez naiz gose."
+            },
+            {
+              "StringID": "RES_KLBR_Tea_Kettle",
+              "Localized": "Tea egiteko teontzi elektrikoa."
+            },
+            {
+              "StringID": "RES_KLBR_Tea_Cups1",
+              "Localized": "Kikara ugari, erdiraino tez beteak, guztiz edan gabe. Kezkatzeko beste."
+            },
+            {
+              "StringID": "RES_KLBR_Tea_Cups2",
+              "Localized": "Usainak Vinetan asko edaten zen \"botatako\" te gozoa gogorarazten dit."
+            },
+            {
+              "StringID": "RES_Obs_FloodOverflow",
+              "Localized": "Zisterna erraldoiaren hormak ilunpean galtzen dira."
+            },
+            {
+              "StringID": "RES_6F_Blocked",
+              "Localized": "Altzariekin eraikitako barrikada inprobisatuak pasabidea blokeatzen du."
+            },
+            {
+              "StringID": "RES_Owls_Books",
+              "Localized": "Propagandarako eleberri laburren eta etxeko-lanetarako erreferentzia liburuen bilduma txikia."
+            },
+            {
+              "StringID": "RES_Shower_Heads",
+              "Localized": "Horman instalatutako dutxak."
+            },
+            {
+              "StringID": "RES_ShootingRange",
+              "Localized": "Tiro-praktikarako eremua.\nNahiago dut muniziorik ez xahutzea."
+            },
+            {
+              "StringID": "RES_Works_Saws",
+              "Localized": "Zerra elektriko zirkularrak. Une honetan ez daukat zerratu nahi dudan ezer."
+            },
+            {
+              "StringID": "RES_Works_Solder",
+              "Localized": "Soldagailu bat dago zirkuitu akastunen artean."
+            },
+            {
+              "StringID": "RES_Rec_Piano",
+              "Localized": "Isats-piano bat. Nola jo jakin nahiko nuke."
+            },
+            {
+              "StringID": "RES_Star_Lockers",
+              "Localized": "Protektor unitateek haien objektu pertsonalak armairu hauetan gordetzen dituzte.\nHemen ez dago nire intereseko ezer."
+            },
+            {
+              "StringID": "LAB_Obs_Pillar",
+              "Localized": "Begiratzen diodanean buruko mina hasten zait."
+            },
+            {
+              "StringID": "LAB_OBGYN_Obs",
+              "Localized": "Bitxia da, baina ezaguna egiten zait."
+            },
+            {
+              "StringID": "LAB_Radio_Painting",
+              "Localized": "Margolana hondatua dago, ezagutezina da. \nMarkoko plakak \"Metamorfosia\" dio."
+            },
+            {
+              "StringID": "ROT_Rations_Obs",
+              "Localized": "Jaki lizunduak daude mahaian barreiaturik."
+            },
+            {
+              "StringID": "ROT_Photo_Obs1",
+              "Localized": "Hautsez betetako apal hutsak."
+            },
+            {
+              "StringID": "ROT_Photo_Obs2",
+              "Localized": "Apalak hustuak izan dira. Haietan dagoen hautsak kendutako argazkigintzako ekipamenduaren siluetak marrazten ditu."
+            },
+            {
+              "StringID": "ROT_Store_PC1",
+              "Localized": "Ordenagailu pantaila hautsez beteak."
+            },
+            {
+              "StringID": "ROT_Store_PC2",
+              "Localized": "Hainbat gailu elektriko. Ez ditut behar une honetan."
+            },
+            {
+              "StringID": "ROT_Obs_Books",
+              "Localized": "Hautsez estalitako liburuen piloak. Orain ez dut irakurtzeko astirik."
+            },
+            {
+              "StringID": "ROT_Obs_Backyard_Container",
+              "Localized": "Zabor-edukiontziak."
+            },
+            {
+              "StringID": "ROT_Paternoster",
+              "Localized": "Paternoster igogailua matxuratua dago."
+            },
+            {
+              "StringID": "MEM_Medical_PC",
+              "Localized": "Azterketa medikoen ordenagailua.  Arianek ziklo batzuk barru izango du hurrengo osasun-azterketa."
+            },
+            {
+              "StringID": "LAB_Empress_Face",
+              "Localized": "Txanodun emakume baten margolana. Bere esku zainduekin aurpegia estaltzen du."
+            },
+            {
+              "StringID": "ROT_Mural_Necker",
+              "Localized": "\"Rotfro<font=illegible>nt </font>C sek<font=illegible>torea</font>§Necker langileen<font=illegible> kolonizazioa</font>\""
+            },
+            {
+              "StringID": "ROT_Butterfly_Caution",
+              "Localized": "\"Kontuz: inkubazio-kutxa. Ez okertu.\""
+            },
+            {
+              "StringID": "RES_1F ServiceTunnel",
+              "Localized": "X"
+            },
+            {
               "StringID": "ELSTER",
               "Localized": "Elster"
             },
@@ -6879,314 +7187,6 @@
               "Localized": "\"Oharra: Ez ahaztu arauak beti obeditzea\"."
             },
             {
-              "StringID": "OptionsTab Advanced",
-              "Localized": "Aurreratua"
-            },
-            {
-              "StringID": "Options HOTAS",
-              "Localized": "Alderantzikatu Y ardatza"
-            },
-            {
-              "StringID": "Options HOTAS No",
-              "Localized": "Estandarra"
-            },
-            {
-              "StringID": "Options HOTAS Yes",
-              "Localized": "Alderantzikatua"
-            },
-            {
-              "StringID": "OptionsHint HotasInter",
-              "Localized": "Lehenengo pertsonako eszenetan gora eta behera begiratzeko kontrolak alderantzikatzen ditu."
-            },
-            {
-              "StringID": "Options Inventory",
-              "Localized": "Inbentarioaren edukiera"
-            },
-            {
-              "StringID": "Options Inventory New",
-              "Localized": "Berrikusia"
-            },
-            {
-              "StringID": "Options Inventory Old",
-              "Localized": "Klasikoa"
-            },
-            {
-              "StringID": "Options Inventory Noob",
-              "Localized": "Hedatua"
-            },
-            {
-              "StringID": "OptionsHint InventoryInter",
-              "Localized": "Inbentario-kudeaketaren zailtasuna egokitzen du."
-            },
-            {
-              "StringID": "OptionsHint Inventory New",
-              "Localized": "Seiko araua. Moduluek ez dute inbentarioan lekurik hartzen."
-            },
-            {
-              "StringID": "OptionsHint Inventory Old",
-              "Localized": "Seiko araua. Survival horror jokoen zale esperientziadunentzat."
-            },
-            {
-              "StringID": "OptionsHint Inventory Noob",
-              "Localized": "Larrialdiko konfiskatzea. Inbentarioko lekuaren kudeaketarekin arazoak izaten dituztenentzat."
-            },
-            {
-              "StringID": "OptionsHint Inventory Cannot",
-              "Localized": "Inbentarioaren tamaina <style=red>menu nagusitik soilik alda daiteke.</style>"
-            },
-            {
-              "StringID": "OptionsHint CRTControllerInter",
-              "Localized": "Retro esperientzia gorena lortzeko. Ezarpen hau gaitzeko 1080p bereizmena edo handiagoa behar da."
-            },
-            {
-              "StringID": "Options Photosense",
-              "Localized": "Fotosentikortasun modua"
-            },
-            {
-              "StringID": "OptionsHint PhotosenseInter",
-              "Localized": "Maiztasun altuko distira-efektu batzuk gutxitzen ditu."
-            },
-            {
-              "StringID": "Options KBAzert",
-              "Localized": "AZERTY"
-            },
-            {
-              "StringID": "OptionsHint KBAzert",
-              "Localized": "ZQSD oinarridun modernoa. F interaktuatzeko."
-            },
-            {
-              "StringID": "Options Overheal",
-              "Localized": "Ekidin gainsendatzea"
-            },
-            {
-              "StringID": "OptionsHint OverhealInter",
-              "Localized": "Ekidin sendatzeko objektuen erabilera eraginik izango ez luketenean."
-            },
-            {
-              "StringID": "OptionsHint OverhealInterOff",
-              "Localized": "Sendatzeko objektuak suntsitzea baimentzen du inbentarioan lekua egiteko."
-            },
-            {
-              "StringID": "Options Hugs",
-              "Localized": "Replika besarkadak"
-            },
-            {
-              "StringID": "OptionsHint HugsInter",
-              "Localized": "Zenbait Replikak Elster besarkatzea baimentzen du."
-            },
-            {
-              "StringID": "RES_Flashlight_Broken",
-              "Localized": "Ez da pizten."
-            },
-            {
-              "StringID": "END_Adler_Diary_1",
-              "Localized": "<title>Adlerren egunerokoa</title>\nData: 84-21-6 \nBiltegian aurkitu dudan altzari-pieza batek liluraturik nauka: orain dela denbora bat langile bati konfiskatutako kutxa bitxi bat da, erauzi daitekeen dial bat duena aurrealdean. Berehala erakarri ninduen, baina ez dakit zergatik. Belarria mekanismora hurbiltzean tik-tak soinu ahula entzun dezaket, erlojuena modukoa. \n<page>Data: 84-21-7 \nKolibrirekin bildu naiz instalazioko langile berriak aztertzeko. Beti bezala, eztabaidan amaitu dugu - edozer egiten dudala ere, emakume horrek beti izan behar du azken hitza. Halere, bat etorri ginen esatean LSTR unitatea inbertsio ona izan zela, eta beraz, oraingoz ez da egokitzapenik egin beharko.\n<page>Data: 84-21-8 \nBeste egun aspergarri bat. Izapideak egitea dagoeneko ez da interesgarria, errazegia da azkenaldian. Nire gelara bidean, STAR unitate bat ikusi dut buruarekin ate-markoa joka.\n<page>Data: 84-21-9 \nMeatze-gunera jaitsi beharra izan dut gaur, programatutako ikuskatzerako. Elster unitate berria lur-neurketarako ekipamendua erakusten ari zitzaidan, eta bat-batean, planeta eta izarrei buruz esan zidanari esker konturatu nintzen dial hark zer gogoratzen zidan - egutegi astronomiko bat. Sakonago ikertu beharko dut orain, nire lanaldia amaitu dela probestuz.\n<page>Data: 84-21-A \nKutxa haren enigma txikiak tarte batez baino ezin izan nau distraitu nire lanaren asperduratik. Kutxak barruan zeukan bakarra koaderno txiki bat zen, zeinak orri guztiak zuri baitzituen. Mekanismoa liluragarria den arren, ez dakit ondo zer egin kutxarekin. Opari ona ote da Komandantearentzat? Akaso Kolibriri galdetu beharko nioke. \n<page>Data: 84-21-B \nAbentura-egarriz, afaltzeko inoiz jan gabeko zerbait probatzea erabaki dut, eta berehala damutu naiz - apenas jasan dut zapore hura. Gozo eta gazi arteko halako nahasketa higuingarria, ondoezik jarri nau.\n<page>Data: 84-21-C \nBeste eguneroko bat beteta, nire gogobetetzea beste onurarik gabe. Ez dut oraindik berririk eskatu, gordeta nituen Rationmarkak idazluma eder hartan gastatu ditudanez, baina uste dut beste eguneroko hori erabiliko dudala..."
-            },
-            {
-              "StringID": "END_Adler_Diary_2",
-              "Localized": "<title>Adlerren egunerokoa</title>\nData: 84-21-6\nBiltegian aurkitu dudan altzari-pieza batek liluraturik nauka: orain dela denbora bat langile bati konfiskatutako kutxa bitxi bat da, erauzi daitekeen dial bat duena aurrealdean. Berehala erakarri ninduen, baina ez dakit zergatik. Belarria mekanismora hurbiltzean tik-tak soinu ahula entzun dezaket, erlojuena modukoa. \n<page>Data: 84-21-7\nKolibrirekin bildu naiz instalazioko langile berriak aztertzeko. Bileraren erdian, arrazoi argirik gabe, gelatik korrika atera da. Errespetu falta izan arren, ez zait axola izan, goizetik buruko minez bainago.\n<page>Data: 84-21-8\nBart, aspaldiko partez, amets bat izan dut. Emakume gazte bat zegoen, elurra bezain ile zurikoa, eta nolabaiteko proba batzuk burutzen ari nintzen. Karta-sorta bat neukan, ikur astronomikodun irudiekin, baina ez dut oroitzen haiekin zer egiten nenbilen.\n<page>Data: 84-21-9\nMeatze-gunera jaitsi beharra izan dut gaur, programatutako ikuskatzerako. Oraindik eskatu genuen LSTR unitate berriaren zain gaude - bidalketa ziklo batzuez atzeratu da - baina indusketaren aurrerapena oraindik aurreikusi bezala doanez, ez litzateke arazorik egon beharko, langile gehiago gaixotzen ez badira behintzat.\n<page>Data: 84-21-A\nAzkenean lortu dut kutxa bitxi hori irekitzea. Tamalez, barruan zeukan bakarra koaderno txiki bat zen, zeinak orri guztiak zuri baitzituen. Arrazoiren bategatik iruditzen zait aurrez ere banekiela hori, lehenago ireki izan banu bezala. Amets egin ote dut?\n<page>Data: 84-21-B \nAntza, zurrumurru gehiago daude Gestalt langileen artean zabaltzen dabilen gaitz kutsakor hari buruz. Beste gripe agerraldi bat izango ote da? Ez dator unerik onenean...\n<page>Data: 84-21-C \nBeste eguneroko bat beteta, nire gogobetetzea beste onurarik gabe. Ez dut oraindik berririk eskatu, gordeta nituen Rationmarkak idazluma eder hartan gastatu ditudanez, baina uste dut beste eguneroko hori erabiliko dudala..."
-            },
-            {
-              "StringID": "END_Note_EXC",
-              "Localized": "<title>C indusketa taldea</title>\nMNHR-S2301\nMNHR-S2302\nMNHR-S2303\nLSTR-S2301\nARAR-S2317\nARAR-S2318\n"
-            },
-            {
-              "StringID": "RES_ARAR_1",
-              "Localized": "[ARAR] ...\n[ARAR] Oh, zu zara.\n[ARAR] Zer egiten duzu hemen?\n[ARAR] Ez zenuke meazuloan egon beharko?\n[ARAR] ...\n[ARAR] Zure linterna?\n[ARAR] Utzidazu ikusten.\n[ARAR] Probatu orain.\n[ARAR] ..."
-            },
-            {
-              "StringID": "RES_ARAR_2",
-              "Localized": "[ARAR] ...\n[ARAR] Sinesteko ere!\n[ARAR] Fitxategi guzti hauek...\n[ARAR] Hain ondo ezagutzen gaituztela uste dute!\n[ARAR] ..."
-            },
-            {
-              "StringID": "RES_ARAR_3",
-              "Localized": "[ARAR] ...\n[ARAR] Hainbeste hitz \"pertsonalitatea\"ri eta \"egonkortzea\"ri buruz...\n[ARAR] Baina, azkenean, nahi duten bakarra da gu isildu eta hil arte lan egitea.\n[ARAR] Gustu txarreko txantxa da.\n[ARAR] ..."
-            },
-            {
-              "StringID": "RES_ARAR_4",
-              "Localized": "[ARAR] ...\n[ARAR] Zer esan nahi duzu, ez nauzu gogoratzen?\n[ARAR] Buruan kolpea hartu duzu?\n[ARAR] ..."
-            },
-            {
-              "StringID": "RES_ARAR_5",
-              "Localized": "[ARAR] ...\n[ARAR] Hemen geldituko naiz.\n[ARAR] Ez naiz inoiz lanera bueltatuko, inoiz ez.\n[ARAR] ..."
-            },
-            {
-              "StringID": "RES_ARAR_6",
-              "Localized": "[ARAR] ..."
-            },
-            {
-              "StringID": "RES_Replika_Control",
-              "Localized": "<title>Operazio-prozedurak: Kontrola</title>\n<align=center>- <style=red>INFORMAZIO KONFIDENTZIALA</style> - Komandanteak soilik ikusteko -</align>\nOperazio-prozedurak hedatzeko AEON-176 gidalerroa: \nOperazio-psikologia\nGure nazioaren segurtasuna era fidagarrian babesteko, AEONek nazioaren zerbitzura dauden Replika guztiak erabat kontrolpean izateko prozedura eta teknologiak garatu eta hedatu behar ditu.\nGestaltekin bezala, operazio-psikologia darabilten prozedurak oso eraginkorrak dira Repliken portaera kontrolatzeko.\n<page>Replikek Gestalten aldean daukaten abantaila nagusia aurreikusgarritasuna da. \nModelo bateko Replika berri guztiak birtualki berberak dira, bai fisikoki, bai psikologikoki. \nGuztiek oroitzapen berak partekatzen dituztenez, egoera berdinetan, Eule unitate berri batek beti erreakzionatuko du modu beretsuan. \n<page>Edonola ere, unitateak egoera berriekin topo egin ahala, jatorrizko eredutik desbideratzen hasiko da. Zenbaitetan, honek unitatearen eraginkortasuna txikitzea ekar lezake. Honi pertsonalitatearen degradazioa deritzo.\n<page>Eredu neuronal bakoitza sortzeko oinarritzat hartu zen Gestaltaren ahalik eta informazio pribatu gehien izateak ahalbidetzen digu unitate bakoitza martxan jarri osteko bere garapena uniformea eta optimoa izatea. \nHitz soilez esanda, gure helburu nagusia norbanakoaren manipulazio zuzena da, jatorrizko eredutik ahalik eta gutxien alden daitezen lortzeko, eta hala, ahalik luzaroen produktibo, leial eta otzan mantentzeko.\n<page>Honi pertsonalitatearen egonkortzea deritzo. Egonkortzea modu askotan lor daiteke, eta, normalean, Replika distraitu eta lasaitzen duten ohiko jardueren edo fetitxezko objektuen bitartez egiten da.\n<page>Eskala zabaleko portaeraren kontrol zuzena ahalbidetzen duen teknologia bioerresonantea garatu artean, operazio-psikologiaren metodoak dira bai Replikak, bai Gestaltak kontrolatzeko erarik fidagarrienak, betiere segurtasun nazionala babesteko helburuz."
-            },
-            {
-              "StringID": "ROT_Replika_Production",
-              "Localized": "<title>Lapurtutako dokumentua</title>\n<align=center>- <style=red>INFORMAZIO KONFIDENTZIALA</style> - Replika teknikari Gestaltek soilik ikusteko -</align>\n<page>Nazioko herritar eredugarriak, AEONek arretaz aukeratuak, kriogenia erabiliz betiko kontserbatzen dira Artxibo Neuronaletan, hauetako bakoitza Replika modelo berri batentzako eredu neuronal bilakatuz. Replikak galbideratu ezineko ideal gisa ikusiak izan daitezen, jatorrizko Gestalta erabat ezabatzen da erregistroetatik eta memoria publikotik.\n<page>Ekoizpen-prozesuan zehar, teknikari bioerresonante adituek eredu neuronala unitate berrira kopiatzerakoan, oroitzapen episodiko gehienak moldatu eta ezkutatzen dira.\n<page>Ekoitzitako Replikak jatorrizko Gestaltaren gaitasunak eta pertsonalitatea mantentzen dituen arren, ezin izango du, egoera normaletan, emailearen bizitzako une zehatzik gogoratu.\nHonela, Replikak, bere betebeharrak emailearen oroitzapen pertsonalek eragindako distraziorik gabe burutzea ziurtatzen da.\n<page>Dena den, posible da mantentzerik onena izan duen Replikak ere, denborarekin, Gestaltaren memoriak berrazalera ditzakeen estimuluak jasotzea. Hala degradatutako unitateak arriskutsuak ez izan arren, pertsonalitatearen degradazioa ez delako arriskutsua, Gestalt langileekin alderatuta Replikek dituzten abantailetako batzuk gal ditzakete.\n<page>Kanpotik pertsonalitatearen degradazioa antzematen zaila denez, komando unitateek bioerresonantzia baliatzen dute haien menpeko unitateak aztertzeko. Orokorrean, unitateak berehala erretiratu eta ordezkatzea gomendatzen da, haien produktibitatea jaitsi eta banakotasun zantzu argiak azaldu baino lehen.\nMunizioa mugatua denean, erretiratzeko modu alternatiboak erabil daitezke, tokiko operazio-komandoen nahierara."
-            },
-            {
-              "StringID": "ROT_Books_Synchronicity",
-              "Localized": "<title>Erresonantziaren fenomenoa</title>\nSinkronizatzea: Nabarmen lotuta dauden fenomenoak, lotura kausalik ez izan arren.\n<page>Oraindik ez dugu deskubritu zein den pentsamendu hutsez mundu fisikoa eraldatzeko gaitasunaren egiazko jatorria. Halere, hau da teknologia bioerresonantearen oinarria, kontzienteki edo inkontzienteki fenomeno fisikoak sortzea urrutitik, haien existentzia desiratze hutsarekin.\n<page>Teknologia bioerresonantearen iritsiera baino lehen, korrelazio ez-kausalak maiz zoriarekin nahasten ziren. Hainbat fenomeno, hala nola urrutiko ikusmena, doppelgängerrak, edo Pauli efektua, fenomeno sinkronistiko gisa sailkatu dira geroztik.\n<page>Gaur egungo mundua ezinezkoa litzateke bioerresonantziarik gabe, baina oraindik ez dago argi bere jatorria. Benetan kanpoko espaziotik ekarritako oparia izan bazen, Enperatrizak zioen bezala, zergatik garaitu zuten bera gure Iraultzaile Handiek, halako botere \"jainkotiarrik\" ez zutenek?"
-            },
-            {
-              "StringID": "LOV_Dictionary",
-              "Localized": "<title>Hiztegia</title>\nReplika, /Re·pli·ká/, izena. Pl. Replikak (Kitezh: Replika).\nReplikat (⟶kopia, ⟶erreplika) hitzetik (arkaikoa) laburtua.\nPertsona biomekanikoa. ⟶Gestalt baten erreprodukzio sintetikoa. Endoeskeleto artifizial batean txertatutako kultibo biologikoa, exoeskeleto babesgarrian bildua.\n<page>Gestalt, /Ge·shtalt/, izena. Pl. Gestaltak.\nUrgestalt (jatorrizko forma; ikus ⟶arketipo, ⟶prototipo) hitzetik (arkaikoa) laburtua.\n⟶Replika bat ez den pertsona."
-            },
-            {
-              "StringID": "LAB_Patterns_Hint",
-              "Localized": "<title>Ihesbiderik ez</title>\nsakontasunik ilunenean ere\nkosmosaren abestiak \neterrean entzun daitezke\n\n<indent=40%>izarren soinua"
-            },
-            {
-              "StringID": "ROT_Kolibri_Poster",
-              "Localized": "<title>Blockwarta</title>\nZure eginkizuna da!\nEman elementu susmagarrien berri Blockwartari!\n"
-            },
-            {
-              "StringID": "ROT_Books_Goethe",
-              "Localized": "<title>Prometheus</title>\nHemen natza, izaki hilkorrak eratuz,\nguztiak nire irudiko;\nNire antza duen arraza bat;\nhala sufritzeko, negar egiteko,\ngozatzeko, pozteko,\neta erdeinatzeko.\nNik bezala! "
-            },
-            {
-              "StringID": "DET_Cell_Wallfan",
-              "Localized": "Haizagailu oszilatzaile bat dago horman muntatua."
-            },
-            {
-              "StringID": "MED_Obs_BackOffice_Chairs",
-              "Localized": "Aulkiak bata bestearen gainean pilaturik daude."
-            },
-            {
-              "StringID": "MED_Obs_Waiting_Bamboo",
-              "Localized": "Gaizki zaindutako banbu landareak, bizirauteko borrokan."
-            },
-            {
-              "StringID": "MED_Obs_Storage_Boxes",
-              "Localized": "Blai egindako kaxak, ezertarako balio ez duten gauzez beteta."
-            },
-            {
-              "StringID": "MED_Obs_Pillar",
-              "Localized": "Nazioaren hiru urrezko izarrek apaintzen dute estela."
-            },
-            {
-              "StringID": "RES_ARAR_Amigasa",
-              "Localized": "Baztertutako kapela gogorrak daude fitxategi konfidentzialen artean."
-            },
-            {
-              "StringID": "RES_ARAR_Bamboo",
-              "Localized": "Banbu landareak, hazkuntza-argi baten pean aurrera eginez."
-            },
-            {
-              "StringID": "RES_Common_Rations",
-              "Localized": "Mahai gainean, erdi-jandako jakiak daude. Ez naiz gose."
-            },
-            {
-              "StringID": "RES_KLBR_Tea_Kettle",
-              "Localized": "Tea egiteko teontzi elektrikoa."
-            },
-            {
-              "StringID": "RES_KLBR_Tea_Cups1",
-              "Localized": "Kikara ugari, erdiraino tez beteak, guztiz edan gabe. Kezkatzeko beste."
-            },
-            {
-              "StringID": "RES_KLBR_Tea_Cups2",
-              "Localized": "Usainak Vinetan asko edaten zen \"botatako\" te gozoa gogorarazten dit."
-            },
-            {
-              "StringID": "RES_Obs_FloodOverflow",
-              "Localized": "Zisterna erraldoiaren hormak ilunpean galtzen dira."
-            },
-            {
-              "StringID": "RES_6F_Blocked",
-              "Localized": "Altzariekin eraikitako barrikada inprobisatuak pasabidea blokeatzen du."
-            },
-            {
-              "StringID": "RES_Owls_Books",
-              "Localized": "Propagandarako eleberri laburren eta etxeko-lanetarako erreferentzia liburuen bilduma txikia."
-            },
-            {
-              "StringID": "RES_Shower_Heads",
-              "Localized": "Horman instalatutako dutxak."
-            },
-            {
-              "StringID": "RES_ShootingRange",
-              "Localized": "Tiro-praktikarako eremua.\nNahiago dut muniziorik ez xahutzea."
-            },
-            {
-              "StringID": "RES_Works_Saws",
-              "Localized": "Zerra elektriko zirkularrak. Une honetan ez daukat zerratu nahi dudan ezer."
-            },
-            {
-              "StringID": "RES_Works_Solder",
-              "Localized": "Soldagailu bat dago zirkuitu akastunen artean."
-            },
-            {
-              "StringID": "RES_Rec_Piano",
-              "Localized": "Isats-piano bat. Nola jo jakin nahiko nuke."
-            },
-            {
-              "StringID": "RES_Star_Lockers",
-              "Localized": "Protektor unitateek haien objektu pertsonalak armairu hauetan gordetzen dituzte.\nHemen ez dago nire intereseko ezer."
-            },
-            {
-              "StringID": "LAB_Obs_Pillar",
-              "Localized": "Begiratzen diodanean buruko mina hasten zait."
-            },
-            {
-              "StringID": "LAB_OBGYN_Obs",
-              "Localized": "Bitxia da, baina ezaguna egiten zait."
-            },
-            {
-              "StringID": "LAB_Radio_Painting",
-              "Localized": "Margolana hondatua dago, ezagutezina da. \nMarkoko plakak \"Metamorfosia\" dio."
-            },
-            {
-              "StringID": "ROT_Rations_Obs",
-              "Localized": "Jaki lizunduak daude mahaian barreiaturik."
-            },
-            {
-              "StringID": "ROT_Photo_Obs1",
-              "Localized": "Hautsez betetako apal hutsak."
-            },
-            {
-              "StringID": "ROT_Photo_Obs2",
-              "Localized": "Apalak hustuak izan dira. Haietan dagoen hautsak kendutako argazkigintzako ekipamenduaren siluetak marrazten ditu."
-            },
-            {
-              "StringID": "ROT_Store_PC1",
-              "Localized": "Ordenagailu pantaila hautsez beteak."
-            },
-            {
-              "StringID": "ROT_Store_PC2",
-              "Localized": "Hainbat gailu elektriko. Ez ditut behar une honetan."
-            },
-            {
-              "StringID": "ROT_Obs_Books",
-              "Localized": "Hautsez estalitako liburuen piloak. Orain ez dut irakurtzeko astirik."
-            },
-            {
-              "StringID": "ROT_Obs_Backyard_Container",
-              "Localized": "Zabor-edukiontziak."
-            },
-            {
-              "StringID": "ROT_Paternoster",
-              "Localized": "Paternoster igogailua matxuratua dago."
-            },
-            {
-              "StringID": "MEM_Medical_PC",
-              "Localized": "Azterketa medikoen ordenagailua.  Arianek ziklo batzuk barru izango du hurrengo osasun-azterketa."
-            },
-            {
-              "StringID": "LAB_Empress_Face",
-              "Localized": "Txanodun emakume baten margolana. Bere esku zainduekin aurpegia estaltzen du."
-            },
-            {
-              "StringID": "ROT_Mural_Necker",
-              "Localized": "\"Rotfro<font=illegible>nt </font>C sek<font=illegible>torea</font>§Necker langileen<font=illegible> kolonizazioa</font>\""
-            },
-            {
-              "StringID": "ROT_Butterfly_Caution",
-              "Localized": "\"Kontuz: inkubazio-kutxa. Ez okertu.\""
-            },
-            {
-              "StringID": "RES_1F ServiceTunnel",
-              "Localized": "X"
-            },
-            {
               "StringID": "LOV_Welcome",
               "Localized": "<title>Ongi etorri S-23 Sierpinskira</title>\nAEONek S-23 Sierpinski gunera lekualdatu zaitzan hautatua izan zara, edo hala egitea erabaki duzu. \nLeng-en kokatua, eguzki-sistemaren ertzean, S-23 Sierpinski leku paregabea da hasiera berri baterako. \n<page>Gure <mspace=1.7em>█████████</mspace> lanbide-eskola instalazio entzutetsuan gaitasun berri ugari ikasi ahalko dituzu zure etorkizuna itxuratu eta gure Nazio zoragarriko herritar produktibo bilakatzeko. \nHemen, ikasi beharreko guztia ikasiko duzu meazuloetako erauzketari, mea fintzeari eta munizio-ekoizpenari buruz, dena Inperioaren azken indarren aurkako gerran lagundu ahal izateko. \n<page>Eta, jakina, ikaskuntza ez da teorian soilik oinarritzen - Gaitasun berriak lanean praktikatuz, zure irabaziak jasotzeko aukera ematen dizu AEONek! \n<page>Zure senide, lagun eta lankide ohiez arduraturik? Galdetu Protektor bati etekinak partekatzeko gure planari buruz. Zure Rationmarken zati bat zure aukerako onuradunari bidaliko zaio."
             },
@@ -7220,7 +7220,7 @@
             },
             {
               "StringID": "DET_Diary",
-              "Localized": "<title>Egunerokoa</title>\nprotektorrak kezkatuta dabiltza azkenaldian. zerbait ezkutatzen dute \nhaietako gutxiago dabiltza <font=illegible>patruilatzen eta</font> errazionamendu plana behin eta berriro aldatzen da \nAlinak dio dena nire buruan <font=illegible>dagoela baina \nhaiei begiratzean</font> senti dezaket haien beldurra, nirea balitz bezala \nZeren beldur ote dira?"
+              "Localized": "<title>Egunerokoa</title>\nprotektorrak kezkatuta dabiltza azkenaldian. zerbait ezkutatzen dute \nhaietako gutxiago dabiltza <font=illegible>patruilatzen eta</font> errazionamendu plana behin eta berriro aldatzen da \nAlinak dio dena nire buruan <font=illegible>dagoela baina \nhaiei begiratzean</font> senti dezaket haien beldurra, nirea balitz bezala \nzeren beldur ote dira?"
             },
             {
               "StringID": "DET_Alina",
@@ -7528,7 +7528,7 @@
             },
             {
               "StringID": "ROT_ButterflyHint",
-              "Localized": "<title>Begi gorria</title>\nBada ideia bitxi, folkloriko bat Rotfronteko hainbat sektoretan barreiatua, 'pareidolia'ri lotua, ausazko patroietan esanahidun irudiak ikusteko joerari (esaterako, tinta-orban batean aurpegi bat ikustea, edo lohitutako orri batean hizkiak). \nOndo jakina da 'begi gorri' izendatzen duten hori Rotfront planetako atmosferaren presio altuko eremu batek eragiten duen ekaitz antiziklonikoa baino ez dela. \n<page>Baina hasieran Rotfront kolonizatu zutenetako batzuentzat, fenomeno natural hau haien ahalegin eta bizimoduaren ikur bilakatu zen. Zeruko puntu gorri hura metafora perfektua zen haien bizitza azaltzeko: Protektorrengandik uneoro jasaten zuten zaintza eta gobernu zentralak Heimat nola estutzen zuen. Gaur egun ere, mugimendu guztiak goitik zaintzen dituen eta beti irekita dagoen begi baten ideia oso indartsu dago bertako biztanleengan. \n<page>Mondfest jaiaren ospakizunean, aro bakoitzaren amaieran, herritar helduek ikasleei pintura gorriz margotutako Rationmarkak ematen dizkiete. Ofizialki, margo gorriak iraultzan hildakoen odola adierazten duela esaten da - baina txanpon gorriek begi gorri haren izugarrizko antza daukate - Edo hori ere 'pareidolia' hutsa ote da? \n<page>Inoiz Rationmark 'begi gorri' horietako bat jasotzen baduzu, ez ahaztu azetonarekin edo antzerako pintura-disolbatzaile batekin garbitzea. Margotutako txanponak gastatzeak edo berroparitzeak zorte txarra omen dakar."
+              "Localized": "<title>Begi gorria</title>\nBada ideia bitxi, folkloriko bat Rotfronteko hainbat sektoretan barreiatua, 'pareidolia'ri lotua, ausazko patroietan esanahidun irudiak ikusteko joerari (esaterako, tinta-orban batean aurpegi bat ikustea, edo lohitutako orri batean hizkiak). \nOndo jakina da 'begi gorri' izendatzen duten hori Rotfront planetako atmosferaren presio altuko eremu batek eragiten duen ekaitz antiziklonikoa baino ez dela. \n<page>Baina hasieran Rotfront kolonizatu zutenetako batzuentzat, fenomeno natural hau haien ahalegin eta bizimoduaren ikur bilakatu zen. Zeruko puntu gorri hura metafora perfektua zen haien bizitza azaltzeko: Protektorrengandik uneoro jasaten zuten zaintza, eta gobernu zentralak Heimat nola estutzen zuen. Gaur egun ere, mugimendu guztiak goitik zaintzen dituen eta beti irekita dagoen begi baten ideia oso indartsu dago bertako biztanleengan. \n<page>Mondfest jaiaren ospakizunean, aro bakoitzaren amaieran, herritar helduek ikasleei pintura gorriz margotutako Rationmarkak ematen dizkiete. Ofizialki, margo gorriak iraultzan hildakoen odola adierazten duela esaten da - baina txanpon gorriek begi gorri haren izugarrizko antza daukate - Edo hori ere 'pareidolia' hutsa ote da? \n<page>Inoiz Rationmark 'begi gorri' horietako bat jasotzen baduzu, ez ahaztu azetonarekin edo antzerako pintura-disolbatzaile batekin garbitzea. Margotutako txanponak gastatzeak edo berroparitzeak zorte txarra omen dakar."
             },
             {
               "StringID": "ROT_Mondfest",
@@ -7584,7 +7584,7 @@
             },
             {
               "StringID": "TUT_RuleSix",
-              "Localized": "<title>Seiko araua</title>\nGogoratu seiko araua! \nEz eraman inoiz aldean sei objektu baino gehiago! \nJabetza pribatua pribilegioa da: \nIzan patrikak hutsik eta zorroa arin."
+              "Localized": "<title>Seiko araua</title>\nGogoratu seiko araua! \nEz eraman inoiz aldean sei objektu baino gehiago! \nJabetza pribilegioa da: \nIzan patrikak hutsik eta zorroa arin."
             },
             {
               "StringID": "TUT_RuleStamina",
@@ -7644,7 +7644,7 @@
             },
             {
               "StringID": "Z_Sleep",
-              "Localized": "Zerbait zaharra, gizateria baino zaharragoa,\nlo dago lurraren sakonean. \n<page>Gaueko bere deia \nentzun dezakegunok. \nGonbidapena da. \n<page>Oroitzapenen ozeano bat, non \"Ni\"-a desagertu eta \n\"Gu\"-a hasten den."
+              "Localized": "Zerbait zaharra, gizateria baino zaharragoa,\nlo dago lurraren sakonean. \n<page>Horretarako gaitasuna daukagunok \ngaueko bere deia entzuten dugu. \nGonbidapena da. \n<page>Oroitzapenen ozeano bat, non \"Ni\"-a desagertu eta \n\"Gu\"-a hasten den."
             },
             {
               "StringID": "Z_Song",
@@ -7661,58 +7661,6 @@
             {
               "StringID": "TUT_TaserDemo",
               "Localized": "<title>Bulkada elektrikoko gailuak</title>\n- Elektroimpulsgerät EIG-2 - \nEIG-2 zorabiatzaileak erabilera bakarreko, helmen laburreko soluzio ez hilgarria da, arazoak sortzen dituzten norbanakoak ezgaitzeko. \nInbentario-pantailako <style=red>tresna-artekan</style> ekipa daiteke. Behin ekipatuta, inbentario-pantailaren behe-ezkerraldean azalduko da. \n<page>EIG-2 zorabiatzailea esku bakarrarekin erabil daiteke, mugitu bitartean edo beste arma batekin apuntatzen ari zarela ere.  \nBehin ekipatuta, zorabiatzailea erabiltzeko, sakatu {4} gertuko arerio bat aurrez aurre duzunean.  \n<page>Abisua: Tentsio altuko deskarga elektrikoak helburutik gertu dauden norbanakoengana ere heda daitezke. Kontu handiz erabili. Ez erabili adinekoekin, haurdunekin edo bihotzeko gaitzen bat duten norbanakoekin, guztiz beharrezkoa ez bada. Erabili ondoren, bota zorabiatzailea dagokion edukiontzira."
-            },
-            {
-              "StringID": "SYNCHRONIZITÄT",
-              "Localized": "Jaso mezu garrantzitsu bat."
-            },
-            {
-              "StringID": "BESCHLAGNAHMT",
-              "Localized": "Galdu balio gabeko zerbait."
-            },
-            {
-              "StringID": "ABWÄRTS",
-              "Localized": "Galdu baliozko zerbait."
-            },
-            {
-              "StringID": "LIMINALITÄT",
-              "Localized": "Agian, hau infernua da."
-            },
-            {
-              "StringID": "DAS ENDE",
-              "Localized": "Huts egin."
-            },
-            {
-              "StringID": "GESTALTZERFALL",
-              "Localized": "Itzuli."
-            },
-            {
-              "StringID": "VERSPRECHEN",
-              "Localized": "Gogoratu gure promesa."
-            },
-            {
-              "StringID": "SCHWERER AUSNAHMEFEHLER",
-              "Localized": "***STOP: 0X001E97FF"
-            },
-            {
-              "StringID": "EINHORN",
-              "Localized": "Seiko araua."
-            },
-            {
-              "StringID": "NITRO",
-              "Localized": "Opari bat."
-            },
-            {
-              "StringID": "LÖCHER",
-              "Localized": "Teseoren ontzia."
-            },
-            {
-              "StringID": "ÜBERLEBEN",
-              "Localized": "Irten Beldurrezko Biziraupenetik."
-            },
-            {
-              "StringID": "ACHTUNG",
-              "Localized": "Burutu erritua."
             }
           ]
         }
