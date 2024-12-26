@@ -1,0 +1,1331 @@
+{"items":[
+    {
+        "key": "ACTION_BEND",
+        "value": "makurtu"
+    },
+    {
+        "key": "ACTION_FLAP",
+        "value": "hegoak"
+    },
+    {
+        "key": "ACTION_GOALS",
+        "value": "egitekoen zerrenda"
+    },
+    {
+        "key": "ACTION_GRAB",
+        "value": "heldu"
+    },
+    {
+        "key": "ACTION_HONK",
+        "value": "karranka"
+    },
+    {
+        "key": "ACTION_MOVE",
+        "value": "mugitu"
+    },
+    {
+        "key": "ACTION_PAUSE",
+        "value": "pausatu"
+    },
+    {
+        "key": "ACTION_RUN",
+        "value": "korrika"
+    },
+    {
+        "key": "ACTION_ZOOM",
+        "value": "zooma"
+    },
+    {
+        "key": "ACTION_ZOOMIN",
+        "value": "gerturatu"
+    },
+    {
+        "key": "ACTION_ZOOMOUT",
+        "value": "urrundu"
+    },
+    {
+        "key": "CONTROLS_MULTIPLE",
+        "value": "hainbat ekintza"
+    },
+    {
+        "key": "CONTROLS_TITLE",
+        "value": "~~~ KONTROLAK ~~~"
+    },
+    {
+        "key": "CREDITS_ACKNOWLEDGEMENT",
+        "value": "Joko hau Kulin nazioko Wurundjeri herriaren lurretan garatu da. Gure begirunea haien nagusiei, izan direnei eta izango direnei. Burujabetza ez zen inoiz emana izan."
+    },
+    {
+        "key": "CREDITS_AGOOSE",
+        "value": "antzara bat"
+    },
+    {
+        "key": "CREDITS_APPEARINGAS",
+        "value": "honakoak antzeztuz"
+    },
+    {
+        "key": "CREDITS_ART",
+        "value": "arte eta animazio gehigarria"
+    },
+    {
+        "key": "CREDITS_AS",
+        "value": "~"
+    },
+    {
+        "key": "CREDITS_AUDIO",
+        "value": "soinu-diseinua"
+    },
+    {
+        "key": "CREDITS_BY",
+        "value": "~"
+    },
+    {
+        "key": "CREDITS_CHARACTERS",
+        "value": "baratzezaina\ndendaria\nmengela\nTB dendako jabea\nauzoko txukuna\nauzoko narrasa\ntabernaria\ntabernariaren senarra\nbanatzailea\nhoriz jantzitako bezeroa\nurdinez jantzitako bezeroa\nagurea"
+    },
+    {
+        "key": "CREDITS_DEBUSSY",
+        "value": "Dan Golding\n(Debussyren Preludioetatik egokitua)"
+    },
+    {
+        "key": "CREDITS_EXEC",
+        "value": "produktore exekutiboak"
+    },
+    {
+        "key": "CREDITS_FONTTITLECURSIVE",
+        "value": "<font=Learning Curve Bold SDF><size=150%>Learning Curve</size></font>"
+    },
+    {
+        "key": "CREDITS_FONTS",
+        "value": "hitz-atzea"
+    },
+    {
+        "key": "CREDITS_FONTTITLEMONO",
+        "value": "<font=SelectMono-Italic SDF><size=119%>Select Mono</size></font>"
+    },
+    {
+        "key": "CREDITS_FONTTITLESANS",
+        "value": "Transport New"
+    },
+    {
+        "key": "CREDITS_INCOOPERATION",
+        "value": "honekin lankidetzan"
+    },
+    {
+        "key": "CREDITS_INTRODUCING",
+        "value": "eta aurkeztuz"
+    },
+    {
+        "key": "CREDITS_JAPAN",
+        "value": "panic japan"
+    },
+    {
+        "key": "CREDITS_MARKETING",
+        "value": "marketina"
+    },
+    {
+        "key": "CREDITS_MUSIC",
+        "value": "musika"
+    },
+    {
+        "key": "CREDITS_PLAYTEST",
+        "value": "probagileak"
+    },
+    {
+        "key": "CREDITS_PORTING",
+        "value": "kontsolarako euskarria"
+    },
+    {
+        "key": "CREDITS_PRODUCTION",
+        "value": "produkzioa"
+    },
+    {
+        "key": "CREDITS_PROGRAMMING",
+        "value": "programazio gehigarria"
+    },
+    {
+        "key": "CREDITS_QA",
+        "value": "kalitate bermea"
+    },
+    {
+        "key": "CREDITS_THANKS",
+        "value": "esker bereziak"
+    },
+    {
+        "key": "CREDITS_THANKYOU",
+        "value": "Eskerrik asko gure\nbidejokoan jolasteagatik.\n\n© 2019–20 House House"
+    },
+    {
+        "key": "CREDITS_THEGOOSE",
+        "value": "Antzara"
+    },
+    {
+        "key": "CREDITS_VIDEOGAME",
+        "value": "bideojokoaren egileak"
+    },
+    {
+        "key": "CREDITS_VOICEACTING",
+        "value": "ahotsak"
+    },
+    {
+        "key": "CREDITS_WEB",
+        "value": "weba"
+    },
+    {
+        "key": "CREDITS_WITHASSISTANCE",
+        "value": "honakoaren laguntzarekin"
+    },
+    {
+        "key": "GOAL_BUYBACK2",
+        "value": "lortu kale nagusikoa ez den norbaitek dagoeneko berea zen zerbait erostea"
+    },
+    {
+        "key": "CREDITS_FONTMAKERCURSIVE",
+        "value": "BV Fonts"
+    },
+    {
+        "key": "CREDITS_FONTMAKERMONO",
+        "value": "Michael McMaster"
+    },
+    {
+        "key": "CREDITS_FONTMAKERSANS",
+        "value": "K-Type\n(“Transport” jatorrizkoan oinarritua\n - Margaret Calvert eta Jock Kinneir)"
+    },
+    {
+        "key": "CREDITS_FMODTITLE",
+        "value": "audio euskarria"
+    },
+    {
+        "key": "CREDITS_FMODNAME",
+        "value": "FMOD Studio\n- Firelight Technologies Pty Ltd."
+    },
+    {
+        "key": "DEMO_FIVE_MINUTES",
+        "value": "bost minutu gelditzen dira"
+    },
+    {
+        "key": "DEMO_SECONDS_LEFT",
+        "value": "<seconds> segundo gelditzen dira"
+    },
+    {
+        "key": "DEMO_THANK_YOU",
+        "value": "Eskerrik asko gure bideojokoan jolasteagatik!\n2019an argitaratuko da.\n\nEgunean egoteko, harpidetu gure posta-zerrendara hemen: \n<font=\"TransportNew-Medium SDF\"><size=+1.5><line-height=100%>goose.game</size></font></line-height>"
+    },
+    {
+        "key": "CHECKLIST",
+        "value": "< zerrenda"
+    },
+    {
+        "key": "CONTROLS",
+        "value": "kontrolak >"
+    },
+    {
+        "key": "NEWTODO",
+        "value": "zeregin berria\negitekoen zerrendan !!"
+    },
+    {
+        "key": "NEWTODO_EXTRAPAGES",
+        "value": "orrialde berriak\negitekoen zerrendan !!"
+    },
+    {
+        "key": "NEWTODO_PAGE",
+        "value": "orrialde berria\negitekoen zerrendan !!"
+    },
+    {
+        "key": "TO_DO",
+        "value": "egiteko :"
+    },
+    {
+        "key": "GOAL_BAREFOOT",
+        "value": "behartu gizona oinutsik ibiltzera"
+    },
+    {
+        "key": "GOAL_BELL",
+        "value": "lortu gizonak tea ahotik botatzea"
+    },
+    {
+        "key": "GOAL_BREAKVASE",
+        "value": "lortu norbaitek luxuzko loreontzia apurtzea"
+    },
+    {
+        "key": "GOAL_DRESSSTATUE",
+        "value": "lagundu emakumeari bustoa janzten"
+    },
+    {
+        "key": "GOAL_PRUNE",
+        "value": "lortu norbaitek arrosa saritua kimatzea"
+    },
+    {
+        "key": "GOAL_RIBBON",
+        "value": "jantzi xingola dotorea"
+    },
+    {
+        "key": "GOAL_STARTFIGHT",
+        "value": "eman hasiera auzokoen arteko liskarrari"
+    },
+    {
+        "key": "GOAL_WASHING",
+        "value": "garbitu arropa"
+    },
+    {
+        "key": "GOAL_WASHINGEXTRA",
+        "value": "honekin : ~~bularretakoa~~, ~~galtzerdi parea~~, ~~etxeko oinetakoa~~, ~~xaboi barra~~"
+    },
+    {
+        "key": "GOAL_0MINUTES",
+        "value": "minutu bat baino gutxiago gelditzen da!"
+    },
+    {
+        "key": "GOAL_100",
+        "value": "burutu egitekoen zerrendako zeregin guztiak"
+    },
+    {
+        "key": "GOAL_10MINUTES",
+        "value": "hamar minutu gelditzen dira"
+    },
+    {
+        "key": "GOAL_1MINUTES",
+        "value": "minutu bat gelditzen dira"
+    },
+    {
+        "key": "GOAL_2MINUTES",
+        "value": "bi minutu gelditzen dira"
+    },
+    {
+        "key": "GOAL_3MINUTES",
+        "value": "hiru minutu gelditzen dira"
+    },
+    {
+        "key": "GOAL_4MINUTES",
+        "value": "lau minutu gelditzen dira"
+    },
+    {
+        "key": "GOAL_5MINUTES",
+        "value": "bost minutu gelditzen dira"
+    },
+    {
+        "key": "GOAL_6MINUTES",
+        "value": "sei minutu gelditzen dira"
+    },
+    {
+        "key": "GOAL_7MINUTES",
+        "value": "zazpi minutu gelditzen dira"
+    },
+    {
+        "key": "GOAL_8MINUTES",
+        "value": "zortzi minutu gelditzen dira"
+    },
+    {
+        "key": "GOAL_9MINUTES",
+        "value": "bederatzi minutu gelditzen dira"
+    },
+    {
+        "key": "GOAL_BOATBRIDGE",
+        "value": "gidatu jostailuzko itsasontzia zubipetik"
+    },
+    {
+        "key": "GOAL_BUST2",
+        "value": "apaindu bustoa atzeko lorategietatik kanpoko gauzekin"
+    },
+    {
+        "key": "GOAL_CABBAGE",
+        "value": "aza piknika"
+    },
+    {
+        "key": "GOAL_CATCH",
+        "value": "harrapatu objektu bat hesi gainetik jaurtitzen duten une berean"
+    },
+    {
+        "key": "GOAL_FLOWERS",
+        "value": "bildu bost loreak"
+    },
+    {
+        "key": "GOAL_FLOWERSEXTRA",
+        "value": "putzu ondoko saskian : ~~tulipa~~, ~~lirioa~~, ~~arrosa~~, ~~bitxilorea~~, ~~urrelilia~~"
+    },
+    {
+        "key": "GOAL_FOOTBALL",
+        "value": "sartu gol bat"
+    },
+    {
+        "key": "GOAL_LOCKOUT",
+        "value": "itxi baratzea giltzaz baratzezaina kanpoan dela"
+    },
+    {
+        "key": "GOAL_MAIL",
+        "value": "bidali eskutitz bat"
+    },
+    {
+        "key": "GOAL_MYSTERY",
+        "value": "<cspace=0.25>?????????????</cspace>"
+    },
+    {
+        "key": "GOAL_OLDMANHAT",
+        "value": "lapurtu agurearen artilezko txanoa"
+    },
+    {
+        "key": "GOAL_PERFORMRIBBON",
+        "value": "antzeztu pubean xingola jantzita duzula"
+    },
+    {
+        "key": "GOAL_PUDDLE",
+        "value": "erorarazi mutikoa putzura"
+    },
+    {
+        "key": "GOAL_SCALES",
+        "value": "lortu dendako balantzek txirrina jotzea"
+    },
+    {
+        "key": "GOAL_SPEEDYBACKYARDS",
+        "value": "burutu atzeko lorategietako egitekoak elizako kanpaiak jo aurretik"
+    },
+    {
+        "key": "GOAL_SPEEDYBACKYARDSEXTRA",
+        "value": "~~apurtu loreontzia~~, ~~jantzi bustoa~~, ~~botarazi tea~~, ~~jantzi xingola~~, ~~gizona oinutsik~~, ~~garbitu arropa~~, ~~kimatu arrosa~~"
+    },
+    {
+        "key": "GOAL_SPEEDYGARDEN",
+        "value": "burutu baratzeko egitekoak elizako kanpaiak jo aurretik"
+    },
+    {
+        "key": "GOAL_SPEEDYGARDENEXTRA",
+        "value": "~~sartu barrura~~, ~~bustiarazi~~, ~~lapurtu giltzak~~, ~~eguzkitako kapela~~, ~~eskuarea lakura~~, ~~piknika~~, ~~mailukada~~"
+    },
+    {
+        "key": "GOAL_SPEEDYPUB",
+        "value": "burutu pubeko egitekoak elizako kanpaiak jo aurretik"
+    },
+    {
+        "key": "GOAL_SPEEDYPUBEXTRA",
+        "value": "~~sartu barrura~~, ~~apurtu dardo-taula~~, ~~jostailuzko itsasontzia~~, ~~agurearen ipurdikoa~~, ~~lortu lorea~~, ~~pinta ubidera~~, ~~prestatu mahaia~~, ~~bota pertza~~"
+    },
+    {
+        "key": "GOAL_SPEEDYSHOPS",
+        "value": "burutu kale nagusiko egitekoak elizako kanpaiak jo aurretik"
+    },
+    {
+        "key": "GOAL_SPEEDYSHOPSEXTRA",
+        "value": "~~apurtu erratza~~, ~~harrapatu kabinan~~, ~~okerreko betaurrekoak~~, ~~gauzak berrerosi~~, ~~agertu telebistan~~, ~~egin erosketak~~, ~~harrapatu garajean~~"
+    },
+    {
+        "key": "GOAL_THROWNGOOSE",
+        "value": "lortu hesi gainetik jaurtia izatea"
+    },
+    {
+        "key": "GOAL_TOOLATE",
+        "value": "berrezarri egiteko hau burutzen saiatzeko"
+    },
+    {
+        "key": "GOAL_UMBRELLA",
+        "value": "ireki aterki bat tb denda barruan"
+    },
+    {
+        "key": "GOAL_WIMPGARAGE",
+        "value": "harrapatu mutikoa garaje barruan"
+    },
+    {
+        "key": "TO_DO_ASWELL",
+        "value": "egiteko (baita) :"
+    },
+    {
+        "key": "TO_DO_SPEEDY",
+        "value": "egiteko (bizkor!!) :"
+    },
+    {
+        "key": "UNUSED_FLOWERS",
+        "value": "urrelilia\nmitxoleta\nkrabelina\nekilorea"
+    },
+    {
+        "key": "GOAL_FINALE",
+        "value": "…eta eraman bueltan etxera"
+    },
+    {
+        "key": "GOAL_MODELVILLAGE",
+        "value": "sartu herriaren maketara"
+    },
+    {
+        "key": "GOAL_STEALBELL",
+        "value": "lapurtu miniaturazko urrezko kanpai ederra"
+    },
+    {
+        "key": "GOAL_GARDEN",
+        "value": "sartu baratzera"
+    },
+    {
+        "key": "GOAL_HAMMERING",
+        "value": "lortu baratzezainak erpurua mailuaz kolpatzea"
+    },
+    {
+        "key": "GOAL_HAT",
+        "value": "lortu baratzezainak eguzkitako kapela janztea"
+    },
+    {
+        "key": "GOAL_KEYS",
+        "value": "lapurtu baratzezainaren giltzak"
+    },
+    {
+        "key": "GOAL_PICNIC",
+        "value": "egin piknika"
+    },
+    {
+        "key": "GOAL_PICNICEXTRA",
+        "value": "eraman piknik oihalera : ~~sandwicha~~, ~~sagarra~~, ~~kuia~~, ~~azenarioa~~, ~~marmelada~~, ~~termoa~~, ~~irratia~~, ~~saskia~~"
+    },
+    {
+        "key": "GOAL_RAKE",
+        "value": "eskuarea lakura"
+    },
+    {
+        "key": "GOAL_WET",
+        "value": "lortu baratzezaina bustitzea"
+    },
+    {
+        "key": "GOAL_BOAT",
+        "value": "lortu jostailuzko itsasontzia"
+    },
+    {
+        "key": "GOAL_BUCKET",
+        "value": "bota pertza gizonkotearen buru gainera"
+    },
+    {
+        "key": "GOAL_FLOWER",
+        "value": "lortu lore bat sari gisa"
+    },
+    {
+        "key": "GOAL_INTOPUB",
+        "value": "sartu pubera"
+    },
+    {
+        "key": "GOAL_OLDMAN1",
+        "value": "apurtu dardo-taula"
+    },
+    {
+        "key": "GOAL_OLDMAN2",
+        "value": "lortu agurea erori eta ipurdikoa hartzea"
+    },
+    {
+        "key": "GOAL_PINTGLASS",
+        "value": "lapurtu pinta edalontzi bat eta bota ubidera"
+    },
+    {
+        "key": "GOAL_SETTABLE",
+        "value": "prestatu mahaia"
+    },
+    {
+        "key": "GOAL_SETTABLEEXTRA",
+        "value": "~~labana~~, ~~sardeska~~, ~~platera~~, ~~piperbeltza~~, ~~kandela~~"
+    },
+    {
+        "key": "GOAL_BROOM",
+        "value": "apurtu erratza"
+    },
+    {
+        "key": "GOAL_BUYBACK",
+        "value": "lortu norbaitek dagoeneko berea zen zerbait erostea"
+    },
+    {
+        "key": "GOAL_GARAGE",
+        "value": "harrapatu dendaria garaje barruan"
+    },
+    {
+        "key": "GOAL_GETINSHOP",
+        "value": "agertu telebistan"
+    },
+    {
+        "key": "GOAL_PHONEBOOTH",
+        "value": "harrapatu mutikoa telefono kabinan"
+    },
+    {
+        "key": "GOAL_SHOPPING",
+        "value": "egin erosketak"
+    },
+    {
+        "key": "GOAL_SHOPPINGEXTRA",
+        "value": "saskiratu : ~~hortzetako eskuila~~, ~~komuneko papera~~, ~~ile-eskuila~~, ~~kontserba-potoa~~, ~~garbigarria~~, ~~frutak eta barazkiak~~"
+    },
+    {
+        "key": "GOAL_WALKIETALKIE",
+        "value": "lapurtu walkie-talkie parea"
+    },
+    {
+        "key": "GOAL_WRONGGLASSES",
+        "value": "lortu mutikoak okerreko betaurrekoak janztea"
+    },
+    {
+        "key": "BACK",
+        "value": "atzera"
+    },
+    {
+        "key": "BY_HOUSE_HOUSE",
+        "value": "by House House"
+    },
+    {
+        "key": "GAME_TITLE",
+        "value": "Untitled\nGoose Game"
+    },
+    {
+        "key": "LOADING",
+        "value": "• kargatzen •"
+    },
+    {
+        "key": "PRESS_TO_HONK",
+        "value": "• sakatu <honkButton> karranka egiteko •"
+    },
+    {
+        "key": "TITLE_AREYOUSURE",
+        "value": "Ziur irten nahi duzula?"
+    },
+    {
+        "key": "TITLE_BEGIN",
+        "value": "Hasi"
+    },
+    {
+        "key": "TITLE_CREDITS",
+        "value": "Kredituak"
+    },
+    {
+        "key": "TITLE_NO",
+        "value": "Ez"
+    },
+    {
+        "key": "TITLE_OPTIONS",
+        "value": "Aukerak"
+    },
+    {
+        "key": "TITLE_QUIT",
+        "value": "Irten"
+    },
+    {
+        "key": "TITLE_SUBTITLE",
+        "value": "by House House"
+    },
+    {
+        "key": "TITLE_TITLE",
+        "value": "Untitled\nGoose Game"
+    },
+    {
+        "key": "TITLE_YES",
+        "value": "Bai"
+    },
+    {
+        "key": "NO",
+        "value": "Ez"
+    },
+    {
+        "key": "OPTIONS",
+        "value": "Aukerak"
+    },
+    {
+        "key": "PAUSED",
+        "value": "Pausatua"
+    },
+    {
+        "key": "QUIT",
+        "value": "Irten"
+    },
+    {
+        "key": "QUIT_SUBTITLE",
+        "value": "Ziur irten nahi duzula?\nAurrerapena gorde da."
+    },
+    {
+        "key": "QUIT_TITLE",
+        "value": "ITXARON"
+    },
+    {
+        "key": "RESET",
+        "value": "Berrezarri"
+    },
+    {
+        "key": "RESET_SUBTITLE",
+        "value": "Eragindako nahaspilak\nbere onera itzuliko dira,\nbaina aurrerapena gorde da."
+    },
+    {
+        "key": "RESET_TITLE",
+        "value": "BERREZARRI?"
+    },
+    {
+        "key": "RESUME",
+        "value": "Jarraitu"
+    },
+    {
+        "key": "YES",
+        "value": "Bai"
+    },
+    {
+        "key": "REBIND_CLEAR",
+        "value": "<size=120%>ezabatu - </size><tertiaryButton>"
+    },
+    {
+        "key": "REBIND_CONTROLLER_MISSING_2",
+        "value": ""
+    },
+    {
+        "key": "REBIND_DOWN",
+        "value": "behera"
+    },
+    {
+        "key": "REBIND_DPAD",
+        "value": "gurutzeta"
+    },
+    {
+        "key": "REBIND_FACE_BUTTONS",
+        "value": "aurreko botoiak"
+    },
+    {
+        "key": "REBIND_INPUT_MISSING_2",
+        "value": ""
+    },
+    {
+        "key": "REBIND_KEYBOARD_TITLE",
+        "value": "~~~ TEKLATU + SAGUAREN KONFIGURAZIOA ~~~"
+    },
+    {
+        "key": "REBIND_LEFT",
+        "value": "ezkerrera"
+    },
+    {
+        "key": "REBIND_LEFT_STICK",
+        "value": "Ezker-palanka"
+    },
+    {
+        "key": "REBIND_MISSING_BINDING",
+        "value": "!! ABISUA !!\nKONTROLAK FALTAN"
+    },
+    {
+        "key": "REBIND_MISSING_CONTROLLER",
+        "value": "!! ABISUA !!\nEZ DA AGINTERIK AURKITU"
+    },
+    {
+        "key": "REBIND_MOUSE_MOVE",
+        "value": "sagua mugitu"
+    },
+    {
+        "key": "REBIND_MOVE_STICK",
+        "value": "mugitu"
+    },
+    {
+        "key": "REBIND_PROMPT",
+        "value": "[zein botoi?]"
+    },
+    {
+        "key": "REBIND_RESET",
+        "value": "[berrezarri balio lehenetsiak]"
+    },
+    {
+        "key": "REBIND_RIGHT",
+        "value": "eskuinera"
+    },
+    {
+        "key": "REBIND_RIGHT_STICK",
+        "value": "Eskuin-palanka"
+    },
+    {
+        "key": "REBIND_SELECT",
+        "value": "<size=120%>hautatu - </size><confirmButton>"
+    },
+    {
+        "key": "REBIND_TITLE",
+        "value": "~~~ AGINTEAREN KONFIGURAZIOA ~~~"
+    },
+    {
+        "key": "REBIND_UNMAPPED",
+        "value": "???"
+    },
+    {
+        "key": "REBIND_UP",
+        "value": "gora"
+    },
+    {
+        "key": "SAVE_DONTERASE",
+        "value": "Ez ezabatu"
+    },
+    {
+        "key": "SAVE_EMPTY",
+        "value": "Hutsik"
+    },
+    {
+        "key": "SAVE_ERASECONFIRM",
+        "value": "Ziur zaude?"
+    },
+    {
+        "key": "SAVE_ERASECONFIRMNO",
+        "value": "Ez"
+    },
+    {
+        "key": "SAVE_ERASECONFIRMYES",
+        "value": "Bai"
+    },
+    {
+        "key": "SAVE_ERASESELECT",
+        "value": "Ezabatu?"
+    },
+    {
+        "key": "SAVE_ERASETEXT",
+        "value": "Ezabatu\ngordetakoa"
+    },
+    {
+        "key": "SAVE_MONTH1",
+        "value": "Urt"
+    },
+    {
+        "key": "SAVE_MONTH10",
+        "value": "Urr"
+    },
+    {
+        "key": "SAVE_MONTH11",
+        "value": "Aza"
+    },
+    {
+        "key": "SAVE_MONTH12",
+        "value": "Abe"
+    },
+    {
+        "key": "SAVE_MONTH2",
+        "value": "Ots"
+    },
+    {
+        "key": "SAVE_MONTH3",
+        "value": "Mar"
+    },
+    {
+        "key": "SAVE_MONTH4",
+        "value": "Api"
+    },
+    {
+        "key": "SAVE_MONTH5",
+        "value": "Mai"
+    },
+    {
+        "key": "SAVE_MONTH6",
+        "value": "Eka"
+    },
+    {
+        "key": "SAVE_MONTH7",
+        "value": "Uzt"
+    },
+    {
+        "key": "SAVE_MONTH8",
+        "value": "Abu"
+    },
+    {
+        "key": "SAVE_MONTH9",
+        "value": "Ira"
+    },
+    {
+        "key": "SAVE_SAVE1",
+        "value": "Gordetakoa 01"
+    },
+    {
+        "key": "SAVE_SAVE2",
+        "value": "Gordetakoa 02"
+    },
+    {
+        "key": "SAVE_SAVE3",
+        "value": "Gordetakoa 03"
+    },
+    {
+        "key": "LANGUAGE_BRAZILIAN_PORTUGUESE",
+        "value": "BRASILGO PORTUGESA"
+    },
+    {
+        "key": "LANGUAGE_ENGLISH",
+        "value": "INGELESA"
+    },
+    {
+        "key": "LANGUAGE_FRENCH",
+        "value": "FRANTSESA"
+    },
+    {
+        "key": "LANGUAGE_GERMAN",
+        "value": "ALEMANA"
+    },
+    {
+        "key": "LANGUAGE_ITALIAN",
+        "value": "ITALIERA"
+    },
+    {
+        "key": "LANGUAGE_JAPANESE",
+        "value": "JAPONIERA"
+    },
+    {
+        "key": "LANGUAGE_KOREAN",
+        "value": "KOREERA"
+    },
+    {
+        "key": "LANGUAGE_POLISH",
+        "value": "POLONIERA"
+    },
+    {
+        "key": "LANGUAGE_RUSSIAN",
+        "value": "ERRUSIERA"
+    },
+    {
+        "key": "LANGUAGE_SIMPLIFIED_CHINESE",
+        "value": "TXINERA"
+    },
+    {
+        "key": "LANGUAGE_SPANISH",
+        "value": "EUSKARA"
+    },
+    {
+        "key": "SETTING_BEND_TOGGLE",
+        "value": "makurtu"
+    },
+    {
+        "key": "SETTING_CURSIVE",
+        "value": "etzana"
+    },
+    {
+        "key": "SETTING_FULLSCREEN",
+        "value": "pantaila osoan"
+    },
+    {
+        "key": "SETTING_LANGUAGE",
+        "value": "hizkuntza"
+    },
+    {
+        "key": "SETTING_LEGIBLETEXT",
+        "value": "egitekoen testua"
+    },
+    {
+        "key": "SETTING_MUSIC",
+        "value": "musikaren bolumena"
+    },
+    {
+        "key": "SETTING_OFF",
+        "value": "--- / EZ"
+    },
+    {
+        "key": "SETTING_ON",
+        "value": "BAI / --"
+    },
+    {
+        "key": "SETTING_QUALITY",
+        "value": "grafikoen kalitatea"
+    },
+    {
+        "key": "SETTING_QUALITY1",
+        "value": "BIZKORRENA"
+    },
+    {
+        "key": "SETTING_QUALITY2",
+        "value": "TARTEKOA"
+    },
+    {
+        "key": "SETTING_QUALITY3",
+        "value": "EDERRENA"
+    },
+    {
+        "key": "SETTING_RESOLUTION",
+        "value": "bereizmena"
+    },
+    {
+        "key": "SETTING_RUN_TOGGLE",
+        "value": "korrika egin"
+    },
+    {
+        "key": "SETTING_SANSSERIF",
+        "value": "arrunta"
+    },
+    {
+        "key": "SETTING_SFX",
+        "value": "efektuen bolumena"
+    },
+    {
+        "key": "SETTING_SPEEDRUN",
+        "value": "speedrun erlojua"
+    },
+    {
+        "key": "SETTING_VIBRATION_TOGGLE",
+        "value": "dardara"
+    },
+    {
+        "key": "SETTING_WINGS_TOGGLE",
+        "value": "hegoak"
+    },
+    {
+        "key": "SETTING_ZOOM_TOGGLE",
+        "value": "zooma"
+    },
+    {
+        "key": "SETTINGS_ADJUSTCONTROLLER",
+        "value": "konfiguratu agintea ->"
+    },
+    {
+        "key": "SETTINGS_ADJUSTCONTROLS",
+        "value": "konfiguratu kontrolak ->"
+    },
+    {
+        "key": "SETTINGS_ADJUSTKEYBOARD",
+        "value": "konfiguratu teklatua + sagua ->"
+    },
+    {
+        "key": "SETTINGS_HONK",
+        "value": "karrankaren bolumena"
+    },
+    {
+        "key": "SETTINGS_TITLE",
+        "value": "~~~ AUKERAK ~~~"
+    },
+    {
+        "key": "SETTINGS_VIEW_CONTROLS",
+        "value": "ikusi kontrolak"
+    },
+    {
+        "key": "SETTING_HOLD",
+        "value": "MANTENDU"
+    },
+    {
+        "key": "SETTING_TOGGLE",
+        "value": "TXANDAKATU"
+    },
+    {
+        "key": "TEACHING_100REWARD",
+        "value": "zorionak - sari bat zain duzu etxean"
+    },
+    {
+        "key": "TEACHING_BEND",
+        "value": "mantendu <crouchButton> aurrerantz makurtzeko"
+    },
+    {
+        "key": "TEACHING_CONTROLS",
+        "value": "sakatu <goalsButton> kontrolak ikusteko"
+    },
+    {
+        "key": "TEACHING_CORNERING",
+        "value": "bizkor biratu ahalko duzu <runButton> sakatzeari uzten badiozu"
+    },
+    {
+        "key": "TEACHING_GOALS",
+        "value": "sakatu <goalsButton> egitekoen zerrenda eta kontrolak ikusteko"
+    },
+    {
+        "key": "TEACHING_MOVEMOUSE",
+        "value": "<mouseMoveButton> mugitzeko,\nklik bikoitza korrika egiteko"
+    },
+    {
+        "key": "TEACHING_MOVESTICK",
+        "value": "mantendu <runButton> korrika egiteko"
+    },
+    {
+        "key": "TEACHING_PICKUPGROUND",
+        "value": "makurtu lurretik gauzak hartzeko\n( mantendu <crouchButton> eta gero sakatu <useButton> )"
+    },
+    {
+        "key": "TEACHING_USE",
+        "value": "sakatu <useButton> mokoa erabiltzeko"
+    },
+    {
+        "key": "TEACHING_WINGS",
+        "value": "mantendu <flapButton> hegoei eragiteko"
+    },
+    {
+        "key": "TEACHING_ZOOM",
+        "value": "mantendu <zoomInButton> ikuspegia gerturatzeko\neta <zoomOutButton> urruntzeko"
+    },
+    {
+        "key": "SETTING_SCREENMODE",
+        "value": "bistaratze modua"
+    },
+    {
+        "key": "SETTING_SCREEN1",
+        "value": "pantaila osoan"
+    },
+    {
+        "key": "SETTING_SCREEN2",
+        "value": "ertzik gabe"
+    },
+    {
+        "key": "SETTING_SCREEN3",
+        "value": "leihoan"
+    },
+    {
+        "key": "TITLE_SPLASH1",
+        "value": "-ek aurkezten du"
+    },
+    {
+        "key": "CREDITS_BY2",
+        "value": "~"
+    },
+    {
+        "key": "CREDITS_BY3",
+        "value": "~"
+    },
+    {
+        "key": "TO_DO_FINALLY",
+        "value": "egiteko (azkenik) :"
+    },
+    {
+        "key": "TEACHING_CORNERINGKEYBOARD",
+        "value": "bizkor biratu ahalko duzu korrika egiteari uzten badiozu"
+    },
+    {
+        "key": "CREDITS_PANICSTAFF",
+        "value": "lantaldea"
+    },
+    {
+        "key": "EXHIBITION_WAIT",
+        "value": "ITXARON"
+    },
+    {
+        "key": "EXHIBITION_CONFIRM",
+        "value": "Are you sure\nyou want to reset?"
+    },
+    {
+        "key": "SAVE_AUTOSAVE",
+        "value": "Zure aurrerapena\n<space=3>automatikoki gordeko da."
+    },
+    {
+        "key": "SETTING_GOALREMINDER",
+        "value": "(sakatu <goalsButton> partidan zehar kontrol hauek berrikusteko)"
+    },
+    {
+        "key": "SETTING_CAMERAFOCUS",
+        "value": "kameraren fokua"
+    },
+    {
+        "key": "SETTING_GOOSEANDPEOPLE",
+        "value": "ANTZARA + JENDEA"
+    },
+    {
+        "key": "SETTING_GOOSEONLY",
+        "value": "ANTZARA SOILIK"
+    },
+    {
+        "key": "SETTING_LEGIBLESETTINGSTEXT",
+        "value": "ezarpenen testua"
+    },
+    {
+        "key": "SETTING_ITALICS",
+        "value": "italikoa"
+    },
+    {
+        "key": "TITLE_SIGNIN",
+        "value": "<tertiaryButton> Hasi saioa aurrerapena gordetzeko"
+    },
+    {
+        "key": "PRESENCE_MENU",
+        "value": "Menuan"
+    },
+    {
+        "key": "PRESENCE_GARDEN",
+        "value": "Baratzean"
+    },
+    {
+        "key": "PRESENCE_HIGHSTREET",
+        "value": "Kale nagusian"
+    },
+    {
+        "key": "PRESENCE_BACKGARDENS",
+        "value": "Atzeko lorategietan"
+    },
+    {
+        "key": "PRESENCE_PUB",
+        "value": "Pubean"
+    },
+    {
+        "key": "REBIND_RIGHT_STICK_PS4",
+        "value": "Eskuin-palanka"
+    },
+    {
+        "key": "REBIND_LEFT_STICK_PS4",
+        "value": "Ezker-palanka"
+    },
+    {
+        "key": "SETTINGS_ADJUSTCONTROLLER_PS4",
+        "value": "konfiguratu agintea ->"
+    },
+    {
+        "key": "REBIND_TITLE_PS4",
+        "value": "~~~ AGINTEAREN KONFIGURAZIOA ~~~"
+    },
+    {
+        "key": "REBIND_RIGHT_STICK_XBOX",
+        "value": "Eskuin-palanka"
+    },
+    {
+        "key": "REBIND_LEFT_STICK_XBOX",
+        "value": "Ezker-palanka"
+    },
+    {
+        "key": "SETTINGS_ADJUSTCONTROLLER_XBOX",
+        "value": "konfiguratu agintea ->"
+    },
+    {
+        "key": "REBIND_TITLE_XBOX",
+        "value": "~~~ AGINTEAREN KONFIGURAZIOA ~~~"
+    },
+    {
+        "key": "UNUSED_01",
+        "value": ""
+    },
+    {
+        "key": "TITLE_ONEPLAYER",
+        "value": "Jokalari bakarra"
+    },
+    {
+        "key": "TITLE_TWOPLAYER",
+        "value": "Bi jokalari"
+    },
+    {
+        "key": "READYMENU_NOTREADY2",
+        "value": "Prestatzen"
+    },
+    {
+        "key": "READYMENU_READY",
+        "value": "Prest"
+    },
+    {
+        "key": "READYMENU_NOTREADY",
+        "value": "Sakatu botoi bat"
+    },
+    {
+        "key": "COOP_READYPROMPT",
+        "value": "Zein aginte erabili\nnahi duzu?"
+    },
+    {
+        "key": "REBIND_PLAYERLABEL",
+        "value": "konfiguratzen"
+    },
+    {
+        "key": "TITLE_BACK",
+        "value": "Atzera"
+    },
+    {
+        "key": "TEACHING_ZOOMOUTONLY",
+        "value": "mantendu <zoomOutButton> urruntzeko"
+    },
+    {
+        "key": "READYMENU_P1",
+        "value": "1. jok."
+    },
+    {
+        "key": "READYMENU_P2",
+        "value": "2. jok."
+    },
+    {
+        "key": "TEACHING_CAMERASPLIT",
+        "value": "egin karranka kameraren arreta lortzeko (<honkButton>)"
+    },
+    {
+        "key": "READYMENU_NOCONTROLLERS",
+        "value": "ez dago beste aginterik erabilgarri"
+    },
+    {
+        "key": "TITLE_TITLE_MULTIPLAYER",
+        "value": "Untitled\nGeese Game"
+    },
+    {
+        "key": "CREDITS_AGOOSE_MULTIPLAYER",
+        "value": "zenbait antzara"
+    },
+    {
+        "key": "CREDITS_THEGOOSE_MULTIPLAYER",
+        "value": "Antzarak"
+    },
+    {
+        "key": "CONTROLS_TITLE_P1",
+        "value": "~~~ KONTROLAK (1. JOKALARIA) ~~~"
+    },
+    {
+        "key": "CONTROLS_TITLE_P2",
+        "value": "~~~ KONTROLAK (2. JOKALARIA) ~~~"
+    },
+    {
+        "key": "CONTROLS_SWAP_PLAYER",
+        "value": "sakatu <tertiaryButton> jokalariz aldatzeko"
+    },
+    {
+        "key": "REBIND_NONE_ALLOCATED",
+        "value": "!! ABISUA !!\nEZ ZAIO AGINTERIK ESLEITU JOKALARIARI"
+    },
+    {
+        "key": "TEACHING_MOVEMIXED",
+        "value": "<mouseMoveButton> mugitzeko,\n<runButton> edo klik bikoitza korrika egiteko"
+    },
+    {
+        "key": "REBIND_SWAPTOP1",
+        "value": "[aldatu 1. jokalarira]"
+    },
+    {
+        "key": "REBIND_SWAPTOP2",
+        "value": "[aldatu 2. jokalarira]"
+    },
+    {
+        "key": "SETTINGS_P1PREFIX",
+        "value": "1. jok.:"
+    },
+    {
+        "key": "SETTINGS_P2PREFIX",
+        "value": "2. jok.:"
+    },
+    {
+        "key": "SETTINGS_P1PREFIXSHORTFORM",
+        "value": "1j:"
+    },
+    {
+        "key": "SETTINGS_P2PREFIXSHORTFORM",
+        "value": "2j:"
+    },
+    {
+        "key": "REBIND_WRONG_CONTROLLER",
+        "value": "!! ABISUA !!\nOKERREKO JOKALARIA"
+    },
+    {
+        "key": "READYMENU_MOUSEKEYBOARD",
+        "value": "Sagua + teklatua"
+    },
+    {
+        "key": "READYMENU_GAMECONTROLLER",
+        "value": "Joko-agintea"
+    },
+    {
+        "key": "REBIND_NOTAPPLICABLE",
+        "value": "E/A"
+    },
+    {
+        "key": "LOADING_NOSAVEUSER",
+        "value": "Ez da zure aurrerapena gordeko, ez duzulako saioa hasi."
+    },
+    {
+        "key": "QUIT_NOSAVEUSER",
+        "value": "<size=85%>Ez da zure aurrerapena\ngordeko, ez duzulako\nsaioa hasi.\nIrten nahi duzu?</size>"
+    },
+    {
+        "key": "RESET_NOSAVEUSER",
+        "value": "Ez da zure aurrerapena\ngordeko, ez duzulako\nsaioa hasi."
+    },
+    {
+        "key": "SAVE_NOSAVEUSER",
+        "value": "Ez da zure aurrerapena gordeko, ez duzulako saioa hasi."
+    },
+    {
+        "key": "COOP_READYPROMPTSPECIFICPLAYER",
+        "value": "Sakatu botoi bat\nprest egotean:"
+    },
+    {
+        "key": "REBIND_NONE_ALLOCATED_XBOX",
+        "value": "!! ABISUA !!\nEZ ZAIO AGINTERIK ESLEITU JOKALARIARI"
+    },
+    {
+        "key": "REBIND_NONE_ALLOCATED_PS4",
+        "value": "!! ABISUA !!\nEZ ZAIO AGINTERIK ESLEITU JOKALARIARI"
+    },
+    {
+        "key": "SETTING_ICON",
+        "value": "bi jokalarien ikonoak"
+    },
+    {
+        "key": "LANGUAGE_TURKISH",
+        "value": "TURKIERA"
+    },
+    {
+        "key": "LANGUAGE_DUTCH",
+        "value": "NEDERLANDERA"
+    },
+    {
+        "key": "LANGUAGE_CZECH",
+        "value": "TXEKIERA"
+    }
+]
+}
