@@ -64,7 +64,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,PickupMentor,"I cannot describe how<nl>disappointed I am in you, Otus.","Ezin diat azaldu zenbat<nl>dezepzionatu nauan, Otus.",Dream/asioLessonPickupsFailed,120
 ,PickupMentor,Leave me. <30>I will bring water to Vellie myself.,Utz nazak. <30>Neronek eramango diat ura Velliera.,Dream/asioLessonPickupsFailed,124
 ,CoolMentor,"Otus, you have failed me again<30> and again<30> and again.","Otus, huts egin didak,<30> behin<30> eta berriro<30> eta berriro.",Dream/asioLessonPickupsFailed,192
-,CoolMentor,Today there are no lessons.,Gaur etzagok eskolarik.,Dream/asioLessonPickupsFailed,221
+,CoolMentor,Today there are no lessons.,Gaur ez zagok eskolarik.,Dream/asioLessonPickupsFailed,221
 ,CoolMentor,All you need to do today<30><nl>is to talk to the other villagers.,Gaur egin behar duan bakarra<30><nl>herritarrekin hitz egitea duk<30>.,Dream/asioLessonPickupsFailed,241
 ,CoolMentor,"Simple enough, right?<nl><30>Even for you.","Erraza, eztok?<nl><30>Baita hiretzat ere<30>.",Dream/asioLessonPickupsFailed,246
 ,CoolMentor,Have them tell you what they<nl>think of you<30> and your i<2>n<2>e<2>p<2>t<2>i<2>t<2>u<2>d<2>e<10>.,Galdetuiek ea zer iritzi duten hitaz<nl>eta hire <30> i<2>n<2>u<2>t<2>i<2>l<2>i<2>d<2>a<2>d<2>e<2>a<2>z<10>.,Dream/asioLessonPickupsFailed,251
@@ -226,7 +226,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,Toby,There's nothing like the feeling<nl>of the wind on a new horizon!,Ez zagok zerumuga berri bateko haizea<nl>sentitzea bezalakorik!,Vellie/tobyCheck,309
 ,Toby,I used to travel all the time!,Etengabe bidaiatu ohi nian!,Vellie/tobyCheck,309
 ,Toby,"Ah, I miss those days...","Bai, faltan botatzen ditiat garai haiek...",Vellie/tobyCheck,309
-,Toby,"Still, no journey beats soaking in the hot spring!","Halere, etzagok iturri termaleko uretan<nl>beratzen egotea gaindituko duen bidaiarik!",Vellie/tobyCheck,322
+,Toby,"Still, no journey beats soaking in the hot spring!","Halere, ez zagok iturri termaleko uretan<nl>beratzen egotea gaindituko duen bidaiarik!",Vellie/tobyCheck,322
 ,Toby,You should persuade some of the<nl>Adventians to try my hot spring.,Abendutar horietakoren bati nire ur termalak<nl>probatzeko gomendatu beharko hiokek.,Vellie/tobyCheck,334
 ,Toby,Can't have'em missing out<nl>on the best part of Vellie!,Ezin ditek Vellieko<nl>esperientzarik onena galdu!,Vellie/tobyCheck,334
 ,Toby,"You're looking for Geddy, huh?","Geddyren bila habil, e?",Vellie/tobyCheck,352
@@ -471,7 +471,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,Professor,"Remember to say goodbye to everyone, Otus.","Ez ahaztu lagun guztiak agurtzeaz, Otus.",Vellie/professorCheck,208
 ,Professor,"This will be dangerous, and...","Hau arriskutsua izango da, eta...",Vellie/professorCheck,208
 ,Professor,...You probably won't be back for a while.,...Seguruenik ez zarete denboraldi batez itzuliko.,Vellie/professorCheck,208
-,Professor,"I suppose I should bid you farewell, too.",Suposatzen dut nik ere ikusi arte esan beharko nizuekela.,Vellie/professorCheck,218
+,Professor,"I suppose I should bid you farewell, too.",Suposatzen dut nik ere ikusi arte esan beharko nizuekeela.,Vellie/professorCheck,218
 ,Professor,"We all know that you've been trying<nl>your best all this time, Otus.","Guztiok dakigu eginahal guztiak<nl>egin dituzula beti, Otus.",Vellie/professorCheck,218
 ,Professor,I hope this time it goes well for you.,Espero dut oraingoan lortuko duzula.,Vellie/professorCheck,218
 ,Professor,"With how things are looking, we might<nl>not have all that much time left.","Gauzak nola dauden ikusita, baliteke<nl>denbora askorik ez izatea.",Vellie/professorCheck,218
@@ -826,7 +826,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,Mentor,Otus!,Otus!,Vellie/townMeeting,240
 ,Mentor,You will go to the Owl temple.,Heu joango haiz Hontzaren Tenplura.,Vellie/townMeeting,251
 ,Mentor,The Professor and I need to go directly to Advent to warn them.,Irakaslea eta biok zuzenean Abendura joan behar diagu abisu ematera.,Vellie/townMeeting,251
-,Mentor,...And no-one else here can fly.,...eta hemengo beste inork etzekik hegan.,Vellie/townMeeting,251
+,Mentor,...And no-one else here can fly.,...eta hemengo beste inork ez zekik hegan.,Vellie/townMeeting,251
 ,Toby,...,...,Vellie/townMeeting,257
 ,Mandolyn,...,...,Vellie/townMeeting,262
 ,Bomboman,...,...,Vellie/townMeeting,267
@@ -841,7 +841,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,Mentor,"Otus, Geddy, Professor.<30><nl>Get ready to leave.","Otus, Geddy, irakasle.<30><nl>Prestatu joateko.",Vellie/townMeeting,331
 ,AsioAndProfessor,Get to the <b>Owl Temple<b> as quickly as you can!,Zoazte <b>Hontzaren Tenplura<b> ahalik bizkorren!,Vellie/townMeeting,411
 ,AsioAndProfessor,"Don't disappoint me, <15>Otus!","Ezidak hutsik egin, <15>Otus!",Vellie/townMeeting,411
-,AsioAndProfessor,Guards! <30><b>Open the gates<b>!,Guardiak! <30><b>Ireki ateak<b>!,Vellie/townMeeting,429
+,AsioAndProfessor,Guards! <30><b>Open the gates<b>!,Guardiok! <30><b>Ireki ateak<b>!,Vellie/townMeeting,429
 ,Mechanic,"Finally, the gate is open!<nl><30>Let's get out of here Otus!","Azkenean, ateak zabalik daude!<nl><30>Irten gaitezen hemendik, Otus!",Vellie/townMeeting,471
 ,Toby,This sauna here sure's nice!<nl>I come here on weekends.<nl>Weekdays too!,Sauna hau mundiala duk!<nl>Asteburuero etortzen nauk.<nl>Eta astegunero ere bai!,Vellie/saunaBabble,17
 ,Toby,I rub my face with Bomboman's<nl>ointments every day! It keeps ya young!<nl>Wish it kept me young too!,"Egunero Bombomanen ukenduak ematen ditiat<nl>aurpegian! Gazte mantentzen haute!<nl>Ai, ni ere gazte mantenduko banindute...!",Vellie/saunaBabble,17
@@ -1048,7 +1048,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,Professor,"Anyway, my <b>mapping machine<b> is incredible.","Dena dela, nire <b>kartografia makina<b> ikaragarria da.",Vellie/Lab/machineConversation,15
 ,Professor,"Even you have to admit that, Asio.","Zuk ere onartu behar duzu, Asio.",Vellie/Lab/machineConversation,15
 ,Mentor,Nonsense.,Txorakeriak.,Vellie/Lab/machineConversation,21
-,Mentor,The owls have done this for centuries.,Hontzok mendeak daramzkigu berdina egiten.,Vellie/Lab/machineConversation,21
+,Mentor,The owls have done this for centuries.,Hontzok mendeak daramazkigu berdina egiten.,Vellie/Lab/machineConversation,21
 ,Mentor,Your attempt to undermine my<nl>influence in the village is pathetic.,Herrixkan daukadan indarra ahultzeko<nl>zure saiakerak patetikoak dira.,Vellie/Lab/machineConversation,21
 ,Professor,You stubborn old..!,Zahar burugogorra...!,Vellie/Lab/machineConversation,32
 ,Professor,You think I'm playing petty politics?!,Joko politiko ergeletan nabilela uste duzu?!,Vellie/Lab/machineConversation,32
@@ -1586,7 +1586,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,penguinGubby,OH HAPPY DAY!!!,AZKENEAN!!!,Penguins/meetPenguinGubby2,43
 ,penguinGubby,Mister! <30>Are you here to save me?,Jauna! <30>Ni salbatzera etorri zara?,Penguins/meetPenguinGubby2,76
 ,penguinGubby,I've been stuck down here for ages!,Mendeak daramatzat hemen behean harrapatuta!,Penguins/meetPenguinGubby2,76
-,penguinGubby,"I'm so hungry, I was just about<nl>to eat my own feet, <15>he<15>he!","Hainbesteko gosea dauka, nire<nl>oina jatear nintzela, <15>je<15>je!",Penguins/meetPenguinGubby2,76
+,penguinGubby,"I'm so hungry, I was just about<nl>to eat my own feet, <15>he<15>he!","Hainbesteko gosea daukat, nire<nl>oina jatear nintzela, <15>je<15>je!",Penguins/meetPenguinGubby2,76
 ,penguinGubby,"Would you mind carrying me<nl>out of here, mister Owl?","Axola dizu ni hemendik kanpora<nl>eramatea, hontz jauna?",Penguins/meetPenguinGubbyNoGeddy,3
 ,Mechanic,"Hey there, fella!","Aupa, laguna!",Penguins/meetPenguinGubbyGeddy,15
 ,penguinGubby,Wow!,Kontxo!,Penguins/meetPenguinGubbyGeddy,27
@@ -1714,7 +1714,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,Buccanary,Back to your shack now!,"Zoaz zure txokora, berehala!",Buccanary/item2,326
 ,Penguin,"Okay, ma'am!","Bai, andrea!",Buccanary/item2,335
 ,Buccanary,Would you look at that!,Begira zer ordu den!,Buccanary/item3,6
-,Buccanary,Time for another s<3>u<3>r<3>p<3>r<3>i<3>s<3>e<3>!,Beste e<3>z<3>u<3>s<3>t<3>e<3>k<3>o baten ordua da!,Buccanary/item3,11
+,Buccanary,Time for another s<3>u<3>r<3>p<3>r<3>i<3>s<3>e<3>!,Beste e<3>z<3>u<3>s<3>t<3>e<3>k<3>o baterako ordua da!,Buccanary/item3,11
 ,Buccanary,"This next one isn't just cool, it's also very <b>nice<b>!","Eta hurrengo hau, ez da erabilgarria soilik, oso <b>polita<b> ere bada!",Buccanary/item3,38
 ,Buccanary,You're gonna just<15> love<15> it.,Ziur naiz <15>maiteko<15> duzula.,Buccanary/item3,46
 ,Buccanary,"Hee <10>hee<10>, gimme a second here.","Ji <10>ji<10>, itxaron une batez.",Buccanary/item3,54
@@ -1961,7 +1961,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,Mechanic,Wait just a minute!,Itxaron une batez!,Dungeon1/PirateBattle/pirates_beaten,342
 ,Mechanic,You're that troublemaker from Vellie!!!,Zu Vellieko bazter-nahasle hura zara!!!,Dungeon1/PirateBattle/pirates_beaten,342
 ,Mechanic,And you're in league with the pirates!?,Piratentzako lan egiten duzu!?,Dungeon1/PirateBattle/pirates_beaten,342
-,Mechanic,You distracted us during the<nl>attack on purpose didn't you!?,"Herria eraso zutenean<nl>nahita distraitu gintuzun, ezta!?",Dungeon1/PirateBattle/pirates_beaten,342
+,Mechanic,You distracted us during the<nl>attack on purpose didn't you!?,"Herriari eraso egin ziotenean<nl>nahita distraitu gintuzun, ezta!?",Dungeon1/PirateBattle/pirates_beaten,342
 ,TwigD1,Pirates? Attack?<nl>What are you babbling about?,Piratak? Eraso?<nl>Zeri buruz zabiltza marmarka?,Dungeon1/PirateBattle/pirates_beaten,354
 ,TwigD1,"Dirk's my friend,<nl>I do what he tells me!","Dirk nire laguna da,<nl>eta eskatzen didana egiten dut!",Dungeon1/PirateBattle/pirates_beaten,354
 ,TwigD1,You're just jealous because all you've<nl>got is feather-face over here!,Jeloskor zaude zuk daukazun laguntza<nl>bakarra alboko tipo lumatsu hori delako!,Dungeon1/PirateBattle/pirates_beaten,364
@@ -2125,7 +2125,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,Mechanic,"Let's go, Otus!","Goazen, Otus!",adventAttack,193
 ,Mechanic,We've gotta check if Asio and the Professor made it in time!,Asio eta irakaslea garaiz iritsi diren egiaztatu behar dugu!,adventAttack,193
 ,Mentor,<b>Otus!<b>,<b>Otus!<b>,adventAsioProfessorComplaining,38
-,Mentor,Don't just stand there! Get inside!,"Zer egiten duzue hor, geldi! Sartu barrura!",adventAsioProfessorComplaining,42
+,Mentor,Don't just stand there! Get inside!,"Zer egiten duzue hor geldirik! Sartu barrura!",adventAsioProfessorComplaining,42
 ,Mentor,"Hurry, you fool!","Bizkor, kaikuok!",adventAsioProfessorComplaining,55
 ,FakeTurretGunner1,.<10>.<10>?,.<10>.<10>.<10>?,Advent/molstromAttacks,43
 ,Molstrom,Ha<20> ha<20> ha!,Ja<20> ja<20> ja!,Advent/molstromAttacks,246
@@ -2601,7 +2601,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,Alphonse,"H<5>m<5>m<5>m<5>, well, <30>we can certainly try.","M<5>m<5>m<5>m<5>, bai, <30>saia gaitezke.",Dungeon2Entrance/darkFigure,194
 ,Alphonse,But our most important task is to get<nl>to that <b>last relic<b> before Molstrom does!,"Baina gure zereginik garrantzizkoena<nl><b>azken erlikia<b> aurkitzea da, Molstromek eskuratu baino lehen!",Dungeon2Entrance/darkFigure,199
 ,Mechanic,"OK, guys. <30>I-I'm not a huge fan of dark caves and...","Hara, mutilok. <30>N-Ni ez naiz kobazulo ilunetan sartu zale eta...",Dungeon2Jungle/LightIntroDoor,80
-,Mechanic,...I've heard <b><15>m[1]eat-<15>e[1]ating <15>gnats<b> thrive in these parts.,...Entzun dut inguruotan  <b><15>eltxo h[1]aragi<15>j[1]ale mordoa daudela.,Dungeon2Jungle/LightIntroDoor,85
+,Mechanic,...I've heard <b><15>m[1]eat-<15>e[1]ating <15>gnats<b> thrive in these parts.,...Entzun dut inguruotan <b><15>eltxo h[1]aragi<15>j[1]ale mordoa daudela.,Dungeon2Jungle/LightIntroDoor,85
 ,Mechanic,"But, it's the only way forward!","Baina, aurrera egiteko bide bakarra da!",Dungeon2Jungle/LightIntroDoor,97
 ,Alphonse,"I'll stand ready with my <b>musket<b>, Master Geddy!","Nire <b>mosketea<b> prestatuko dut, Maisu Geddy!",Dungeon2Jungle/LightIntroDoor,102
 ,Alphonse,"It's not much, but it may <b>provide us some light<b>.","Ez da askorik, baina <b>argi pixka bat emango digu<b>.",Dungeon2Jungle/LightIntroDoor,115
@@ -2675,7 +2675,7 @@ Context Note (not to translate),Speaker,English,Translation,File name,Line numbe
 ,Mechanic,All of this!!!,Guzti hau!!!,Dungeon2/startMinibossFight,254
 ,Twig,"Heh, maybe you should have<nl>stayed at your post in Vellie.","Je, agian zure Vellieko postuan<nl>gelditu behar zenuen.",Dungeon2/startMinibossFight,271
 ,Twig,"Right, <b>Dirk<b>?","Ezta, <b>Dirk<b>?",Dungeon2/startMinibossFight,275
-,RastaPirate,"Shut up, <b>Twig<b>. You're as<nl>much of a loser as they are.","Itxizak ahoa,  <b>Twig<b>. Hi ere<nl>haiek bezain galtzailea haiz.",Dungeon2/startMinibossFight,287
+,RastaPirate,"Shut up, <b>Twig<b>. You're as<nl>much of a loser as they are.","Itxizak ahoa, <b>Twig<b>. Hi ere<nl>haiek bezain galtzailea haiz.",Dungeon2/startMinibossFight,287
 ,Twig,Huh?,Zer?,Dungeon2/startMinibossFight,303
 ,RastaPirate,"Heh, don't worry, Goggles,<nl><b>I'm<b> not going to hurt you.","Je, ez kezkatu, Satorra,<nl><b>Nik<b> ez diat ezer egingo.",Dungeon2/startMinibossFight,323
 ,RastaPirate,Not when I have someone to do that for me...,Batez ere horretarako norbait daukadanean...,Dungeon2/startMinibossFight,331
@@ -2835,7 +2835,7 @@ SadGuy is Twig without his costume,SadGuy,Tsch.,Tstx.,Mesos/TwigFamily/rudeGuyCh
 ,Spiderguy,We're a great team!,Talde bikaina osatzen dugu!,Mesos/loseGeddy,138
 ,Mechanic,Team?!,Taldea?!,Mesos/loseGeddy,150
 ,Mechanic,You helped the pirates attack Vellie!,Zuk lagundu zenien piratei Vellie erasotzen!,Mesos/loseGeddy,204
-,Mechanic,You were still on their side<nl>during the attack on Advent!,Eta oraindik haien alde zeunden<nl>Abendu eraso zutenean!,Mesos/loseGeddy,213
+,Mechanic,You were still on their side<nl>during the attack on Advent!,Eta oraindik haien alde zeunden<nl>Abenduri eraso ziotenean!,Mesos/loseGeddy,213
 ,Mechanic,You tried to get us killed<nl>in the Floating Continent!,Gu hiltzen saiatu zinen<nl>Kontinente Hegalarian!,Mesos/loseGeddy,213
 ,Mechanic,And you think you're on our [1]TEAM?!,Eta uste duzu gure [1]TALDEAN zaudela?!,Mesos/loseGeddy,213
 ,Spiderguy,I'm <60>sorry...,Nik... <60>Sentitzen dut...,Mesos/loseGeddy,227
@@ -3210,7 +3210,7 @@ SadGuy is Twig without his costume,SadGuy,Tsch.,Tstx.,Mesos/TwigFamily/rudeGuyCh
 ,Pirate,Powerless...,Patetikoa...,Dungeon2/PirateBattle/pirateBattleStart,209
 ,Pirate,"Only weaklings who can't fend for<nl>themselves, will seek friendship.",Beren burua defendatzeko gauza ez diren<nl>ahulek soilik bilatzen diate adiskidetasuna.,Dungeon2/PirateBattle/pirateBattleStart,222
 ,Pirate,Just look at them!,Begiraiek!,Dungeon2/PirateBattle/pirateBattleStart,222
-,Pirate,"We were on our way to become<nl>the strongest, yet [1]YOU <30>abandoned us.","Indartsuenak bilakatzeko bidean geundean,<nl>eta [1]HIK  <30>abandonatu egin gaituk.",Dungeon2/PirateBattle/pirateBattleStart,252
+,Pirate,"We were on our way to become<nl>the strongest, yet [1]YOU <30>abandoned us.","Indartsuenak bilakatzeko bidean geundean,<nl>eta [1]HIK <30>abandonatu egin gaituk.",Dungeon2/PirateBattle/pirateBattleStart,252
 ,Pirate,...,...,Dungeon2/PirateBattle/pirateBattleStart,263
 ,Pirate,"You're going to pay, Alphonse!","Larrutik ordainduko duk, Alphonse!",Dungeon2/PirateBattle/pirateBattleStart,277
 ,Pirate,You're all going to pay!,Larrutik ordainduko duzue denok!,Dungeon2/PirateBattle/pirateBattleStart,281
@@ -3740,7 +3740,7 @@ SadGuy is Twig without his costume,SadGuy,Tsch.,Tstx.,Mesos/TwigFamily/rudeGuyCh
 ,Alphonse,I remember hearing talk of a great<nl><b>machine<b> built in the Continent.,Gogoratzen dut inoiz entzun izana Kontinentean<nl><b>makina<b> bikain bat eraiki zutela.,Bonfire/Tropos/adventDestroyed,324
 ,Alphonse,A machine built by the owls<30><nl>further back than I can recall.,"Hontzek eraikitako makina bat,<30><nl>gogora dezakedana baino antzinakoagoa.",Bonfire/Tropos/adventDestroyed,324
 ,Alphonse,"These days, the Floating Continent is half<nl>overgrown with plants and half submerged in lava.","Baina, gaur egun, Kontinente Hegalari erdi<nl>landarediak irentsi du, eta beste erdia labak.",Bonfire/Tropos/adventDestroyed,324
-,Alphonse,"A terrifying, inhospitable place full of beasts and pitfalls.","Leku  ikaragarri eta babesgabea, piztia eta arriskuz betea.",Bonfire/Tropos/adventDestroyed,324
+,Alphonse,"A terrifying, inhospitable place full of beasts and pitfalls.","Leku ikaragarri eta babesgabea da, piztia eta arriskuz betea.",Bonfire/Tropos/adventDestroyed,324
 ,Alphonse,A good place for adventurers such<nl>as ourselves to prove our mettle!,Gu moduko abenturazaleek haien adorea<nl>frogatzeko leku paregabea.,Bonfire/Tropos/adventDestroyed,338
 ,Mechanic,...,...,Bonfire/Tropos/adventDestroyed,345
 ,Mechanic,Umm...,Mmm...,Bonfire/Tropos/adventDestroyed,350
@@ -4333,7 +4333,7 @@ OldGuy/Twig’s dad’s rapid-fire rambling in Mesos,menu?,DELINQUENT!,GAIZKILEA
 OldGuy/Twig’s dad’s rapid-fire rambling in Mesos,menu?,EVIL DOER!,ZITALA!,default.ini,-1
 OldGuy/Twig’s dad’s rapid-fire rambling in Mesos,menu?,MONSTROSITY!,MUNSTROKERIA!,default.ini,-1
 "Bonfire sentence fragments. Is combined with a topic, such as «Vellie», to make «You want to talk about Vellie?» Remember a space at the end.",menu?,You want me to tell you about ,Zeri buruz hitz egingo dugu... ,default.ini,-1
-"Bonfire sentence fragments. Is combined with a topic, such as «Twig», to make «How about [talking about] Twig?» Remember a space at the end.",menu?,How about ,Zeri buruz...  ,default.ini,-1
+"Bonfire sentence fragments. Is combined with a topic, such as «Twig», to make «How about [talking about] Twig?» Remember a space at the end.",menu?,How about ,Zeri buruz... ,default.ini,-1
 "Bonfire sentence fragments. Is combined with a topic, such as «Vellie», to make «You want to talk about Vellie?» Remember a space at the end.",menu?,Um... ,Um... ,default.ini,-1
 Pirate inspector part 1. He’ll say something like «You eh?» «Bomb squad!» to assign a pirate minion to the bomb squad.,menu?,Hm ...,Mm...,default.ini,-1
 Pirate inspector part 1. He’ll say something like «You eh?» «Bomb squad!» to assign a pirate minion to the bomb squad.,menu?,Your job is ...,Zure egitekoa...,default.ini,-1
