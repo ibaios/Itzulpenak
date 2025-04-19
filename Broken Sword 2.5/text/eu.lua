@@ -1110,7 +1110,7 @@ return
 	FNK0007 = "Apalak arakatu ditut.",
 	FNK0008 = "Bilaketan ale interesgarri bat aurkitu dut.",
 	FNK0009 = "Hilketa-saiakera hizki lodiz kritikatzen du.",
-	FNK0010 = "Badakit, noski, Nico-rekin hitz egiteak egunkari honek baino gehiago lagunduko lidakela ...",
+	FNK0010 = "Badakit, noski, Nico-rekin hitz egiteak egunkari honek baino gehiago lagunduko lidakeela ...",
 	FNK0011 = "baina ez dut uste Nico-k hitz egin nahiko duenik, zein egoeratan dagoen kontuan hartuz.",
 	FNK0012 = "Agian artikuluak tenplarioak ere aipatuko ditu.",
 	FNK0013 = "Egunkaria patrikan sartu ahala, paper zati bat erori da.",
@@ -1272,7 +1272,7 @@ return
 
 	UBU0096 = "Suspertu zara shock hartatik?",
 	UBU0097 = "Barkatu, Monsieur?",
-	UBU0098 = "Badakit ez nukela bera zure aurka erabili beharko, baina ez nuen beste aukerarik. Ulertzen?",
+	UBU0098 = "Badakit ez nukeela bera zure aurka erabili beharko, baina ez nuen beste aukerarik. Ulertzen?",
 	UBU0099 = "Ez, ez dut ulertzen.",
 	UBU0100 = "Lady Piermont, pianista eta epailea!",
 	UBU0101 = "Ah oui, Madame bioleta. Piztia bat, mon amie!",
@@ -2435,7 +2435,7 @@ return
 	BAR0024 = "Ezta pentsatu ere. Lankideentzat soilik da!",
 	BAR0025 = "Tira, hemen ez dago jende askorik.",
 	BAR0026 = "Erantzun horregatik kalera bota beharko zintuzket.",
-	BAR0027 = "Ez da ideia txarra, egia esan. \"Bobby Country\" bisitatuko dut, orduan. Noski, horrek esan nahiko luke are bezero gutxiago izango zenituzkela ...",
+	BAR0027 = "Ez da ideia txarra, egia esan. \"Bobby Country\" bisitatuko dut, orduan. Noski, horrek esan nahiko luke are bezero gutxiago izango zenituzkeela ...",
 	BAR0028 = "*marmarra*",
 
 	BAR0029 = "Ba dakizu ezer tenplarioei buruz?",
