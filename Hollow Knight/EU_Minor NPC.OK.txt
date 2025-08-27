@@ -183,7 +183,7 @@
     <entry name="TUK_GREET">Mmmnnnnnnngghhh... Urak ekartzen dit behar dudan guztia... aurkitu besterik ez dut egin behar.&lt;page&gt;Zeu ere hona ekarri zaitu. Gose zara? Nire janaria zurekin partekatuko dut... geo batzuk ematen badizkidazu.</entry>
     <entry name="TUK_BUY">Mnngh... orain geo hauek nireak dira. Ez saiatu bueltan hartzen.&lt;page&gt;Tori, hartu janaria zurekin zoazenean.</entry>
     <entry name="TUK_DUNG">Mmnnnnggghhh...? Zure usaina... Laguna zara, zu ere? Laguna bazara, janaria zurekin partekatuko dut.&lt;page&gt;Berriro ikusten duzunean, gure laguna... emazkiozu eskerrak nire partez. Laguntzagatik.</entry>
-    <entry name="TUK_DECLINE">Mngh? Ez baduzu nahi, niretzako hartuko dut.</entry>
+    <entry name="TUK_DECLINE">Mngh? Ez baduzu nahi, niretzako gordeko dut.</entry>
     <entry name="TUK_NOTENOUGH">Ez dauzkazu behar beste geo?!&lt;page&gt;Mnnghh! Ez dut jatekoa zurekin partekatuko georik eman ezin badidazu.</entry>
     <entry name="TUK_EGGMAX">Janari mordoa daukazu, ezta? Mnngh... Usain dezaket.&lt;page&gt;Tripazain hori... ez dut zurekin partekatuko.</entry>
     <entry name="TUK_REPEAT">Nire janaria zurekin partekatuko dut... geoak ematen badizkidazu.</entry>

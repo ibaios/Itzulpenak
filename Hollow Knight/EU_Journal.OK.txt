@@ -436,7 +436,7 @@
     <entry name="NOTE_MANTIS">Onddozko basoetan gehiegi sakoneratzen bazara, gudari hauek itxiko dizute bidea. Zer ote daukate zaintzeko, haien lurraren sakonean?</entry>
     <entry name="NOTE_MANTIS_LORD">Marisorginen tribua eta Sakrabia zaharreko zomorroak ez ziren elkarren lagun. Baina marisorginak haien arerioak baino luzaroago bizi izan ziren, eta haien zibilizazioak hor dirau oraindik.</entry>
     <entry name="NOTE_MAWLEK">Batzuetan, harpeetan zehar nabilela, piztia honen garrasiak entzuten ditut, baina ez dut bera inoiz ikusi. Zeri edo nori deika ari ote da? Nik dakidala, bere oihuek ez dute inoiz erantzunik jasotzen.</entry>
-    <entry name="NOTE_MAWLEK_TURRET">Nola galdu zituen hankak izaki ergel honek?! Suposatzen dut edozer gal daitekela, gogor saiatuz gero.</entry>
+    <entry name="NOTE_MAWLEK_TURRET">Nola galdu zituen hankak izaki ergel honek?! Suposatzen dut edozer gal daitekeela, gogor saiatuz gero.</entry>
     <entry name="NOTE_MEGA_BEAM_MINER">Nola ikusten du mundua izaki horrek, bere kristalezko kartzelatik begira? Argia soilik ikusten al du? Horrek ote darama frenesi egoerara?</entry>
     <entry name="NOTE_MEGA_JELLYFISH">Gure azpiko arroila, laino trinkoz betea eta energia bereziz txinpartaka... ehiztari batek orientatzeko sena gal dezake hor behean. Kontuz ibili... izaki bitxi eta naturaz kanpokoak dabiltza bertan zelatan.</entry>
     <entry name="NOTE_MEGA_MOSS_CHARGER">Taldean indartsuagoak gara, bai, baina izaki hauek ez dira inoiz oso indartsuak izan. Ez zaitzatela engaina!</entry>

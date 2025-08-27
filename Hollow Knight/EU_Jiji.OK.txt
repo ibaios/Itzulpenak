@@ -17,7 +17,7 @@
     <entry name="MEET2">Jiji naiz, eta nire ganberarako bidea aurkitu baduzu, ziur laguntza bila zatozela.&lt;page&gt;Bai ba, batzuetan gure damuak atzean uzten ditugu, orban beltzak balira bezala.&lt;page&gt;Eta ez badugu damuokin bakerik egiten, itxaropena agortzen hasten zaigu.&lt;page&gt;Zuk ba al daukazu damurik, txikia? Ea, utzidazu ikusten...</entry>
     <entry name="MINES">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, inguruko kristalen distira itsugarriak ia ezkutaturik.</entry>
     <entry name="NO_EGGS">Hmm, baina ez daukazu jatekorik gainean. Ez behintzat nire interesekorik. Ezin dut lanik egin tripa hutsarekin, beraz, itzul zaitez jaki gozoren bat aurkitzen duzunean... jaki elikagarriren bat.</entry>
-    <entry name="NO_EGGS_REPEAT">Gustuko dudan jana... leuna da, biribila, eta ahoan lehertzen da era gozagarrian. Darion usaina... pentsatzen hutsak kitzikatzen nau. Munduan den gauzarik bikainena da, benetan diotsut. </entry>
+    <entry name="NO_EGGS_REPEAT">Gustuko dudan jana... leuna da, biribila, eta ahoan lehertzen da era gozagarrian. Darion usaina... pentsatze hutsak kitzikatzen nau. Munduan den gauzarik bikainena da, benetan diotsut. </entry>
     <entry name="NOSHADE">Ah, ez dirudi atzean utzitako damurik daukazunik. Zorionekoa zu. Ez duzu ni lako baten zerbitzuen beharrik.</entry>
     <entry name="NOSHADE_REPEAT">Damurik ez duzula dirudi. Ez duzu ni lako baten zerbitzuen beharrik. Hurren arte.</entry>
     <entry name="OUTSKIRTS">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, urrunean, munduaren azken ertzean.</entry>

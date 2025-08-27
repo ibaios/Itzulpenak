@@ -9,7 +9,7 @@
     <entry name="ART_DREAM">....Bizitza oso bat bakardadean lanean atsedenik hartu gabe... bizimodu hau atseginagoa da...</entry>
     <entry name="NAILSMITH_MEET_1">Leuntzeko beste ezten bat dakarkidazu? Utz ezazu lurrean eta itzuli geroago, oraindik bizirik bazaude behintzat.</entry>
     <entry name="NAILSMITH_MEET_2">Hmm?&lt;page&gt;Oh. Beste norbait zinela pentsatu dut.</entry>
-    <entry name="NAILSMITH_MEET_3">Ezten-arotz baten bila zabiltza? Ba aurkitu duzu bat. Ez naiz hizketa zalea, baina konpondu beharreko ezten bat badaukazu, zomorro egokiarengana zatoz.&lt;page&gt;Zure eztena bera nahikoa egoera tamalgarrian dago. Argi dago ez dela nire eztenetako bat. Halere, edozer findu daiteke, behar beste esfortzu eta abileziarekin, baita xafla apurtu hori ere.</entry>
+    <entry name="NAILSMITH_MEET_3">Ezten-arotz baten bila zabiltza? Ba aurkitu duzu bat. Ez naiz hizketa zalea, baina konpondu beharreko ezten bat badaukazu, zomorro egokiarengana zatoz.&lt;page&gt;Zure eztena bera nahikoa egoera tamalgarrian dago. Argi dago ez dela nire eztenetako bat. Halere, edozer findu daiteke behar beste esfortzu eta abileziarekin, baita xafla apurtu hori ere.</entry>
     <entry name="NAILSMITH_KILL_REPEAT">Ez zalantzarik egin. Erregutzen dizut. Erdibitu nazazu! Xafla horren ertz preziatua dastatu nahi dut.</entry>
     <entry name="NAILSMITH_OFFER_ORE">Ikusten dut mea zurbila daukazula. Metal bitxia eta bikaina da hori. Emadazu mea eta geo batzuk nire eginahalen truke, eta zure eztena birforjatuko dut gogorrago bihur dadin.</entry>
     <entry name="NAILSMITH_REGREET">Hmm? Hemen zaude oraindik. Beste ezer behar duzu?</entry>
