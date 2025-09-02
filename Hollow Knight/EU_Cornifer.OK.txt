@@ -36,5 +36,5 @@
     <entry name="CITY_BOUGHT">Urrutira bidaiatu dugu biok leku zoragarri honetara iristeko. Eraikin hauetan zehar nabilela, Iseldari oparitzeko zerbait bildu beharko nuke.</entry>
     <entry name="MINES_BOUGHT">Ebakia egin dut hor atzeko kristal horietako batekin. Izugarri zorrotzak dira, eta inguru guztian daude. Horrantz bazoaz, kontuz ibili. </entry>
     <entry name="GREENPATH_GREET">Kontraste ederra Bidegurutzeetatik hona, ezta? Zeinen leku hezea eta bizia. Bideak modurik zoragarrienean kiribildu eta biratzen dira.&lt;page&gt;Ahal nuen guztia egin dut aurrean duzun gune hau marrazten, baina esan beharra daukat hemen bizi diren izaki batzuek ez didatela lana erraztu.</entry>
-    <entry name="FOG_CANYON_BOUGHT">Erikin handi bat dago justu azpian, laku baten erdian, eta ikuspegi harrigarria eskaintzen du.&lt;page&gt;Barrura sartzen saiatu naiz, baina izaki likatsu erdigarden horiek habiatzat hartu dute.&lt;page&gt;Afa. Hain dira... nazkagarriak, eta ukituz gero deskarga elektrikoak ematen dituzte. </entry>
+    <entry name="FOG_CANYON_BOUGHT">Eraikin handi bat dago justu azpian, laku baten erdian, eta ikuspegi harrigarria eskaintzen du.&lt;page&gt;Barrura sartzen saiatu naiz, baina izaki likatsu erdigarden horiek habiatzat hartu dute.&lt;page&gt;Afa. Hain dira... nazkagarriak, eta ukituz gero deskarga elektrikoak ematen dituzte. </entry>
 </entries>
