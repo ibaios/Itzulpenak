@@ -386,11 +386,11 @@
       },
       {
         "key": "intro_attention",
-        "val": "Att:\nAseguru eta Erreklamazioen\nIkuskatzaile Burua\nLondreseko Bulegoa"
+        "val": "Att:\nAseguru eta Erreklamazioen\nIkuskatzaile Burua\nLondresko Bulegoa"
       },
       {
         "key": "intro_dispatch",
-        "val": "Obra Dinn ontzia itzuli da.\nGerturatu berehala Falmouth-era txosten osatu bat idazteko."
+        "val": "Obra Dinn ontzia itzuli da.\nGerturatu berehala Falmouthera txosten osatu bat idazteko."
       },
       {
         "key": "welldone",
@@ -762,11 +762,11 @@
       },
       {
         "key": "disappeared_text_d060",
-        "val": "Zazpi arima setasu desagertu ziren kapitulu honetako gertakarietan. Haien patuak hemen katalogatu dira."
+        "val": "Zazpi arima setatsu desagertu ziren kapitulu honetako gertakarietan. Haien patuak hemen katalogatu dira."
       },
       {
         "key": "disappeared_text_d080",
-        "val": "Lau arima setasu desagertu ziren kapitulu honetako gertakarietan. Haien patuak hemen katalogatu dira."
+        "val": "Lau arima setatsu desagertu ziren kapitulu honetako gertakarietan. Haien patuak hemen katalogatu dira."
       },
       {
         "key": "location_room_captain_outside",
@@ -1610,7 +1610,7 @@
       },
       {
         "key": "tally_ship_info",
-        "val": "Haizealdiak kaltetua, Atlantikoan. Enbatak hondoratua, Falmouth-en. Erreklamatutako kopurua: $amount."
+        "val": "Haizealdiak kaltetua, Atlantikoan. Enbatak hondoratua, Falmouthen. Erreklamatutako kopurua: $amount."
       },
       {
         "key": "tally_cargo_company",
@@ -1686,11 +1686,11 @@
       },
       {
         "key": "tally_estate_wages",
-        "val": "Oinordekoentzako soldata bereziak: $amount"
+        "val": "Oinordekoentzako soldata berezia: $amount"
       },
       {
         "key": "tally_estate_wages_reward",
-        "val": "Oinordekoentzako soldata eta ordainsari bereziak: $amount"
+        "val": "Oinordekoentzako soldata eta ordainsari berezia: $amount"
       },
       {
         "key": "tally_estate_fined",
@@ -1698,11 +1698,11 @@
       },
       {
         "key": "tally_estate_unknown_wages",
-        "val": "Oinordeko ezezagunak. Pentsio-funtsera gehitzeko soldata bereziak: $amount"
+        "val": "Oinordeko ezezagunak. Pentsio funtsera gehitzeko soldata berezia: $amount"
       },
       {
         "key": "tally_estate_unknown_wages_reward",
-        "val": "Oinordeko ezezagunak. Pentsio-funtsera gehitzeko soldata eta ordainsari bereziak: $amount"
+        "val": "Oinordeko ezezagunak. Pentsio funtsera gehitzeko soldata eta ordainsari berezia: $amount"
       },
       {
         "key": "tally_estate_unknown_fined",
@@ -1718,7 +1718,7 @@
       },
       {
         "key": "tally_parting_book",
-        "val": "Liburua bere jatorrizko jabeagana bueltatuko duzu, Henry Evans-engana, Marokora, hark eskatu bezala."
+        "val": "Liburua bere jatorrizko jabeagana bueltatuko duzu, Henry Evansengana, Marokora, hark eskatu bezala."
       },
       {
         "key": "office_letter_win",
@@ -1738,7 +1738,7 @@
       },
       {
         "key": "store_description_long",
-        "val": "1802an, Obra Dinn merkataritza-ontzia Londresetik Ekialderantz abiatu zen, 200 tonatik gora salgairekin. Sei hilabete geroago, Esperantza Oneko lurmuturreko helburura iritsi gabe, itsasoan galdutzat eman zen. \n\nGaur, 1807ko urriaren 14ko goizean, Obra Dinn-a Falmouth-eko kaian lurreratu da hondaturiko belekin eta eskifaiarik gabe. Ekialdeko Indietako Konpainiaren Londreseko bulegoan aseguru-ikuskatzaile gisa, Falmouth-era abiatu behar duzu berehala, ontziratzea lortu eta kalteen txostena prestatu.\n\nReturn of the Obra Dinn misteriozko abentura da lehenengo pertsonan, esplorazioa eta ebazpen logikoa oinarritzat duena."
+        "val": "1802an, Obra Dinn merkataritza-ontzia Londrestik Ekialderantz abiatu zen, 200 tonatik gora salgairekin. Sei hilabete geroago, Esperantza Oneko lurmuturreko helburura iritsi gabe, itsasoan galdutzat eman zen. \n\nGaur, 1807ko urriaren 14ko goizean, Obra Dinn-a Falmoutheko kaian lurreratu da hondaturiko belekin eta eskifaiarik gabe. Ekialdeko Indietako Konpainiaren Londresko bulegoan aseguru-ikuskatzaile gisa, Falmouthera abiatu behar duzu berehala, ontziratzea lortu eta kalteen txostena prestatu.\n\nReturn of the Obra Dinn misteriozko abentura da lehenengo pertsonan, esplorazioa eta ebazpen logikoa oinarritzat duena."
       },
       {
         "key": "store_description_short",
@@ -3330,7 +3330,7 @@
       },
       {
         "key": "dialog_d5_m2_ea",
-        "val": "Egon atzean! Nick-enak egin dik!"
+        "val": "Egon atzean! Nickenak egin dik!"
       },
       {
         "key": "dialog_d5_m2_fa",
@@ -3538,7 +3538,7 @@
       },
       {
         "key": "dialog_d7_m1_aa",
-        "val": "Geldiarazizak, malapartatu hori."
+        "val": "Geldiaraz ezak, malapartatu hori."
       },
       {
         "key": "dialog_d7_m1_ba",
@@ -3630,7 +3630,7 @@
       },
       {
         "key": "dialog_d7_m3_pa",
-        "val": "…eramanzazu etxera."
+        "val": "…eraman ezazu etxera."
       },
       {
         "key": "dialog_d7_m4_aa",
@@ -3806,7 +3806,7 @@
       },
       {
         "key": "dialog_d8_m5_da",
-        "val": "Esan Pete-en amari…"
+        "val": "Esan Peteren amari…"
       },
       {
         "key": "dialog_d8_m5_dh",
