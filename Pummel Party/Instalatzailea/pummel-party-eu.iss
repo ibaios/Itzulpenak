@@ -1,6 +1,6 @@
 #define MyAppName "Pummel Party euskaraz"
 #define MyAppFilesystemName "Pummel Party euskaraz"
-#define MyAppVersion "1.7"
+#define MyAppVersion "1.8"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppURL "https://ibaios.eus/"
 #define MyAppIcon "pummel-party-eu.ico"
