@@ -16,13 +16,13 @@
     <entry name="DIVINE_CHARM_EQUIPPED_2">Aaaaahhhhhhh! Usain dezaket! Beste opari bat, niretzako. Emadazu!</entry>
     <entry name="DIVINE_CHARM_EQUIPPED">Aaaaaaaaahhhhhhhh!&lt;page&gt;Kutun hori... benetan ederra! Dagoenik eta preziatuena! Maitagarri txikia, utziko ikusten? Erakutsi beharra didazu!</entry>
     <entry name="DIVINE_CONVO_1">Usain ugari dituzu gainean, baina bat ere ez da zeurea. Gauzatxo bitxia...</entry>
-    <entry name="DIVINE_DREAM_LEGEATER">Inoiz ez dut gauza finagorik dastatu! Ahhhhh!&lt;page&gt;Nirekin eramango ditut... zure oroitzapen eder-ederrak! Zapore eta usain ederrak!</entry>
     <entry name="DIVINE_DREAM">Itzalak eta suak elkarrekin dantzan egingo dute, hain ederki, nire ustez...</entry>
+    <entry name="DIVINE_DREAM_LEGEATER">Inoiz ez dut gauza finagorik dastatu! Ahhhhh!&lt;page&gt;Nirekin eramango ditut... zure oroitzapen eder-ederrak! Zapore eta usain ederrak!</entry>
     <entry name="DIVINE_EAT">Aaaahhhhhhhhhhhh! Zeinen gozoa! Eta zaporetsua! Hain gauza bikaina, niretzako soilik! Ahhhhhh!</entry>
-    <entry name="DIVINE_EATEN">Ederra, gozoa... Ahhhhhh!&lt;page&gt;Jatorra zara, maitagarri txikia. Oso atsegina niri halako oparia ekarrita!</entry>
     <entry name="DIVINE_EATEN2">Nire oparia egin duena... Aahhh, behean bizi da? Bai?&lt;page&gt;Oso opari ederra. Oso mamitsua! Zoragarria!</entry>
     <entry name="DIVINE_EATEN3">Zerbait nahi al duzu, maitagarri txikia? Ez duzu nire oparia bueltan hartu nahiko, ezta?&lt;page&gt;Eeuuarrggh! Hain ankerra, gupidagabea, hala bada! Behin opari bat ematen duzunean, zurea izateari uzten dio!</entry>
     <entry name="DIVINE_EATEN4">Opari bat? Zuretzat? Gutiziatsua zara!&lt;page&gt;Baina... zerbait erakutsiko dizut atsegina bazara, maitagarri txikia. Egingo duzu gauza atsegin bat niretzat, maitea?&lt;page&gt;Emazkidazu... zure geoak. Eman zure geoak eta opari bat emango dizut.</entry>
+    <entry name="DIVINE_EATEN">Ederra, gozoa... Ahhhhhh!&lt;page&gt;Jatorra zara, maitagarri txikia. Oso atsegina niri halako oparia ekarrita!</entry>
     <entry name="DIVINE_FINAL">Azken opari bat! Ahhhhhhhh!&lt;page&gt;Izugarri gustatu zait. Oso, oso ederra. Bikaina!&lt;page&gt;Eaaauuurrgggh!! Eaauurggh! Orain, Nagusiari jarrai diezaioket...</entry>
     <entry name="DIVINE_FINAL_REPEAT">Aski da. Aski! Dagoeneko oso zoriontsu naiz.&lt;page&gt;Aaaaahhhhhhhhhhhhhhhhh! Orain, Nagusiari jarrai diezaioket...</entry>
     <entry name="DIVINE_GIFT_REFUSE">Eeuuarrggh! Uko egiten didazu, beraz!</entry>
@@ -83,8 +83,7 @@
     <entry name="PROMPT_FRAGILE_HEART">Bihotz hauskorra kutuna eman?</entry>
     <entry name="PROMPT_FRAGILE_STRENGTH">Indar hauskorra kutuna eman?</entry>
     <entry name="QUEEN_GRIMMCHILD">Ahh, aldameneko izaki hori. Inozo batek baino ez luke pentsatuko laguna duzunik, nahiz eta biok partekatzen duzuen... antzekotasun bat? Urruneko lotura bat da, ia ezinezkoa hitz hutsez adierazteko.&lt;page&gt;Gertutik jarraitzen zaituela ikusita, argi dago... Klan gorriminaren errituak irentsi zaitu.&lt;page&gt;Une kaskarrean jaitsi dira gure hondarretara. Lagun itzazu, hala nahi baduzu, baina ez uko egin erresuma honek eskatu dizun egiteko handiari.</entry>
-    <entry name="QUEEN_GRIMMCHILD_FULL">Zure bidaidearen begietan sugar ezagun bat dakusat... Garaipena, beraz, bihotz gorriminarentzat eta, hau ironia, ene 
-    hazia bere kideak hazteko.&lt;page&gt;Ezagutzen zaitut, izakia, eta baita denborak emango dizun forma ere. Dena eta bakarra izan zaitezke, klana eta nagusia, baina lur honek ez du inoiz errege arrotzik onartuko.</entry>
+    <entry name="QUEEN_GRIMMCHILD_FULL">Zure bidaidearen begietan sugar ezagun bat dakusat... Garaipena, beraz, bihotz gorriminarentzat eta, hau ironia, ene hazia bere kideak hazteko.&lt;page&gt;Ezagutzen zaitut, izakia, eta baita denborak emango dizun forma ere. Dena eta bakarra izan zaitezke, klana eta nagusia, baina lur honek ez du inoiz errege arrotzik onartuko.</entry>
     <entry name="SLY_GRIMM">Herrira etorri diren kanpotarrei buruz entzuten egon naiz. Bereziak dira, bai, esan didatenez.&lt;page&gt;Zeren bila ote datoz leku txiki eta nekatu honetara? Iruditzen zait zuk badakizula.&lt;page&gt;Bost axola niri, noski, baina nik ez nituzke haien zin eta promesak berehalakoan sinetsiko. Ez aldendu eskua zure eztenetik, ados?.</entry>
     <entry name="SLY_NYMM">Beste zomorro bat etorri da. Eta zalaparta ona sortu du plazan. Are okerragoa dena, ez du geo bakar bat ere! Instrumentu garrasigile madarikatu hori baino ez.&lt;page&gt;Zergatik dira beti txiroenak bertan gelditzea erabakitzen dutenak?</entry>
     <entry name="UI_CHARM_LOST">Kutuna galdu duzu</entry>

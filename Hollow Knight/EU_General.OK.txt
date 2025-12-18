@@ -1,15 +1,15 @@
 <entries>
-    <entry name="PRE_MENU_QUOTE">Ez dago galdu eta gero berriro bidea aurkitzea baino plazer handiagorik.</entry>
-    <entry name="SAVE_WARNING">Joko honek datuak automatikoki gordetzen ditu une jakinetan.&lt;br&gt;Ez itzali softwarea ikur hau bistan dagoela.</entry>
     <entry name="CONTROL_PROMPT">biziki gomendatzen da agintea erabiliz jolastea</entry>
     <entry name="GAME_DISPLAY_TITLE"></entry>
-    <entry name="PROLOGUE_EXCERPT_AUTHOR">- Monomon irakaslearen &#39;Sakrabiari Elegia&#39;tik</entry>
-    <entry name="VERSION_NUMBER">- - -</entry>
+    <entry name="GAME_TITLE">Hollow Knight</entry>
+    <entry name="PRE_MENU_QUOTE_AUTHOR">- Cornifer</entry>
+    <entry name="PRE_MENU_QUOTE">Ez dago galdu eta gero berriro bidea aurkitzea baino plazer handiagorik.</entry>
     <entry name="PROLOGUE_EXCERPT_01">Haragoko eremu basetan zure izena mirespen eta atsekabez dute ahoskatzen,</entry>
     <entry name="PROLOGUE_EXCERPT_02">Ezin baitzituen inork gure arima salbaiak hezi, baina zuk erronka hartu zenuen,</entry>
     <entry name="PROLOGUE_EXCERPT_03">Irakatsi zenigun, eraldatu ginen, zure zaintzapean sen oinarrizkoenak askatu ziren,</entry>
     <entry name="PROLOGUE_EXCERPT_04">Amestu ere gabeko mundu bat opari, zomorro eta piztiei, eman zenien.</entry>
-    <entry name="GAME_TITLE">Hollow Knight</entry>
-    <entry name="PRE_MENU_QUOTE_AUTHOR">- Cornifer</entry>
+    <entry name="PROLOGUE_EXCERPT_AUTHOR">- Monomon irakaslearen &#39;Sakrabiari Elegia&#39;tik</entry>
+    <entry name="SAVE_WARNING">Joko honek datuak automatikoki gordetzen ditu une jakinetan.&lt;br&gt;Ez itzali softwarea ikur hau bistan dagoela.</entry>
     <entry name="SNEAK_PEEK">Aurrerapen txiki hau Hollow Knight jokoaren amaitu gabeko bertsio batetik hartu da, eta ez du amaierako errendimendua ordezkatzen.</entry>
+    <entry name="VERSION_NUMBER">- - -</entry>
 </entries>

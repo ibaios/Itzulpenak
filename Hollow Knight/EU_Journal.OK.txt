@@ -83,9 +83,9 @@
     <entry name="DESC_LAZY_FLYER">Ur azidoen inguruan astiro ibiliz bizitzea gogoko duen izaki baketsua.</entry>
     <entry name="DESC_LESSER_MAWLEK">Azidoa jaurtiz eta erpeekin sastatuz erasotzen die arerioei.</entry>
     <entry name="DESC_LOBSTER_LANCER">Burugabeen Koliseoko gudari beteranoa. Trebatu dituen  izakiekin batera egiten du borroka.</entry>
+    <entry name="DESC_MAGE">Adimen-gaitasun handiko zomorroa, ezkutuko ezagutza darabilena arima bihurrituz aztikeria zitalak sortzeko.</entry>
     <entry name="DESC_MAGE_BALLOON">Behinola adimen-gaitasun handiko zomorroa, arimaren erabilera okerragatik puztua.</entry>
     <entry name="DESC_MAGEBLOB">Behinola adimen-gaitasun handiko zomorroa, arimaren erabilera okerragatik desitxuratua.</entry>
-    <entry name="DESC_MAGE">Adimen-gaitasun handiko zomorroa, ezkutuko ezagutza darabilena arima bihurrituz aztikeria zitalak sortzeko.</entry>
     <entry name="DESC_MAGE_KNIGHT">Arma gisa orratz-xafla findu bat daraman zomorro jakintsua. Bildutako arimari esker bere borrokarako abilezia handitzen du.</entry>
     <entry name="DESC_MAGE_LORD">Arimen Santutegiko nagusia. Arima metatu zuen Sakrabiako gaitza uxatzeko ahaleginean, nahiz eta azkenean bere botereak itsuturik amaitu.</entry>
     <entry name="DESC_MANTIS_FLYER_ADULT">Hostotza artean zelatan egoten da eta urrunetik haizezko segak jaurtiz erasotzen die arerioei.</entry>
@@ -132,8 +132,8 @@
     <entry name="DESC_SAGE_SLY">Ezten-arteen jakintsu legendarioa, eta azkenaldi honetan merkatari bikaina.</entry>
     <entry name="DESC_SENTRY_1">Sakrabiako zentinela baten oskola, indar batek mugiarazia. Hil aurretik zuen egitekoa oroitzen du nolabait.</entry>
     <entry name="DESC_SENTRY_FAT">Sakrabiako zentinela baten oskola, indar batek mugiarazia. Eztentzar bat altxatzeko besteko indartsua den gutxietariko bat.</entry>
-    <entry name="DESC_SENTRY_FLYING">Sakrabiako zentinela hegalaria. Hiria eraikia izan zen leize erraldoiaren garaiera osoan zehar patruilatzen du.</entry>
     <entry name="DESC_SENTRY_FLYING_JAVELIN">Sakrabiako zentinela hegoduna, ezten-lantza batekin ekipatua. Mehatxuen aurka oldartzen da eta lantza urrunetik jaurtitzen die.</entry>
+    <entry name="DESC_SENTRY_FLYING">Sakrabiako zentinela hegalaria. Hiria eraikia izan zen leize erraldoiaren garaiera osoan zehar patruilatzen du.</entry>
     <entry name="DESC_SIBLING">Atzean geldituriko borondate pusketa.</entry>
     <entry name="DESC_SLASH_SPIDER">Herrah Piztiaren adoratzailea. Xafla gogorreko erpe zabalak ezkutu gisa erabiltzen ditu, bat-batean erpeak alboratu eta ehizakiaren gainera oldartzeko.</entry>
     <entry name="DESC_SNAPPER_TRAP">Hurbiltzen zaion edozein izakiri hozka egiten dion landare haragijalea.</entry>
@@ -165,8 +165,8 @@
     <entry name="DESC_ZOM_SPIDER">Piztia bizkarroia, bere biktimaren gorpua kontrolatzen duena berau hil ondoren.</entry>
     <entry name="DESC_ZOM_SPINE">Landaretzak hartua, gorputzetik arantza zorrotzak jaurtiz egiten du eraso.</entry>
     <entry name="DESC_ZOM_SPITTING">Kutsadurak guztiz bereganatu duen zomorro baten gorpua. Likido korrosiboa jaurtitzen du ahotik.</entry>
-    <entry name="DESC_ZOTE">Bere burua zaldun izendatzen duen sona gabeko zomorroa. &#39;Bizi-ebaslea&#39; izeneko oskol-zur landuzko ezten bat darama aldean.</entry>
     <entry name="DESC_ZOTE_BALLOON">Obsesioak jotako gogo baten fantasia. Ez du ondo kudeatzen existitze hutsak sortutako presioa eta bizkor lehertzen da.</entry>
+    <entry name="DESC_ZOTE">Bere burua zaldun izendatzen duen sona gabeko zomorroa. &#39;Bizi-ebaslea&#39; izeneko oskol-zur landuzko ezten bat darama aldean.</entry>
     <entry name="DESC_ZOTE_FLYER">Obsesioak jotako gogo baten fantasia. Gogo txarrez laguntzen du bere nagusia borrokan, arerioenganantz nagiki hegan eginez.</entry>
     <entry name="DESC_ZOTE_HOPPER">Obsesioak jotako gogo baten fantasia. Mehatxagarria ez den eran saltoka aritzen da batetik bestera.</entry>
     <entry name="KILL_COUNT_1">Garaitu</entry>
@@ -347,8 +347,8 @@
     <entry name="NOTE_ACID_WALKER">Inguratzen gaituzten azido-ur erretzailezko ibaietan biziraun dezakeen izaki gutxietariko bat. Nondik dator ur hau? Bizidunekiko gorroto biziz bor-bor egiten du...</entry>
     <entry name="NOTE_ANGRY_BUZZER">Izaki batetik bestera dabilen izurri horrek indarra eta ausardia ematen ditu, baina, horrez gain, borondatea gatibatzen duela dirudi. Onartuko zenuke halako traturik?</entry>
     <entry name="NOTE_BABY_CENTIPEDE">Ehiztari trakets eta biziotsuak. Lurrean zehar zulatzen dituzten leize ilun, estu eta bihurrietan taldeka eraso egingo dizute ustekabean. Tentuz ibili uneoro!</entry>
-    <entry name="NOTE_BEE_HATCHLING">Ahula, baina langilea eta ugaria. Bere gorputz iletsu txikia urre koloreko likido sendo gozoz beterik dago. Ezin hobeak ehizaldi luzeak jasateko indarra lortzeko.</entry>
     <entry name="NOTE_BEE">Gudari bortitzak eta emanak. Haien etxea inbaditzeko asmoa baduzu, presta zaitez hil arte borrokatzeko.</entry>
+    <entry name="NOTE_BEE_HATCHLING">Ahula, baina langilea eta ugaria. Bere gorputz iletsu txikia urre koloreko likido sendo gozoz beterik dago. Ezin hobeak ehizaldi luzeak jasateko indarra lortzeko.</entry>
     <entry name="NOTE_BIG_BEE">Bere ahaide txikienak bezala, senak Erletxea babestera daramatza, kosta ahala kosta. Baldar samarra da, eta maiz kaltetzen du ingurua sarkinei erasotzerakoan. Honek lotsarazten dituen? Ez dakit halako sentimendurik izateko gaitasunik ere ba ote duten.</entry>
     <entry name="NOTE_BIGBUZZER">Harpeen zoruan bazterturik utzitako edozer gauza zahar murtxikatzearekin pozik dagoen izaki zikina. Mehatxaturik sentitzen bada garrasi eta orro jasanezinak egiten ditu, beraz, hil ezazu albait bizkorren.</entry>
     <entry name="NOTE_BIG_CENTIPEDE">Bortizki indartsuak. Haien gorputz blindatuen kontra egindako edozein eraso alferrikakoa da. Zorionez, haien bideak saihestuz gero, bakean utziko zaituzte.</entry>
@@ -427,14 +427,14 @@
     <entry name="NOTE_LOBSTER_LANCER">Ehiztari batzuek piztiak trebatzen dituzte, haiekin batera harrapakin bila aritzeko. Ni ere saiatu nintzen behin, baina ezin izan nion eutsi nire adiskidearen indarra proban jartzeko grinari.</entry>
     <entry name="NOTE_MAGE_BALLOON">Zurrumurruek diote burugabe hauek bilatzen zuten sekretua hilezkortasuna zela. Betiko bizitzea... Ez dut inoiz hain gauza eskandalagarririk entzun!</entry>
     <entry name="NOTE_MAGEBLOB">Burugabe hauek beste izakien arimarekin jolastu zuten, eta ondorioz, euren forma galdu. Orain haien santutegiko itzaletan zehar zokomiran aritzen dira bareak bailiran, anaia nagusiek gorputz berria eraikiko dieten esperoan.</entry>
-    <entry name="NOTE_MAGE">Lehenago ere hitz egin didate &#39;arima&#39; delakoari buruz, baina ez dut zer den ulertzen. Badakit hil berriaren haragiak zapore gozoagoa duela - oraindik &#39;arima&#39; barruan duelako ote da?</entry>
     <entry name="NOTE_MAGE_KNIGHT">Gudari bitxi hauei, doazen tokira doazela ere, zurrumurruek jarraitzen diete. Eztenarekin abilak izateaz gain, botere berezi bat daukate alde batetik bestera bat-batean mugitzeko. Tentuz ibili.</entry>
+    <entry name="NOTE_MAGE">Lehenago ere hitz egin didate &#39;arima&#39; delakoari buruz, baina ez dut zer den ulertzen. Badakit hil berriaren haragiak zapore gozoagoa duela - oraindik &#39;arima&#39; barruan duelako ote da?</entry>
     <entry name="NOTE_MAGE_LORD">Sakrabiako zomorroak denetariko trikimailu, erritu eta otoitzekin ahalegindu ziren izurriteaz libratzen. Baina alferrik! Agian izurria haien barneko zokoren batetik zetorren, eta ezin zioten ihes egin.</entry>
     <entry name="NOTE_MANTIS_FLYER_ADULT">Beti erasoko dizute urrutitik, beraz, gerturatu eta kolpatu bizkor. Haien gorputzak hauskorrak dira, eta laster jausiko dira zure eztenkadekin.</entry>
     <entry name="NOTE_MANTIS_FLYER_CHILD">Hazi ahala, hegan egiteko gaitasuna galtzen dute. Helduarora iragatea pozez hartu ohi duten arren, denborarekin ohartzen dira galdutakoaz.</entry>
     <entry name="NOTE_MANTIS_HEAVY">Tribu bateko kide izatea, edo ez izatea. Ez dut ondo ulertzen zein den ezberdintasuna, edo nola funtzionatzen duen horrek. Nik ez daukat triburik.</entry>
-    <entry name="NOTE_MANTIS">Onddozko basoetan gehiegi sakoneratzen bazara, gudari hauek itxiko dizute bidea. Zer ote daukate zaintzeko, haien lurraren sakonean?</entry>
     <entry name="NOTE_MANTIS_LORD">Marisorginen tribua eta Sakrabia zaharreko zomorroak ez ziren elkarren lagun. Baina marisorginak haien arerioak baino luzaroago bizi izan ziren, eta haien zibilizazioak hor dirau oraindik.</entry>
+    <entry name="NOTE_MANTIS">Onddozko basoetan gehiegi sakoneratzen bazara, gudari hauek itxiko dizute bidea. Zer ote daukate zaintzeko, haien lurraren sakonean?</entry>
     <entry name="NOTE_MAWLEK">Batzuetan, harpeetan zehar nabilela, piztia honen garrasiak entzuten ditut, baina ez dut bera inoiz ikusi. Zeri edo nori deika ari ote da? Nik dakidala, bere oihuek ez dute inoiz erantzunik jasotzen.</entry>
     <entry name="NOTE_MAWLEK_TURRET">Nola galdu zituen hankak izaki ergel honek?! Suposatzen dut edozer gal daitekeela, gogor saiatuz gero.</entry>
     <entry name="NOTE_MEGA_BEAM_MINER">Nola ikusten du mundua izaki horrek, bere kristalezko kartzelatik begira? Argia soilik ikusten al du? Horrek ote darama frenesi egoerara?</entry>
@@ -511,7 +511,6 @@
     <entry name="NOTE_ZOTE_FLYER">Dontzeilak galdetu zion ea beretzako kutuna erosi zuen, hitzeman bezala. Baina berak azaldu zion. Kutuna kalitate eskasekoa zen, eta merezi baino garestiago saltzen zuten. Dontzeilak guztiz ulertu zuen berak hartutako erabakia.&lt;br&gt;- &#39;Printze Grisa&#39; 136. atala</entry>
     <entry name="NOTE_ZOTE_HOPPER">&quot;Mapagile xume haren emaztea? Ja! Ene erregina, nolatan alderatzen duzu zure burua berekin? Zure edertasun liluragarriaren aurrean, gainerantzeko emazteki guztiak hautsa baino ez dira!&quot;&lt;br&gt;Printze Grisak dar-dar egin zuen amorruz eta suminduraz... eta maitasunez.&lt;br&gt;- &#39;Printze Grisa&#39; 178. atala</entry>
     <entry name="NOTE_ZOTE">Izaki arraro batzuk hain dira ahulak, hain babesgabeak, hain ezgaiak eta hain narritarazleak, hauek ehizatzeak ez duela inongo plazerik ematen.</entry>
-
     <entry name="NOTIFICATION_FULL">Egunerokoa eguneratu da</entry>
     <entry name="NOTIFICATION_HALF">Sarrera berria egunerokoan</entry>
 </entries>

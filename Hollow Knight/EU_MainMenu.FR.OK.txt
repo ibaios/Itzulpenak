@@ -3,7 +3,7 @@
     <entry name="ACHIEVEMENTS_BASE_SET_TITLE">Hollow Knight-eko Lorpenak</entry>
     <entry name="AUDIO_MASTER_VOL">Bolumen Nagusia:</entry>
     <entry name="AUDIO_MUSIC_VOL">Musikaren Bolumena:</entry>
-    <entry name="AUDIO_SOUND_VOL">Soinuaren Bolumena:</entry>
+    <entry name="AUDIO_SOUND_VOL">Soinuen Bolumena:</entry>
     <entry name="BRIGHT_INSTRUCT">Doitu argitasuna gogoko mailara.</entry>
     <entry name="BRIGHT_SLIDER">Argitasuna</entry>
     <entry name="BUTTON_ATTACK">Eraso</entry>
@@ -119,7 +119,7 @@
     <entry name="TEXT_SKIP_PROMPT">Sakatu edozein botoi saltatzeko</entry>
     <entry name="UI_MENU_ACHIEVEMENTS_PS4">Garaikurrak</entry>
     <entry name="UI_MENU_ACHIEVEMENTS_XB1">Lorpenak</entry>
-    <entry name="VIDEO_BRIGHTNESS">Argitasuna</entry>
+    <entry name="VIDEO_BRIGHTNESS">Distira</entry>
     <entry name="VIDEO_DISPLAY">Monitorea:</entry>
     <entry name="VIDEO_FRAME_CAP">Mugatu FPS Kopurua:</entry>
     <entry name="VIDEO_FULLSCREEN">Pantaila Osoan:</entry>

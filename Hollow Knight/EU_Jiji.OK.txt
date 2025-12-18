@@ -28,8 +28,8 @@
     <entry name="RITUAL_REPEAT">Adio. Zugan izango dut gogoa askariaz gozatu bitartean.</entry>
     <entry name="ROYAL_GARDENS">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, lorategi baten edertasuna hondatzen duela.</entry>
     <entry name="SHADE_CHARM">Ooohhhh. Nire maisuak zur eta lur egongo lirateke...&lt;page&gt;Bitxia da inork bere damuekin erabateko bakeak egitea, baina badirudi zuk lortu duzula.&lt;page&gt;Zein iluntasun jasan behar izan ote du batek halakorik lortzeko?</entry>
-    <entry name="SHADE_OFFER">Zure damuak hona ekar ditzaket, jaki goxoak nirekin partekatzen badituzu.</entry>
     <entry name="SHADE_OFFER_INTRO">Zerbitzu gisa, zure damuak itzuli ahal dizkizut, haietaz ardura zaitezen. Hori nahi duzu, bai?&lt;page&gt;Ah, baina oso gose naiz. Agian janari pixkat eman nahiko didazu? Nik egin dudan beste lo egiten baduzu, apetitu ona sortuko zaizu.</entry>
+    <entry name="SHADE_OFFER">Zure damuak hona ekar ditzaket, jaki goxoak nirekin partekatzen badituzu.</entry>
     <entry name="SHAMAN_TEMPLE">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, arbasoen tumulu batean... gurtza bitxien etxea.</entry>
     <entry name="WASTES">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, onddo bitxi eta laku burbuilatsuen artean katigaturik.</entry>
     <entry name="WATERWAYS">Bai, ikus ditzaket atzean utzi dituzun damuak. Orban beltz bat, hoditeria eta hondakin-urez inguraturik. Baina ez da urez ezabatzen den zerbait...</entry>
