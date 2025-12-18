@@ -93,5 +93,5 @@ EU_Credits List
     <entry name="TUTORIAL_CREDIT_NAME_03">David Kazi</entry>
     <entry name="TUTORIAL_CREDIT_NAME_04">Matthew Griffin</entry>
     <entry name="TUTORIAL_CREDIT_NAME_05">Matthew &#39;Leth&#39; Griffin</entry>
-    <entry name="TUTORIAL_CREDIT_SCORE">Soinua eta abestiak</entry>
+    <entry name="TUTORIAL_CREDIT_SCORE">Soinua eta musika</entry>
 </entries>

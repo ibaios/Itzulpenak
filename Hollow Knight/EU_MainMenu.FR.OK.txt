@@ -5,8 +5,8 @@ EU_MainMenu
     <entry name="AUDIO_MASTER_VOL">Bolumen Nagusia:</entry>
     <entry name="AUDIO_MUSIC_VOL">Musikaren Bolumena:</entry>
     <entry name="AUDIO_SOUND_VOL">Soinuen Bolumena:</entry>
-    <entry name="BRIGHT_INSTRUCT">Doitu argitasuna gogoko mailara.</entry>
-    <entry name="BRIGHT_SLIDER">Argitasuna</entry>
+    <entry name="BRIGHT_INSTRUCT">Doitu distira gogoko mailara.</entry>
+    <entry name="BRIGHT_SLIDER">Distira</entry>
     <entry name="BUTTON_ATTACK">Eraso</entry>
     <entry name="BUTTON_CAST">Kontzentr. / Aztikeria</entry>
     <entry name="BUTTON_DASH">Bulkada</entry>
