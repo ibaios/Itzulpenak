@@ -1,3 +1,4 @@
+EU_Prices
 <entries>
     <entry name="BANK_LIMIT">4500</entry>
     <entry name="BANK_OPEN_ACCT">100</entry>

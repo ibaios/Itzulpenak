@@ -1,3 +1,4 @@
+EU_Quirrel
 <entries>
     <entry name="DREAM_ARCHIVE_ENTRANCE">...Nor zara zu, leku honetara nakarren hori? </entry>
     <entry name="DREAM_ARCHIVE_INTERIOR">Pentsatzea ere, erresumaren patua halako izaki txiki baten esku zegoela.</entry>

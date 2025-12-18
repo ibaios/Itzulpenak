@@ -1,3 +1,4 @@
+EU_Sly
 <entries>
     <entry name="SLY_BASEMENT_1">...Beraz, beste bat batuko zaigu taldera.</entry>
     <entry name="SLY_BASEMENT_2">Opari bat daukat zuretzat, gudaria. Dendari gisa, aitortu beharra dut hau musutruk ematea ez zaidala erraza egiten.&lt;page&gt;Baina Ezten-jakintsu Handi naizenez, zure trebetasuna aitortu beharra dut. Bizirik ditudan ikasle guztien arteak maisutasunez zeureganatu dituzu. Orain, tradizioaren aginduz, zeuk ere ikurra eraman dezakezu.</entry>

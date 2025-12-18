@@ -1,3 +1,4 @@
+EU_Dreamers
 <entries>
     <entry name="DREAMERS_EC1_1A">Zigiluak hautsiko ditu?&lt;br&gt;Ezin dira desegin.&lt;br&gt;Desegin behar dira.&lt;page&gt;Utziguzu lo egiten, itzal txikia. Emaguzu bakea.</entry>
     <entry name="DREAMERS_EC1_1">Zigiluak hausteko asmoz dator?</entry>

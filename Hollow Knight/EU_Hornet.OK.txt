@@ -1,3 +1,4 @@
+EU_Hornet
 <entries>
     <entry name="HORNET_ABYSS_ASCENT_01">Mamua, ikusten dut zure jaiolekuari aurre egin diozula, eta orain bere itzalaren substantziak inguratzen zaituela.&lt;page&gt;Gure indarrek antzerako jatorria duten arren, zure zati hori, funtsezko hustasun hori, elkarrekin partekatzen ez dugun ezaugarria da.&lt;page&gt;Bitxia da, beraz, iluntasun horrek itxaropena pizten didala. Bere baitan, aldaketarako aukera bat ikusten dut.&lt;page&gt;Bidaia zailari aurre egin beharko diozu, baina aukera bat sor daiteke. Luzatu gure munduaren estasia, edo aurka egin bere izurritearen muinari.</entry>
     <entry name="HORNET_ABYSS_DREAM">...Hutsuneari aurre egin dio, eta kalterik gabe igo da... Halako iluntasun handia elkartzeko gai ote da...?</entry>

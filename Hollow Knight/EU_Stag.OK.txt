@@ -1,3 +1,4 @@
+EU_Stag
 <entries>
     <entry name="STAG_CROSSROADS">Orain asko izan zen, baina gogoan dut errepide eta bidegurutze hauek bizitzaz lepo zeuden garaia. Bideotan zehar eraman nituen nire lehenengo bidaiariak gazte nintzela.&lt;page&gt;Bidaiariok aspaldi desagertu ziren, eta nik hemen darrait. Orain badirudi zu eta biok soilik gelditzen garela, eta inguruan harramazkadaka eta bihurrikatzen dabiltzan izaki zelatariak.</entry>
     <entry name="STAG_DEEPNEST">Ahh, txikia... Non gaude? Ez naiz inoiz geltoki honetan izan. Arrisku aire bitxi bat dauka bere baitan. Utzidazu leku seguruago batera eramaten, bizkor.</entry>

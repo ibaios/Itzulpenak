@@ -1,3 +1,4 @@
+EU_Nailsmith
 <entries>
     <entry name="ART_DREAM">....Bizitza oso bat bakardadean lanean atsedenik hartu gabe... bizimodu hau atseginagoa da...</entry>
     <entry name="ART_MEET">Hmm? Oh, kaixo, bidaiaria. Bitxia da berriro elkar ikustea hau moduko mundu zabalean.&lt;page&gt;Eskatu nizunean ni hil ez izana eskertu behar dizut. Hasieran haserretu egin nintzen, baina izan dut hausnartzeko astirik hemen goian, eta berehala ulertu nuen zentzuzko erabakia izan zela.&lt;page&gt;Mundua ez dago metal eta arma hutsez egina. Esploratzeari ekin nion, eta laster egin nuen honako bidea.&lt;page&gt;Sheo hainbat arteren maisua da, eta ahal bezain beste irakatsiko didala zin egin dit. Uste dut zoriontsu biziko naizela hemen.</entry>
@@ -25,6 +26,6 @@
     <entry name="NAILSMITH_OFFER_ORE">Ikusten dut mea zurbila daukazula. Metal bitxia eta bikaina da hori. Emadazu mea eta geo batzuk nire eginahalen truke, eta zure eztena birforjatuko dut gogorrago bihur dadin.</entry>
     <entry name="NAILSMITH_REGREET">Hmm? Hemen zaude oraindik. Beste ezer behar duzu?</entry>
     <entry name="NAILSMITH_SIGN">Erabili gabe</entry>
-    <entry name="PAINTED_REPEAT">Nork esango zidan halako arima inspiragarririk aurkituko nuela Sakrabiako iluntasunean.</entry>
     <entry name="PAINTED">Tamalez ezin dut luzaro hitz egin. Gehiegi mugitzen banaiz, Sheoren maisulana hondatuko dut eta ez dut bera atsekabetzerik nahi.&lt;page&gt;Itxuraz beldurgarria dirudien arren, tipo sentibera da.</entry>
+    <entry name="PAINTED_REPEAT">Nork esango zidan halako arima inspiragarririk aurkituko nuela Sakrabiako iluntasunean.</entry>
 </entries>

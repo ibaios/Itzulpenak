@@ -1,3 +1,4 @@
+EU_CP3
 <entries>
     <entry name="ABSOLUTE_RADIANCE_MAIN">DISTIRA</entry>
     <entry name="ABSOLUTE_RADIANCE_SUPER">ERABATEKO</entry>
@@ -169,14 +170,14 @@
     <entry name="GODHOME_SUPER"></entry>
     <entry name="GODSEEKER_COFFIN_KEY">Kusku bat, giltzarrapo soil batekin katez lotua.&lt;br&gt;Giltza soila erabili?</entry>
     <entry name="GODSEEKER_COFFIN_NOKEY">Kusku bat, giltzarrapo soil batekin katez lotua.</entry>
+    <entry name="GODSEEKER_ENGINE">Nola igo zara panteoi honetaraino, nanoa? Zure gorputza bihurritzean egiten duzun zaratak belarriko mina eragiten du, gure burua harmonizatu nahi dugun oihartzun jainkotiarra hondatuz!&lt;page&gt;Gure helburu sakratua zapuztu nahian zabiltza? Zer motatako inbidiak zaramatza halako erokeriara?&lt;page&gt;Otoitz egiten dugu Erresuma honetako jainkoak zigor zaitzan, birrindu zaitzan, betiko suntsi zaitzan!</entry>
     <entry name="GODSEEKER_ENGINE_2">Ahh! Ez al gaituzte jainkoek libratuko orban gogaikarri honengandik? Nola probatzen gaituen, zizare honek eztena jainkoei altxatzen diela ikusaraziz!&lt;page&gt;Zortea duzu zortearen ondotik, orban hori! Panteoi honetako jainkoek, guk ulertu ezin dezakegun helbururen bategatik, haien artean egotea baimentzen dizute.&lt;page&gt;Argi dago, zuretzako prestatzen dabiltzan zigor jainkotiarra imajina ezinekoa izango da. Presta zaitez! Presta zaitez!</entry>
     <entry name="GODSEEKER_ENGINE_3">Saiatua zara gero, edonor gogaitzeraino! Zergatik zatoz Panteoi hau desohoratzera? Loria bila zatoz, o handiustea?&lt;page&gt;Ez duzu gure helburua ulertzen. Errituzko borrokari esker jainkoen ahotsekin harmonizatzen gara.&lt;page&gt;Are gorago eramaten gaituzte! Gorago eta gorago eta gorago! Kontzentrazio jainkotiarrari esker Erresumaren bihotzean lo dagoen botere handiarekin bat egiten dugun arte...</entry>
     <entry name="GODSEEKER_ENGINE_DREAM_GGMODE">Berorri ematen diogu dugun guztia. Gure oskola. Gure gogoa. Ez gara berorren morroi hutsa baino, o Jainkoen Jainko loriatsua!</entry>
     <entry name="GODSEEKER_ENGINE_DREAM">O Sakrabiako jainkoak, erakutsiguzue zuen boterea! Zuongana harmonizatuko gara, eta inoiz baino gorago igoko!</entry>
     <entry name="GODSEEKER_ENGINE_GGMODE">Jainkoen Jainkoa! Argi ikusten dut orain. Hain agerikoa da. Oskol nano horrek berorren indar ikaragarria, berorren loria paregabea, ezkutatu baino ez du egiten.&lt;page&gt;Hau lotsaren lotsa! Ez dugu hain begi bistakoa zen egia ikusi. Zigor gaitza berorrek, o Irenslea! Zanpa gaitza! Zigor eta eztenez birrin beza gure izate patetikoa. Atseginez hartuko dugu halako mendeku jainkotiarra!</entry>
-    <entry name="GODSEEKER_ENGINE">Nola igo zara panteoi honetaraino, nanoa? Zure gorputza bihurritzean egiten duzun zaratak belarriko mina eragiten du, gure burua harmonizatu nahi dugun oihartzun jainkotiarra hondatuz!&lt;page&gt;Gure helburu sakratua zapuztu nahian zabiltza? Zer motatako inbidiak zaramatza halako erokeriara?&lt;page&gt;Otoitz egiten dugu Erresuma honetako jainkoak zigor zaitzan, birrindu zaitzan, betiko suntsi zaitzan!</entry>
-    <entry name="GODSEEKER_ENGINE_PRIME_DREAM">O loturaduna, berorren isiltasunak ia gortzen gaitu. Berorren beldur izan ginen, inozoki, baina berorren probidentziaz baino ezin dezakegu aurkitu bila gabiltzana. Barnean lotan duen jainkoa... </entry>
     <entry name="GODSEEKER_ENGINE_PRIME">Erakutsi begirunea, o nanoa. Erakutsi beldurra! Jainko handi eta izugarri batengana gerturatzen ari zara. Bere gorputz mundutiarra loturik eta kutsaturik dagoen arren, bere forma puruaren loriak bizirik dirau, eta panteoi honetako burua da. Bere botere amaigabeak harmonizatuko gaitu bera baino are handiagoa denarekin, Jainkoen Jainkoarekin!&lt;page&gt;Nanoa, zeure burua jainko honekin parekatzen al duzu? Bere irudiko egina zarela uste al duzu? Pentsatzen duzu antzerako forma duzuela, eta barneko oihartzun sakona ezaguna egiten zaizula...&lt;page&gt;Ahh! Zer burutazio dira horiek? Gure gogoan biraozko pentsamenduak erein dituzu, zital hori! Ospa! Ezerezaren jainkoak betiko isil zaitzan otoitz egingo dugu!</entry>
+    <entry name="GODSEEKER_ENGINE_PRIME_DREAM">O loturaduna, berorren isiltasunak ia gortzen gaitu. Berorren beldur izan ginen, inozoki, baina berorren probidentziaz baino ezin dezakegu aurkitu bila gabiltzana. Barnean lotan duen jainkoa... </entry>
     <entry name="GODSEEKER_ENGINE_PRIME_REPEAT">Zu ez zara jainkoa! Ospa, iruzurtia! Ixo!</entry>
     <entry name="GODSEEKER_ENGINE_PRIME_REVISIT">Berriro zatoz zure eztena edukitzaile puru honen kontra altxatzera. Zer asmorekin, jakin nahi genuke.&lt;page&gt;Borrokak elkarrengana gerturatzen ote zaituzte? Zuk ere jainkoekin harmonizatzea desio duzu? Ala bestelako desira sakonak ezkutatzen dituzu zure barnean?</entry>
     <entry name="GODSEEKER_ENGINE_REPEAT_2">Ezin zara hemen gelditu, koldarretan koldar hori! Jarraitu aurrera, eta jaso ezazu merezitako zigor sakratua!</entry>
@@ -352,7 +353,7 @@
     <entry name="STORMLAND_MAIN">Ekaitzen</entry>
     <entry name="STORMLAND_SUB">Lurraldea</entry>
     <entry name="STORMLAND_SUPER"></entry>
-    <entry name="TEMP_NM_MAIN">Oro &amp; Mato</entry>
+    <entry name="TEMP_NM_MAIN">Oro eta Mato</entry>
     <entry name="TEMP_NM_SUB">Anaiak</entry>
     <entry name="TEMP_NM_SUPER"></entry>
     <entry name="TROPHIES_BASE_SET_TEXT">Hollow Knight-eko garaikurrak.</entry>

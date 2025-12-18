@@ -1,3 +1,4 @@
+EU_Iselda
 <entries>
     <entry name="ISELDA_CORNIFER_HOME">Azkenean Cornifer etxera itzuli da, baina begiraiozu, leher eginda dago. Beti egiten du gauza bera, leku bat sutsuki mapatu, eta amaitzean lur jota oheratu.&lt;page&gt;Denboraldi bat egingo du lotan seguruenera, eta beraz, etxeratu den arren, konpainia gabe jarraitzen dut.&lt;page&gt;Ahhh, baina maite dut xomorro hori, bere akats eta guzti. Mapekiko duen grina hori, nolabait inspiragarria da.&lt;page&gt;Cornyk etengabe eskatzen dit berekin joateko abenturara eta beti ezetz esan izan diot. Agian hurrengoan baietz esan beharko nioke?</entry>
     <entry name="ISELDA_DREAM">Pozten naiz nire arma alde batera uztea erabaki izanaz, Cornyrekin daukadan bizimodu lasai honek askoz zoriontsuago egiten nau. Baina hankak luzatzeko zerbait egin nahiko nuke... etorkizun hurbilean...</entry>

@@ -1,9 +1,10 @@
+EU_Shaman
 <entries>
     <entry name="SHAMAN_CRYSTAL_DREAM">...Aska...nazazu...</entry>
     <entry name="SHAMAN_DREAM">Besteren ametsak zelatatzen... Dirudizuna baino kuxkuxeroagoa zara! O-jo-jo-jo-jo!</entry>
     <entry name="SHAMAN_FIREBALL2">Zer da hau? Nire opari mendekariak zure baitan gaiztotu egin da. Bihurritu egin duzu... beste zerbait bihurtu arte.&lt;page&gt;O-jo-jo-jo! Banekian. Laguna! Miresgarria zara. Zure esentzia aztikeriarekin elkartu da.&lt;page&gt;Iturburu boteretsu bat aurkitu behar izan duzu hain era bakan eta adierazkorrean eraldatzeko.</entry>
-    <entry name="SHAMAN_FUNG_DREAM">...Entzun...nazazue...</entry>
     <entry name="SHAMAN_FUNG">Landaretzak hartutako gorpu bat.</entry>
+    <entry name="SHAMAN_FUNG_DREAM">...Entzun...nazazue...</entry>
     <entry name="SHAMAN_KILLED_BLOCKER_1">O-jo! Kito, beraz, piztia menderatu duzu!&lt;page&gt;Basapiztia gizajoa! Hezurretaraino ikaratuko zenuen. Lehen nahikoa otzana zen, baina harpe hauetako aire ustelak antzinako amorru batez bete zion burua.&lt;page&gt;Halere, egin beharrekoa egin duzu! Biziki eskertzen dizut! Jakina, biok dakigu ezin izango zenukeela lortu nik emandako aztikeriarik gabe... O-jo-jo!</entry>
     <entry name="SHAMAN_KILLED_BLOCKER_2">Jo-jo! Hor zaude! Lo zeunden bitartean zu zaintzen ari nintzen eta, antza, nik ere lo hartu dut. Esnatzean, desagertua zinen! Ezustekoz beterik zaude, o-jo-jo!&lt;page&gt;Egia esan, faboretxo bat eskatu nahi nizun. Izan ere, piztia bat dabil gure gainean zelatan, justu tenplu honen bihotzean...&lt;page&gt;...O-jo? Hara, beste ezusteko bat! Izaki hori menderatu duzu nik eskatu ere egin baino lehenago!&lt;page&gt;Ia ez dut zu moduko lagunik merezi ere! Miresgarria zara! O-jo-jo-jo!</entry>
     <entry name="SHAMAN_MEET">Jo-jo! Nor da iluntasunetik isilean datorren hau? Ene, bai itxura zakarra daukazuna! Aurpegi bitxi huts bat, itxura bihurriko arma eskuan duela!&lt;page&gt;Garrantzizko zerbaitek ekarri zaitu Sakrabiaren gorpuan barrena, baina ez dizut galdetuko zerk. Agian topo egin dugu nire laguntza behar duzulako?&lt;page&gt;Ez gehiagorik esan, laguna. Opari bat emango dizut, neronek sorturiko aztikeria makur txiki bat. Ezin hobea zu moduko txikitxo batentzako! O-jo-jo!</entry>

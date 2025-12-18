@@ -1,3 +1,4 @@
+EU_Hunter
 <entries>
     <entry name="COMPLETE_REPEAT">Egiazko ehiztaria zarela frogatu duzu, harraparien maisua, eta gustura emango dizut ondo merezia duzun ordainsaria...</entry>
     <entry name="GOT_MARK">Nire marka daukazu, eta nire kasta bereziko kide gisa aitortua izango zara. Ehiztari adiskidea, ez daukat zuri emateko beste ezer.</entry>

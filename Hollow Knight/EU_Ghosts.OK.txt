@@ -1,3 +1,4 @@
+EU_Ghosts
 <entries>
     <entry name="100NAIL_REPEAT">Ez al dira nire eztenak benetan zoragarriak? Eta haien xafla dirdiratsuak, hain zorrotz eta hilgarriak.</entry>
     <entry name="100NAIL_TALK">Gogoko dituzu nire eztenak, ibiltari? Hiru baino ez ditut aldean, kondairek iradokitzen dutena baino askoz gutxiago.&lt;page&gt;Hala ere! Zein baino zein zorrotzagoak dira, eta nahikoa dut bakarrarekin zu erdibitzeko.</entry>

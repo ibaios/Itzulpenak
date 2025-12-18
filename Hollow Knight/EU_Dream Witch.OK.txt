@@ -1,3 +1,4 @@
+EU_Dream Witch
 <entries>
     <entry name="WITCH_DREAM1">Zeinen patu izugarria ezarri dizuten.&lt;page&gt;Gorputzaren eta arimaren arteko toki honetara erbesteratzea...&lt;page&gt;Haien epaia onartuko duzu eta poliki betiko desagertu?&lt;page&gt;Edo aurrean duzun arma hartu, eta amets goibel ahaztu honetatik irteteko bidea urratuko duzu?</entry>
     <entry name="WITCH_DREAM_FALL">Zu erortzen bazara ere, zure borondateak eramango zaitu aurrera.&lt;page&gt;Ametsak ez dauka inongo mugarik, baina erresumak bai.&lt;page&gt;Mundu hau lozorrotik iratzartzeko beharrezko boterea... eskua luzatu eta hartu besterik ez duzu.</entry>

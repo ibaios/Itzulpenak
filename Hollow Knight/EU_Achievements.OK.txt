@@ -1,3 +1,4 @@
+EU_Achievements
 <entries>
     <entry name="ACH_TEXT_TEST">Hau probarako lorpenaren deskribapena da</entry>
     <entry name="ACH_TITLE_TEST">Hau probarako lorpenaren izenburua da</entry>
@@ -57,6 +58,7 @@
     <entry name="GRIMM_TITLE">Antzezpen Handia</entry>
     <entry name="GRUBFRIEND_TEXT">Salbatu larba gatibuen erdiak</entry>
     <entry name="GRUBFRIEND_TITLE">Larbalaguna</entry>
+    <entry name="HIDDEN_ACHIEVEMENT_ALT">Lorpen hau ezkutaturik dago</entry>
     <entry name="HIDDEN_ACHIEVEMENT">Lorpen hau ezkutaturik dago</entry>
     <entry name="HIDDEN_ACHIEVEMENT_TITLE">Sekretua</entry>
     <entry name="HORNET_1_TEXT">Garaitu Hornet Xendra Berdean</entry>

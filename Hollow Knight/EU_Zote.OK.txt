@@ -1,3 +1,4 @@
+EU_Zote
 <entries>
     <entry name="DREAM_COL_CORPSE">Ospa, zorria! Alde berehala! Edo are gehiago umiliatuko zaitut!</entry>
     <entry name="PRECEPT_10">Hamargarren printzipioa: &#39;Izan zure arma beti zorrozturik&#39;.&lt;page&gt;Nire arma, &#39;Bizi-ebaslea&#39;, beti zorrotz mantentzeaz arduratzen naiz. Horrela, askoz errazagoa da gauzak moztea.</entry>

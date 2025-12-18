@@ -1,3 +1,4 @@
+EU_Banker
 <entries>
     <entry name="BANKER_ACCT_DECLINE_AGAIN">Ezezkoan oraindik? Zalantzatia zara benetan! Erabaki ausartak hartu behar dituzu eta hauek amaieraraino eraman, hori da geo gehiago lortzeko trikimailua. </entry>
     <entry name="BANKER_ACCT_DECLINE">Ulertzen dut. Zaila da kostata lortutako geoengandik banantzea. Hemen naukazu, iritziz aldatzen baduzu.</entry>

@@ -1,3 +1,4 @@
+EU_Cornifer
 <entries>
     <entry name="ABYSS_BOUGHT">Ibilaldi luzea dago dendatik honaino. Beste tartetxo batez hartuko dut atseden.&lt;page&gt;Baina ez gehiegi! Ez dut Iselda nigatik kezka dadin nahi.</entry>
     <entry name="ABYSS_GREET">Harpe zaharrak dira hauek. Ez duzu sentitzen gaineko erresumaren pisua? Pisu astuna da.&lt;page&gt;Gutxi dira sakonera hauetara heldu direnak. Aitzindariak gara zu eta biok, bai behintzat historia hurbilari dagokionean.</entry>

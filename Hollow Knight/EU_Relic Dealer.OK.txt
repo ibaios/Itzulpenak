@@ -1,3 +1,4 @@
+EU_Relic Dealer
 <entries>
     <entry name="RELICDEALER_CONVO_1">Ez ukitu zaharkinak! Nire piezak ez daude salgai.&lt;page&gt;Baina bidean zehar altxor interesgarririk aurkitu baduzu, agian trukeren bat egin dezakegu. Hurbildu salmahaira eta ikus dezagun zer dakarzun.</entry>
     <entry name="RELICDEALER_DOOR">Ideiak argitzera atera naiz. Laster izango naiz bueltan. Nahi ta nahiez saldu beharreko zerbait baduzu, bila nazazu Iturriaren enparantzan.</entry>

@@ -1,3 +1,4 @@
+EU_Charm Slug
 <entries>
     <entry name="CHARMSLUG_BLESSING_1">Laztana. Bedeinkatzen zaitut. Zure fideltasunagatik eta daukazun itxura ederragatik, ondo merezia daukazu.</entry>
     <entry name="CHARMSLUG_BLESSING_2">Mmmmmm baii... Espero dut nire bedeinkapenak desira duzun guztia emango dizula! Zatoz bisitan noizean behin, azukretxo.</entry>

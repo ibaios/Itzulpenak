@@ -1,3 +1,4 @@
+EU_MainMenu
 <entries>
     <entry name="ACHIEVEMENTS_BASE_SET_TEXT">Hollow Knight-eko lorpenak.</entry>
     <entry name="ACHIEVEMENTS_BASE_SET_TITLE">Hollow Knight-eko Lorpenak</entry>
@@ -32,6 +33,7 @@
     <entry name="CTRL_UNMAPPED">Mapatu gabe</entry>
     <entry name="DESC_BACKER_NAMES">Erakutsi Kickstarter-eko mezenasen izenak haien ekarpenekin batera.</entry>
     <entry name="DESC_FRAME_CAP">Mugatu segundoko fotograma kopuru maximoa esperientzia erregularra izateko.</entry>
+    <entry name="DESC_HUD_VISIBILITY">Doitu HUDaren eskala. Jokotik irtetean berrezarriko da &#8216;Ez&#8217; aukeratuz gero.</entry>
     <entry name="DESC_LANG">Aldatu hizkuntza Menu Nagusitik</entry>
     <entry name="DESC_NATIVE_ACHIEVEMENTS">Erakutsi mezuak jokoan lorpenak eskuratzean.</entry>
     <entry name="DESC_NATIVE_INPUT">Aktibatu agintearekin arazoak badituzu. Jokoa berrabiarazi beharra dago aplikatzeko.</entry>
@@ -39,11 +41,16 @@
     <entry name="DESC_SHADERS">Gutxitu gama baxuko makinetan errendimendua hobetzeko.</entry>
     <entry name="DESC_VSYNC">Mantendu aktibatuta esperientzia hobeaz gozatzeko. 'Screen tearing'-a ekiditen du.</entry>
     <entry name="EXTRAS_CREDITS">Kredituak</entry>
+    <entry name="GAME_APPLE_MFI">MFi</entry>
     <entry name="GAME_BACKER_NAMES">Mezenasen Kredituak:</entry>
+    <entry name="GAME_CAMERA_SHAKE">Kameraren Astinduak</entry>
     <entry name="GAME_CONTROLLER_RUMBLE">Dardara</entry>
+    <entry name="GAME_CONTROLLER_VIBRATION">Bibrazioa</entry>
+    <entry name="GAME_HUD_VISIBILITY">HUDaren itxura</entry>
     <entry name="GAME_LANGUAGE">Hizkuntza:</entry>
     <entry name="GAME_NATIVE_ACHIEVEMENTS">Erakutsi Lorpenak:</entry>
-    <entry name="GAME_NATIVE_INPUT">Agintearen Berezko Sarrera (Beta)</entry>
+    <entry name="GAME_NATIVE_INPUT">Agintearen Berezko Sarrera</entry>
+    <entry name="GAME_XINPUT">XInput</entry>
     <entry name="KEYBOARD_NONE">Bat ere ez</entry>
     <entry name="KEYBOARD_PRESSKEY">Sakatu Tekla Berria</entry>
     <entry name="KEYBOARD_UNMAPPED">Mapatu gabe</entry>
@@ -74,11 +81,14 @@
     <entry name="MODE_SELECT">Hautatu Modua</entry>
     <entry name="MODE_STEEL">Altzairuzko Arima</entry>
     <entry name="MOH_HIGH">Altua</entry>
+    <entry name="MOH_LARGE">Handia</entry>
     <entry name="MOH_LOW">Baxua</entry>
     <entry name="MOH_MED">Ertaina</entry>
     <entry name="MOH_NORMAL">Arrunta</entry>
     <entry name="MOH_OFF">Ez</entry>
     <entry name="MOH_ON">Bai</entry>
+    <entry name="MOH_REDUCED">Murriztua</entry>
+    <entry name="MOH_SMALL">Txikia</entry>
     <entry name="NAV_APPLY">Itzuli</entry>
     <entry name="NAV_APPLY_TRUE">Aplikatu</entry>
     <entry name="NAV_BACK">Itzuli</entry>
@@ -105,6 +115,13 @@
     <entry name="PROFILE_DEFEATED">Garaitua</entry>
     <entry name="PROFILE_LOADING">Kargatzen...</entry>
     <entry name="PROFILE_NEW_GAME">Partida Berria</entry>
+    <entry name="PS4_SAVE_IMPORT_LABEL">Inportatu PS4™-ko gordetako partidak</entry>
+    <entry name="PS4_SAVE_IMPORT_PROGRESS">Gordetako partidak inportatzen</entry>
+    <entry name="PS4_SAVE_IMPORT_RESULT_FAILED">{0} / {1} PS4™-ko gordetako partida inportatu dira behar bezala.&lt;br&gt;Hustu gordetze-artekak PS4™-ko gordetako partidak inportatzeko.</entry>
+    <entry name="PS4_SAVE_IMPORT_RESULT_SUCCESS">{0} / {1} PS4™-ko gordetako partida inportatu dira behar bezala.</entry>
+    <entry name="PS4_SAVE_IMPORT_SEARCH_FAIL">Huts egin du gordetako datu bateragarriak bilatzean.</entry>
+    <entry name="PS5_ACTIVITY_CARD_NAME">Jolastu Hollow Knight-en</entry>
+    <entry name="SAVE_IMPORT_CONFIRM">Ziur zaude?</entry>
     <entry name="SCREEN_ACHIEVEMENTS">Lorpenak</entry>
     <entry name="SCREEN_AUDIO">Audioa</entry>
     <entry name="SCREEN_EXTRAS">Estrak</entry>
@@ -116,13 +133,20 @@
     <entry name="SCREEN_SAVE_PROFILES">Hautatu Profila</entry>
     <entry name="SCREEN_VIDEO">Bideoa</entry>
     <entry name="STEEL_MODE_TEXT">Ez dago berpizterik. Heriotza behin betikoa da.</entry>
+    <entry name="SUBMENU_ADVANCED">Ezarpen Aurreratuak</entry>
+    <entry name="SWITCH_FRAMERATE_DESC">Fotograma tasa altuagoa 120Hz jasaten duten pantailentzat. Bereizmena txikituko da.</entry>
+    <entry name="SWITCH_FRAMERATE">TB Modurako Fotograma Tasa</entry>
     <entry name="TEXT_SKIP_PROMPT">Sakatu edozein botoi saltatzeko</entry>
     <entry name="UI_MENU_ACHIEVEMENTS_PS4">Garaikurrak</entry>
     <entry name="UI_MENU_ACHIEVEMENTS_XB1">Lorpenak</entry>
     <entry name="VIDEO_BRIGHTNESS">Distira</entry>
     <entry name="VIDEO_DISPLAY">Monitorea:</entry>
+    <entry name="VIDEO_DITHERING_DESC">Kolore-bandak gutxitzen ditu, baina errendimenduari eragin diezaioke gama baxuko sistemetan.</entry>
+    <entry name="VIDEO_DITHERING">Bilbatzea</entry>
     <entry name="VIDEO_FRAME_CAP">Mugatu FPS Kopurua:</entry>
     <entry name="VIDEO_FULLSCREEN">Pantaila Osoan:</entry>
+    <entry name="VIDEO_NOISE_DESC"></entry>
+    <entry name="VIDEO_NOISE">Film-pikorra</entry>
     <entry name="VIDEO_OVERSCAN">Pantailaren Eskala</entry>
     <entry name="VIDEO_PARTICLES">Partikula-Efektuak:</entry>
     <entry name="VIDEO_RESOLUTION">Bereizmena:</entry>

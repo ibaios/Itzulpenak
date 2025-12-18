@@ -1,3 +1,4 @@
+EU_Titles
 <entries>
     <entry name="ABSOLUTE_RADIANCE_MAIN">DISTIRA</entry>
     <entry name="ABSOLUTE_RADIANCE_SUPER">ERABATEKO</entry>

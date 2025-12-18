@@ -1,8 +1,9 @@
+EU_Prompts
 <entries>
+    <entry name=" ">Atea giltzaz itxita dago.&lt;br&gt;Giltza bitxia erabili?</entry>
     <entry name="ABYSS_DOOR_NOBRAND">Testu hau ezabatua izan da</entry>
     <entry name="ACCEPT">ONARTU</entry>
     <entry name="ASCEND">IGO</entry>
-    <entry name=" ">Atea giltzaz itxita dago.&lt;br&gt;Giltza bitxia erabili?</entry>
     <entry name="BANKER_ACCOUNT">Ordaindu kontua irekitzeko?</entry>
     <entry name="BATH_HOUSE_KEY">Atea sarraila soilarekin.&lt;br&gt;Giltza soila erabili?</entry>
     <entry name="BATH_HOUSE_NOKEY">Atea sarraila soilarekin.</entry>

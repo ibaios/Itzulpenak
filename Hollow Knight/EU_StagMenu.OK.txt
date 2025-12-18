@@ -1,3 +1,4 @@
+EU_StagMenu
 <entries>
     <entry name="BONE_FOREST">Hezur-Basoa</entry>
     <entry name="CITY_OF_TEARS_1">Hiriko Biltegiak</entry>

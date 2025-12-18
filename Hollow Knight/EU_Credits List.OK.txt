@@ -1,3 +1,4 @@
+EU_Credits List
 <entries>
     <entry name="CREDIT_PROGRAM">Sistema eta tresnen programazioa</entry>
     <entry name="CREDITS_ADDITIONAL_CODING">Kodeketa tresna gehigarriak</entry>
@@ -14,8 +15,8 @@
     <entry name="CREDITS_ADDIT_TRANSLATE_RUSSIAN_NAME">Danila Evstifeev&lt;br&gt;Andrey Torbin&lt;br&gt;Alexandra &quot;Alphyna&quot; Golubeva</entry>
     <entry name="CREDITS_ADDIT_TRANSLATE_SPANISH">Itzulpen gehigarria - Gaztelera</entry>
     <entry name="CREDITS_ADDIT_TRANSLATE_SPANISH_NAME">Daniel Ruiz &quot;TheBrightKing&quot;</entry>
-    <entry name="CREDITS_CHARVOICES_NAME">Makoto Koji&lt;br&gt;Tyler Bartley&lt;br&gt;Hari Dimitriou&lt;br&gt;Matthew Griffin&lt;br&gt;Hannah Murdoch&lt;br&gt;Bill Northcott&lt;br&gt;Zara Pellen&lt;br&gt;Victoria Roberts&lt;br&gt;Cassandra &quot;Friskk&quot; Reyna&lt;br&gt;Not Shalulu</entry>
     <entry name="CREDITS_CHARVOICES">Pertsonaien ahots gehigarriak</entry>
+    <entry name="CREDITS_CHARVOICES_NAME">Makoto Koji&lt;br&gt;Tyler Bartley&lt;br&gt;Hari Dimitriou&lt;br&gt;Matthew Griffin&lt;br&gt;Hannah Murdoch&lt;br&gt;Bill Northcott&lt;br&gt;Zara Pellen&lt;br&gt;Victoria Roberts&lt;br&gt;Cassandra &quot;Friskk&quot; Reyna&lt;br&gt;Not Shalulu</entry>
     <entry name="CREDITS_CONGRATS_BODY">Izugarrizko balentria egin duzu. Ez duzu etsi, eta azkenean zeurea da garaipena.&lt;br&gt;Espero dugu Hollow Knight-en munduan bizitako abenturaz gozatuko zenuela.&lt;br&gt;Laster egingo dugu topo berriz, etorkizun hurbilean.</entry>
     <entry name="CREDITS_CONGRATS_BODY_PERMA">Trebeziaz jolastu duzu, eta Altzairuzko Arima daukazula frogatu duzu.&lt;br&gt;Milesker eraiki dugun mundu hau esploratu eta menderatzeko tartea hartu izanagatik.&lt;br&gt;Laster egingo dugu topo berriz, zuretzako erronka berri baten bueltan...</entry>
     <entry name="CREDITS_CONGRATS">Zorionak</entry>
@@ -30,8 +31,8 @@
     <entry name="CREDITS_GUITAR">Gitarra</entry>
     <entry name="CREDITS_INDIE_FUND">Indie Fund</entry>
     <entry name="CREDITS_INDIE_FUND_NAME">Jeffrey Rosen&lt;br&gt;John Graham&lt;br&gt;Ben Newhouse&lt;br&gt;Kyle Pulver&lt;br&gt;Ron Theis</entry>
-    <entry name="CREDITS_INTERNS_NAME">James Gillham&lt;br&gt;James Ross McNabb</entry>
     <entry name="CREDITS_INTERNS">Praktiketako langileak</entry>
+    <entry name="CREDITS_INTERNS_NAME">James Gillham&lt;br&gt;James Ross McNabb</entry>
     <entry name="CREDITS_LETH">Marketina eta Harreman Publikoak</entry>
     <entry name="CREDITS_LOCAL_LEAD">Lokalizazio burua</entry>
     <entry name="CREDITS_MARKET_JAPAN">Argitalpen japoniarraren sostengua</entry>
@@ -42,8 +43,8 @@
     <entry name="CREDITS_PORTING">Shark Jump Studios</entry>
     <entry name="CREDITS_PORTING_TEST_LEAD">Testatzaile burua - Shark Jump</entry>
     <entry name="CREDITS_PORTING_TEST_NAME">James Pearse</entry>
-    <entry name="CREDITS_PROGRAM_ADDIT_NAME">Jack Vine</entry>
     <entry name="CREDITS_PROGRAM_ADDIT">Programazio gehigarria</entry>
+    <entry name="CREDITS_PROGRAM_ADDIT_NAME">Jack Vine</entry>
     <entry name="CREDITS_SCORE_NAME">Christopher Larkin</entry>
     <entry name="CREDITS_SCORE">Soinua eta musika</entry>
     <entry name="CREDITS_SOUND_ASSIST">Efektu gehigarriak</entry>

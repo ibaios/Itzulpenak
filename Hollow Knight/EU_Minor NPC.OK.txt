@@ -1,3 +1,4 @@
+EU_Minor NPC
 <entries>
     <entry name="BIGCAT_DREAM">Izaki honek nahiago du bere gogoan kuxkuxean inor ez ibiltzea. Aztoragarria da. Nahiko inbasiboa.</entry>
     <entry name="BIGCAT_INTRO">Ohrm... Gauza txikia. Oso gora eskalatu duzu. Lur hauetako jakinduriaren bila zabiltza, ala?&lt;page&gt;Errautsez beteriko inguru hau Wyrm-aren hilobia da. Esan zidaten behin, hona etorri zela hiltzera. Baina zer da heriotza halako antzinako izaki batentzat? Eraldaketa gehiago, ene ustetan.&lt;page&gt;Huts egindako erresuma hau, gertaera hartatik atera zen izakiaren emaitza da.</entry>
@@ -187,8 +188,8 @@
     <entry name="SPIDER_REPEAT">Laztana. Zu bai zarela atsegina, berriro zatoz ondo nagoen ikustera. Anfitrioi adeitsua nauzu. Ez dut ulertzen zergatik ez nauten gehiagok bisitatzen zuk bezala.&lt;page&gt;Aizu, ziur ez zaizula axola hozkadatxo bat egiten badizut... Hanka bat soilik, agian? Sabel betea da zoriontasunerako bidea...</entry>
     <entry name="TISO_BENCH_GREET">Ehh. Izaki zurbila. Bide zaharrok darabiltzazu? Patetikoa. Benetako gudari bat bere hankek garraiatzen dute borrokara. Ez du halako erosotasunen beharrik.</entry>
     <entry name="TISO_BENCH_REPEAT">Utz nazazu bakean. Borrokalekua da bila nabilena. Nahikoa denbora galdu dut alferrik bide malapartatu hauetan dagoeneko.</entry>
-    <entry name="TISO_COLOSSEUM_REPEAT">Guztiak txikituko ditut. Oh, baita zu ere. Nire alderik hilgarriena erakutsiko dizut.</entry>
     <entry name="TISO_COLOSSEUM">Zurbila. Zeuk ere aurkitu duzu beraz, leku bikain hau. Laster joango naiz borrokara. Atsedenaldi txiki bat aurrena.&lt;page&gt;Gutxi izango dira nirekin lehiatzeko gai, baina espero dut koliseo honek eskainiko didala bilatzen dudan moduko desafio basatia.</entry>
+    <entry name="TISO_COLOSSEUM_REPEAT">Guztiak txikituko ditut. Oh, baita zu ere. Nire alderik hilgarriena erakutsiko dizut.</entry>
     <entry name="TISO_DREAM_BENCH">Arkanbele zahar horiek borrokalari krudelak izango lirateke. Morroi-izaera horri uko egingo baliote...</entry>
     <entry name="TISO_DREAM_COLOSSEUM">...Desafio perfektua. Dagoeneko dasta dezaket garaipena...</entry>
     <entry name="TISO_DREAM_LAKE">Leku hura deika ari zait. Laku honen ostean gordetzen da, nonbait?</entry>

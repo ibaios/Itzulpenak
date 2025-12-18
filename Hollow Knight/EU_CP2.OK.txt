@@ -1,3 +1,4 @@
+EU_CP2
 <entries>
     <entry name="BRETTA_DIARY_LEAVE">                          Dontzeilaren bilaketa&lt;br&gt;Bere Printze Grisa lur jota ikusirik eta Salbatzaile Zuria piztia zela jakinik, Dontzeilak azkenean ulertu zuen egia.&lt;page&gt;Bizitza berekin partekatuko zuen hori ez zen oraindik azaldu, ez lukeelako zain egotea besterik egingo ez zuen dontzeilarik nahi. Zain egon ordez, bere bila abiatu behar zuen, bere maitea aurkitu, eta bakardadetik libratu.&lt;page&gt;Eta horrela ekin zion bere bidaiari, lur arriskutsuetan zehar, zain zuen maitea babestzat hartuz, maitasunak gidaturik.&lt;page&gt;Emaniko pauso bakoitzarekin senti zezakeen dontzeilak, patuak beretzako gordetako elkartzea, gero eta gertuago.</entry>
     <entry name="BRETTA_MZOTE_01">Printze Grisa? Zure hitzak, ez al dira... errepikatzen ari? </entry>

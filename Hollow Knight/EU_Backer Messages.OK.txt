@@ -1,3 +1,4 @@
+EU_Backer Messages
 <entries>
     <entry name="BELIEVE_TAB_01">Carlo Camera&lt;br&gt;&lt;br&gt;Atsedenerako astirik ez dago. Eman zure onena eta gehiago.</entry>
     <entry name="BELIEVE_TAB_02">Thomas C&lt;br&gt;&lt;br&gt;Izarrak eta hautsa.</entry>

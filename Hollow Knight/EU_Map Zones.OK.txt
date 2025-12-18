@@ -1,3 +1,4 @@
+EU_Map Zones
 <entries>
     <entry name="ABYSS">Antzinako Arroa</entry>
     <entry name="ABYSS_DEEP">Amildegia</entry>

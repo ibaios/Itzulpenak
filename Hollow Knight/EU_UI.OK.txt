@@ -1,3 +1,4 @@
+EU_UI
 <entries>
     <entry name="ASCEND">IGO</entry>
     <entry name="BANK_DEPOSIT_AMT">Zenbat sartu nahi duzu?</entry>
@@ -78,12 +79,12 @@
     <entry name="CHARM_NAME_23">Bihotz hauskorra</entry>
     <entry name="CHARM_NAME_23_BRK">Bihotz hauskorra (Konpondu)</entry>
     <entry name="CHARM_NAME_23_G">Bihotz hautsezina</entry>
+    <entry name="CHARM_NAME_24">Gutizia hauskorra</entry>
     <entry name="CHARM_NAME_24_BRK">Gutizia hauskorra (Konpondu)</entry>
     <entry name="CHARM_NAME_24_G">Gutizia hautsezina</entry>
-    <entry name="CHARM_NAME_24">Gutizia hauskorra</entry>
+    <entry name="CHARM_NAME_25">Indar hauskorra</entry>
     <entry name="CHARM_NAME_25_BRK">Indar hauskorra (Konpondu)</entry>
     <entry name="CHARM_NAME_25_G">Indar hautsezina</entry>
-    <entry name="CHARM_NAME_25">Indar hauskorra</entry>
     <entry name="CHARM_NAME_26">Ezten-maisuaren loria</entry>
     <entry name="CHARM_NAME_27">Joniren bedeinkapena</entry>
     <entry name="CHARM_NAME_28">Unn-en forma</entry>
@@ -163,8 +164,8 @@
     <entry name="INV_DESC_KINGSBRAND">Eramailea errege gisa markatzen du. Sakrabiako leku antzinakoak bere aurrean irekiko zaizkio.</entry>
     <entry name="INV_DESC_LANTERN">Barnean argieuli bat daukan kristalezko faroltxoa. Harpe ilunak argitzen ditu, ibiltariek bidea aurki dezaten.</entry>
     <entry name="INV_DESC_LOVEKEY">Guztiz akoltxatua, maitasunaren ikurra dauka grabaturik.</entry>
-    <entry name="INV_DESC_MAPQUILL">Sakrabiako mapa. Eserleku batean atsedena hartzean, luma erabil daiteke deskubritutako gune berriekin mapa eguneratzeko.</entry>
     <entry name="INV_DESC_MAP">Sakrabiako mapa, Corniferrek partzialki osatua.&lt;br&gt;&lt;br&gt;Ezin da lumarik gabe eguneratu.</entry>
+    <entry name="INV_DESC_MAPQUILL">Sakrabiako mapa. Eserleku batean atsedena hartzean, luma erabil daiteke deskubritutako gune berriekin mapa eguneratzeko.</entry>
     <entry name="INV_DESC_NAIL1">Sakrabiako arma tradizionala. Bere ahoa urteen eta erabileraren poderioz kamustua dago.</entry>
     <entry name="INV_DESC_NAIL2">Sakrabiako arma tradizionala, forma hilgarria lortzeko berriztua.</entry>
     <entry name="INV_DESC_NAIL3">Sakrabiako arma arrailduna. Xafla bikainki orekatua dauka.</entry>

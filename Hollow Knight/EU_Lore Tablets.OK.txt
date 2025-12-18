@@ -1,3 +1,4 @@
+EU_Lore Tablets
 <entries>
     <entry name="ABYSS_BLUE_STONE">Harri urdin bizi bat oholtza gainean.</entry>
     <entry name="ABYSS_MAWLEK_ROYAL">...Nirea...</entry>

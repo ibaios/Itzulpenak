@@ -1,3 +1,4 @@
+EU_General
 <entries>
     <entry name="CONTROL_PROMPT">biziki gomendatzen da agintea erabiliz jolastea</entry>
     <entry name="GAME_DISPLAY_TITLE"></entry>
