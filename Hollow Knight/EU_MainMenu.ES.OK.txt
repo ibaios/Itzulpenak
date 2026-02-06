@@ -2,9 +2,9 @@ EU_MainMenu
 <entries>
     <entry name="ACHIEVEMENTS_BASE_SET_TEXT">Hollow Knight-eko lorpenak.</entry>
     <entry name="ACHIEVEMENTS_BASE_SET_TITLE">Hollow Knight-eko Lorpenak</entry>
-    <entry name="AUDIO_MASTER_VOL">Bolumen Nagusia:</entry>
-    <entry name="AUDIO_MUSIC_VOL">Musikaren Bolumena:</entry>
-    <entry name="AUDIO_SOUND_VOL">Soinuen Bolumena:</entry>
+    <entry name="AUDIO_MASTER_VOL">Bolumen Nagusia</entry>
+    <entry name="AUDIO_MUSIC_VOL">Musikaren Bolumena</entry>
+    <entry name="AUDIO_SOUND_VOL">Soinuen Bolumena</entry>
     <entry name="BRIGHT_INSTRUCT">Doitu distira gogoko mailara.</entry>
     <entry name="BRIGHT_SLIDER">Distira</entry>
     <entry name="BUTTON_ATTACK">Eraso</entry>
@@ -42,13 +42,13 @@ EU_MainMenu
     <entry name="DESC_VSYNC">Mantendu aktibatuta esperientzia hobeaz gozatzeko. 'Screen tearing'-a ekiditen du.</entry>
     <entry name="EXTRAS_CREDITS">Kredituak</entry>
     <entry name="GAME_APPLE_MFI">MFi</entry>
-    <entry name="GAME_BACKER_NAMES">Mezenasen Kredituak:</entry>
+    <entry name="GAME_BACKER_NAMES">Mezenasen Kredituak</entry>
     <entry name="GAME_CAMERA_SHAKE">Kameraren Astinduak</entry>
     <entry name="GAME_CONTROLLER_RUMBLE">Dardara</entry>
     <entry name="GAME_CONTROLLER_VIBRATION">Bibrazioa</entry>
     <entry name="GAME_HUD_VISIBILITY">HUDaren itxura</entry>
-    <entry name="GAME_LANGUAGE">Hizkuntza:</entry>
-    <entry name="GAME_NATIVE_ACHIEVEMENTS">Erakutsi Lorpenak:</entry>
+    <entry name="GAME_LANGUAGE">Hizkuntza</entry>
+    <entry name="GAME_NATIVE_ACHIEVEMENTS">Erakutsi Lorpenak</entry>
     <entry name="GAME_NATIVE_INPUT">Agintearen Berezko Sarrera</entry>
     <entry name="GAME_XINPUT">XInput</entry>
     <entry name="KEYBOARD_NONE">Bat ere ez</entry>
@@ -140,17 +140,17 @@ EU_MainMenu
     <entry name="UI_MENU_ACHIEVEMENTS_PS4">Garaikurrak</entry>
     <entry name="UI_MENU_ACHIEVEMENTS_XB1">Lorpenak</entry>
     <entry name="VIDEO_BRIGHTNESS">Distira</entry>
-    <entry name="VIDEO_DISPLAY">Monitorea:</entry>
+    <entry name="VIDEO_DISPLAY">Monitorea</entry>
     <entry name="VIDEO_DITHERING_DESC">Kolore-bandak gutxitzen ditu, baina errendimenduari eragin diezaioke gama baxuko sistemetan.</entry>
     <entry name="VIDEO_DITHERING">Bilbatzea</entry>
-    <entry name="VIDEO_FRAME_CAP">Mugatu FPS Kopurua:</entry>
-    <entry name="VIDEO_FULLSCREEN">Pantaila Osoan:</entry>
+    <entry name="VIDEO_FRAME_CAP">Mugatu FPS Kopurua</entry>
+    <entry name="VIDEO_FULLSCREEN">Pantaila Osoan</entry>
     <entry name="VIDEO_NOISE_DESC"></entry>
     <entry name="VIDEO_NOISE">Film-pikorra</entry>
     <entry name="VIDEO_OVERSCAN">Pantailaren Eskala</entry>
-    <entry name="VIDEO_PARTICLES">Partikula-Efektuak:</entry>
-    <entry name="VIDEO_RESOLUTION">Bereizmena:</entry>
-    <entry name="VIDEO_SHADERS">Lausotze Kalitatea:</entry>
-    <entry name="VIDEO_VSYNC">Sinkronizazio Bertikala:</entry>
+    <entry name="VIDEO_PARTICLES">Partikula-Efektuak</entry>
+    <entry name="VIDEO_RESOLUTION">Bereizmena</entry>
+    <entry name="VIDEO_SHADERS">Lausotze Kalitatea</entry>
+    <entry name="VIDEO_VSYNC">Sinkronizazio Bertikala</entry>
     <entry name="VID_OPT_BORDERLESS">Ertzik Gabe</entry>
 </entries>
