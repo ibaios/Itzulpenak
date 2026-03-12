@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
-gamefolder=Webbed
-repourl=https://ibaios.eus/itzulpenak
-gameurl=webbed
+steamfolder=Webbed
+repourl=https://ibaios.eus/itzulpenak/webbed
 tempfolder=webbed-eu-instalazioa
 gamename="Webbed"
 email=ibaios@disroot.org
@@ -53,109 +52,177 @@ Xx;'',;;;;''..,,'';,:kko,.:okOOOxo;,;okKKKKKO:. .'. ....   :ldxddo    .',:ldk
 END
 )
 
+# FUNTZIOAK
 
-echo "$ascii"
+# Hemen Steam / GOG / Beste bat galdetzekoa faltako litzateke
 
-echo "$gamename euskaraz - Instalatzen..."
-
-# Aukeratu gainidatziko den hizkuntza - Beti EN oraingoz
-locale="en"
-
-# Bilatu jokoaren kokalekua
-path=""
-paths=()
-
-
-steamconfigpath=~/.steam/steam/config/libraryfolders.vdf
-if [[ ! -f "$steamconfigpath" ]]; then
-    steamconfigpath=~/.var/app/com.valvesoftware.Steam/.local/share/Steam/config/libraryfolders.vdf
-    if [[ ! -f "$steamconfigpath" ]]; then
-        steamconfigpath=""
-        echo "EZIN IZAN DA STEAMEKO KONFIGURAZIO FITXATEGIA AURKITU."
+choose_overridden_lang() {
+    if [[ "$1" == "es" || "$1" == "fr" ]]; then
+        locale="$1"
+    else
+        while true; do
+            read -p "Zein hizkuntza gainidatzi nahi duzu?
+            1: Gaztelania
+            2: Frantsesa
+            (idatzi 1 edo 2 eta sakatu SARTU tekla)
+            " esfr
+            case $esfr in
+                1 ) locale='es'; break;;
+                2 ) locale='fr'; break;;
+                * ) echo "
+                OKERREKO AUKERA. Idatzi 1 (Gaztelania) edo 2 (Frantsesa) eta sakatu SARTU tekla.
+                ";;		
+            esac
+        done
     fi
-fi
+}
 
-if [[ ! -z "$steamconfigpath" ]]; then
-    while read -r line; do
-        if [[ $line == \"path\"* ]]; then
-            base=$(echo $line | cut -d '"' -f 4)
-            optpath="$base"/steamapps/common/$gamefolder
-            if [[ -d "$optpath" ]]; then
-                paths+=("$optpath")
-                #echo "Konfigurazioan $optpath aurkitu da..."
+get_steam_path() {
+    echo "STEAM dendako jokoaren instalazioa bilatzen..."	
+    steamconfigpath=~/.steam/steam/config/libraryfolders.vdf
+    if [[ ! -f "$steamconfigpath" ]]; then
+        steamconfigpath=~/.var/app/com.valvesoftware.Steam/.local/share/Steam/config/libraryfolders.vdf
+        if [[ ! -f "$steamconfigpath" ]]; then
+            steamconfigpath=""
+            echo "EZIN IZAN DA STEAM-EKO KONFIGURAZIO FITXATEGIA AURKITU."
+        fi
+    fi
+
+    if [[ ! -z "$steamconfigpath" ]]; then
+        while read -r line; do
+            if [[ $line == \"path\"* ]]; then
+                base=$(echo $line | cut -d '"' -f 4)
+                optpath="$base"/steamapps/common/$steamfolder
+                if [[ -d "$optpath" ]]; then
+                    paths+=("$optpath")
+                    #echo "Konfigurazioan $optpath aurkitu da..."
+                fi
+            fi
+        done < "$steamconfigpath"
+
+        if [[ ${#paths[@]} > 0 ]]; then
+            if [[ ${#paths[@]} == 1 ]]; then
+                path=${paths[0]}
+            else
+                # Galdetu erabiltzaileari
+                echo "Jokoarentzako karpeta posible bat baino gehiago aurkitu dira. Zein da jokoaren benetako karpeta?"
+                select selpath in "${paths[@]}"; do
+                    if [[ -z "$selpath" ]]; then
+                        printf 'Okerreko aukera.\n' "$selpath" >&2
+                    else
+                        path="$selpath"
+                        break
+                    fi
+                done
             fi
         fi
-    done < "$steamconfigpath"
-
-    if [[ ${#paths[@]} > 0 ]]; then
-        if [[ ${#paths[@]} == 1 ]]; then
-            path=${paths[0]}
-        else
-            # Galdetu erabiltzaileari
-            echo "Jokoarentzako karpeta posible bat baino gehiago aurkitu dira. Zein da jokoaren benetako karpeta?"
-            select selpath in "${paths[@]}"; do
-                if [[ -z "$selpath" ]]; then
-                    printf 'Okerreko aukera.\n' "$selpath" >&2
-                else
-                    path="$selpath"
-                    break
-                fi
-            done
-        fi
     fi
-fi
+}
 
-if [[ -z "$path" ]]; then
+set_path_manually() {
     read -p "Ez da jokoaren karpeta aurkitu. Idatzi eskuz non dagoen.
-    (adb. /home/erabiltzailea/.steam/steam/steamapps/common/$gamefolder)
+    (adb. /home/erabiltzailea/.steam/steam/steamapps/common/$steamfolder)
     Kokalekua: " path
     while [[ ! -d "$path" ]]; do
         read -p "Sartutako kokalekua ez da existitzen. Saiatu berriz.
-        (adb. /home/erabiltzailea/.steam/steam/steamapps/common/$gamefolder)
+        (adb. /home/erabiltzailea/.steam/steam/steamapps/common/$steamfolder)
         Kokalekua: " path
     done
-fi
+}
 
-echo "Path: $path"
+get_game_path() {
+    path="$1"
+    paths=()
 
-# Instalaziorako karpeta sortu
-mkdir $tempfolder
-cd $tempfolder
+    if [[ -z "$path" ]]; then
+        get_steam_path
+        if [[ -z "$path" ]]; then
+            set_path_manually
+        fi
+    fi
 
-echo "Itzulpen-fitxategia deskargatzen..."
+    echo "Path: $path"
+}
 
-# Deskargatu ASSETS fitxategia
-wget $repourl/$gameurl/webbed-eu-$locale.csv
+create_temp_folder() {
+    mkdir $tempfolder
+    cd $tempfolder
+}
 
-echo "Deskargatuta."
-echo "Itzulpena aplikatzen..."
+handle_error() {
+    if [[ $ok == 0 ]]; then
+        echo "Huts egin du."
+        echo "Instalazioko fitxategiak ezabatzen..."
+        cd ..
+        rm -R $tempfolder/
 
-# Aplikatu itzulpena
-ok=1
-mv "$path"/translations.csv "$path"/translations.csv.bak || ok=0
-cp ./webbed-eu-$locale.csv "$path"/translations.csv || ok=0
+        # Errorea
+        echo ""
+        echo "✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗"
+        echo "✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗"
+        echo ""
+        echo "Arazoren bat gertatu da '$gamename' jokoaren euskaratzea instalatzean. Saiatu berriro edo idatzi $email helbidera lagun zaitzadan."
+        
+        exit 1
+    fi
+}
 
-if [[ $ok == 0 ]]; then
-    echo "Huts egin du."
+download_l10n() {
+    echo ""
+    echo "Itzulpen-fitxategiak deskargatzen..."
+
+    # Deskargatu ASSETS fitxategia
+    wget $repourl/webbed-eu-$locale.csv || ok=0
+
+    handle_error
+
+    echo "Deskargatuta."
+}
+
+apply_l10n() {
+    echo ""
+    echo "Itzulpena aplikatzen. Honek luze jo dezake..."
+
+    # Aplikatu itzulpena
+    mv "$path"/translations.csv "$path"/translations.csv.bak || ok=0
+    cp ./webbed-eu-$locale.csv "$path"/translations.csv || ok=0
+
+    handle_error
+}
+
+final_message() {
+    echo ""
     echo "Instalazioko fitxategiak ezabatzen..."
     cd ..
     rm -R $tempfolder/
-
-    # Errorea
-    echo ""
-    echo "✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗"
-    echo "✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗"
-    echo ""
-    echo "Arazoren bat gertatu da $gamename jokoaren euskaratzea instalatzean. Saiatu berriro edo idatzi $email helbidera lagun zaitzadan."
-else
-    echo "Aplikatuta."
-    echo "Instalazioko fitxategiak ezabatzen..."
-    cd ..
-    rm -R $tempfolder/
+    echo "Eginda."
 
     # Instalatuta!
     echo ""
     echo "$endascii"
     echo ""
-    echo "✔  Instalazioa behar bezala burutu da. Orain $gamename euskaraz izango duzu."
-fi
+    echo "✔  Instalazioa behar bezala burutu da."
+    echo "   Orain, '$gamename' euskaraz izango duzu."
+}
+
+# HASIERA
+echo "$ascii"
+
+echo "$gamename euskaraz - Instalatzen..."
+
+ok=1
+
+# ORAINGOZ BETI EN, IZENBURUARENGATIK - choose_overridden_lang "${1:-}"
+locale="en"
+
+get_game_path "${1:-}"
+
+create_temp_folder
+
+download_l10n
+
+apply_l10n
+
+final_message
+
+exit 0
