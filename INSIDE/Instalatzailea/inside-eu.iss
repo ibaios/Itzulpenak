@@ -1,6 +1,6 @@
 #define MyAppName "INSIDE euskaraz"
 #define MyAppFilesystemName "INSIDE euskaraz"
-#define MyAppVersion "1.2"
+#define MyAppVersion "1.3"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"
@@ -37,12 +37,12 @@ WizardStyle=modern
 Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 
 [Files]
-Source: "..\..\..\uabe\*"; DestDir: "{app}\uabe"; Flags: ignoreversion recursesubdirs
+Source: "..\..\..\itzultool\bin\release\net6.0\win-x64\publish\itzultool-0.4-win-x64.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "inside-eu-es.emip"; DestDir: "{app}"; Flags: ignoreversion
 Source: "inside-eu-fr.emip"; DestDir: "{app}"; Flags: ignoreversion
 
 [Run]
-Filename: "{app}\uabe\AssetBundleExtractor.exe"; Parameters: "applyemip ""{app}\{code:GetSelectedEmip}"" ""{code:GetSelectedGameDataDir}"""
+Filename: "{app}\itzultool-0.4-win-x64.exe"; Parameters: "applyemip ""{app}\{code:GetSelectedEmip}"" ""{code:GetSelectedGameDataDir}"""
 
 [Code]
 var
