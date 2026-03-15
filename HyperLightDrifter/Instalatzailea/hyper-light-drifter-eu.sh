@@ -221,11 +221,7 @@ apply_l10n() {
     echo "Itzulpena aplikatzen. Honek luze jo dezake..."
 
     # Aplikatu itzulpena
-    if [ -d "$path/assets/" ]; then
-        tar -xvf $l10nprefix-$locale.tar.xz -C "$path/assets/"
-    else
-        tar -xvf $l10nprefix-$locale.tar.xz -C "$path"
-    fi
+    tar -xvf $l10nprefix-$locale.tar.xz -C "$path"
 
     handle_error
 }

@@ -878,7 +878,7 @@ ENG|Yes
 SPA|Si
 JAP|ハイ
 GER|Ja
-ITA|Si
+ITA|Sì
 RUS|Да
 FRN|Bai
 
