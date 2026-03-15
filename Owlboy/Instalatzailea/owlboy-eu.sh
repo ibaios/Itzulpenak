@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
 gamefolder="Owlboy/content/localizations"
-repourl=https://ibaios.eus/itzulpenak
-gameurl=owlboy
+repourl=https://ibaios.eus/itzulpenak/owlboy
 l10nfile=owlboy-eu.tar.xz
 tempfolder=.owlboy-eu-instalazioa
 gamename="Owlboy"
@@ -60,7 +59,7 @@ END
 
 # FUNTZIOAK
 
-initial_config() {
+choose_store() {
 	# Aukeratu denda
 	while true; do
 		read -p "Zein dendatatik instalatu duzu jokoa?
@@ -158,23 +157,28 @@ set_path_manually() {
 }
 
 get_game_path() {
-	path=""
-	paths=()
+	path="$1"
+    paths=()
 
-	case $store in
+    if [[ -z "$path" ]]; then
 
-		steam)
-		get_steam_path
-		;;
+		choose_store
+
+		case $store in
+
+			steam)
+			get_steam_path
+			;;
+			
+			gog)
+			get_gog_path
+			;;
+			
+		esac
 		
-		gog)
-		get_gog_path
-		;;
-		
-	esac
-	
-	if [[ -z "$path" ]]; then
-		set_path_manually
+		if [[ -z "$path" ]]; then
+			set_path_manually
+		fi
 	fi
 
 	echo "Path: $path"
@@ -209,7 +213,7 @@ download_l10n() {
 	echo "Itzulpen-fitxategia deskargatzen..."
 
 	# Deskargatu itzulpen-fitxategia
-	wget "${repourl}/${gameurl}/${l10nfile}" || ok=0
+	wget "${repourl}/${l10nfile}" || ok=0
 
 	handle_error
 
@@ -249,11 +253,9 @@ echo "$ascii"
 
 echo "$gamename euskaraz - Instalatzen..."
 
-initial_config
-
 ok=1
 
-get_game_path
+get_game_path "${1:-}"
 
 create_temp_folder
 
