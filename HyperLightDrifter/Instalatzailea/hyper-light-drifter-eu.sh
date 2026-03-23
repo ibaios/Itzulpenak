@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 steamfolder=HyperLightDrifter
+subdir=
 repourl=https://ibaios.eus/itzulpenak/hyperlightdrifter
 l10nprefix=hyper-light-drifter-eu
 tempfolder=hyper-light-drifter-eu-instalazioa
@@ -180,6 +181,7 @@ get_game_path() {
     fi
 
     echo "Path: $path"
+    path="$path/$subdir"
 }
 
 create_temp_folder() {

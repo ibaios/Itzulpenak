@@ -2,7 +2,8 @@
 
 itzultool_version=0.4
 itzultool_filename=itzultool-"$itzultool_version"-linux-x64
-steamfolder=SIGNALIS/SIGNALIS_Data
+steamfolder=SIGNALIS
+subdir=SIGNALIS_Data
 repourl=https://ibaios.eus/itzulpenak/signalis
 emipprefix=signalis-eu
 tempfolder=signalis-eu-instalazioa
@@ -183,6 +184,7 @@ get_game_path() {
     fi
 
     echo "Path: $path"
+    path="$path/$subdir"
 }
 
 create_temp_folder() {

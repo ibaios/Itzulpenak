@@ -2,7 +2,8 @@
 
 itzultool_version=0.4
 itzultool_filename=itzultool-"$itzultool_version"-linux-x64
-steamfolder=Hollow\ Knight/hollow_knight_Data
+steamfolder=Hollow\ Knight
+subdir=hollow_knight_Data
 repourl=https://ibaios.eus/itzulpenak/hollowknight
 emipprefix=hollow-knight-eu
 tempfolder=hollow-knight-eu-instalazioa
@@ -150,6 +151,7 @@ get_game_path() {
     fi
 
     echo "Path: $path"
+    path="$path/$subdir"
 }
 
 create_temp_folder() {

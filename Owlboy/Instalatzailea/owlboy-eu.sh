@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-gamefolder="Owlboy/content/localizations"
+gamefolder="Owlboy"
+subdir="content/localizations"
 repourl=https://ibaios.eus/itzulpenak/owlboy
 l10nfile=owlboy-eu.tar.xz
 tempfolder=.owlboy-eu-instalazioa
@@ -182,6 +183,7 @@ get_game_path() {
 	fi
 
 	echo "Path: $path"
+	path="$path/$subdir"
 }
 
 create_temp_folder() {

@@ -2,7 +2,8 @@
 
 itzultool_version=0.4
 itzultool_filename=itzultool-"$itzultool_version"-linux-x64
-steamfolder=Death\'s\ Door/DeathsDoor_Data
+steamfolder=Death\'s\ Door
+subdir=DeathsDoor_Data
 repourl=https://ibaios.eus/itzulpenak/deathsdoor
 tempfolder=deaths-door-eu-instalazioa
 gamename="Death's Door"
@@ -178,6 +179,7 @@ get_game_path() {
     fi
 
     echo "Path: $path"
+    path="$path/$subdir"
 }
 
 create_temp_folder() {

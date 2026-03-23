@@ -2,7 +2,8 @@
 
 itzultool_version=0.4
 itzultool_filename=itzultool-"$itzultool_version"-linux-x64
-steamfolder=Pummel\ Party/PummelParty_Data
+steamfolder=Pummel\ Party
+subdir=PummelParty_Data
 repourl=https://ibaios.eus/itzulpenak/pummelparty
 emipprefix=pummel-party-eu
 tempfolder=pummel-party-eu-instalazioa
@@ -150,6 +151,7 @@ get_game_path() {
     fi
 
     echo "Path: $path"
+    path="$path/$subdir"
 }
 
 create_temp_folder() {

@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 steamfolder=Kopanito\ All-Stars\ Soccer
+subdir=
 repourl=https://ibaios.eus/itzulpenak/kopanito
 l10nprefix=kopanito-eu
 tempfolder=kopanito-eu-instalazioa
@@ -140,6 +141,7 @@ get_game_path() {
     fi
 
     echo "Path: $path"
+    path="$path/$subdir"
 }
 
 create_temp_folder() {

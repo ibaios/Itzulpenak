@@ -2,7 +2,8 @@
 
 itzultool_version=0.4
 itzultool_filename=itzultool-"$itzultool_version"-linux-x64
-steamfolder=INSIDE/INSIDE_Data
+steamfolder=INSIDE
+subdir=INSIDE_Data
 repourl=https://ibaios.eus/itzulpenak/inside
 emipprefix=inside-eu
 tempfolder=inside-eu-instalazioa
@@ -164,6 +165,7 @@ get_game_path() {
     fi
 
     echo "Path: $path"
+    path="$path/$subdir"
 }
 
 create_temp_folder() {

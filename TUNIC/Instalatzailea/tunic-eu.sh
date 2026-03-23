@@ -2,7 +2,8 @@
 
 itzultool_version=0.4
 itzultool_filename=itzultool-"$itzultool_version"-linux-x64
-steamfolder=TUNIC/Tunic_Data
+steamfolder=TUNIC
+subdir=Tunic_Data
 repourl=https://ibaios.eus/itzulpenak/tunic
 emipprefix=tunic-eu
 tempfolder=tunic-eu-instalazioa
@@ -194,6 +195,7 @@ get_game_path() {
     fi
 
     echo "Path: $path"
+    path="$path/$subdir"
 }
 
 create_temp_folder() {

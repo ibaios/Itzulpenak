@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-steamfolder=Untitled\ Goose\ Game/Untitled_Data
+steamfolder=Untitled\ Goose\ Game
+subdir=Untitled_Data
 repourl=https://ibaios.eus/itzulpenak/untitledgoosegame
 tempfolder=untitled-goose-game-eu-instalazioa
 gamename="Untitled Goose Game"
@@ -165,6 +166,7 @@ get_game_path() {
     fi
 
     echo "Path: $path"
+    path="$path/$subdir"
 }
 
 create_temp_folder() {

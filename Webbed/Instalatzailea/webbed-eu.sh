@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 steamfolder=Webbed
+subdir=
 repourl=https://ibaios.eus/itzulpenak/webbed
 tempfolder=webbed-eu-instalazioa
 gamename="Webbed"
@@ -142,6 +143,7 @@ get_game_path() {
     fi
 
     echo "Path: $path"
+    path="$path/$subdir"
 }
 
 create_temp_folder() {

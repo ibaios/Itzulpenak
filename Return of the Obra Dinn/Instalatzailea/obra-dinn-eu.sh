@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-steamfolder=ObraDinn/ObraDinn_Data
+steamfolder=ObraDinn
+subdir=ObraDinn_Data
 repourl=https://ibaios.eus/itzulpenak/obradinn
 tempfolder=obra-dinn-eu-instalazioa
 gamename="Return of the Obra Dinn"
@@ -173,6 +174,7 @@ get_game_path() {
     fi
 
     echo "Path: $path"
+    path="$path/$subdir"
 }
 
 create_temp_folder() {
