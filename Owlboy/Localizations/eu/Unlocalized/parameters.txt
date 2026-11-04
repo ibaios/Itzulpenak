@@ -1,0 +1,5 @@
+float
+ABCDEFGHIJKLMNOPQRSTUVWXYZÆØÅabcdefghijklmnopqrstuvwxyzæøå!?"'/\()[]{}*=&%|><,.-_;1234567890:+-#¤└├↑↓ □
+9,5
+0
+0
