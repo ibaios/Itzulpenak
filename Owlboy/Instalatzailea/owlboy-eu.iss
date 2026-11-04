@@ -1,6 +1,6 @@
 #define MyAppName "Owlboy euskaraz"
 #define MyAppFilesystemName "Owlboy euskaraz"
-#define MyAppVersion "1.6"
+#define MyAppVersion "1.7"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"
@@ -37,10 +37,7 @@ WizardStyle=modern
 Name: "basque"; MessagesFile: "..\..\..\Basque.isl"
 
 [Files]
-Source: "..\eu.csv"; DestDir: "{code:GetSelectedGameDataDir}\localizations"; Flags: ignoreversion
-Source: "..\translations.csv"; DestDir: "{code:GetSelectedGameDataDir}\localizations"; Flags: ignoreversion
-Source: "..\eu\*"; DestDir: "{code:GetSelectedGameDataDir}\localizations\eu"; Flags: ignoreversion recursesubdirs
-Source: "..\flags\eu.png"; DestDir: "{code:GetSelectedGameDataDir}\localizations\flags"; Flags: ignoreversion
+Source: "..\Localizations\*"; DestDir: "{code:GetSelectedGameDataDir}\Localizations"; Flags: ignoreversion recursesubdirs
  
 [Code]
 var
@@ -161,20 +158,20 @@ begin
   GamePath := '';
 
   // Steam
-  GamePath := FindGamePathInList(GetSteamLibraryPaths(), '\steamapps\common\' + 'Owlboy\data');  
+  GamePath := FindGamePathInList(GetSteamLibraryPaths(), '\steamapps\common\' + 'Owlboy\Data');  
   
   if GamePath = '' then
   begin
     // GOG Galaxy
-    GamePath := FindGamePathInList(GetGOGPaths(), 'Owlboy\data');
+    GamePath := FindGamePathInList(GetGOGPaths(), 'Owlboy\Data');
   
     if GamePath = '' then
     begin
       
       // Program Files
 
-      if DirExists(ExpandConstant('{autopf}') + 'Owlboy\data') then
-        GamePath := ExpandConstant('{autopf}') + 'Owlboy\data';
+      if DirExists(ExpandConstant('{autopf}') + 'Owlboy\Data') then
+        GamePath := ExpandConstant('{autopf}') + 'Owlboy\Data';
   
     end;
   end;

@@ -1,12 +1,16 @@
 #!/usr/bin/env bash
 
-gamefolder="Owlboy"
-subdir="content/localizations"
-repourl=https://ibaios.eus/itzulpenak/owlboy
-l10nfile=owlboy-eu.tar.xz
-tempfolder=.owlboy-eu-instalazioa
 gamename="Owlboy"
-email=ibaios@disroot.org
+author="ibaios"
+email="ibaios@disroot.org"
+
+steamfolder="Owlboy"
+gogfolder="Owlboy"
+subdir="Data"
+
+tempfolder=owlboy-eu-instalazioa
+
+l10n_file="https://ibaios.eus/itzulpenak/owlboy/owlboy-eu.zip"
 
 ascii=$(cat <<'END'
 
@@ -54,194 +58,131 @@ endascii=$(cat <<'END'
                            :d. ;d0KXXX0o, ,d,                                  
                              :oc'......,ll,                                    
                                 ';::::;.                                       
-                                                                               
+                                                    
 END
 )
 
 # FUNTZIOAK
 
-choose_store() {
-	# Aukeratu denda
-	while true; do
-		read -p "Zein dendatatik instalatu duzu jokoa?
-		1: Steam
-		2: GOG
-		3: Beste bat
-		(idatzi 1, 2 edo 3 eta sakatu SARTU tekla)
-		" storeop
-		case $storeop in
-		    1 ) store='steam'; break;;
-		    2 ) store='gog'; break;;
-		    3 ) store='other'; break;;
-		    * ) echo "
-		    OKERREKO AUKERA. Idatzi 1 (Steam), 2 (GOG) edo 3 (Beste bat) eta sakatu SARTU tekla.
-		    ";;		
-		esac
-	done
-}
-
 get_steam_path() {
-	echo "STEAM dendako jokoaren instalazioa bilatzen..."	
-	steamconfigpath=~/.steam/steam/config/libraryfolders.vdf
-	if [[ ! -f "$steamconfigpath" ]]; then
-		steamconfigpath=~/.var/app/com.valvesoftware.Steam/.local/share/Steam/config/libraryfolders.vdf
-		if [[ ! -f "$steamconfigpath" ]]; then
-		    steamconfigpath=""
-		    echo "EZIN IZAN DA STEAMEKO KONFIGURAZIO FITXATEGIA AURKITU."
-		fi
-	fi
+    echo "STEAM dendako jokoaren instalazioa bilatzen..."
+    steamconfigpath=~/.steam/steam/config/libraryfolders.vdf
+    if [[ ! -f "$steamconfigpath" ]]; then
+        steamconfigpath=~/.var/app/com.valvesoftware.Steam/.local/share/Steam/config/libraryfolders.vdf
+        if [[ ! -f "$steamconfigpath" ]]; then
+            steamconfigpath=""
+            echo "EZIN IZAN DA STEAM-EKO KONFIGURAZIO FITXATEGIA AURKITU."
+        fi
+    fi
 
-	if [[ ! -z "$steamconfigpath" ]]; then
-		while read -r line; do
-		    if [[ $line == \"path\"* ]]; then
-		        base=$(echo $line | cut -d '"' -f 4)
-		        optpath="$base"/steamapps/common/$gamefolder
-		        if [[ -d "$optpath" ]]; then
-		            paths+=("$optpath")
-		            #echo "Konfigurazioan $optpath aurkitu da..."
-		        fi
-		    fi
-		done < "$steamconfigpath"
+    if [[ ! -z "$steamconfigpath" ]]; then
+        while read -r line; do
+            if [[ $line == \"path\"* ]]; then
+                base=$(echo $line | cut -d '"' -f 4)
+                optpath="$base"/steamapps/common/$steamfolder
+                if [[ -d "$optpath" ]]; then
+                    paths+=("$optpath")
+                    #echo "Konfigurazioan $optpath aurkitu da..."
+                fi
+            fi
+        done < "$steamconfigpath"
 
-		if [[ ${#paths[@]} > 0 ]]; then
-		    if [[ ${#paths[@]} == 1 ]]; then
-		        path=${paths[0]}
-		    else
-		        # Galdetu erabiltzaileari
-		        echo "Jokoarentzako karpeta posible bat baino gehiago aurkitu dira. Zein da jokoaren benetako karpeta?"
-		        select selpath in "${paths[@]}"; do
-		            if [[ -z "$selpath" ]]; then
-		                printf 'Okerreko aukera.\n' "$selpath" >&2
-		            else
-		                path="$selpath"
-		                break
-		            fi
-		        done
-		    fi
-		fi
-	fi
-}
-
-get_gog_path() {
-	echo "GOG dendako jokoaren instalazioa bilatzen..."
-	paths[0]="`eval echo ~/GOG Games/$gamefolder`"
-	
-	if [[ ${#paths[@]} > 0 ]]; then
-	    if [[ ${#paths[@]} == 1 ]]; then
-	    	if [[ -d "${paths[0]}" ]]; then
-		        path=${paths[0]}
-	        fi
-	    else
-	        # Galdetu erabiltzaileari
-	        echo "Jokoarentzako karpeta posible bat baino gehiago aurkitu dira. Zein da jokoaren benetako karpeta?"
-	        select selpath in "${paths[@]}"; do
-	            if [[ -z "$selpath" ]]; then
-	                printf 'Okerreko aukera.\n' "$selpath" >&2
-	            else
-	                path="$selpath"
-	                break
-	            fi
-	        done
-	    fi
-	fi
+        if [[ ${#paths[@]} > 0 ]]; then
+            if [[ ${#paths[@]} == 1 ]]; then
+                path=${paths[0]}
+            else
+                # Galdetu erabiltzaileari
+                echo "Jokoarentzako karpeta posible bat baino gehiago aurkitu dira. Zein da jokoaren benetako karpeta?"
+                select selpath in "${paths[@]}"; do
+                    if [[ -z "$selpath" ]]; then
+                        printf 'Okerreko aukera.\n' "$selpath" >&2
+                    else
+                        path="$selpath"
+                        break
+                    fi
+                done
+            fi
+        fi
+    fi
 }
 
 set_path_manually() {
-	read -p "Ez da jokoaren karpeta aurkitu. Idatzi eskuz non dagoen.
-    (adb. /home/erabiltzailea/.steam/steam/steamapps/common/$gamefolder)
+    read -p "Ez da jokoaren karpeta aurkitu. Idatzi eskuz non dagoen.
+    (adb. /home/erabiltzailea/.steam/steam/steamapps/common/$steamfolder)
     Kokalekua: " path
     while [[ ! -d "$path" ]]; do
         read -p "Sartutako kokalekua ez da existitzen. Saiatu berriz.
-        (adb. /home/erabiltzailea/.steam/steam/steamapps/common/$gamefolder)
+        (adb. /home/erabiltzailea/.steam/steam/steamapps/common/$steamfolder)
         Kokalekua: " path
     done
 }
 
 get_game_path() {
-	path="$1"
+    path="$1"
     paths=()
 
     if [[ -z "$path" ]]; then
+        get_steam_path
+        if [[ -z "$path" ]]; then
+            set_path_manually
+        fi
+    fi
 
-		choose_store
-
-		case $store in
-
-			steam)
-			get_steam_path
-			;;
-			
-			gog)
-			get_gog_path
-			;;
-			
-		esac
-		
-		if [[ -z "$path" ]]; then
-			set_path_manually
-		fi
-	fi
-
-	echo "Path: $path"
-	path="$path/$subdir"
+    echo "Path: $path"
+    path="$path/$subdir"
 }
 
 create_temp_folder() {
-	mkdir $tempfolder
-	cd $tempfolder
+    mkdir $tempfolder
+    cd $tempfolder
 }
 
 handle_error() {
-	if [[ $ok == 0 ]]; then
-		echo "Huts egin du."
-		echo "Instalazioko fitxategiak ezabatzen..."
-		cd ..
-		rm -R $tempfolder/
+    if [[ $ok == 0 ]]; then
+        echo "Huts egin du."
+        echo "Instalazioko fitxategiak ezabatzen..."
+        cd ..
+        rm -R $tempfolder/
 
-		# Errorea
-		echo ""
-		echo "✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗"
-		echo "✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗"
-		echo ""
-		echo "Arazoren bat gertatu da '$gamename' jokoaren euskaratzea instalatzean. Saiatu berriro edo idatzi $email helbidera lagun zaitzadan."
-		
-		exit 1
-	fi
+        # Errorea
+        echo ""
+        echo "✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗"
+        echo "✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗ ✗"
+        echo ""
+        echo "Arazoren bat gertatu da '$gamename' jokoaren euskaratzea instalatzean. Saiatu berriro edo idatzi $email helbidera lagun zaitzadan."
+
+        exit 1
+    fi
 }
 
-
 download_l10n() {
-	echo ""
-	echo "Itzulpen-fitxategia deskargatzen..."
+    echo ""
+    echo "Itzulpen-fitxategia deskargatzen..."
 
-	# Deskargatu itzulpen-fitxategia
-	wget "${repourl}/${l10nfile}" || ok=0
+    varname="l10n_file"
+    wget "${!varname}" -O l10n.zip || ok=0
 
-	handle_error
+    handle_error
 
-	echo "Deskargatuta."
+    echo "Deskargatuta."
 }
 
 apply_l10n() {
-	echo ""
-	echo "Itzulpena aplikatzen..."
+    echo ""
+    echo "Itzulpena deskonprimatzen..."
 
-	# Aplikatu itzulpena
-	tar -xJf ./"${l10nfile}" -C "${path}" || ok=0
+    python3 -m zipfile -e l10n.zip "$path" || ok=0
 
-	handle_error
-	
-	echo "Aplikatuta."
+    handle_error
 }
 
 final_message() {
-	echo ""
+    echo ""
     echo "Instalazioko fitxategiak ezabatzen..."
     cd ..
     rm -R $tempfolder/
     echo "Eginda."
 
-    # Instalatuta!
     echo ""
     echo "$endascii"
     echo ""
@@ -249,15 +190,18 @@ final_message() {
     echo "   Orain, '$gamename' euskaraz izango duzu."
 }
 
+# EXEKUZIOA
 
-# HASIERA
+echo ""
 echo "$ascii"
-
+echo ""
+echo "Itzultzailea: $author"
+echo ""
 echo "$gamename euskaraz - Instalatzen..."
 
 ok=1
 
-get_game_path "${1:-}"
+get_game_path "${2:-}"
 
 create_temp_folder
 
@@ -268,4 +212,3 @@ apply_l10n
 final_message
 
 exit 0
-
