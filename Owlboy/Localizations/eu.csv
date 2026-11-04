@@ -3125,7 +3125,7 @@ Context (stripped away),Speaker,English,Translation,,File name,Line number
 ,,"Aha, here we are!","Aja, hemen gaude!",,DungeonPirate/PirateIntro/firstDoorOpen,28
 ,,"If I find the lever in there, I can keep the door open for you,","Hemengo palanka aurkitzen badut, atea irekita manten dezaket zuentzat,",,DungeonPirate/PirateIntro/firstDoorOpen,46
 ,,But I will need to stay here to keep it open.,baina hemen egon beharra dut itxi ez dadin.,,DungeonPirate/PirateIntro/firstDoorOpen,46
-,,Voila!,Voilà!,,DungeonPirate/PirateIntro/firstDoorOpen,77
+,,Voila!,Voilï¿½!,,DungeonPirate/PirateIntro/firstDoorOpen,77
 ,,"Go ahead, Otus, I'll meet you on the other side.","Segi aurrera, Otus, bestaldean elkartuko gara.",,DungeonPirate/PirateIntro/firstDoorOpen,112
 ,,<10>.<10>.<10>.,<10>.<10>.<10>.,,DungeonPirate/PirateIntro/escaped,19
 ,,"Huh, where'd you go to?","Ei, non sartu zara?",,DungeonPirate/PirateIntro/escaped,38
@@ -4301,7 +4301,7 @@ Context (stripped away),Speaker,English,Translation,,File name,Line number
 ,,Attachable musket unit. For maximum fire!,Mosketearen unitate eransgarria. Indar osoz su egiteko!,,default.ini,-1
 ,,Glitters of the night!,Gaueko distirak!,,default.ini,-1
 ,,A scope that attaches to a gun.,Arma bati eransteko mira.,,default.ini,-1
-,,Increases the range of Geddy's pistol.,Geddyren pistolaren irismena hobetzen du.,,default.ini,-1
+,,Increases the range of Geddy's pistol.,Geddyren pistolaren irismena hobetzeko.,,default.ini,-1
 ,,A powerful pump for flammable fuel.,Erregai suharberarentzako ponpa boteretsua.,,default.ini,-1
 ,,Powers up Alphonse's shotgun blast.,Alphonseren eskopetaren potentzia<nl>areagotzen du.,,default.ini,-1
 ,,"A dark, beautiful owl cloak made","Hontz-kapa ilun eder bat, armiarmen",,default.ini,-1
@@ -4317,18 +4317,18 @@ Context (stripped away),Speaker,English,Translation,,File name,Line number
 ,,Otus's best friend and Vellie's defence,Otusen lagunik onena eta Vellieren,,default.ini,-1
 ,,mechanic.,babeserako mekanikaria.,,default.ini,-1
 ,,"Geddy carries a blaster, effective","Geddyk aldean darama pistola,",,default.ini,-1
-,,"in most combat situations, but","borrokaldi gehienetan eraginkorra,",,default.ini,-1
-,,not against solid rock or steel.,baina ez harkaitz edo altzairuaren kontra.,,default.ini,-1
+,,"in most combat situations, but","borrokaldi gehienetan eraginkorra, baina",,default.ini,-1
+,,not against solid rock or steel.,ez harkaitz edo altzairuaren kontra.,,default.ini,-1
 ,,Alphonse,Alphonse,,default.ini,-1
 ,,A gallant and friendly former pirate.,Pirata-ohi dotore eta lagunkoia.,,default.ini,-1
 ,,Loves theatre and poetry.,Maite ditu antzerkia eta poesia.,,default.ini,-1
-,,Alphonse's shotgun shoots a fire blast,Bere eskopetak lehergailu bat jaurtitzen du,,default.ini,-1
+,,Alphonse's shotgun shoots a fire blast,Eskopetatik lehergailuak jaurtitzen ditu,,default.ini,-1
 ,,that burns trees and damages enemies.,zuhaitzak kixkaliz eta etsaiak zaurituz.,,default.ini,-1
 ,,It needs to cool down after use.,Erabili ondoren hozteko astia behar du.,,default.ini,-1
 ,,Twig,Twig,,default.ini,-1
 ,,A prankster and a troublemaker,"Txantxazale eta bazter-nahaslea,",,default.ini,-1
 ,,who likes to dress up as a spider.,gogoko du armiarmaz mozorrotzea.,,default.ini,-1
-,,Twig shoots web pellets that can,Twigek amaraun-bolak botatzen ditu etsaiak,,default.ini,-1
+,,Twig shoots web pellets that can,Amaraun-bolak botatzen ditu etsaiak,,default.ini,-1
 ,,slow down or tangle enemies. Twig can,"moteldu edo trabatzeko. Gainera, horma",,default.ini,-1
 ,,also grapple to walls or objects.,edo objektuetara itsasten ere badaki.,,default.ini,-1
 ,,Key,Giltza,,default.ini,-1
