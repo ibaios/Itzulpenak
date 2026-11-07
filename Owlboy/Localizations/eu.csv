@@ -1597,7 +1597,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,WOOSH!,XIUUU!,Penguins/meetPenguinGubbyGeddy,73
 ,,"That's what it would sound like, <15>hehe.","Soinu hori egingo nuke, <15>jeje.",Penguins/meetPenguinGubbyGeddy,87
 ,,"That's um, <30>that's great!",Hori... <30>Hori izugarria litzateke!,Penguins/meetPenguinGubbyGeddy,95
-,,I'd even be able to teleport away<nl>from <b>Buccanary's<b> punch- [1]I mean!,"Pentsa, telegarraiatu ahalko nintzateke<nl><b>Buccanary<b>ren jipoi-[1]ups!",Penguins/meetPenguinGubbyGeddy,100
+,,I'd even be able to teleport away<nl>from <b>Buccanary's<b> punch- [1]I mean!,"Pentsa, telegarraiatu ahalko nintzateke<nl><b>Buccanary<b>ren jipoi-[1]...ups!",Penguins/meetPenguinGubbyGeddy,100
 ,,I'd be able to return to<nl>Buccanary's right away!,Buccanaryren dendara berehala<nl>itzuli ahalko nintzateke!,Penguins/meetPenguinGubbyGeddy,100
 ,,Yep! <60>That's where I want to be!,Bai! <60>Han egon nahi dut beti!,Penguins/meetPenguinGubbyGeddy,100
 ,,"OK, so<10>.<10>.<10>. <30>Should we help you out of here, <15>or?","Ados, orduan<10>.<10>.<10>. <30>Lagunduko dizugu hemendik irteten, <15>edo?",Penguins/meetPenguinGubbyGeddy,110
@@ -2497,7 +2497,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,FOOLS!,ERGELOK!,PirateAttack/firstMolstromEncounter,775
 ,,Come to see your capital BURN?,Zuen hiriburua SUTAN ikustera zatozte?,PirateAttack/firstMolstromEncounter,785
 ,,"Well, take a good look.",Ba ondo begiratu.,PirateAttack/firstMolstromEncounter,795
-,,"OTUS, NOOOO!!!",OTUS, EEEEEZ!!!,PirateAttack/firstMolstromEncounter,835
+,,"OTUS, NOOOO!!!","OTUS, EEEEEZ!!!",PirateAttack/firstMolstromEncounter,835
 ,,The time has come at last.,"Azkenean, iritsi duk unea.",PirateAttack/firstMolstromEncounter,850
 ,,You will get to watch.,Eta zuek izango zarete lekuko.,PirateAttack/firstMolstromEncounter,855
 ,,Behold the destruction of Advent!,Ikusi denok Abenduren suntsiketa!,PirateAttack/firstMolstromEncounter,860
@@ -2601,7 +2601,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,"H<5>m<5>m<5>m<5>, well, <30>we can certainly try.","M<5>m<5>m<5>m<5>, bai, <30>saia gaitezke.",Dungeon2Entrance/darkFigure,194
 ,,But our most important task is to get<nl>to that <b>last relic<b> before Molstrom does!,"Baina gure zereginik garrantzizkoena<nl><b>azken erlikia<b> aurkitzea da, Molstromek eskuratu baino lehen!",Dungeon2Entrance/darkFigure,199
 ,,"OK, guys. <30>I-I'm not a huge fan of dark caves and...","Hara, mutilok. <30>N-Ni ez naiz kobazulo ilunetan sartu zale eta...",Dungeon2Jungle/LightIntroDoor,80
-,,...I've heard <b><15>m[1]eat-<15>e[1]ating <15>gnats<b> thrive in these parts.,...Entzun dut inguruotan <b><15>eltxo h[1]aragi<15>j[1]ale mordoa daudela.,Dungeon2Jungle/LightIntroDoor,85
+,,...I've heard <b><15>m[1]eat-<15>e[1]ating <15>gnats<b> thrive in these parts.,...Entzun dut inguruotan <b><15>eltxo h[1]aragi<15>j[1]ale<b> mordoa daudela.,Dungeon2Jungle/LightIntroDoor,85
 ,,"But, it's the only way forward!","Baina, aurrera egiteko bide bakarra da!",Dungeon2Jungle/LightIntroDoor,97
 ,,"I'll stand ready with my <b>musket<b>, Master Geddy!","Nire <b>mosketea<b> prestatuko dut, Maisu Geddy!",Dungeon2Jungle/LightIntroDoor,102
 ,,"It's not much, but it may <b>provide us some light<b>.","Ez da askorik, baina <b>argi pixka bat emango digu<b>.",Dungeon2Jungle/LightIntroDoor,115
@@ -2610,7 +2610,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,"Hurry, nab it and let's skedaddle.","Arin, hartu ezak eta goazen korrika.",Dungeon2Jungle/RastaAndRelic,31
 ,,Alright!,Ados!,Dungeon2Jungle/RastaAndRelic,40
 ,,"Whoa, what's going on!","Arraioa, zer gertatzen da?",Dungeon2Jungle/RastaAndRelic,68
-,,"Argh, you must have rustled it somehow!",Oraingoan ere egingo huen hankasartzeren bat!,Dungeon2Jungle/RastaAndRelic,108
+,,"Argh, you must have rustled it somehow!",Oraingoan ere egingo huen hanka-sartzeren bat!,Dungeon2Jungle/RastaAndRelic,108
 ,,I'm gonna get out of here<nl>before you screw up everything.,Ni banoak hemendik hik<nl>dena izorratu baino lehen.,Dungeon2Jungle/RastaAndRelic,111
 ,,"Hey, wait up!","Ei, itxaron!",Dungeon2Jungle/RastaAndRelic,127
 ,,AGAIN!? <30>You cowards!<nl><30>You <30>absolute <30>[1]COWARDS!,BERRIRO!? <30>Koldarrok!<nl><30>Oilo <30>busti <30>[1]ALUOK!,Dungeon2Jungle/RastaCloseDoor,113
@@ -2682,7 +2682,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,Huh!?,E!?,Dungeon2/startMinibossFight,355
 ,,Wait!,Itxaron!,Dungeon2/startMinibossFight,367
 ,,Whoops!,Hara!,Dungeon2/startMinibossFight,421
-,,Looks like you woke it up.,Iratzarri duala zirudik.,Dungeon2/startMinibossFight,429
+,,Looks like you woke it up.,Iratzarri dela zirudik.,Dungeon2/startMinibossFight,429
 ,,Dirk! What are you doing!?,Dirk! Zertan zabiltza!?,Dungeon2/startMinibossFight,453
 ,,"It's been fun <b>Twig<b>, but<nl>we don't need you anymore.","Dibertigarria izan duk, <b>Twig<b>, baina<nl>jada ez diat hire laguntzarik behar.",Dungeon2/startMinibossFight,469
 ,,What?! No!,Zer?! Ez!,Dungeon2/startMinibossFight,477
@@ -3763,7 +3763,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,I'm just grateful that I found<nl>a more worthy master to serve.,Pozten nau nire zerbitzuak benetan<nl>merezi dituen maisu bat aurkitu izanak.,Bonfire/Tropos/adventDestroyed,431
 ,,One who works for good.,Intentzio oneko bat.,Bonfire/Tropos/adventDestroyed,431
 ,,"Good idea, <30>I'm bushed.","Ideia ona, <30>lur jota nago.",Bonfire/Tropos/adventDestroyed,450
-,,Let's continue our journey tomorrow<nl>shall we? <30>We should get some rest.,"Bihar berrekingo dugu bidaia,<nl>ados? <30>Atseden hartu behar dugu.",Bonfire/Tropos/adventDestroyed,450
+,,Let's continue our journey tomorrow<nl>shall we? <30>We should get some rest.,"Bihar berrekingo diogu bidaiari,<nl>ados? <30>Atseden hartu behar dugu.",Bonfire/Tropos/adventDestroyed,450
 ,,"So is there anything in particular<nl>you want to talk about, Otus?","Gai jakinen bati buruz<nl>hitz egin nahi duzu, Otus?",Bonfire/Tropos/geddyBackInParty,12
 ,,Anything else you want to talk about?,Beste ezeri buruz hitz egin nahi?,Bonfire/Tropos/geddyBackInParty,25
 ,,"Let's see, what was it that guy said this time?","Ikustagun, zer esan du tipo hark oraingoaz?",Bonfire/Tropos/geddyBackInParty,51
