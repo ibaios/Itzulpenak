@@ -921,7 +921,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,Advent destroyed.,Abendu suntsitua.,Vellie/asioDepressed,37
 ,,Pirates roaming free.,Piratak askatasunez alde batetik bestera.,Vellie/asioDepressed,37
 ,,...,...,Vellie/asioDepressed,43
-,,...And the Professor comes and<nl>tells me that the ruin holding<nl>the <b>relic<b> was opened.,...Eta irakasleak esan zidak<nl>barnean <b>erlikia<b> gordetzen zuen hondakina ireki dutela.,Vellie/asioDepressed,48
+,,...And the Professor comes and<nl>tells me that the ruin holding<nl>the <b>relic<b> was opened.,...Eta irakasleak esan zidak barnean <b>erlikia<b><nl>gordetzen zuen hondakina ireki dutela.,Vellie/asioDepressed,48
 ,,"If the pirates gather all the relics,<nl>then we are all doomed.","Piratek erlikia guztiak batzea lortzen badute,<nl>gureak egin dik.",Vellie/asioDepressed,48
 ,,"And with Advent gone, we can't stop them...","Eta Abendu gabe, ezin ditiagu geldiarazi...",Vellie/asioDepressed,48
 ,,Otus.,Otus.,Vellie/asioDepressed,73
@@ -2075,7 +2075,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,All this machinery...,Makineria guzti hau...,Dungeon1/discoverWindMachine,66
 ,,It looks like it's been broken for decades...,Orain dela hamarkada asko hondatu zela dirudi...,Dungeon1/discoverWindMachine,66
 ,,But then<10>.<10>.<10>. <30>Shouldn't the temple be closed off?,Baina orduan<10>.<10>.<10>. <30>Ez al litzateke tenplua itxita egon beharko?,Dungeon1/discoverWindMachine,66
-,,The Professor said that this machine was blowing the islands apart...,Irakasleak esan zuen makina honek<nl>mantentzen zituela uharteak bata besteagandik bereizita...,Dungeon1/discoverWindMachine,66
+,,The Professor said that this machine was blowing the islands apart...,Irakasleak esan zuen makina honek mantentzen<nl>zituela uharteak bata besteagandik bereizita...,Dungeon1/discoverWindMachine,66
 ,,Could he have been wrong..?,Tronpatu egin ote da...?,Dungeon1/discoverWindMachine,66
 ,,"We have to hurry up, guys!","Bizkor ibili behar dugu, lagunok!",Dungeon1/discoverWindMachine,82
 ,,If we can't use this machine to<nl>slow the pirates down<10>.<10>.<10>.,Ezin badugu makina hau erabili<nl>piratak geldiarazteko<10>.<10>.<10>.,Dungeon1/discoverWindMachine,82
@@ -2146,7 +2146,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,H<20>-hey now...<30> There<nl>was nothing to shut down!,B-<20>Baina...<30> Ez zegoen<nl>itzaltzekorik ezer!,checkAdventPirateAttack,194
 ,,The control room was broken...,Kontrol-gela erabat hondatua zegoen...,checkAdventPirateAttack,194
 ,,The Owl Temple has been shut down for years!,Hontzaren Tenpluak urteak daramatza itzalita!,checkAdventPirateAttack,194
-,,The wind machinery was <30>never<30> active!?,Haize makineria <30>ez <30>zegoela <30>martxan!?,checkAdventPirateAttack,204
+,,The wind machinery was <30>never<30> active!?,Haize-makineria <30>ez <30>zegoela <30>martxan!?,checkAdventPirateAttack,204
 ,,<15>.<15>.<15>.,<15>.<15>.<15>.,checkAdventPirateAttack,212
 ,,Don't be ridiculous.<nl><50>We're all familiar with you and<nl>Otus's slackery!,Ez esan txorakeriarik.<nl><50>Ez ginen atzo goizean jaio<nl>eta ondo ezagutzen zaituztegu!,checkAdventPirateAttack,230
 ,,"Your actions are inexcusable, Otus.<30><nl>You bring shame to owls everywhere.","Hire ekintzek ez diate barkamenik, Otus.<30><nl>Munduko hontz guztiok lotsarazten gaituk.",checkAdventPirateAttack,230
@@ -2444,7 +2444,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,"We have to get out of here, [1]QUICKLY!","Hemendik irten beharra daukagu, [1]BIZKOR!",Dreadnaught/foundFurnace,504
 ,,Hup!,Apa!,Dreadnaught/foundFurnace,518
 ,,"Don't fret, team! <nl><30>Leave this one to me!","Ez kezkatu, lagunok! <nl><30>Utzi hau niri!",Dreadnaught/foundFurnace,533
-,,"Otus, <15>one of these doors should<nl>lead to the Dreadnought's engine.","Otus, <15>ate hauetariko batek<nl>Korazatuaren motorrerako bidea dauka atzean.",Dreadnaught/enter,32
+,,"Otus, <15>one of these doors should<nl>lead to the Dreadnought's engine.","Otus, <15>ate hauetariko batek Korazatuaren<nl>motorrerako bidea dauka atzean.",Dreadnaught/enter,32
 ,,"When you find it, we'll help you destroy it.","Aurkitzen duzunean, suntsitzen lagunduko dizugu.",Dreadnaught/enter,32
 ,,Hah...,A...,PirateAttack/firstMolstromEncounter,62
 ,,HAHA<10>HA<10>HA<10>HA!!!,JAJA<10>JA<10>JA<10>JA!!!,PirateAttack/firstMolstromEncounter,82
@@ -2497,7 +2497,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,FOOLS!,ERGELOK!,PirateAttack/firstMolstromEncounter,775
 ,,Come to see your capital BURN?,Zuen hiriburua SUTAN ikustera zatozte?,PirateAttack/firstMolstromEncounter,785
 ,,"Well, take a good look.",Ba ondo begiratu.,PirateAttack/firstMolstromEncounter,795
-,,"OTUS, NOOOO!!!",OTUS; EEEEEZ!!!,PirateAttack/firstMolstromEncounter,835
+,,"OTUS, NOOOO!!!",OTUS, EEEEEZ!!!,PirateAttack/firstMolstromEncounter,835
 ,,The time has come at last.,"Azkenean, iritsi duk unea.",PirateAttack/firstMolstromEncounter,850
 ,,You will get to watch.,Eta zuek izango zarete lekuko.,PirateAttack/firstMolstromEncounter,855
 ,,Behold the destruction of Advent!,Ikusi denok Abenduren suntsiketa!,PirateAttack/firstMolstromEncounter,860
@@ -2568,13 +2568,13 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,"They designed various models, each made for a specific function.","Hainbat modelo diseinatu zituzten, bakoitza zeregin zehatz baterako.",PirateFlashback/start,70
 ,,We were expected to optimize.,Optimizatzeko gai izango ginela espero zen.,PirateFlashback/start,76
 ,,We would constantly improve our ability to carry out our function.,"Etengabe hobetu genuen geure zeregina burutzeko gaitasuna, antza.",PirateFlashback/start,82
-,,"But as you know, <30>the ancient owls, and what remained of their cities,<30> all but vanished.","Baina, ondo dakizunez, <30>antzinako hontzak, eta haien hirietatik gelditzen ziren hondarrak,<30> erabat desagertu ziren.",PirateFlashback/start,92
+,,"But as you know, <30>the ancient owls, and what remained of their cities,<30> all but vanished.","Baina, ondo dakizunez, <30>antzinako hontzak, eta haien hirietatik gelditzen ziren hondarrak,<30><nl>erabat desagertu ziren.",PirateFlashback/start,92
 ,,"Without their guidance, we continued our tasks. <30>Blindly. <30>For centuries...","Haien gidaritzarik gabe, gure zereginetan jarraitu genuen. <30>Itsu-itsuan. <30>Mendez mende...",PirateFlashback/start,98
 ,,"Molstrom, greatest among the war units,<30> rampaged.","Molstromek, gerra-unitateetan boteretsuenak,<30> bere amorrua askatu zuen.",PirateFlashback/start,133
 ,,"Built for war, he always needs something to destroy.","Borrokarako sortu zutenez, beti dabil suntsitzeko zerbaiten bila.",PirateFlashback/start,139
 ,,None could oppose him.,Ez zegoen aurre egingo zionik.,PirateFlashback/start,145
 ,,Those of us who didn't agree to follow him <20>were exterminated.,Bera ez jarraitzea erabaki zutenak <20>garbitu egin zituen.,PirateFlashback/start,151
-,,"Molstrom took us to the sky, and gave us a new name:","Molstromek zeruetara eraman ginduen, eta izen berri bat eman zigun:",PirateFlashback/start,187
+,,"Molstrom took us to the sky, and gave us a new name:","Molstromek zeruetara eraman gintuen, eta izen berri bat eman zigun:",PirateFlashback/start,187
 ,,P<3>i<3>r<3>a<3>t<3>e<3>s.,P<3>i<3>r<3>a<3>t<3>a<3>k.,PirateFlashback/start,195
 ,,"With him as our Captain, we roamed the sky, growing ever more powerful.","Bere agindupean, zeruko punta batetik bestera ibili ginen, gero eta boteretsuago eginez.",PirateFlashback/start,201
 ,,Until at last the Captain heard of the Relics.,Kapitainak Erlikien berri izan zuen arte.,PirateFlashback/start,207
@@ -3708,7 +3708,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,First of the great temples.,Tenplu handietan aurrenekoa.,Bonfire/Tropos/adventDestroyed,127
 ,,Here the owls learned how to control the<nl>elements and challenge the natural order.,"Hemen hontzek elementuak kontrolatzen ikasi zuten,<nl>eta ordena naturala desafiatzen.",Bonfire/Tropos/adventDestroyed,127
 ,,"By the end of the first aeon, they<nl>had mastered water, fire, and wind.","Lehen eonaren amaierarako, menderatuak<nl>zituzten ura, sua eta haizeari buruzko ezagutzak.",Bonfire/Tropos/adventDestroyed,127
-,,And their work here revealed to them the existence<nl>of the <b>higher mysteries<b>.,Eta hemen eginiko lanak<nl><b>misterio handiagoen<b> existentzia ezagutarazi zien.,Bonfire/Tropos/adventDestroyed,127
+,,And their work here revealed to them the existence<nl>of the <b>higher mysteries<b>.,Eta hemen eginiko lanak <b>misterio handiagoen<b><nl>existentzia ezagutarazi zien.,Bonfire/Tropos/adventDestroyed,127
 ,,So says the book of Noctae.,Hala dio Noctae liburuak.,Bonfire/Tropos/adventDestroyed,127
 ,,"Impressive recollection, Master Geddy!","Memoria bikaina zurea, Maisu Geddy!",Bonfire/Tropos/adventDestroyed,146
 ,,"Does it mean anything to you, Alphonse?","Zer ateratzen duzu hortik, Alphonse?",Bonfire/Tropos/adventDestroyed,151
@@ -4361,8 +4361,8 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,DELINQUENT!,GAIZKILEA!,default.ini,-1
 ,,EVIL DOER!,ZITALA!,default.ini,-1
 ,,MONSTROSITY!,MUNSTROKERIA!,default.ini,-1
-,,You want me to tell you about,Zeri buruz hitz egingo dugu...,default.ini,-1
-,,How about,Zeri buruz...,default.ini,-1
+,,You want me to tell you about ,Zeri buruz hitz egingo dugu... ,default.ini,-1
+,,How about ,Zeri buruz... ,default.ini,-1
 ,,Um...,Um...,default.ini,-1
 ,,Hm ...,Mm...,default.ini,-1
 ,,Your job is ...,Zure egitekoa...,default.ini,-1
