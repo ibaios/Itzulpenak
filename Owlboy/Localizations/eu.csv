@@ -103,7 +103,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,I will tell you what I know...,Dakidana kontatuko dizuet...,OtusHouse/onEnter,270
 ,,"Wait, so... <30>You're saying the pirates<nl>destroyed Advent just to get the relic?","Itxaron, orduan... <30>Esan nahi duzu Abendu erlikia bat<nl>eskuratzeko soilik suntsitu zutela?",OtusHouse/onEnter,363
 ,,"Yes, Master Geddy. <30><nl>And now, <30>only <b>one remains<b>.","Bai, Maisu Geddy. <30><nl>Eta orain, <30><b>bakarra<b> geratzen da.",OtusHouse/onEnter,368
-,,"If he gets the <15>third and <15>final Relic, <nl><30>I'm afraid Molstrom will be unstoppable.","Molstromek <15>hirugarren eta <15>azken Erlikia bereganatzen badu,<nl><30>zoritxarrez uste dut geldiezina izango dela.",OtusHouse/onEnter,373
+,,"If he gets the <15>third and <15>final Relic, <nl><30>I'm afraid Molstrom will be unstoppable.","Molstromek <15>hirugarren eta <15>azken erlikia bereganatzen badu,<nl><30>zoritxarrez uste dut geldiezina izango dela.",OtusHouse/onEnter,373
 ,,Is there nothing we can do?,Eta ezin dezakegu ezer egin?,OtusHouse/onEnter,385
 ,,"There is, but...","Bai, baina...",OtusHouse/onEnter,400
 ,,...I admit I am hesitant.,...Onartzen dut nire kezkak ditudala.,OtusHouse/onEnter,409
@@ -1391,7 +1391,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,So <20>Dirk DID get the third one<nl>out of the Floating Continent..!,"Orduan, <20>Dirkek LORTU ZUEN hirugarrengoa<nl>Kontinente Hegalarian...!",RelicRoom/findRelics,108
 ,,How are we gonna get them out!?,Nola aterako ditugu hemendik!?,RelicRoom/findRelics,113
 ,,.<20>.<20>.,.<20>.<20>.,RelicRoom/findRelics,124
-,,Let us try to break the Relics<nl>out of these cages while we can!,"Saia gaitezen Erlikiak kaiola hauetatik<nl>ateratzen, ahal dugun artean!",RelicRoom/findRelics,132
+,,Let us try to break the Relics<nl>out of these cages while we can!,"Saia gaitezen erlikiak kaiola hauetatik<nl>ateratzen, ahal dugun artean!",RelicRoom/findRelics,132
 ,,If we can make it out of the ship with <b>just one relic<b>.<20>.<20>.,"Ontzitik <b>erlikia bakarrarekin<b> bada ere, irtetea lortzen badugu.<20>.<20>.",RelicRoom/findRelics,139
 ,,"O-<30>OK, <30>but let's hurry! <30>More<nl>pirates could show up any second now!","A-<30>Ados, ongi da, <30>baina bizkor! <30>Pirata<nl>gehiago ager daitezke une batetik bestera!!",RelicRoom/findRelics,152
 ,,"Indeed, we'll need to be quick!","Jakina, ez dugu galtzeko denborarik!",RelicRoom/findRelics,178
@@ -1404,7 +1404,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,It is as I feared.,"Zoritxarrez, susmatu bezala da.",RelicRoom/findRelics,284
 ,,The cages are too heavily reinforced.,Kaiolak gogorki sendotu dituzte.,RelicRoom/findRelics,284
 ,,We will need to get <b>the key<b> from its custodian.,Irekitzeko <b>giltza<b> kendu beharko diogu jagoleari.,RelicRoom/findRelics,284
-,,And the only one who would have the<nl>keys to the Relics<30> would be<20>.<20>.<20>.,Eta Erlikiak eskuratzeko giltza<nl>izan dezakeen bakarra<30> bera da<20>.<20>.<20>.,RelicRoom/findRelics,284
+,,And the only one who would have the<nl>keys to the Relics<30> would be<20>.<20>.<20>.,Eta erlikiak eskuratzeko giltza<nl>izan dezakeen bakarra<30> bera da<20>.<20>.<20>.,RelicRoom/findRelics,284
 ,,[1]<b>Captain Molstrom himself<b>.,[1]<b>Molstrom kapitaina<b>.,RelicRoom/findRelics,300
 ,,.<20>.<20>.,.<20>.<20>.,RelicRoom/findRelics,304
 ,,Crud...,Arraioa...,RelicRoom/findRelics,313
@@ -1577,7 +1577,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,Yep!,Aja!,Penguins/mesosPenguinAfterSaved,187
 ,,Say!,Hala da!,Penguins/mesosPenguinAfterSaved,195
 ,,I'm gonna rejoin my<nl>brothers outside Buccanary's!,Buccanaryren denda kanpora<nl>noa anaiekin batzera!,Penguins/mesosPenguinAfterSaved,200
-,,Come and visit us why don't ya!,"Zatoz gu bisitatzera, ados?",Penguins/mesosPenguinAfterSaved,200
+,,Come and visit us why don't ya!,"Zatozte gu bisitatzera, ados?",Penguins/mesosPenguinAfterSaved,200
 ,,I'll see you there!,Ikusi arte!,Penguins/mesosPenguinAfterSaved,200
 ,,That...,Hori...,Penguins/mesosPenguinAfterSaved,253
 ,,...Was a very <15>weird <15>fella!,...Hori bai zela <15>tipo <15>berezia!,Penguins/mesosPenguinAfterSaved,258
@@ -1739,7 +1739,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,BUT-,BAINA-,Buccanary/item4,121
 ,,NO BUTS!,BAINAK BARATZEAN!,Buccanary/item4,145
 ,,"It's yours, sir!","Zurea duzu, jauna!",Buccanary/item4,182
-,,I'll just toss out that ugly green hat then.,"Txapen berde itsusi hori botako dut, orduan.",Buccanary/item4,203
+,,I'll just toss out that ugly green hat then.,"Txapel berde itsusi hori botako dut, orduan.",Buccanary/item4,203
 ,,Oh my! Such a hoot style!,Ama maitea! Hau bai itxura dotorea!,Buccanary/item4,255
 ,,"Haha, it's a little big.","Jaja, handiegia da.",Buccanary/item4,272
 ,,"But, it does make you look pretty awesome!",Baina itxura izugarria daukazu berekin!,Buccanary/item4,277
@@ -2638,7 +2638,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,"""The Hex Machine is beginning to take shape.""","""Konjuru-makina forma hartzen hasi da.""",Dungeon2Lava/Logs/log3,13
 ,,"""I'm not sure anyone fully understands the design<nl>anymore, but initial tests have been successful.""","""Ez dakit ziur inork ulertzen duen guztiz diseinua<nl>dagoeneko, baina hasierako probak arrakastaz burutu dira.""",Dungeon2Lava/Logs/log3,13
 ,,"""The light cradle is over capacity, and we<nl>are drawing power from the continent itself.""","""Argi-sehaska gainkargaturik dago, eta<nl>energia kontinentetik bertatik ari gara erauzten.""",Dungeon2Lava/Logs/log3,13
-,,"""We will fire up the Hex Machine within<nl>a few years, when the Relics are charged.""","""Konjuru-makina urte gutxi batzuen buruan<nl>piztuko dugu, Erlikiak kargatzen direnean.""",Dungeon2Lava/Logs/log3,13
+,,"""We will fire up the Hex Machine within<nl>a few years, when the Relics are charged.""","""Konjuru-makina urte gutxi batzuen buruan<nl>piztuko dugu, erlikiak kargatzen direnean.""",Dungeon2Lava/Logs/log3,13
 ,,"""I wish my father could have been here to see this.""","""Nire aita hau ikusteko bizirik egotea nahiko nuke.""",Dungeon2Lava/Logs/log3,13
 ,,"""Clearing out this continent has taken a<nl>while, but we can finally begin our work.""","""Kontinente hau garbitzea asko kosta zaigu,<nl>baina, azkenean, ekin diezaiokegu lanari.""",Dungeon2Lava/Logs/log1,13
 ,,"""The work from the abandoned temple has paid<nl>off, and we have been able to make the<nl>local wildlife part of the theorem solver.""","""Tenplu abandonatuko lanek eman dute<nl>beren fruitua, eta bertako basabitzitza<nl>teoriaren soluzioaren parte izatea lortu dugu.""",Dungeon2Lava/Logs/log1,13
@@ -2649,8 +2649,8 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,H-hey!,E-ei!,Dungeon2/minibossShock,174
 ,,Aw man! <30>That troublemaker got away!,"O, motel! <30>Bazter-nahasleak ihes egin du!",Dungeon2/minibossShock,207
 ,,Why does this keep happening!?,Zergatik gertatzen zait beti berdina!?,Dungeon2/minibossShock,223
-,,Hmmm. <30>That spider person...<30>doesn't seem particularly malicious.,Mmmm. <30>Armiarma-gizon horrek...<30>ez dirudi bereziki maltzurra denik.,Dungeon2/minibossShock,241
-,,I wonder if that troublemaker<nl>even knows the danger that's been caused.,Jakingo al du bazter-nahasle horrek<nl>zer arrisku sorrarazi duen?,Dungeon2/minibossShock,246
+,,Hmmm. <30>That spider person doesn't seem particularly malicious.,Mmmm. <30>Armiarma-gizon horrek ez dirudi bereziki maltzurra denik.,Dungeon2/minibossShock,241
+,,"If I were to guess, I'd say they<nl>don't know what trouble they're in.",Esango nuke ez dakiela zer nolako<nl>arriskuan dagoen ere.,Dungeon2/minibossShock,246
 ,,"Dirk, however... <30>My former comrade.","Dirk, ordea... <30>Lehen nire kamarada zena...",Dungeon2/minibossShock,262
 ,,"He trapped us in here with that, <30><b>thing<b>.","Hemen harrapaturik utzi gaitu, <30><b>gauza<b> horrekin.",Dungeon2/minibossShock,262
 ,,"The next time we meet him,<nl>I fear we might have to<10>.<10>.<10>.","Hurrengo ikusten dugun aldian,<nl>beldur naiz ez ote dugun<10>.<10>.<10>.",Dungeon2/minibossShock,278
@@ -2719,7 +2719,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,I wonder what the owls were doing in here.,Zertan ari ote ziren hontzak hemen barruan.,Dungeon2/discoverScrewComputer,129
 ,,It sounds... like the work of madness.,Horrela ikusita... erokeria dirudi.,Dungeon2/discoverScrewComputer,129
 ,,I don't want to stay in this<nl>place any longer than we have to!,Ez dut leku honetan beharrezkoa dena<nl>baino denbora gehiago egon nahi!,Dungeon2/discoverScrewComputer,142
-,,Let's just get this Relic before<nl>Dirk does and get out of here!,Eskura dezagu Erlikia hau Dirkek baino lehenago<nl>eta alde egin dezagun hemendik!,Dungeon2/discoverScrewComputer,142
+,,Let's just get this Relic before<nl>Dirk does and get out of here!,Eskura dezagun erlikia hau Dirkek baino lehenago<nl>eta alde egin dezagun hemendik!,Dungeon2/discoverScrewComputer,142
 ,,Otus! Are you alright?!,Otus! Ondo zaude?!,Dungeon2/guardianStart,64
 ,,We need to find a way out of here.,Hemendik irteteko bide bat aurkitu behar dugu.,Dungeon2/guardianStart,104
 ,,I think we're in over our heads!,Nahaste ederrean sartu garela uste dut!,Dungeon2/guardianStart,104
@@ -2739,7 +2739,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,There used to be rolling green hills here!,Hemen lehen muino berdeak genituen inguru guztian!,Mesos/TwigFamily/rudeGuyCheck,55
 ,,Now it's a frozen wasteland.,Orain basamortu izoztu bat da.,Mesos/TwigFamily/rudeGuyCheck,55
 ,,"All the more reason for Twig to stay at<nl>home, and stop with the silly adventures!","Arrazoi sobera Twig etxean gelditzeko,<nl>hor zeharko abentura txoroak alde batera utzita!",Mesos/TwigFamily/rudeGuyCheck,71
-,,We could certainly use every<nl>helping hand we can get around here!,Lor genezakeen laguntza guztia<nl>beharko dugu egoera aldatzeko!,Mesos/TwigFamily/rudeGuyCheck,71
+,,We could certainly use every<nl>helping hand we can get around here!,Lor dezakegun laguntza guztia<nl>beharko dugu egoera aldatzeko!,Mesos/TwigFamily/rudeGuyCheck,71
 ,,Tsch.,Tstx.,Mesos/TwigFamily/rudeGuyCheck,78
 ,,You want to take the shortcut to Strato?,Statora lasterbidea hartu nahi duzu?,Mesos/TwigFamily/rudeGuyCheck,99
 ,,Back for more shenanigans eh?,"Barrabaskeria gehiagorako bueltatu zara, e?",Mesos/TwigFamily/rudeGuyCheck,111
@@ -2814,7 +2814,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,I hope Twig hasn't caused<nl>too much trouble for you.,Espero dut Twigek arazo<nl>gehiegi sortu ez izana.,Mesos/TwigFamily/oldGuyCheck,47
 ,,Twig's always been a... <30>special <30>case.,Twig beti izan da... <30>kasu <30>berezia.,Mesos/TwigFamily/oldGuyCheck,47
 ,,But I'm glad some good friends turned up!,Baina pozgarria da ikustea lagun onak dituela inguruan!,Mesos/TwigFamily/oldGuyCheck,47
-,,Maybe you can recommend that Twig<nl>stay in Mesos and leave you alone?,"Akaso Twigi Mesosen gelditzeko<nl>gomenda diezaiokezu, zuekin joan beharrean?",Mesos/TwigFamily/oldGuyCheck,47
+,,Maybe you can recommend that Twig<nl>stay in Mesos and leave you alone?,"Akaso Twigi Mesosen gelditzea<nl>gomenda diezaiokezu, zurekin joan beharrean?",Mesos/TwigFamily/oldGuyCheck,47
 ,,I can hear you...,Entzun zaitzaket...,Mesos/TwigFamily/oldGuyCheck,57
 ,,"Oh, and try to tell Twig not to<nl>dress up in that silly costume.","O, eta saiatu Twig mozorro txepel<nl>hori erantz dezan konbentzitzen. ",Mesos/TwigFamily/oldGuyCheck,70
 ,,"Not to sound old-fashioned, but it<nl>D<5>O<5>E<5>S<30> shame our entire family.","Ez dut antigoalekoa naizela pentsa dezazun nahi,<nl>baina familia osoa LOTSARAZTEN du.",Mesos/TwigFamily/oldGuyCheck,70
@@ -2854,7 +2854,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,Otus?,Otus?,Mesos/loseGeddy,334
 ,,...,...,Mesos/loseGeddy,341
 ,,...Suit yourselves.,...Nahi duzuen bezala.,Mesos/loseGeddy,353
-,,But I don't have to put up with this.,Baina ez daukat zertan hau jasan beharrik.,Mesos/loseGeddy,353
+,,But I don't have to put up with this.,Baina ez daukat zertan hau jasan.,Mesos/loseGeddy,353
 ,,I'm... <60>I'm going back <30>to Vellie.,Ni... <60>Ni bueltan noa <30>Velliera.,Mesos/loseGeddy,353
 ,,<10>.<10>.<10>.,<10>.<10>.<10>.,Mesos/loseGeddy,369
 ,,Is he <30>gone?,Benetan <30>joan da?,Mesos/loseGeddy,392
@@ -2885,7 +2885,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,We won't cause any trouble.,Ez dizuegu arazorik sortuko.,Mesos/pirateBulliesFamily,61
 ,,"Good. As long as you don't cause<nl>trouble, the <b>occupation<b> will be<nl>over before you know it.","Ondo. Arazorik sortzen ez badiguzue, <b>okupazioa<b><nl>zuek uste baino lehenago amaituko da.",Mesos/pirateBulliesFamily,65
 ,,I'll be back tomorrow.,Bihar itzuliko naiz.,Mesos/pirateBulliesFamily,65
-,,That scum destroyed half our furniture.,Zabor-pilo horrek altzarien erdia suntsitu digute.,Mesos/pirateBulliesFamily,93
+,,That scum destroyed half our furniture.,Zabor-pilo horrek altzarien erdia suntsitu digu.,Mesos/pirateBulliesFamily,93
 ,,Tcheh!,Tstxe!,Mesos/pirateBulliesFamily,101
 ,,At least they didn't find the wine cellar.,Gutxienez ez dute ardandegia aurkitu!,Mesos/pirateBulliesFamily,107
 ,,Let's just get back inside<nl>before they come back.,"Goazen berriro barrura,<nl>haiek itzuli baino lehen.",Mesos/pirateBulliesFamily,118
@@ -2896,7 +2896,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,Hmmmm.,Mmmmmm.,Mesos/pirateBulliesFamily,205
 ,,Why are there pirates around here?,Zergatik daude piratak inguru honetan?,Mesos/pirateBulliesFamily,210
 ,,"We should investigate this area, but...","Zonalde hau ikertu behar dugu, baina...",Mesos/pirateBulliesFamily,215
-,,"...I do not like this, Otus.<30> If we proceed,<nl>we need to be very, <30>very <30>careful.","...itxura txarra hartzen diot honi, Otus.<30> Aurrera egitekotan,<nl>oso, <30>oso <30>kontuz ibili behar dugu.",Mesos/pirateBulliesFamily,220
+,,"...I do not like this, Otus.<30> If we proceed,<nl>we need to be very, <30>very <30>careful.","...itxura txarra hartzen diot honi, Otus.<30> Aurrera<nl>egitekotan, oso <30>oso <30>kontuz ibili behar dugu.",Mesos/pirateBulliesFamily,220
 ,,I shall stay out of sight for now.,Oraingoz ezkutatu egingo naiz.,Mesos/pirateBulliesFamily,232
 ,,"Oh, u<10>m<10>m<10>m<10>. <30>Hi.","O, u<10>m<10>m<10>m<10>m. <30>Aupa.",Mesos/TwigIsBlocked,28
 ,,"Do you think you could, <30>like,<nl><30>help me a bit over here?","Uste duzue, <30>agian,<nl><30>lagun nazakezuela?",Mesos/TwigIsBlocked,40
@@ -3123,9 +3123,9 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,Whoa! That was harsh!,Hara! Hori ez da atsegina izan!,DungeonPirate/PirateIntro/start,145
 ,,Otus! Let's teach this tin can a lesson!,Otus! Sardina-lata honek eskarmentua merezi du!,DungeonPirate/PirateIntro/start,145
 ,,"Aha, here we are!","Aja, hemen gaude!",DungeonPirate/PirateIntro/firstDoorOpen,28
-,,"If I find the lever in there, I can keep the door open for you,","Hemengo palanka aurkitzen badut, atea irekita manten dezaket zuentzat,",DungeonPirate/PirateIntro/firstDoorOpen,46
-,,But I will need to stay here to keep it open.,baina hemen egon beharra dut itxi ez dadin.,DungeonPirate/PirateIntro/firstDoorOpen,46
-,,Voila!,Voil�!,DungeonPirate/PirateIntro/firstDoorOpen,77
+,,"If I find the lever in there, I can keep the door open for you,","Hemengo palanka aurkitzen badut,<nl>atea irekita manten dezaket zuentzat,",DungeonPirate/PirateIntro/firstDoorOpen,46
+,,But I will need to stay here to keep it open.,Baina hemen egon beharra dut itxi ez dadin.,DungeonPirate/PirateIntro/firstDoorOpen,46
+,,Voila!,Voila!,DungeonPirate/PirateIntro/firstDoorOpen,77
 ,,"Go ahead, Otus, I'll meet you on the other side.","Segi aurrera, Otus, bestaldean elkartuko gara.",DungeonPirate/PirateIntro/firstDoorOpen,112
 ,,<10>.<10>.<10>.,<10>.<10>.<10>.,DungeonPirate/PirateIntro/escaped,19
 ,,"Huh, where'd you go to?","Ei, non sartu zara?",DungeonPirate/PirateIntro/escaped,38
@@ -3228,7 +3228,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,T-<20>That's right!,H-<20>Hori da!,DungeonPirate/MolstromBattle/molstrom_start,161
 ,,Ha<20>ha<20>ha<20>ha<20>ha!,Ja<20>ja<20>ja<20>ja<20>ja!,DungeonPirate/MolstromBattle/molstrom_start,172
 ,,Very well.,Ongi duk.,DungeonPirate/MolstromBattle/molstrom_start,187
-,,Hopefully you can at least entertain me<nl>until the relics are finished charging.,Espero dut behintzat Erlikiak guztiz kargatu arte<nl>entretenitu ahalko nauzuela.,DungeonPirate/MolstromBattle/molstrom_start,199
+,,Hopefully you can at least entertain me<nl>until the relics are finished charging.,Espero dut behintzat erlikiak guztiz kargatu arte<nl>entretenitu ahalko nauzuela.,DungeonPirate/MolstromBattle/molstrom_start,199
 ,,Then I will---,Eta ondoren---,DungeonPirate/MolstromBattle/molstrom_start,203
 ,,!!!,!!!,DungeonPirate/MolstromBattle/molstrom_start,224
 ,,Huh?,E?,DungeonPirate/MolstromBattle/molstrom_start,236
@@ -3250,7 +3250,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,The relics have been stolen!,Erlikiak lapurtu dituzte!,SolusEscapes/start,28
 ,,Get him!,Harrapa ezazue!,SolusEscapes/start,33
 ,,Alert the Captain!,Abisatu kapitainari!,SolusEscapes/piratesChaseHim,103
-,,Tell him <b>the Owlboy<b> has stolen the Relics!,Esaiozu <b>hontz-mutilak<b> Erlikiak ostu dituela!,SolusEscapes/piratesChaseHim,108
+,,Tell him <b>the Owlboy<b> has stolen the Relics!,Esaiozu <b>hontz-mutilak<b> erlikiak ostu dituela!,SolusEscapes/piratesChaseHim,108
 ,,.<20>.<20>.,.<20>.<20>.,MesosNarration/fallFromMothership,68
 ,,I'm glad I caught him.,Eskerrak heldu dudala.,MesosNarration/fallFromMothership,74
 ,,That was a long fall.,Erorketa luzea izango litzateke bestela.,MesosNarration/fallFromMothership,74
@@ -3716,7 +3716,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,I think perhaps I have read the book he speaks of.,Uste dut agian aipatzen duen liburu hori irakurria daukadala.,Bonfire/Tropos/adventDestroyed,158
 ,,But it's strange... It ends very abruptly.,Baina bitxia da... amaiera bat-batekoegia da.,Bonfire/Tropos/adventDestroyed,158
 ,,I seem to recall that there was<nl>more about these higher mysteries...,Gogora datorkit misterio handiago hauei<nl>buruz gehiago azaltzen zela liburuan...,Bonfire/Tropos/adventDestroyed,158
-,,I don't remember much about the Relics' origin.,Ez dut oroitzen zein zen Erlikia hauen jatorria.,Bonfire/Tropos/adventDestroyed,194
+,,I don't remember much about the Relics' origin.,Ez dut oroitzen zein zen erlikia hauen jatorria.,Bonfire/Tropos/adventDestroyed,194
 ,,"I know that they are made by the ancient owls,<nl>and that they contain extraordinary power.","Badakit antzinako hontzek sortu zituztela,<nl>eta izugarrizko boterea daukatela barruan.",Bonfire/Tropos/adventDestroyed,194
 ,,As you've seen...,Ikusi duzuen moduan...,Bonfire/Tropos/adventDestroyed,194
 ,,I would guess that <b>Dirk<b> will be the one<nl>looking for the Relic in the Floating Continent.,Suposatzen dut <b>Dirk<b> bidali dutela<nl>Kontinente Hegalariko erlikiaren bila.,Bonfire/Tropos/adventDestroyed,206
@@ -3785,7 +3785,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,"I don't know who this guy is,<nl>but I say we grab him next time!","Ez dakit nor arraio den tipo hori,<nl>baina hurrengoan harrapatu beharra daukagu!",Bonfire/Tropos/geddyBackInParty,79
 ,,I saw a guy sometimes that the<nl>pirates would call <b>the Owlboy<b>.,"Noizean behin tipo bat elkartzen zen piratekin,<nl>haiek <b>hontz-mutil<b> deitzen zutena.",Bonfire/Tropos/geddyBackInParty,108
 ,,A small guy in a robe who was giving Molstrom advice.,"Tipo txiki bat, togarekin, Molstrom aholkatzen zuena.",Bonfire/Tropos/geddyBackInParty,108
-,,I think the pirate guard said that<nl>he's the one who stole the Relics.,Uste dut pirata zaindariak esan zuela<nl>bera izan zela Erlikiak ostu zituena.,Bonfire/Tropos/geddyBackInParty,108
+,,I think the pirate guard said that<nl>he's the one who stole the Relics.,Uste dut pirata zaindariak esan zuela<nl>bera izan zela erlikiak ostu zituena.,Bonfire/Tropos/geddyBackInParty,108
 ,,"Owl boy, huh?","Hontz-mutila, e?",Bonfire/Tropos/geddyBackInParty,115
 ,,I wonder if that's just a nickname or a literal description?,Ezizena soil bat ala deskribapen zuzena ote da?,Bonfire/Tropos/geddyBackInParty,115
 ,,"Whoever it is, he has much to answer for.","Edonola ere, galdera asko ditu erantzuteko.",Bonfire/Tropos/geddyBackInParty,124
@@ -4295,14 +4295,14 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,A dorky hat. So useless!,Txano txatxu bat. Ez du ezertarako balio!,default.ini,-1
 ,,It's so nice! Increases your maximum health!,Zoragarria da! Osasun maila maximoa igotzen du!,default.ini,-1
 ,,For the most gallant! So stylish!,Jende dotoreentzat aproposa! Estiloduna!,default.ini,-1
-,,The greatest canteen! Increases your health! WOW!,Kantinplorarik txundigarriena! Osasun maila hobetzen du! HARA!,default.ini,-1
+,,The greatest canteen! Increases your health! WOW!,Kantinplorarik txundigarriena! Osasuna hobetzen du! HARA!,default.ini,-1
 ,,Attachable blaster unit. For maximum range!,Pistolaren unitate eransgarria. Helmen maximorako!,default.ini,-1
 ,,It's a head cozy!,Oso erosoa!,default.ini,-1
 ,,Attachable musket unit. For maximum fire!,Mosketearen unitate eransgarria. Indar osoz su egiteko!,default.ini,-1
 ,,Glitters of the night!,Gaueko distirak!,default.ini,-1
 ,,A scope that attaches to a gun.,Arma bati eransteko mira.,default.ini,-1
 ,,Increases the range of Geddy's pistol.,Geddyren pistolaren irismena hobetzeko.,default.ini,-1
-,,A powerful pump for flammable fuel.,Erregai suharberarentzako ponpa boteretsua.,default.ini,-1
+,,A powerful pump for flammable fuel.,Erregai suharberarentzako ponpa<nl>boteretsua.,default.ini,-1
 ,,Powers up Alphonse's shotgun blast.,Alphonseren eskopetaren potentzia<nl>areagotzen du.,default.ini,-1
 ,,"A dark, beautiful owl cloak made","Hontz-kapa ilun eder bat, armiarmen",default.ini,-1
 ,,strong spider silk.,zeta gogorrarekin egina.,default.ini,-1
