@@ -1,6 +1,6 @@
 #define MyAppName "Owlboy euskaraz"
 #define MyAppFilesystemName "Owlboy euskaraz"
-#define MyAppVersion "2.0"
+#define MyAppVersion "2.2"
 #define MyAppPublisher "ibaios.eus"
 #define MyAppGroupName "ibaios"
 #define MyAppURL "https://ibaios.eus/"

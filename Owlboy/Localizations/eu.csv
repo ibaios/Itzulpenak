@@ -142,7 +142,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,You've been asleep for so long now!,Luzaroan egon zara lotan!,OtusHouse/onEnter,711
 ,,"I want to talk about what to do next, guys.","Mutilak, gure hurrengo ekintzetaz hitz egin behar dugu.",OtusHouse/onEnter,717
 ,,"Otus, <30>Alphonse says he<nl>saw someone fly off with the Relics.","Otus, <30>Alphonsek dio norbait<nl>ikusi zuela erlikiekin hegan ihes egiten.",OtusHouse/onEnter,717
-,,Indeed. <30>And that someone went flying up <b>past Mesos<b>.,Hain zuzen ere. <30>Eta norbait hori <b>Mesos baino haratago<b> joan zen hegan.,OtusHouse/onEnter,730
+,,Indeed. <30>And that someone went flying up <b>past Mesos<b>.,Hain zuzen ere. <30>Eta norbait hori<nl><b>Mesos baino haratago<b> joan zen hegan.,OtusHouse/onEnter,730
 ,,"We haven't figured out who took the relics, yet, <30>but.<5>.<5>.","Oraindik ez dakigu nork hartu zituen erlikiak, <30>baina.<5>.<5>.",OtusHouse/onEnter,739
 ,,...But whoever took them must<nl>have been behind all of this.,"...Baina edonor dela ere,<nl>guzti honen atzean egon behar du.",OtusHouse/onEnter,748
 ,,The pirates were being fed<nl>information about the Relics.,Piratek nonbaitetik jasotzen zuten<nl>erlikiei buruzko informazioa.,OtusHouse/onEnter,748
@@ -1068,7 +1068,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,?,?,Vellie/Lab/rocketCutsceneStart,32
 ,,Otus? Why are you here?,Otus? Zer egiten duzu hemen?,Vellie/Lab/rocketCutsceneStart,44
 ,,You should evacuate!,Ebakuatzen egon behar zenuke!,Vellie/Lab/rocketCutsceneStart,44
-,,The pirates could strike at any moment!,Piratek une batetik bestera eraso dezakete!,Vellie/Lab/rocketCutsceneStart,44
+,,The pirates could strike at any moment!,Piratek une batetik bestera eraso diezagukete!,Vellie/Lab/rocketCutsceneStart,44
 ,,The Professor is right.,Irakasleak arrazoi du.,Vellie/Lab/rocketCutsceneStart,51
 ,,There's even been sights of landmasses rising.,Lur-masa gorakariak ere ikusi omen dituzte nonbait.,Vellie/Lab/rocketCutsceneStart,51
 ,,...Something isn't right with the world.,...Zerbait oker dabil mundu honetan.,Vellie/Lab/rocketCutsceneStart,51
@@ -1098,7 +1098,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,We should be able to track any<nl>landmass up there with <b>my machine<b>.,Uste dut han goian dagoen edozein lur-masa<nl>antzemateko gai izango garela <b>nire makinarekin<b>.,Vellie/Lab/rocketCutsceneStart,228
 ,,"If there's nothing to find up there,<nl>there's no reason to believe you.","Han goian ezer ikusten ez bada,<nl>ez dago zuei sinesteko arrazoirik.",Vellie/Lab/rocketCutsceneStart,228
 ,,"Alright, go ahead and check!","Ederki, egiazta dezagun ba!",Vellie/Lab/rocketCutsceneStart,239
-,,I'm pretty sure you'll find something...,Ziur naiz zerbait aukituko duzula...,Vellie/Lab/rocketCutsceneStart,244
+,,I'm pretty sure you'll find something...,Ziur naiz zerbait aurkituko duzula...,Vellie/Lab/rocketCutsceneStart,244
 ,,"Well, would you look at that!","Hara, begira honi!",Vellie/Lab/rocketCutsceneStart,281
 ,,They're right!,Zuzen dabiltza!,Vellie/Lab/rocketCutsceneStart,281
 ,,Incredible! A structure in Mesos?,Sinestezina! Egitura bat Mesosen?,Vellie/Lab/rocketCutsceneStart,287
@@ -2650,7 +2650,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,Aw man! <30>That troublemaker got away!,"O, motel! <30>Bazter-nahasleak ihes egin du!",Dungeon2/minibossShock,207
 ,,Why does this keep happening!?,Zergatik gertatzen zait beti berdina!?,Dungeon2/minibossShock,223
 ,,Hmmm. <30>That spider person doesn't seem particularly malicious.,Mmmm. <30>Armiarma-gizon horrek ez dirudi bereziki maltzurra denik.,Dungeon2/minibossShock,241
-,,"If I were to guess, I'd say they<nl>don't know what trouble they're in.",Esango nuke ez dakiela zer nolako<nl>arriskuan dagoen ere.,Dungeon2/minibossShock,246
+,,I wonder if that troublemaker<nl>even knows the danger that's been caused.,Esango nuke ez dakiela zer nolako<nl>arriskuan dagoen ere.,Dungeon2/minibossShock,246
 ,,"Dirk, however... <30>My former comrade.","Dirk, ordea... <30>Lehen nire kamarada zena...",Dungeon2/minibossShock,262
 ,,"He trapped us in here with that, <30><b>thing<b>.","Hemen harrapaturik utzi gaitu, <30><b>gauza<b> horrekin.",Dungeon2/minibossShock,262
 ,,"The next time we meet him,<nl>I fear we might have to<10>.<10>.<10>.","Hurrengo ikusten dugun aldian,<nl>beldur naiz ez ote dugun<10>.<10>.<10>.",Dungeon2/minibossShock,278
@@ -2930,17 +2930,17 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,And there's a note.,Eta ohar bat ere bai.,Mesos/BomboChest,143
 ,,...,...,Mesos/BomboChest,156
 ,,"""Dear little brother...","""Anaiatxo maitea...",Mesos/BomboChest,165
-,,"I have put your things in this<nl>chest, so they can stay with you.","Hire gauzak kutxa honetan<nl> sartu ditiat, betiko hirekin egon daitezen.",Mesos/BomboChest,165
+,,"I have put your things in this<nl>chest, so they can stay with you.","Hire gauzak kutxa honetan<nl>sartu ditiat, betiko hirekin egon daitezen.",Mesos/BomboChest,165
 ,,"The songs we wrote together,<20> and many other moments we shared.","Batera idatzitako abestiak,<20> eta partekatutako beste momentu ugari. ",Mesos/BomboChest,165
 ,,I will not be coming to see you as often anymore.,Hemendik aurrera ez haut lehen bezainbeste bisitatuko.,Mesos/BomboChest,179
 ,,I have to go somewhere warmer.,Inguru beroago batera joan behar diat.,Mesos/BomboChest,179
-,,"The colder it gets, the more I sit in this<nl>cave, thinking of how I should have found you.","Zenbat eta gehiago hoztu, orduan eta denbora gehiago ematen diat<nl>koba honetan, buruari bueltak ematen, nola ez hindudan aurkitu pentsatuz.",Mesos/BomboChest,179
+,,"The colder it gets, the more I sit in this<nl>cave, thinking of how I should have found you.","Zenbat eta gehiago hoztu, orduan eta denbora gehiago ematen diat<nl>koba honetan, buruari bueltak ematen, nola ez hintudan aurkitu pentsatuz.",Mesos/BomboChest,179
 ,,"In the cold,<30> you are all I can think of.","Hotzak inguraturik,<30> higan baino ezin diat pentsatu.",Mesos/BomboChest,189
 ,,But I promise I will not forget you.,Baina zin dagiat ez haudala inoiz ahaztuko.,Mesos/BomboChest,201
 ,,I will bring both my drums<30> and your drums with me when I go.,"Noanean, nirekin eramango ditiat nire danborrak<30> eta baita hireak ere.",Mesos/BomboChest,201
 ,,"I was never good at playing, but<nl>I still love the songs you made.","Ez nauk inoiz danborjole ona izan, baina<nl>oraindik maite ditiat hik sortutako abestiak.",Mesos/BomboChest,201
 ,,"Maybe if I can make someone smile with it,<nl>it'll feel like you're listening to me play again.","Agian, abestiokin norbait alaitzea lortzen badiat,<nl>hi ere entzuten hagoala sentituko diat.",Mesos/BomboChest,211
-,,I hope one day I will only remember you<nl>when it's warm and things are good.,"Espero diat egunen batean zutaz oroituko naizela<nl>soilik epelean, eta gauzak ondo daudenean.",Mesos/BomboChest,219
+,,I hope one day I will only remember you<nl>when it's warm and things are good.,"Espero diat egunen batean hitaz oroituko naizela<nl>soilik epelean, eta gauzak ondo daudenean.",Mesos/BomboChest,219
 ,,"And I hope you don't miss me as much as I miss you.""","Eta espero diat hik ez nauala nik hi bezainbeste faltan botako.""",Mesos/BomboChest,219
 ,,.<5>.<5>.<5>Let's put the note back in.<5>.<5>.<20> and close the chest.,.<5>.<5>.<5>Sar dezagun oharra berriro barrura.<5>.<5>.<20> eta itxi dezagun kutxa.,Mesos/BomboChest,228
 ,,.<5>.<5>.<10>Yes.,.<5>.<5>.<10>Bai.,Mesos/BomboChest,233
@@ -3360,7 +3360,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,"Give me the answers I, <20>Noctae of the owls, have always sought.","Emazkidazu nik, <20>hontzen Noctae-ak, beti bilatu ditudan erantzunak.",GoldenCoins/D2,44
 ,,"Oh man, where are we rising to?!","O, motel, nora ari gara igotzen?!",Dungeon3/Elevator/elevatorChase2,64
 ,,I think I can see the top<nl>of the tower above us.,Uste dut dorrearen goikaldea<nl>ikusten dudala.,Dungeon3/Elevator/elevatorChase2,73
-,,"If we stay on this platform, we could<nl>still make it to where Solus is hiding.","Plataforma honetan gelditzen bagara,<nl>Solus ezkutatu den lekura irits gaitezkeela.",Dungeon3/Elevator/elevatorChase2,78
+,,"If we stay on this platform, we could<nl>still make it to where Solus is hiding.","Plataforma honetan gelditzen bagara,<nl>Solus ezkutatu den lekura irits gaitezke.",Dungeon3/Elevator/elevatorChase2,78
 ,,Whoa!,Uaa!,Dungeon3/Elevator/mainElevatorChase,52
 ,,What's happening!?,Zer ari da gertatzen!?,Dungeon3/Elevator/mainElevatorChase,363
 ,,...,...,Dungeon3/Elevator/mainElevatorChase,372
@@ -3386,7 +3386,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,The Anti-Hex!,Antikonjurua!,OwlboyLibrary/start,119
 ,,You mentioned something about an Anti-Hex!,Antikonjuru bat aipatu duzu lehen!,OwlboyLibrary/start,119
 ,,This library was built to find a way to bring<nl>the planet's expansion under control and reverse it.,Liburutegi hau planetaren sakabanatzea kontrolatu<nl>eta desegiteko modua aurkitzeko eraiki zen.,OwlboyLibrary/start,126
-,,"When I found it, I learned that the owls created<nl>Relics which have been absorbing power for centuries.","Aurkitu nuenean, ikasi nuen hontzek Erlikiak sortu zituztela,<nl>eta mendeetan boterea biltzen aritu direla.",OwlboyLibrary/start,126
+,,"When I found it, I learned that the owls created<nl>Relics which have been absorbing power for centuries.","Aurkitu nuenean, ikasi nuen hontzek erlikiak sortu zituztela,<nl>eta mendeetan boterea biltzen aritu direla.",OwlboyLibrary/start,126
 ,,"Now they are ready to be used for the <b>Anti-Hex<b>,<nl>which will bring the islands back down to the ocean.","Orain <b>Antikonjuruan<b> erabiltzeko gertu daude,<nl>eta honela uharteak berriro ozeanoraino jaitsiko dira.",OwlboyLibrary/start,126
 ,,THAT is what I'm preparing.,HORI da prestatzen ari naizena.,OwlboyLibrary/start,140
 ,,An Anti-Hex to save the world!,Mundua salbatzeko Antikonjuru bat!,OwlboyLibrary/start,140
@@ -3399,7 +3399,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,!!!,!!!,OwlboyLibrary/start,182
 ,,<20>I-<40>I didn't!,<20>E-<40>Ez nuen halakorik egin!,OwlboyLibrary/start,191
 ,,I got the pirates to help me by promising them power!,"Piratek laguntza ematea lortu nuen, trukean boterea hitzemanez.",OwlboyLibrary/start,191
-,,"...Tricking the pirates led to the destruction of Advent, Solus.","...Piratak engainatzeak ekarri zuen Abenduren suntsiketa, Solus.",OwlboyLibrary/start,200
+,,"...Tricking the pirates led to the destruction of Advent, Solus.","...Piratak engainatzeak ekarri zuen<nl>Abenduren suntsiketa, Solus.",OwlboyLibrary/start,200
 ,,I... just<10>.<10>.<10>.,Nik... soilik<10>.<10>.<10>.,OwlboyLibrary/start,220
 ,,I didn't know of anyone<20> who I could trust...,Ez nuen<20> konfiantzazko inor ezagutzen...,OwlboyLibrary/start,220
 ,,.<10>.<10>.<10>,.<10>.<10>.<10>,OwlboyLibrary/start,220
@@ -3552,7 +3552,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,And the planet was reduced to a giant empty ocean.,Eta planeta ozeano huts erraldoi bat bilakatu zen.,EndOfTheWorld/endOfWorld,50
 ,,OWLBOY!,HONTZ-MUTIL!,DreadnoughtCharge/start,23
 ,,YOU TRAITOR!,TRAIDORE HORI!,DreadnoughtCharge/start,28
-,,I'M COMING FOR YOU!,ZURE BILA NOA!,DreadnoughtCharge/start,33
+,,I'M COMING FOR YOU!,HIRE BILA NOAK!,DreadnoughtCharge/start,33
 ,,"Hi there, young'un!","Kaixo, gazte!",VellieDream/tobyCheck,8
 ,,Want to join me in the hot spring?,Iturri termalean konpainia egingo didak?,VellieDream/tobyCheck,8
 ,,"No? <40>You're a hard worker, Otus.","Ez? <40>Langile fina haiz, Otus.",VellieDream/tobyCheck,8
@@ -3766,7 +3766,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,Let's continue our journey tomorrow<nl>shall we? <30>We should get some rest.,"Bihar berrekingo diogu bidaiari,<nl>ados? <30>Atseden hartu behar dugu.",Bonfire/Tropos/adventDestroyed,450
 ,,"So is there anything in particular<nl>you want to talk about, Otus?","Gai jakinen bati buruz<nl>hitz egin nahi duzu, Otus?",Bonfire/Tropos/geddyBackInParty,12
 ,,Anything else you want to talk about?,Beste ezeri buruz hitz egin nahi?,Bonfire/Tropos/geddyBackInParty,25
-,,"Let's see, what was it that guy said this time?","Ikustagun, zer esan du tipo hark oraingoaz?",Bonfire/Tropos/geddyBackInParty,51
+,,"Let's see, what was it that guy said this time?","Ikustagun, zer esan du tipo hark oraingoan?",Bonfire/Tropos/geddyBackInParty,51
 ,,I think it was...,Uste dut esan duela...,Bonfire/Tropos/geddyBackInParty,51
 ,,The Floating Continent.,Kontinente Hegalaria.,Bonfire/Tropos/geddyBackInParty,51
 ,,Greatest of the owl homes.,Hontzen aberrietan handiena.,Bonfire/Tropos/geddyBackInParty,51
@@ -3787,7 +3787,7 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,A small guy in a robe who was giving Molstrom advice.,"Tipo txiki bat, togarekin, Molstrom aholkatzen zuena.",Bonfire/Tropos/geddyBackInParty,108
 ,,I think the pirate guard said that<nl>he's the one who stole the Relics.,Uste dut pirata zaindariak esan zuela<nl>bera izan zela erlikiak ostu zituena.,Bonfire/Tropos/geddyBackInParty,108
 ,,"Owl boy, huh?","Hontz-mutila, e?",Bonfire/Tropos/geddyBackInParty,115
-,,I wonder if that's just a nickname or a literal description?,Ezizena soil bat ala deskribapen zuzena ote da?,Bonfire/Tropos/geddyBackInParty,115
+,,I wonder if that's just a nickname or a literal description?,Ezizen soil bat ala deskribapen zuzena ote da?,Bonfire/Tropos/geddyBackInParty,115
 ,,"Whoever it is, he has much to answer for.","Edonola ere, galdera asko ditu erantzuteko.",Bonfire/Tropos/geddyBackInParty,124
 ,,"Well, we need to find a way up above Mesos...","Tira, Mesos baino gorago igotzeko moduren bat aurkitu behar dugu.",Bonfire/Tropos/geddyBackInParty,145
 ,,"We'll just have to look<nl>for someone who knows how, I think.",Hori nola egin dakien norbaiten<nl>laguntza bilatu beharko dugu.,Bonfire/Tropos/geddyBackInParty,145
@@ -4361,8 +4361,8 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,DELINQUENT!,GAIZKILEA!,default.ini,-1
 ,,EVIL DOER!,ZITALA!,default.ini,-1
 ,,MONSTROSITY!,MUNSTROKERIA!,default.ini,-1
-,,You want me to tell you about ,Zeri buruz hitz egingo dugu... ,default.ini,-1
-,,How about ,Zeri buruz... ,default.ini,-1
+,,You want me to tell you about,Zeri buruz hitz egingo dugu...,default.ini,-1
+,,How about,Zeri buruz...,default.ini,-1
 ,,Um...,Um...,default.ini,-1
 ,,Hm ...,Mm...,default.ini,-1
 ,,Your job is ...,Zure egitekoa...,default.ini,-1
@@ -4473,8 +4473,8 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,We just need to hang on!,Eutsi beharra dugu!,default.ini,-1
 ,,"The tower's up ahead, Otus!","Dorrea goraxeago dago, Otus!",default.ini,-1
 ,,Teleport us to you when it's safe!,Telegarraia gaitzazu segurua izatean!,default.ini,-1
-,,You've collected ,Hara! ,default.ini,-1
-,, Buccanary Coins!, Buccanary txanpon bildu dituzu!,default.ini,-1
+,,You've collected,Hara!,default.ini,-1
+,,Buccanary Coins!,Buccanary txanpon bildu dituzu!,default.ini,-1
 ,,Teleporter device,Telegarraiatzailea,default.ini,-1
 ,,Allows you to teleport friends to<nl>your side.<nl><nl>,Lagunak zure albora telegarraiatzea<nl>ahalbidetzen du.<nl><nl>,default.ini,-1
 ,,Seems to have been made by the<nl>ancient owls.,Antzinako hontzek sortua dirudi.,default.ini,-1
@@ -4501,8 +4501,8 @@ Context (stripped away),Speaker,English,Translation,File name,Line number
 ,,grapple-(hold),itsatsi (mantendu),default.ini,-1
 ,,web,amarauna,default.ini,-1
 ,,lighter (hold),pizgailua (mantendu),default.ini,-1
-,,<nl>Collect ,<nl>Bil itzazu ,default.ini,-1
-,, more coins for a surprise!, txanpon gehiago ezusteko baterako!,default.ini,-1
+,,<nl>Collect,<nl>Bil itzazu,default.ini,-1
+,,more coins for a surprise!,txanpon gehiago ezusteko baterako!,default.ini,-1
 ,,select,hautatu,default.ini,-1
 ,,skip,saltatu,default.ini,-1
 ,,launch,jaurti,default.ini,-1
